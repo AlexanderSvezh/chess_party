@@ -1,0 +1,32 @@
+[GameNr "285"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "nahuelsandoval"]
+[RedElo "1664"]
+[Blue "salata"]
+[BlueElo "2729"]
+[Yellow "Hamsel2017"]
+[YellowElo "1618"]
+[Green "Antruni"]
+[GreenElo "1856"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:58:26 GMT+0000 (UTC)"]
+[CurrentMove "63"]
+
+1. h2-h3 .. b6-d6 .. h13-h11 .. m9-l9
+2. e2-e3 .. Qa7-b6 .. h11-h10 .. m8-k8
+3. Bf1-e2 .. Qb6-f10 .. Qh14-h12 .. Qn8xi13
+4. Qg1-i3 .. Qf10xQh12 .. g13xQh12 .. Qi13-l10
+5. Bi1xd6 .. Na10-c9 .. e13-e12 .. m5-l5
+6. Ne1-f3 .. b7-c7 .. Bf14-e13 .. Ql10-j10
+7. Nf3-d4 .. Ba6xBi14 .. Ne14-f12 .. Bn6xj2
+8. Qi3xBi14 .. Na5-c6 .. O-O .. Bj2xRk1
+9. Be2xb5 .. Nc6xNd4 .. Nj14-i12 .. Qj10xNj1+
+10. Kh1-h2 .. Nd4-f3+ .. Ni12-g11 .. Qj1-j4+
+11. Kh2-g3 .. Nf3-d4 .. Nf12-d11 .. Qj4-j6+
+12. Kg3-h2 .. Nd4xBb5 .. Nd11xb10+ .. Qj6xBd6+
+13. g2-g3 .. Ba9xNb10 .. Be13xBb10 .. Qd6-l6+
+14. Kh2-g2 .. Ra11-a10 .. Bb10-e13 .. Bk1-d8
+15. Rd1-j1 .. Ra10xh10 .. Ng11-i12 .. k8-j8
+16. Rj1-j6 .. Rh10xh3 .. T

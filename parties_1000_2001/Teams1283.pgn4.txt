@@ -1,0 +1,35 @@
+[GameNr "1283"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "cakerules310"]
+[RedElo "1453"]
+[Blue "multicratic"]
+[BlueElo "1373"]
+[Yellow "Demonbot999"]
+[YellowElo "1449"]
+[Green "Darkl1853"]
+[GreenElo "1517"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:40:14 GMT+0000 (UTC)"]
+[CurrentMove "76"]
+
+1. h2-h3 .. b7-d7 .. g13-g11 .. m7-k7
+2. Bi1xb8 .. Ba9xBb8 .. Bf14-g13 .. Bn6-m7
+3. i2-i3 .. Qa7-c7 .. Bg13xBb8 .. Bm7xi3
+4. j2xBi3 .. Qc7xBb8 .. Qh14xQb8+ .. Nn5-l4
+5. Qg1-h2 .. Na10xQb8 .. h13-h12 .. Nl4-j5
+6. g2-g3 .. d7-e7 .. Bi14xBa6 .. m4-k4
+7. Bf1-g2+ .. Ka8-a7 .. Ba6-e10 .. k4-j4
+8. i3xj4 .. Nb8-c10 .. Be10xNj5 .. Rn4xj4
+9. Qh2-i3 .. Nc10-e9 .. Bj5-k4 .. Rj4xNj1+
+10. Rk1xRj1 .. Ne9-f7 .. Bk4xm6+ .. Kn7xBm6
+11. Rj1-j6+ .. Nf7-h8 .. Nj14-i12 .. Km6-n7
+12. Qi3-j3+ .. Na5-c6 .. Ni12-j10 .. Kn7-m7
+13. Qj3-j4+ .. Nc6-e5 .. Nj10-i8 .. Km7-n7
+14. Qj4xQn8+ .. Ne5-g6 .. Ni8xk7 .. Kn7xQn8
+15. Rj6-n6+ .. Ng6-i7 .. Nk7xm8 .. Kn8xNm8
+16. h3-h4+ .. Ni7-k8 .. O-O-O .. Km8-m7
+17. Rn6xBn9 .. Nk8-l10 .. h12-h11 .. Nn10-m8
+18. Rn9xRn11 .. Nl10xRn11 .. Rh14-h12 .. Nm8-l10
+19. Ne1-f3 .. Nh8-j9 .. Rh12-e12 .. T

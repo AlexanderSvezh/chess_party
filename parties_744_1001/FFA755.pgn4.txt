@@ -1,0 +1,44 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "755"]
+[Result "zserbo0314: 53 - josipjs: 7 - morokabi: 35 - Noril4anin: 14"]
+[Variant "FFA"]
+[Red "zserbo0314"]
+[RedElo "1861"]
+[Blue "josipjs"]
+[BlueElo "1820"]
+[Yellow "morokabi"]
+[YellowElo "1839"]
+[Green "Noril4anin"]
+[GreenElo "1836"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:06:35 GMT+0000 (UTC)"]
+[CurrentMove "104"]
+
+1. f2-f4 .. b8-d8 .. h13-h11 .. m10-l10
+2. f4-f5 .. b5-c5 .. h11-h10 .. Bn9-m10
+3. Ne1-f3 .. b6-d6 .. h10-h9 .. m5-l5
+4. d2-d3 .. Na5-c6 .. h9-h8 .. Bn6-m5
+5. g2-g4 .. b7-d7 .. Nj14-i12 .. Bm10-l9
+6. e2-e4 .. b9-d9 .. h8-h7=D .. m11-l11
+7. Nj1-i3 .. Na10-c9 .. Qh7-h12 .. Nn5-l6
+8. k2-k3 .. Ba9-b8 .. Ne14-f12 .. O-O
+9. j2-j3 .. Ba6-c8 .. e13-e12 .. l11-k11
+10. Bi1-j2 .. O-O .. k13-k12 .. k11-j11
+11. O-O .. Nc9-e10 .. k12xj11 .. Rn11xj11
+12. Bf1-e2 .. Ne10xNf12+ .. g13xNf12 .. m4-l4
+13. g4-g5 .. d7-e7 .. Bf14-e13 .. l4xk3
+14. Bj2-k1 .. e7-f7 .. O-O .. Nl6-k4
+15. Ni3xNk4 .. d8-e8 .. Ni12-h10 .. l5xNk4
+16. Kj1-k2 .. Nc6-d4 .. Nh10xRj11 .. Bl9xNj11
+17. Nf3xNd4 .. c5xNd4 .. i13-i12 .. Bj11-l9
+18. Be2xBl9 .. d6-e6 .. j13-j11 .. Nn10xBl9
+19. f5-f6 .. e8-f8 .. Bi14-g12 .. k4xj3
+20. i2xj3 .. Qa7-c5 .. Qh14-j12 .. m7-l7
+21. Bk1-i3 .. Ra4-a7 .. Qh12-h10 .. m6-l6
+22. Qg1-g4 .. b10-c10 .. f12-f11 .. Nl9-m7
+23. Rd1-f1 .. d9-e9 .. Rk14-k5 .. Nm7-k6
+24. Qg4-m4+ .. Qc5-b5 .. Rk5xBm5+#
+25. Qm4-g4 .. Qb5xd3 .. Qj12xl10
+26. Rf1-f3 .. Qd3-a6 .. Qh10xc10+
+27. Qg4xe6 .. T .. T

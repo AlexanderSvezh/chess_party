@@ -1,0 +1,45 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "358"]
+[Result "aleksandarmitrevski: 71 - caillou_yt: 5 - Tazzmaniandevil: 38 - Taking_It_Easy: 20"]
+[Variant "FFA"]
+[Red "aleksandarmitrevski"]
+[RedElo "1658"]
+[Blue "caillou_yt"]
+[BlueElo "1484"]
+[Yellow "Tazzmaniandevil"]
+[YellowElo "1703"]
+[Green "Taking_It_Easy"]
+[GreenElo "1725"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:20:16 GMT+0000 (UTC)"]
+[CurrentMove "100"]
+
+1. j2-j3 .. b7-d7 .. i13-i11 .. m8-k8
+2. Bi1-j2 .. d7-e7 .. i11-i10 .. k8-j8
+3. Nj1-i3 .. e7-f7 .. g13-g12 .. j8-i8
+4. O-O .. f7-g7 .. h13-h11 .. i8-h8
+5. h2-h4 .. g7-h7=D .. Bi14-h13+ .. m9-l9
+6. Ri1-h1 .. Qa7-f7 .. Ne14-f12 .. Bn9xg2+
+7. Bf1xBg2+ .. Ba6-b7 .. Qh14xQn8+ .. Kn7xQn8
+8. Ne1-f3 .. Qh7xh8+ .. Bf14-h12 .. Nn10-m8
+9. d2-d4 .. Qf7-f8 .. Nj14-i12 .. Nn5-l6
+10. d4-d5 .. Na5-c4 .. O-O .. m4-l4
+11. e2-e4 .. b8-c8 .. h11-h10 .. m7-l7
+12. Nf3-d4 .. Qh8-j8 .. Bh12xBn6 .. Rn4xBn6
+13. Nd4xb5 .. Qf8xNf12 .. e13xQf12 .. l9-k9
+14. Nb5-d4 .. Qj8-e8+ .. Ke14-d14 .. k9-j9
+15. Qg1-f1 .. b10-c10 .. Rf14-e14 .. j9-i9
+16. Qf1xNc4 .. Qe8xe4 .. h10xi9 .. m11-k11
+17. Bg2xQe4 .. R .. Re14xBe4 .. k11-j11
+18. Qc4xc8 .. Ni12-h10 .. j11xi10
+19. Qc8xKa8 .. i9-i8 .. Rn11-d11
+20. Nd4-f5 .. i8-i7=D .. Rd11xd13+
+21. Ni3-h5 .. Kd14xRd13 .. m10-k10
+22. Nh5xQi7 .. Re4-e11 .. Kn8-m7
+23. d5-d6 .. Kd13-e13 .. Rn6-n9
+24. d6-d7 .. Bh13xk10 .. Rn9-d9
+25. Nf5-g7 .. Rk14-i14 .. Rd9-i9
+26. d7-d8=D .. Bk10xNm8 .. Ri9xNi7
+27. Ng7-h5 .. Bm8-h13 .. Ri7-i9
+28. Qd8-n8+# .. R

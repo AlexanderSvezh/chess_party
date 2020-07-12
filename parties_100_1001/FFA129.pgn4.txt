@@ -1,0 +1,53 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "129"]
+[Result "Dzibanche: 5 - drenkastrati: 28 - kawdhKUGCLI: 2 - snlam: 62"]
+[Variant "FFA"]
+[Red "Dzibanche"]
+[RedElo "1532"]
+[Blue "drenkastrati"]
+[BlueElo "1500"]
+[Yellow "kawdhKUGCLI"]
+[YellowElo "1694"]
+[Green "snlam"]
+[GreenElo "1646"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:19:24 GMT+0000 (UTC)"]
+[CurrentMove "107"]
+
+1. h2-h4 .. b5-c5 .. h13-h11 .. m8-k8
+2. Nj1-i3 .. b10-c10 .. Nj14-i12 .. k8-j8
+3. g2-g4 .. Ba9-b10 .. h11-h10 .. j8-i8
+4. Qg1-g3 .. Na10-c9 .. j13-j12 .. Bn9xBf1
+5. Ne1-g2 .. O-O .. Bi14xm10 .. Bf1xNg2+
+6. Ni3xBg2 .. Ba6-b5 .. Bm10-j13 .. i8-h8
+7. O-O-O .. Na5-c4 .. h10-h9 .. h8-g8=D
+8. Ng2-e3 .. Nc4xd2+ .. h9xQg8 .. Qn8xg8
+9. Kf1-e1 .. Nd2-c4 .. Qh14-h13 .. Nn10-m8
+10. j2-j3 .. b8-c8 .. Ne14-f12 .. Nn5-l6
+11. Ne3-d5 .. b6-c6 .. d13-d12 .. m9-k9
+12. R .. c6xNd5 .. g13-g12 .. k9-j9
+13. Bb5-c6 .. Ni12-h10 .. Qg8xg4
+14. Bc6xBj13 .. Rk14-j14 .. j9-i9
+15. Bj13-b5 .. Nh10-j11 .. Qg4xe2
+16. Qa7-a6 .. g12-g11 .. Rn11-n9
+17. d5-e5 .. Qh13-i14 .. Kn7-n8
+18. Qa6-b6 .. g11-g10 .. Qe2xKe1
+19. b7-d7 .. Bf14-h12 .. Qe1-e4
+20. Qb6-k6 .. k13-k11 .. Qe4-j9
+21. d7-e7 .. Qi14-h13 .. m7-l7
+22. Qk6-h9 .. O-O .. Bn6xBh12
+23. Bb5xg10 .. T .. l7-k7
+24. Bg10-d13 .. Bh12-l8
+25. Bd13xKe14 .. k7-j7
+26. Qh9-e6 .. i9-h9
+27. Be14-d13 .. h9-g9=D
+28. Nc9-e10 .. Qg9-e9
+29. Ne10-c11 .. j7-i7
+30. Qe6-f5 .. Bl8-i5
+31. Qf5-f6 .. i7-h7
+32. Qf6-k6 .. Qe9xNc11
+33. Qk6-k5 .. Qc11xBb10+
+34. Ka10xQb10 .. Qj9-c9+
+35. Kb10-a10 .. Bi5-c11
+36. Qk5-e11 .. Qc9-b10+#

@@ -1,0 +1,31 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "446"]
+[Result "PAOLA_SH: 10 - KZ2008: 8 - 1314nenon: 5 - Beast26: 70"]
+[Variant "FFA"]
+[Red "PAOLA_SH"]
+[RedElo "1549"]
+[Blue "KZ2008"]
+[BlueElo "1485"]
+[Yellow "1314nenon"]
+[YellowElo "1495"]
+[Green "Beast26"]
+[GreenElo "1751"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:36:40 GMT+0000 (UTC)"]
+[CurrentMove "47"]
+
+1. g2-g4 .. b7-d7 .. g13-g11 .. m5-l5
+2. g4-g5 .. Ba6-b7+ .. Bf14-i11 .. Bn6-m5
+3. Bf1-g2 .. Bb7xBg2+ .. h13-h12 .. m8-l8
+4. Qg1xBg2+ .. Na5-c6 .. Ne14-f12 .. Bn9xQg2+
+5. Kh1xBg2 .. b8-c8 .. O-O .. Qn8-n9+
+6. Kg2-h1 .. Qa7-b7 .. Nj14-i12 .. Qn9-f1+#
+7. Ba9-b8 .. Qh14-g14 .. m7-k7
+8. Bb8xNf12 .. e13xBf12 .. Nn5-m7
+9. d7-e7 .. Qg14-g12 .. O-O
+10. e7-f7 .. Ke14-d14 .. Nn10-l9
+11. f7-g7 .. Qg12-h11 .. Nl9-j8
+12. Na10-c9 .. Bi14-f11 .. Qf1xe2
+13. Qb7-f7 .. Bf11-e12 .. Qe2xb5
+14. R .. R

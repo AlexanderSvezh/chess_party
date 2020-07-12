@@ -1,0 +1,50 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1220"]
+[Result "Orioles10: 3 - Yelbir: 52 - LYM9: 3 - stanislavnoskov: 33"]
+[Variant "FFA"]
+[Red "Orioles10"]
+[RedElo "1487"]
+[Blue "Yelbir"]
+[BlueElo "1500"]
+[Yellow "LYM9"]
+[YellowElo "1669"]
+[Green "stanislavnoskov"]
+[GreenElo "1741"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:21:06 GMT+0000 (UTC)"]
+[CurrentMove "93"]
+
+1. j2-j4 .. b8-d8 .. h13-h11 .. m8-k8
+2. e2-e4 .. b7-c7 .. h11-h10 .. k8-j8
+3. Bf1-e2 .. Na10-c9 .. h10-h9 .. m4-l4
+4. Bi1-j2 .. d8-e8 .. h9-h8 .. j8-i8
+5. Bj2xNc9 .. Qa7xBc9 .. i13-i12 .. m5-l5
+6. Nj1-i3 .. Na5-b7 .. Ne14-f12 .. Bn6-m5
+7. O-O .. Ba9-b8 .. g13-g11 .. Bm5xg11
+8. Ni3-j5 .. Qc9-e7 .. Bf14-g13 .. Bn9xNj5
+9. i2-i4 .. Bb8-c9 .. O-O .. Bj5-n9
+10. Be2-g4 .. Qe7-j2+# .. Rf14-g14 .. Bg11-m5
+11. Qj2-e7 .. Bi14-h13 .. Nn10-l9
+12. e8-f8 .. i12-i11 .. Nn5-l6
+13. O-O .. i11-i10 .. O-O
+14. b4-d4 .. i10-i9 .. l4-k4
+15. Ra4-c4 .. Nj14-i12 .. Bn9xi4
+16. b10-c10 .. Ni12-j10 .. Nl9xNj10
+17. Rc4-c5 .. Bg13xNj10 .. Nl6-k8
+18. Rc5-e5 .. Bj10-i11 .. Nk8xi9
+19. Qe7xe13+# .. m7-k7
+20. Qe13-e12 .. k7-j7
+21. c7-d7 .. Qn8xj4
+22. d7-e7 .. Qj4-j6
+23. b6-d6 .. k4-j4
+24. Qe12-e10 .. m10-l10
+25. b5-c5 .. Qj6xh8
+26. d6-e6 .. Bm5xRi1
+27. e6-f6 .. Bi1xh2
+28. Re5-d5 .. Bh2xRa9
+29. Ka10xBa9 .. Bi4-f7
+30. Rd5-g5 .. Ni9-h7
+31. Rg5-j5 .. Nh7-i9
+32. Rj5xj4 .. Qh8-h2+
+33. R

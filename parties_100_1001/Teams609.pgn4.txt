@@ -1,0 +1,19 @@
+[GameNr "609"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "alyeasin93"]
+[RedElo "2601"]
+[Blue "Snapture"]
+[BlueElo "1551"]
+[Yellow "Dewan122157"]
+[YellowElo "925"]
+[Green "Don_Hector_Salamanca"]
+[GreenElo "1543"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:16:33 GMT+0000 (UTC)"]
+[CurrentMove "10"]
+
+1. h2-h3 .. b6-c6 .. h13-h12 .. m9-l9
+2. Qg1-h2 .. Qa7xf2 .. Bi14xb7+ .. Qn8-m9
+3. Qh2xb8+ .. #

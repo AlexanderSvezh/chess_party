@@ -1,0 +1,20 @@
+[GameNr "496"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Great-Gazoo"]
+[RedElo "1381"]
+[Blue "ermis8992"]
+[BlueElo "2025"]
+[Yellow "Antruni"]
+[YellowElo "1834"]
+[Green "dust47"]
+[GreenElo "2236"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:48:49 GMT+0000 (UTC)"]
+[CurrentMove "13"]
+
+1. h2-h3 .. b6-d6 .. g13-g12 .. Nn5-l6
+2. Qg1xNl6 .. Qa7xf2 .. Bf14xm7 .. Bn6xBm7
+3. Ql6xBm7+ .. Qf2xBf1+ .. Qh14-g13 .. Qn8xQm7
+4. #

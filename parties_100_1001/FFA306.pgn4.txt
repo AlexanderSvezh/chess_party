@@ -1,0 +1,65 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "306"]
+[Result "SMARTandHANDSOME2018: 3 - ignoble: 54 - chessengineer81: 90 - NotveryD33pBlue: 33"]
+[Variant "FFA"]
+[Red "SMARTandHANDSOME2018"]
+[RedElo "1527"]
+[Blue "ignoble"]
+[BlueElo "1639"]
+[Yellow "chessengineer81"]
+[YellowElo "1691"]
+[Green "NotveryD33pBlue"]
+[GreenElo "1710"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:14:07 GMT+0000 (UTC)"]
+[CurrentMove "146"]
+
+1. e2-e4 .. b7-d7 .. e13-e12 .. m5-l5
+2. e4-e5 .. d7-e7 .. Bf14-e13 .. Nn5-l6
+3. e5-e6 .. b8-d8 .. Nj14-i12 .. Bn6-m5
+4. Bf1xb5 .. Ba6xBb5 .. Be13-f12 .. O-O
+5. f2-f3 .. b9-c9 .. g13-g12 .. Nn10-l9
+6. Qg1xb6 .. Qa7xQb6 .. h13-h11 .. m8-k8
+7. Ne1-d3 .. Bb5xNd3 .. Bf12-e13 .. Qn8-m8
+8. Rd1-f1 .. Bd3xRf1 .. Bi14-h13 .. k8-j8
+9. k2-k4 .. Qb6xe6 .. Ni12-k11 .. l5xk4
+10. Rk1xk4 .. Qe6-e1 .. Nk11xNl9 .. Qm8xg2+#
+11. Bf1xQg2 .. Nl9xm7+ .. Kn5-n4
+12. Qe1xm9 .. Nm7xBn9 .. j8-i8
+13. Qm9xm10 .. Nn9xm11 .. Rn11-n7
+14. Qm10xNm11 .. Ne14-g13 .. Rn7-n8
+15. Qm11-i7 .. O-O .. i8-h8
+16. Qi7-e3 .. i13-i11 .. h8-g8=D
+17. Bg2xf3 .. i11-i10 .. Qg8-g3
+18. Na5-c6 .. j13-j11 .. Qg3-j6
+19. Ba9-f4 .. k13-k11 .. Nl6-j7
+20. Na10-b8 .. j11-j10 .. m6-k6
+21. O-O .. i10-i9 .. Nj7-l8
+22. e7-f7 .. h11-h10 .. Nl8-k10
+23. f7-g7 .. Bh13xNk10 .. Rn8-g8
+24. Ra4-a7 .. Qh14-i13 .. Rn6-n7
+25. Bf3-e4 .. Bk10xBe4 .. Rn7xg7
+26. Qe3xBe4 .. k11-k10 .. Rg7-g4
+27. Ra7-e7 .. j10-j9 .. Qj6-h4
+28. Re7-f7 .. j9-j8 .. m4-l4
+29. Nc6-e5 .. Qi13-n8+ .. Kn4-m4
+30. Ne5xRg4 .. k10-k9 .. Qh4xNg4+
+31. Ka10-a11 .. k9-k8 .. Qg4-g6
+32. Qe4-e7 .. k8-k7=D .. Qg6xRf7
+33. Qe7xQf7 .. Qk7xQf7 .. Rg8xg12
+34. Bf4-d6 .. f13xRg12 .. Bm5xj8
+35. Nb8-c6 .. i9xBj8 .. Km4-l5
+36. Ra9-a7 .. Qf7xRa7+ .. Kl5xRk4
+37. Nc6xQa7 .. Qn8-n7+ .. Kk4-k3
+38. Na7-c8 .. Rf14-f10 .. l4-k4
+39. b4-d4 .. Be13xb10+ .. k4-j4
+40. Nc8xBb10 .. Qn7-a7+ .. j4-i4
+41. Bd6-a9 .. Qa7xBa9+# .. i4-h4
+42. Rf10-f4 .. Kk3-j3
+43. Rf4xh4 .. Kj3xj2
+44. Qa9-g3 .. Kj2xBi1
+45. Qg3xh2+ .. Ki1-j2
+46. Qh2-j4+ .. Kj2xi2
+47. Rk14xk6 .. Ki2-i1
+48. Rk6-i6+#

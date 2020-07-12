@@ -1,0 +1,62 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "11"]
+[Result "chynotaw: 100 - NotteSerena: 29 - ARDINALGIANCARLO: 15 - mbaruzzu: 1"]
+[Variant "FFA"]
+[Red "chynotaw"]
+[RedElo "1579"]
+[Blue "NotteSerena"]
+[BlueElo "1580"]
+[Yellow "ARDINALGIANCARLO"]
+[YellowElo "1769"]
+[Green "mbaruzzu"]
+[GreenElo "1582"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 16:38:56 GMT+0000 (UTC)"]
+[CurrentMove "116"]
+
+1. g2-g4 .. b8-d8 .. e13-e12 .. m8-k8
+2. g4-g5 .. b11-c11 .. Bf14-e13 .. k8-j8
+3. g5-g6 .. d8-e8 .. k13-k11 .. m7-k7
+4. g6-g7 .. b9-d9 .. Ne14-f12 .. m6-l6
+5. g7-g8=D .. b6-d6 .. h13-h11 .. m10-k10
+6. Qg8-g4 .. b4-c4 .. Nj14-i12 .. m9-l9
+7. Bf1-h3 .. Qa7-b8 .. Ni12-j10 .. Bn9-m10
+8. Ne1-f3 .. b5-d5 .. i13-i11 .. Qn8-m9
+9. Qg4xNa10 .. Ra11xQa10 .. i11-i10 .. l9-k9
+10. Bh3xRa10 .. d5-e5 .. Nj10-k12 .. Qm9xk11
+11. Qg1-g2 .. c4-d4 .. Qh14xQk11 .. Nn10-l9
+12. d2-d3 .. d9-e9 .. Qk11xk10 .. m11-l11
+13. O-O-O .. d4-e4 .. Qk10xBm10 .. T
+14. Qg2xg13+# .. e4xNf3
+15. Ba10-h3 .. Qb8-c7
+16. Bh3-m8 .. Qc7xk7
+17. Rg1-g7 .. Qk7-j6
+18. Bm8xKn7 .. Ra4-g4
+19. Rg7xRg4 .. f3xRg4
+20. Qg13xg4 .. Qj6-k6+
+21. h2-h3 .. e8-f8
+22. Bn7-j3 .. Qk6-k7
+23. Bj3-c10+ .. Ka8-b8
+24. Qg4-b9+ .. Kb8-c7
+25. Qb9xBa9+ .. Kc7-b6
+26. Qa9xe9+ .. Qk7-c7
+27. Qe9xQc7+ .. Kb6xQc7
+28. Bc10-f7 .. Na5-c6
+29. j2-j3 .. Nc6-d8
+30. Bf7-g8 .. Kc7-c6
+31. Bi1-k3 .. Nd8-e10
+32. Bg8xNe10 .. b7-c7
+33. Bk3xf8 .. Ba6xBe10
+34. Nj1-i3 .. e5-f5
+35. Rk1-g1 .. d6-e6
+36. Ni3-h5 .. Be10-d9
+37. Nh5-f6 .. Bd9xj3
+38. k2xBj3 .. c7-d7
+39. h3-h4 .. Kc6-c7
+40. i2-i4 .. Kc7-d8
+41. i4-i5 .. d7-e7
+42. Bf8xe7+ .. Kd8xBe7
+43. Nf6-g8+ .. Ke7-f7
+44. Ng8-h6+ .. Kf7-f6
+45. i5-i6 .. R

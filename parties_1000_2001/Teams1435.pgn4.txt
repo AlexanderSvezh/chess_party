@@ -1,0 +1,18 @@
+[GameNr "1435"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "NNDivine"]
+[RedElo "1590"]
+[Blue "fcgarrido"]
+[BlueElo "1950"]
+[Yellow "JJCS17"]
+[YellowElo "1651"]
+[Green "Alexander610"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:18:04 GMT+0000 (UTC)"]
+[CurrentMove "6"]
+
+1. h2-h3 .. b7-c7 .. g13-g12 .. m7-k7
+2. Qg1xQn8+ .. T

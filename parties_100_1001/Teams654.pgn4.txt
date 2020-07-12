@@ -1,0 +1,29 @@
+[GameNr "654"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Tid123"]
+[RedElo "1647"]
+[Blue "rightegg"]
+[BlueElo "1459"]
+[Yellow "GaffelSchack"]
+[YellowElo "1657"]
+[Green "ezrahleura"]
+[GreenElo "1502"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:35:31 GMT+0000 (UTC)"]
+[CurrentMove "50"]
+
+1. d2-d4 .. b7-d7 .. h13-h12 .. m7-l7
+2. d4-d5 .. d7-e7 .. Bi14xBa6 .. Nn10-l9
+3. d5-d6 .. Qa7xBa6 .. d13-d11 .. m10-k10
+4. d6-d7 .. Qa6-d9 .. e13-e12 .. Bn9xj13
+5. d7-d8 .. Na5-c6 .. Nj14-h13 .. Bj13xRk14
+6. f2-f3 .. Nc6xd8 .. d11-d10 .. Bn6-l8
+7. Qg1xb6 .. Qd9-a6 .. g13-g12 .. Bl8xNe1
+8. Qb6xNd8 .. b9-c9 .. d10xc9 .. Be1-h4
+9. Qd8-d5+ .. Qa6-c6 .. c9xb8 .. Nn5-l4
+10. Qd5xm5 .. Ba9xb8 .. Rd14-d8 .. Bh4-k7
+11. Qm5-f5 .. Qc6-d5 .. Rd8xQd5 .. Bk14-c6
+12. Qf5-c8 .. Na10-c11 .. Bf14-g13 .. Bc6-b7
+13. Qc8xBb8+ .. #

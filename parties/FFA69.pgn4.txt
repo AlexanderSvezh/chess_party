@@ -1,0 +1,29 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "69"]
+[Result "martinviselka: 61 - rakkymann: 6 - jAmesEAZY42124: 5 - momo7912: 0"]
+[Variant "FFA"]
+[Red "martinviselka"]
+[RedElo "1524"]
+[Blue "rakkymann"]
+[BlueElo "1492"]
+[Yellow "jAmesEAZY42124"]
+[YellowElo "1500"]
+[Green "momo7912"]
+[GreenElo "1591"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 16:51:31 GMT+0000 (UTC)"]
+[CurrentMove "41"]
+
+1. h2-h4 .. b5-c5 .. j13-j12 .. m8-k8
+2. h4-h5 .. Ba6-b5 .. Nj14-k12 .. m7-k7
+3. h5-h6 .. Bb5xRk14 .. i13-i12 .. k8-j8
+4. h6-h7 .. Bk14xi12+ .. h13xBi12 .. k7-j7
+5. Qg1-h2 .. b6-d6 .. Bi14-j13 .. Nn5-l6
+6. h7-h8=D .. d6-e6 .. Qh14-k14 .. Nn10-l9
+7. Qh8-h13+# .. e6-f6 .. j8-i8
+8. Qh13xi12 .. b8-c8 .. i8-h8
+9. Qi12-g12 .. b10-d10 .. Bn6-m7
+10. Qh2-h5 .. d10-e10 .. O-O
+11. j2-j4 .. Qa7-a6 .. h8-g8=D
+12. Qh5xm5+# .. R

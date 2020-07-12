@@ -1,0 +1,18 @@
+[GameNr "414"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Chessplayernewmember"]
+[RedElo "1862"]
+[Blue "Antruni"]
+[BlueElo "1835"]
+[Yellow "Arielgue21"]
+[YellowElo "1942"]
+[Green "Great-Gazoo"]
+[GreenElo "1404"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:23:38 GMT+0000 (UTC)"]
+[CurrentMove "8"]
+
+1. h2-h3 .. b7-c7 .. h13-h12 .. m9-l9
+2. Qg1-k5 .. b5-c5 .. Bi14xBa6 .. R

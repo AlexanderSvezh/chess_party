@@ -1,0 +1,33 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1377"]
+[Result "edigrisales: 5 - axelcja: 6 - chucknorris0521: 42 - IM_Michal_Luch: 37"]
+[Variant "FFA"]
+[Red "edigrisales"]
+[RedElo "1611"]
+[Blue "axelcja"]
+[BlueElo "1500"]
+[Yellow "chucknorris0521"]
+[YellowElo "1500"]
+[Green "IM_Michal_Luch"]
+[GreenElo "1975"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:05:21 GMT+0000 (UTC)"]
+[CurrentMove "51"]
+
+1. h2-h4 .. b8-d8 .. g13-g11 .. m5-l5
+2. h4-h5 .. Ba9xBi1 .. d13-d12 .. m7-l7
+3. Kh1xBi1 .. Na10-c9 .. h13-h11 .. Qn8xQg1+#
+4. O-O .. Bf14-g13 .. m4-k4
+5. Na5-c6 .. Ne14-f12 .. m8-l8
+6. b5-c5 .. O-O .. Bn9-m8
+7. Qa7-b8 .. Nf12-g10 .. k4-j4
+8. Qb8-e5 .. k13-k11 .. j4-i4
+9. Nc9-d11 .. e13-e12 .. i4-h4
+10. Nd11-c9 .. d12-d11 .. h4-g4=D
+11. b10-c10 .. d11xc10 .. Nn10-l11
+12. Nc6-e7 .. c10xb9 .. Qg1xg2
+13. Ra9xb9 .. Rk14-k12 .. Qg2-h3
+14. Ne7-d9 .. Rk12-f12 .. Qg4xRb9+
+15. Ka10-a11 .. Rf12-f11 .. Qb9xNc9+
+16. T .. Rf11-f9 .. R

@@ -1,0 +1,46 @@
+[GameNr "723"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "maui2015"]
+[RedElo "2529"]
+[Blue "mcween"]
+[BlueElo "2596"]
+[Yellow "Chess_LostSyle"]
+[YellowElo "2424"]
+[Green "Kujtimi"]
+[GreenElo "2807"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:06:39 GMT+0000 (UTC)"]
+[CurrentMove "120"]
+
+1. h2-h3 .. b6-d6 .. h13-h12 .. m9-l9
+2. e2-e3 .. b8-c8 .. Bi14-g12 .. m8-k8
+3. Qg1-k5 .. Qa7-d10 .. Qh14-h13 .. Qn8-m8
+4. Bf1xb5 .. Qd10-g7 .. Qh13-i12 .. m4-l4
+5. Qk5-d5 .. Ba6xBb5 .. Nj14-h13 .. m10-k10
+6. Qd5xBb5 .. Qg7xg2+ .. Qi12-i4 .. Qm8xQi4
+7. Ne1xQg2 .. Na10-c9 .. Nh13-i11 .. Qi4-e8
+8. Qb5-a6+ .. Ka8-b8 .. Ne14-f12 .. Qe8-c6
+9. Qa6xQc6 .. Na5xQc6 .. d13-d11 .. k10-j10
+10. Nj1-i3 .. b7-c7 .. Ni11-k12 .. Nn5-l6
+11. k2-k4 .. b10-d10 .. Rd14-e14 .. m7-k7
+12. Bi1-g3 .. Ra4-a5 .. Rk14-j14 .. Nn10-m8
+13. d2-d4 .. Ra5-g5 .. i13-i12 .. m11-l11
+14. d4-d5 .. Nc6-d8 .. Nk12xj10 .. Bn6xNj10
+15. k4-k5 .. Ba9-b10 .. k13-k11 .. Bj10-f6
+16. k5xNl6 .. Ra11-a5 .. e13-e12 .. m5xl6
+17. h3-h4 .. Rg5xBg12 .. f13xRg12 .. Rn4-n5
+18. Ni3-k4 .. b11-c11 .. j13-j12 .. Rn5-k5
+19. Bg3-h2 .. Nc9-e8 .. Nf12-e10 .. Rk5-h5
+20. Nk4xl6+ .. Nd8xNe10 .. d11xNe10 .. Nm8xNl6
+21. Bh2xNl6 .. Ra5xd5 .. Bf14-e13 .. Bn9xNg2+
+22. Kh1xBg2 .. Rd5-g5+ .. Be13xk7 .. Rh5xh4
+23. Kg2-f1 .. Rg5-g6 .. Bk7xRh4 .. Bf6xBh4
+24. Bl6-h2 .. Ne8-f10 .. g12-g11 .. Kn7-m8
+25. Rd1-d4 .. Nf10-e8 .. Re14-f14 .. Bh4xj2
+26. Rk1-j1 .. Kb8-c9 .. Rf14-f5 .. Bj2-d8
+27. Rd4xb4 .. Kc9-c10 .. Rf5-m5 .. Rn11-n10
+28. Rj1-j10 .. Rg6-k6 .. Kg14-h13 .. Rn10-n7
+29. Rj10-m10+ .. Rk6-k1+ .. Rm5xm6+ .. Km8-n9
+30. Kf1-e2 .. Ne8-g9 .. Rm6-m9+ .. #

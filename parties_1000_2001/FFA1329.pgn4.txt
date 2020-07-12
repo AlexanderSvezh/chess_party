@@ -1,0 +1,40 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1329"]
+[Result "Princyrulz: 18 - LuwerPVP: 0 - 04common_user: 80 - Tom21112006: 23"]
+[Variant "FFA"]
+[Red "Princyrulz"]
+[RedElo "1826"]
+[Blue "LuwerPVP"]
+[BlueElo "1464"]
+[Yellow "04common_user"]
+[YellowElo "1499"]
+[Green "Tom21112006"]
+[GreenElo "1468"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:51:13 GMT+0000 (UTC)"]
+[CurrentMove "75"]
+
+1. k2-k3 .. b7-d7 .. j13-j12 .. m10-l10
+2. j2-j4 .. d7-e7 .. k13-k11 .. m11-l11
+3. i2-i4 .. e7-f7 .. k11-k10 .. m5-l5
+4. i4-i5 .. f7-g7 .. k10-k9 .. Bn9-m10
+5. h2-h3 .. Qa7-e7 .. k9-k8 .. Bn6-m5
+6. Rk1-k2 .. g7-h7=D .. k8-k7=D .. m8-l8
+7. Bi1-j2 .. Qe7-e9 .. Rk14-k9 .. Nn10-l9
+8. f2-f3 .. T .. Qk7xQh7 .. Bm5xk3
+9. Bj2xBk3 .. Qh7-b7 .. m4-l4
+10. Bk3-j2 .. Qb7xKa8 .. l5-k5
+11. j4-j5 .. Rk9-j9 .. Nl9-k7
+12. i5-i6 .. Rj9xj5 .. Nk7xi6
+13. d2-d4 .. Rj5xk5 .. Nn5-l6
+14. Rk2xRk5 .. h13-h11 .. l4xRk5
+15. d4-d5 .. Qa8-c6 .. Rn4-j4
+16. Qg1-h2 .. Qc6-e8 .. Nl6-k4
+17. Kh1-i1 .. Qe8-k2 .. Nk4xBj2
+18. d5-d6 .. Bi14-c8 .. Qn8-m8+
+19. Nj1-i3 .. i13-i12 .. Nj2xh3+
+20. Qh2xNh3 .. Bc8xQh3 .. Rj4-j1+
+21. Ni3xRj1 .. Qk2-i2+# .. Qm8xi12+
+22. Qh14-h13 .. Qi12xQh13+
+23. Nj14xQh13 .. R

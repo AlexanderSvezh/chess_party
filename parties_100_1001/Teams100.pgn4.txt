@@ -1,0 +1,17 @@
+[GameNr "100"]
+[Result "Aborted"]
+[Variant "Teams"]
+[Red "7Mana"]
+[RedElo "1823"]
+[Blue "ChesswizRyan"]
+[BlueElo "1500"]
+[Yellow "Besas"]
+[YellowElo "2904"]
+[Green "192829"]
+[GreenElo "1785"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 16:55:05 GMT+0000 (UTC)"]
+[CurrentMove "4"]
+
+1. h2-h3 .. b7-d7 .. h13-h12 .. T

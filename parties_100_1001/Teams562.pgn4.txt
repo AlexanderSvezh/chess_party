@@ -1,0 +1,17 @@
+[GameNr "562"]
+[Result "Aborted"]
+[Variant "Teams"]
+[Red "ermis8992"]
+[RedElo "2058"]
+[Blue "Alejandroo2005"]
+[BlueElo "1437"]
+[Yellow "ImnotaStark"]
+[YellowElo "1471"]
+[Green "Aveu"]
+[GreenElo "1513"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:06:37 GMT+0000 (UTC)"]
+[CurrentMove "3"]
+
+1. h2-h3 .. b8-c8 .. T

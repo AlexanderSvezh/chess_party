@@ -1,0 +1,57 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1092"]
+[Result "Rodrigojajaja1981: 70 - Argos16: 31 - iCapablanca1: 30 - Mubarakjaradat61: 41"]
+[Variant "FFA"]
+[Red "Rodrigojajaja1981"]
+[RedElo "1604"]
+[Blue "Argos16"]
+[BlueElo "1475"]
+[Yellow "iCapablanca1"]
+[YellowElo "1559"]
+[Green "Mubarakjaradat61"]
+[GreenElo "1642"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:48:13 GMT+0000 (UTC)"]
+[CurrentMove "151"]
+
+1. Nj1-i3 .. b7-d7 .. h13-h11 .. m8-k8
+2. k2-k3 .. d7-e7 .. Nj14-i12 .. k8-j8
+3. Ne1-f3 .. b8-c8 .. h11-h10 .. j8-i8
+4. d2-d3 .. e7-f7 .. e13-e12 .. i8-h8
+5. e2-e3 .. f7-g7 .. h10-h9 .. m10-l10
+6. j2-j3 .. g7-h7=D .. Bf14-e13 .. h8-g8=D
+7. Bi1-j2 .. Ba9-b8 .. h9xQg8 .. Bn9-m8
+8. O-O .. Qh7xg8 .. Be13xb10 .. m5-l5
+9. h2-h3 .. b11-c11 .. Bb10xRa11 .. Bn6-m5
+10. Bf1-e2 .. c8-d8 .. f13-f12 .. Nn5-l6
+11. g2-g4 .. b9-c9 .. Bi14xBa6 .. O-O
+12. Ri1-h1 .. Qa7xBa6 .. Ba11-b10 .. Qn8-n9
+13. g4-g5 .. Qa6-d9 .. g13-g11 .. Qn9xj13
+14. h3-h4 .. Qd9-c10 .. Ne14-g13 .. m11-k11
+15. h4-h5 .. Qc10xBb10 .. O-O .. Bm8xNi12
+16. h5-h6 .. Na5-c6 .. Ng13xBi12 .. Qj13xNi12
+17. g5-g6 .. c9-d9 .. Qh14-g13 .. Qi12-h11+
+18. h6-h7 .. Qg8-e10 .. Ke14-d14 .. Qh11-l7
+19. h7-h8=D .. Na10-c9 .. i13-i11 .. Nn10-l9
+20. g6-g7 .. Ra4-a7 .. k13-k12 .. Nl9-k7
+21. g7-g8=D .. Qb10-d10 .. Rk14-i14 .. m9-k9
+22. Qg8-g2 .. Qd10-d12 .. Rf14-e14 .. Ql7-l9
+23. Qh8-h4 .. Qe10-d10 .. Qg13-f13 .. Nk7-i6
+24. Qh4-i4 .. Nc9-e10 .. e12-e11+ .. Ni6-k5
+25. Qi4-g4 .. Qd10-d11 .. Qf13-g13 .. Nl6-j7
+26. Rd1-e1 .. Ne10xf12 .. Re14-e13 .. Rn11-n8
+27. Nf3-e5 .. Nf12xd13 .. Re13xNd13 .. m7-l7
+28. Ne5xNc6 .. b5xNc6 .. Rd13xQd12 .. Nj7-i5
+29. Qg4xQl9 .. Qd11xRd12+ .. Qg13-d13 .. Ni5xj3
+30. i2xNj3 .. Bb8xe11 .. i11-i10 .. Nk5xj3
+31. Qg2xc6+ .. Ra7-b7 .. Kd14-e14 .. m4-k4
+32. Qg1-g2 .. Qd12xQd13+ .. Ke14xQd13 .. Rn8xd8+
+33. Qc6xRb7+ .. Ka8-a9 .. i10-i9 .. Rd8xd9++
+34. Qg2-g4 .. Be11-c9 .. Kd13-e12 .. Rd9xBc9+#
+35. Ql9xl10 .. i9-i8 .. Rc9-e9+
+36. Ql10xk11 .. Ke12-f13 .. Re9-f9+
+37. Qk11xg11 .. Kf13-e12 .. T
+38. Qg11-g12+ .. Ke12-d13
+39. Qg12xRi14 .. i8-i7=D
+40. Qi14xQi7 .. R

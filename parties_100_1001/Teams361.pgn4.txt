@@ -1,0 +1,21 @@
+[GameNr "361"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "dankillerchessen"]
+[RedElo "1519"]
+[Blue "aleksey1231"]
+[BlueElo "1489"]
+[Yellow "ermis8992"]
+[YellowElo "1948"]
+[Green "Kujtimi"]
+[GreenElo "2837"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:11:48 GMT+0000 (UTC)"]
+[CurrentMove "18"]
+
+1. h2-h3 .. b7-d7 .. i13-i11 .. m8-l8
+2. g2-g4 .. Na10-c9 .. g13-g12 .. Qn8-m8
+3. Nj1-i3 .. b5-c5 .. Qh14xNc9 .. Qm8xh3+
+4. Bf1xQh3 .. b8xQc9 .. h13-h11 .. Bn9xBh3
+5. i2xBh3 .. T

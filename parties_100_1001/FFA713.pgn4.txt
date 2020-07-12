@@ -1,0 +1,40 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "713"]
+[Result "sebaajedres: 11 - xxxXWhiteXxxx: 14 - EvilDenis: 76 - calsetinesdebebe: 3"]
+[Variant "FFA"]
+[Red "sebaajedres"]
+[RedElo "1500"]
+[Blue "xxxXWhiteXxxx"]
+[BlueElo "1506"]
+[Yellow "EvilDenis"]
+[YellowElo "1665"]
+[Green "calsetinesdebebe"]
+[GreenElo "1490"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:54:49 GMT+0000 (UTC)"]
+[CurrentMove "81"]
+
+1. k2-k4 .. b7-d7 .. h13-h11 .. Nn5-l4
+2. Nj1-i3 .. d7-e7 .. e13-e12 .. Nl4-k2
+3. Rk1-j1 .. e7-f7 .. h11-h10 .. m7-l7
+4. g2-g4 .. f7-g7 .. h10-h9 .. Qn8-l6
+5. Qg1-g3 .. g7-h7=D .. Ne14-f12 .. l7-k7
+6. h2-h4 .. Qa7-b7+ .. Bf14-e13 .. k7-j7
+7. Kh1-h2 .. Qh7-k10+ .. i13-i12 .. j7-i7
+8. h4-h5 .. Qk10-h7 .. Bi14xQb7+ .. Ql6-i6
+9. h5-h6 .. Ba6xBb7 .. O-O .. Qi6xQh7
+10. g4-g5 .. b8-d8 .. Rf14-g14 .. Qh7-h8
+11. h6-h7 .. Ba9xQg3+ .. Be13xb10 .. Qh8xh9
+12. Kh2xBg3 .. Na10-c9 .. Qh14xQh9 .. m8-k8
+13. Ni3xNk2 .. Nc9-e8 .. Bb10xRa11 .. k8-j8
+14. h7-h8=D .. Ne8-f10 .. Qh9xm9+ .. i7xQh8
+15. Kg3-h2 .. Na5-c4 .. Ba11xd8 .. Bn6-i11
+16. Kh2-i3 .. Nc4-e3 .. Bd8xNf10 .. Kn7-n6
+17. f2xNe3 .. b11-d11 .. Nf12xd11 .. T
+18. T .. b4-d4 .. Qm9-m7
+19. d4xe3 .. Qm7xKi3
+20. Bb7-g12 .. f13xBg12
+21. e3-f3 .. Qi3xf3+
+22. Ka8-a7 .. Bf10-e11+
+23. Ka7-a6 .. Qf3-a8+#

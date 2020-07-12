@@ -1,0 +1,74 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "217"]
+[Result "akuakuka: 83 - 4players: 22 - Sir_spawner: 4 - barjajg: 60"]
+[Variant "FFA"]
+[Red "akuakuka"]
+[RedElo "1727"]
+[Blue "4players"]
+[BlueElo "1466"]
+[Yellow "Sir_spawner"]
+[YellowElo "1500"]
+[Green "barjajg"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:50:27 GMT+0000 (UTC)"]
+[CurrentMove "144"]
+
+1. j2-j3 .. b7-d7 .. g13-g11 .. m10-l10
+2. Bi1-j2 .. d7-e7 .. Qh14-e11 .. Bn9-m10
+3. Nj1-i3 .. e7-f7 .. Ne14-d12 .. m5-l5
+4. O-O .. f7-g7 .. Nd12xb11 .. Nn5-l4
+5. g2-g4 .. g7-h7=D .. Bf14-i11 .. Nn10-l9
+6. g4-g5 .. Qh7-g6 .. Qe11xNl4 .. Bn6xQl4
+7. Bj2xBl4 .. Ra11xNb11 .. d13-d11 .. m7-l7
+8. Bl4-m5 .. b8-d8 .. e13-e11 .. Rn4-n5
+9. Bm5-j2 .. Qg6xg11+ .. Bi11-g13 .. m8-l8
+10. g5-g6 .. Qg11xRd14+ .. Bg13-f14 .. Qn8-m8
+11. g6-g7 .. Rb11xd11 .. R .. O-O-O
+12. g7-g8=D .. Qd14-h10 .. Rn8-n7
+13. Qg8xKg14 .. Qh10xh2 .. m6-k6
+14. Qg1-g8 .. Qh2xf2 .. l7-k7
+15. Qg8xRd11 .. Ba9xRi1 .. k7-j7
+16. Bj2xBi1 .. Qf2xBf1 .. j7-i7
+17. Qd11xd8+ .. Ba6-c8 .. i7-h7
+18. Qd8xb10 .. Na10-b8 .. h7-g7=D
+19. Qb10-a11+ .. Nb8-a10 .. Qg7xQa7+#
+20. Qg14-g2 .. Qa7xKa8
+21. d2-d4 .. Qa8xBc8
+22. d4-d5 .. m4-k4
+23. d5-d6 .. k4xj3
+24. k2xj3 .. l5-k5
+25. d6-d7 .. Qc8-j8
+26. Qa11-f6 .. Qm8-m6
+27. d7-d8=D .. Qj8xj3+
+28. i2xQj3 .. Qm6xj3+
+29. Qg2-j2 .. Qj3-i4
+30. Rd1-d4 .. Qi4-h3+
+31. Kj1-k2 .. k5-j5
+32. Qf6xk6+ .. Kn9-n10
+33. e2-e4 .. Rn7-k7
+34. Qk6xRk7 .. l8xQk7
+35. e4-e5 .. j5-i5
+36. e5-e6 .. Rn5-k5+
+37. Ni3-k4 .. Qh3-i4+
+38. Kk2-j1 .. Qi4-h3+
+39. Kj1-k2 .. Nl9-m7
+40. Qj2-n6+ .. Nm7-n9
+41. Qd8-n8 .. Qh3-i2+
+42. Qn6-j2 .. Qi2xe6
+43. Qn8xRk5 .. Qe6xNe1
+44. Qk5xk7 .. i5-h5
+45. Rd4-d5 .. Qe1-e4
+46. Rd5xh5 .. Bm10xRh5+
+47. Kk2-j1 .. Qe4-e6+
+48. Kj1-k1 .. m11-k11
+49. Qk7-k5 .. Bh5-m10
+50. Bi1-g3 .. k11-j11
+51. Qk5-j6 .. Qe6xQj6
+52. Qj2xQj6 .. j11-i11
+53. Qj6xm9+ .. Kn10-m11
+54. Qm9-h9 .. Bm10-k8
+55. Qh9-j11+ .. Km11-m10
+56. Qj11xi11 .. Bk8-m6
+57. Qi11-i6+ .. R

@@ -1,0 +1,43 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1172"]
+[Result "evillagrg: 23 - SMARTandHANDSOME2018: 56 - PedroFilippo: 9 - ChuchoYutapiCg: 48"]
+[Variant "FFA"]
+[Red "evillagrg"]
+[RedElo "1482"]
+[Blue "SMARTandHANDSOME2018"]
+[BlueElo "1544"]
+[Yellow "PedroFilippo"]
+[YellowElo "1500"]
+[Green "ChuchoYutapiCg"]
+[GreenElo "1808"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:06:28 GMT+0000 (UTC)"]
+[CurrentMove "84"]
+
+1. g2-g4 .. b8-d8 .. h13-h11 .. m5-l5
+2. g4-g5 .. Qa7-c9 .. Ne14-f12 .. Bn6-m5
+3. Nj1-i3 .. d8-e8 .. g13-g11 .. Nn5-l6
+4. k2-k3 .. Ba9-f4 .. Bf14-g13 .. O-O
+5. e2-e3 .. Bf4xg5 .. Nf12-g10 .. Nn10-l9
+6. f2-f4 .. Bg5xNi3 .. Bg13xQc9 .. m8-k8
+7. h2xBi3 .. b10xBc9 .. h11-h10 .. m7-k7
+8. Bf1xBn9 .. b7-c7 .. h10-h9 .. Rn11xBn9
+9. Qg1xNg10 .. Ba6-b7+ .. f13-f12 .. Nl6-k4
+10. Kh1-g1 .. b4-d4 .. h9-h8 .. Nk4xi3
+11. Qg10xm10 .. d4xe3 .. h8-h7=D .. Nl9-j8
+12. Qm10xm11 .. e3xf4 .. T .. Ni3-k2+
+13. Bi1-h2 .. Bb7-h13 .. Bm5-l6
+14. i2-i3 .. Bh13xKg14 .. Nk2xi3
+15. j2xNi3 .. f4-g4 .. Bl6xi3
+16. Rk1-i1 .. g4-h4=D .. Bi3xBh2+
+17. Kg1-h1 .. Qh4-e4+ .. m4-k4
+18. Ne1-g2 .. Qe4-e2 .. Bh2xRi1
+19. Ng2xBi1 .. Qe2xRd1+ .. Rn9-n11
+20. Kh1-i2 .. Ra4-i4+ .. Rn11xQm11
+21. R .. Ri4xKi2 .. k7-j7
+22. e8-f8 .. Rm11xg11
+23. Bg14-c10 .. Nj8xQh7
+24. Ri2-i7 .. Nh7xf8
+25. Na10-b8 .. Rg11-g8
+26. R

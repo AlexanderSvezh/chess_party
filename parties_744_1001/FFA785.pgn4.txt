@@ -1,0 +1,62 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "785"]
+[Result "Armanuly: 21 - Turboval: 23 - Arbalest62: 86 - tintined: 28"]
+[Variant "FFA"]
+[Red "Armanuly"]
+[RedElo "1565"]
+[Blue "Turboval"]
+[BlueElo "1564"]
+[Yellow "Arbalest62"]
+[YellowElo "1555"]
+[Green "tintined"]
+[GreenElo "1614"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:19:31 GMT+0000 (UTC)"]
+[CurrentMove "155"]
+
+1. j2-j3 .. b7-d7 .. h13-h11 .. m8-k8
+2. e2-e3 .. b8-c8 .. h11-h10 .. k8-j8
+3. Ne1-f3 .. b6-d6 .. h10-h9 .. j8-i8
+4. Bf1-e2 .. b4-c4 .. h9-h8 .. Bn9-j5
+5. h2-h3 .. b5-d5 .. Nj14-i12 .. m7-k7
+6. Nj1-i3 .. d5-e5 .. Bi14-h13 .. Bj5-m8
+7. Qg1-h2 .. Ba6-b7 .. Ni12-h10 .. k7-j7
+8. O-O-O .. Qa7-b6 .. Ne14-f12 .. Bn6-m7
+9. Bi1-j2 .. e5-f5 .. e13-e12 .. m4-k4
+10. Qh2-h1 .. Bb7xNf3 .. Bf14-e13 .. Bm7xNi3
+11. Be2xBf3+ .. Na5-b7 .. O-O .. Bi3xBj2
+12. Rk1-j1 .. d6-e6 .. Nh10xi8 .. Bj2-i3
+13. j3xk4 .. Na10-c9 .. h8-h7=D .. Nn5-l6
+14. Bf3xj7 .. b11-c11 .. Ni8-k9 .. O-O
+15. Bj7-f3 .. Ba9-b8 .. Nk9xBm8 .. Nn10xNm8
+16. Rj1-j8 .. O-O .. j13-j12 .. m9-k9
+17. Rj8-j1 .. Qb6-b5 .. Qh7-h10 .. m10-l10
+18. g2-g3 .. Ka10-a11 .. Bh13-f11 .. Nl6xk4
+19. Rg1-g2 .. c4-d4+ .. Qh10-k10 .. Nk4-j2
+20. Bf3-e2 .. Qb5-c5 .. Qh14-h13 .. Nm8-l6
+21. Qh1-i1 .. d4xe3 .. i13-i11 .. Nj2-k4
+22. f2xe3 .. Qc5-d5 .. Qk10-i12 .. Bi3-k5
+23. d2-d4 .. f5-g5 .. i11-i10 .. Nk4-i3
+24. Rj1-j3 .. Ra4-a5 .. i10-i9 .. Nl6-k4
+25. Rg2-h2 .. Qd5-d6 .. i9-i8 .. Ni3xk2
+26. Qi1-k3 .. g5-h5=D .. i8-i7=D .. Bk5xQi7
+27. Be2xQh5 .. Qd6xg3 .. Qi12xBi7 .. Nk2-i3
+28. Rj3xNi3 .. Qg3xRh2 .. Qi7-i10 .. Nk4xRi3
+29. Qk3xNi3 .. Ra5-f5+ .. Qi10-h9 .. Qn8xQi3
+30. Kf1-e1 .. Qh2xQi3 .. Qh9-m4+#
+31. Bh5-g4 .. Qi3-g1+ .. Qm4-g10
+32. Ke1-d2 .. Qg1-f2+ .. Qh13-h10
+33. Kd2-d3 .. b10-c10 .. Be13xc11
+34. Bg4xRf5 .. Ra9-a10 .. Nf12-d11
+35. Bf5xe6 .. Nc9xNd11 .. e12xNd11
+36. Be6-d5 .. c10xd11 .. Qh10-k10+
+37. e3-e4 .. Qf2-f3+ .. Qg10xRa10+#
+38. i2-i4 .. Rk14-h14
+39. Bd5-e6 .. Qa10-a6+
+40. Kd3-e3 .. Qk10xk9+
+41. Ke3-f2 .. Qa6xBe6
+42. d4-d5 .. Qe6xh3
+43. Kf2-e2 .. Qh3-h2+
+44. Ke2-d3 .. Rh14-h3
+45. R

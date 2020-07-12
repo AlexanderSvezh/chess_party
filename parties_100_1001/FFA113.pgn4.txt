@@ -1,0 +1,58 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "113"]
+[Result "anmargue: 67 - chessnchess01: 56 - SheikMex: 11 - Cristhian172: 38"]
+[Variant "FFA"]
+[Red "anmargue"]
+[RedElo "1542"]
+[Blue "chessnchess01"]
+[BlueElo "1500"]
+[Yellow "SheikMex"]
+[YellowElo "1576"]
+[Green "Cristhian172"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:13:47 GMT+0000 (UTC)"]
+[CurrentMove "109"]
+
+1. g2-g4 .. b7-d7 .. h13-h11 .. m7-k7
+2. g4-g5 .. d7-e7 .. h11-h10 .. m8-k8
+3. g5-g6 .. b8-d8 .. h10-h9 .. Bn6-l8
+4. j2-j4 .. b9-c9 .. h9-h8 .. Qn8xj4
+5. g6-g7 .. b6-d6 .. h8-h7=D .. Bn9xBf1
+6. Qg1xBf1 .. b5-c5 .. Qh7-e4++ .. Qj4xQe4++
+7. f2-f3 .. Ba6-b7 .. Bi14xBb7+ .. Qe4-j4
+8. i2-i3 .. Qa7xBb7 .. Qh14-h7 .. Qj4xj13
+9. Qf1-g1 .. Na5-c6 .. Qh7-k10+ .. m9-l9
+10. Bi1xm5 .. Ba9-c7 .. Qk10xb10 .. Qj13xRk14
+11. Bm5xRn4 .. Qb7xQb10 .. R .. Qk14xNj14
+12. g7-g8=D .. Qb10xm10 .. Qj14xKg14
+13. Qg8xg13 .. Qm10xRn11 .. Qg14-k14
+14. Qg13xBl8 .. Na10-b8 .. Nn5-m7
+15. Ql8xk7 .. Qn11xm11 .. Nn10-m8
+16. Qk7-k5 .. Qm11-n11+ .. Nm8-n10
+17. Qg1-g7 .. Qn11xNn10+ .. Kn7-m8
+18. Qk5xNm7+# .. Qn10xBn4
+19. Qm7-j4 .. Qn4-n11
+20. i3-i4 .. Qn11-d11
+21. i4-i5 .. d8-e8
+22. i5-i6 .. Bc7-d8
+23. i6-i7 .. e7-f7
+24. i7-i8=D .. Bd8xRk1
+25. Nj1-i3 .. Qd11-f9
+26. Ne1-d3 .. Nb8-d9
+27. Qg7-f6 .. Qf9-g9
+28. Qf6xc9 .. f7-g7
+29. Qc9xRa11+ .. Ka8-b8
+30. Qa11xRa4 .. Nc6-e7
+31. Qa4xb4+ .. Kb8-c9
+32. Qb4xc5+ .. Kc9-d8
+33. Qc5xd6+ .. Kd8-e9
+34. Ni3-h5 .. Qg9-f9
+35. Qj4xg7+ .. e8-f8
+36. Qg7-f6 .. f8-g8
+37. Qf6xQf9+ .. Ke9xQf9
+38. Nh5-g7+ .. Kf9-g9
+39. Qi8-e4 .. g8-h8=D
+40. Qe4xNe7+ .. Nd9xQe7
+41. R

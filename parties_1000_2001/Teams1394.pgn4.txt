@@ -1,0 +1,23 @@
+[GameNr "1394"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "yassinetn"]
+[RedElo "1524"]
+[Blue "gnojham2"]
+[BlueElo "684"]
+[Yellow "Chess1228michelle"]
+[YellowElo "1467"]
+[Green "GongGong0607"]
+[GreenElo "1946"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:08:11 GMT+0000 (UTC)"]
+[CurrentMove "27"]
+
+1. j2-j3 .. b8-c8 .. e13-e12 .. m4-l4
+2. Bi1-j2 .. Qa7-d10 .. g13-g12 .. m9-l9
+3. i2-i3 .. Qd10-h10 .. Qh14-f12 .. Qn8xi13
+4. i3-i4 .. Qh10xQf12 .. Ne14xQf12 .. Qi13xBi14+
+5. h2-h3 .. Ba9-b8 .. Kg14-g13 .. m7-l7+
+6. Bj2xb10 .. Na10-c11 .. h13-h12 .. Qi14-h14+
+7. Bb10xRa11 .. Bb8xNf12+ .. #

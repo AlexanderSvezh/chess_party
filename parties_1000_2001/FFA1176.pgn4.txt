@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1176"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "StarWars00"]
+[RedElo "1483"]
+[Blue "miraloindalo"]
+[BlueElo "1541"]
+[Yellow "urchallengeaccepted"]
+[YellowElo "1716"]
+[Green "Ivanthechesspiece"]
+[GreenElo "1681"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:54:51 GMT+0000 (UTC)"]
+[CurrentMove "1"]
+
+1. R

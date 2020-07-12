@@ -1,0 +1,21 @@
+[GameNr "1404"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "7Mana"]
+[RedElo "1831"]
+[Blue "ChessN00b777"]
+[BlueElo "2139"]
+[Yellow "charles46975"]
+[YellowElo "1490"]
+[Green "TowersK"]
+[GreenElo "2016"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:08:51 GMT+0000 (UTC)"]
+[CurrentMove "17"]
+
+1. h2-h3 .. b6-d6 .. Ne14-f12 .. m8-l8
+2. d2-d4 .. Qa7-b6 .. Nj14-i12 .. Bn9-l7
+3. Qg1-j4 .. Na10-c9 .. d13-d11 .. Qn8-m8
+4. Ne1-f3 .. Qb6-f10 .. g13-g11 .. Bl7xf13+
+5. R

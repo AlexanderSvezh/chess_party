@@ -1,0 +1,50 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1485"]
+[Result "emersonmorales: 29 - M_Sabri_18: 13 - Schopis: 32 - nabreklakurcina: 55"]
+[Variant "FFA"]
+[Red "emersonmorales"]
+[RedElo "1588"]
+[Blue "M_Sabri_18"]
+[BlueElo "1513"]
+[Yellow "Schopis"]
+[YellowElo "1525"]
+[Green "nabreklakurcina"]
+[GreenElo "1876"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:48:07 GMT+0000 (UTC)"]
+[CurrentMove "111"]
+
+1. g2-g4 .. b7-d7 .. Ne14-f12 .. Nn5-l6
+2. g4-g5 .. Na5-c6 .. j13-j12 .. m5-l5
+3. g5-g6 .. b5-c5 .. Bi14-j13 .. Bn6-m5
+4. g6-g7 .. Ba6-b5 .. g13-g11 .. Nl6-k4
+5. j2-j3 .. Qa7-b7 .. h13-h12 .. Nk4-j2+
+6. Kh1-g2 .. O-O-O .. Nj14-i12 .. O-O
+7. g7-g8=D .. Nc6-e7+ .. Bj13-i14 .. Nj2-i4
+8. f2-f3 .. b8-c8 .. Bf14-g13 .. Ni4-k5
+9. Nj1-i3 .. Ne7xQg8 .. Nf12-d11 .. m8-k8+
+10. Kg2-h1 .. b9-c9 .. Bi14-j13 .. m11-l11
+11. Ne1-d3 .. Ka6-a5 .. e13-e12 .. m9-k9
+12. Rk1-j1 .. Ng8-e7 .. O-O .. Nn10-l9
+13. Bi1-j2 .. Ne7-c6 .. k13-k12 .. l11xk12
+14. Kh1-i1 .. b10-c10 .. Bj13xk12 .. m7-l7
+15. Qg1-h1 .. c10xNd11 .. e12xd11 .. k9-j9
+16. Ni3-g2 .. Ba9-b10 .. Qh14-i14 .. Rn11-m11
+17. k2-k3 .. c8-d8 .. Qi14xQb7 .. j9-i9
+18. Nd3xc5 .. Ra7xQb7 .. Bg13xc9 .. m10-k10
+19. Nc5xRb7+ .. R .. Bc9-g13 .. k10-j10
+20. Nb7xKa5 .. Bk12-i10 .. Nl9-j8
+21. h2-h4 .. Bi10-g12 .. i9-h9
+22. h4-h5 .. Bg13-e11 .. Bn9-j13
+23. h5-h6 .. Ni12xj10 .. Nk5-j7
+24. h6-h7 .. Rk14-k13 .. Bj13xd7
+25. h7-h8=D .. Nj10-h11 .. Nj7xQh8
+26. Qh1xNh8 .. Be11xQh8 .. Qn8-g1+#
+27. Bh8-j10 .. Bd7xNh11
+28. Bg12xBh11 .. Rm11xBh11
+29. Bj10xRn6 .. Bm5xBn6
+30. f13-f11 .. h9-g9=D
+31. f11-f10 .. Qg1-e3+
+32. Ke14-d14 .. Qg9-e7
+33. f10-f9 .. Qe7-e13+#

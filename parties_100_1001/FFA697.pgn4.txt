@@ -1,0 +1,46 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "697"]
+[Result "agaliareptor: 35 - AHMADIIU: 0 - J-B-A-N: 25 - lalex90: 24"]
+[Variant "FFA"]
+[Red "agaliareptor"]
+[RedElo "1758"]
+[Blue "AHMADIIU"]
+[BlueElo "1686"]
+[Yellow "J-B-A-N"]
+[YellowElo "1579"]
+[Green "lalex90"]
+[GreenElo "1825"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:50:56 GMT+0000 (UTC)"]
+[CurrentMove "99"]
+
+1. g2-g4 .. b5-c5 .. g13-g11 .. m5-l5
+2. d2-d3 .. Ba6-b5 .. Ne14-f12 .. Bn6-m5
+3. e2-e4 .. b10-c10 .. h13-h11 .. Nn5-l6
+4. Nj1-i3 .. Ba9-b10 .. d13-d12 .. O-O
+5. f2-f4 .. Na10-c9 .. g11-g10 .. m10-k10
+6. h2-h4 .. O-O .. h11-h10 .. m8-l8
+7. Bf1-e2 .. Ra9-a8 .. h10-h9 .. Bn9-m10
+8. h4-h5 .. b8-d8 .. h9-h8 .. m9-k9
+9. f4-f5 .. b7-d7 .. h8-h7=D .. k9-j9
+10. Bi1-f4 .. d7-e7 .. k13-k12 .. l8-k8
+11. k2-k3 .. d8-e8 .. Qh7-h13 .. Bm10-l9
+12. O-O .. e8-f8 .. Nj14-i12 .. k10-j10
+13. Ne1-f3 .. e7-f7 .. Bf14xj10 .. Rn6-n7
+14. g4-g5 .. f7-g7 .. k12-k11 .. m11-l11
+15. g5-g6 .. f8-g8 .. O-O .. Bl9-k10
+16. Ri1-h1 .. b6-d6 .. Qh13-g12 .. m7-l7
+17. Nf3-g5 .. g8-h8=D .. Bj10xQh8 .. k8-j8
+18. h5-h6 .. T .. Nf12-e10 .. Rn11-m11
+19. Ng5-f7 .. g10-g9 .. j9-i9
+20. Nf7xBh8 .. g9xNh8 .. Qn8-n9
+21. h6-h7 .. Ne10xNc9 .. i9-h9
+22. Bf4xj8 .. Rf14-g14 .. Rm11-m9
+23. Qg1-d4 .. Nc9xKa10 .. h9-g9=D
+24. Qd4-e5 .. h8xg7=D .. Qg9xQg7
+25. Qe5xe13+# .. Bm5xk3
+26. Bj8xNl6 .. Bk3xj2
+27. Kj1xBj2 .. Qg7-j10+
+28. Kj2-i1 .. Bk10xh7
+29. R

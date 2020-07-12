@@ -1,0 +1,25 @@
+[GameNr "390"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "e4bc4qh5qf7"]
+[RedElo "2687"]
+[Blue "nahuelsandoval"]
+[BlueElo "1672"]
+[Yellow "gokul009"]
+[YellowElo "1943"]
+[Green "Hamsel2017"]
+[GreenElo "1626"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:23:36 GMT+0000 (UTC)"]
+[CurrentMove "34"]
+
+1. h2-h3 .. b6-c6 .. g13-g12 .. m8-l8
+2. d2-d4 .. Na10-c9 .. d13-d11 .. Nn5-l6
+3. k2-k4 .. b8-c8 .. Nj14-i12 .. m4-l4
+4. Bi1xBa9 .. Ra11xBa9 .. Qh14-d10 .. m7-k7
+5. Qg1-h2 .. b7-c7 .. Ne14-f12 .. Bn6-m7
+6. Nj1-i3 .. Ba6-b7 .. j13-j12 .. Nl6-j5
+7. k4xNj5 .. Na5-c4 .. Qd10xb10 .. Nn10-l9
+8. Qh2xc7 .. Qa7-b8 .. Qb10xb9+ .. Bm7xNi3
+9. Qc7xQb8+ .. #

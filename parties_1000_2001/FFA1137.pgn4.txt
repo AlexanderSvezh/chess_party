@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1137"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "guitarplayer1990"]
+[RedElo "1690"]
+[Blue "Alexisalonso100"]
+[BlueElo "1500"]
+[Yellow "Norbi985"]
+[YellowElo "1594"]
+[Green "storm_999"]
+[GreenElo "1612"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:42:31 GMT+0000 (UTC)"]
+[CurrentMove "2"]
+
+1. j2-j3 .. T

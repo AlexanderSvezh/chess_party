@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1224"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "luismoreno1312"]
+[RedElo "1542"]
+[Blue "gaboch2017"]
+[BlueElo "1778"]
+[Yellow "Empitii"]
+[YellowElo "1500"]
+[Green "cansertario"]
+[GreenElo "1365"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:09:54 GMT+0000 (UTC)"]
+[CurrentMove "4"]
+
+1. g2-g4 .. b8-d8 .. g13-g12 .. R

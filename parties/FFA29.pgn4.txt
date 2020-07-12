@@ -1,0 +1,20 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "29"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "Volkan17"]
+[RedElo "1487"]
+[Blue "kilapride"]
+[BlueElo "1469"]
+[Yellow "sammatataan"]
+[YellowElo "1598"]
+[Green "cristianapps"]
+[GreenElo "1555"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 16:32:45 GMT+0000 (UTC)"]
+[CurrentMove "10"]
+
+1. g2-g4 .. b7-d7 .. e13-e12 .. m7-l7
+2. e2-e3 .. Qa7-b7+ .. h13-h11 .. Qn8-l6
+3. Bf1-g2 .. T

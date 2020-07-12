@@ -1,0 +1,51 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1322"]
+[Result "yoltzinfernandez: 5 - 15Expert: 32 - 684P: 69 - sshinko: 5"]
+[Variant "FFA"]
+[Red "yoltzinfernandez"]
+[RedElo "1430"]
+[Blue "15Expert"]
+[BlueElo "1500"]
+[Yellow "684P"]
+[YellowElo "1816"]
+[Green "sshinko"]
+[GreenElo "1471"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:58:17 GMT+0000 (UTC)"]
+[CurrentMove "102"]
+
+1. h2-h4 .. b7-d7 .. h13-h11 .. m8-k8
+2. g2-g3 .. d7-e7 .. f13-f11 .. Bn9-l7
+3. Bf1xBl7 .. e7-f7 .. Bi14-g12 .. m6xBl7
+4. Ne1-f3 .. f7-g7 .. Nj14-i12 .. m5-l5
+5. T .. Ba6-b7 .. h11-h10 .. Nn10-l11
+6. Bb7xNf3 .. Qh14-h11 .. m4-k4
+7. Na5-c6 .. h10-h9 .. Nn5-l6
+8. Bf3xKh1 .. Qh11-i10 .. Nl11-k9
+9. g7-h7=D .. Qi10-h10 .. m11-l11
+10. Bh1-d5 .. Ni12-g11 .. l11-k11
+11. Qh7-g7 .. Qh10-k10+ .. Kn7-m6
+12. b10-c10 .. Qk10xNk9 .. Nl6-j7
+13. Ba9-b10 .. Qk9-h12 .. k11-j11
+14. Qg7-f7 .. i13-i11 .. Rn11-k11
+15. Qa7-b7 .. j13-j12 .. Rk11-k9
+16. O-O-O .. Qh12-h10 .. Rn4-n5
+17. Qf7xf11 .. Bg12xQf11 .. Rk9-j9
+18. Qb7xBf11 .. Qh10-e10+ .. Rj9-j8
+19. b8-c8 .. Qe10xQf11 .. Nj7-h8
+20. Ra7-a8 .. Qf11-f6+ .. Km6-n7
+21. Bd5-g2 .. Qf6-h6 .. Nh8-f7
+22. Bb10-c9 .. Qh6xRj8 .. Nf7-e9
+23. Bg2xl7 .. h9-h8 .. Ne9-f11
+24. Bl7xRn5 .. h8-h7=D .. Qn8-n11
+25. c8-d8 .. Qh7-h9 .. Qn11-l11
+26. Ka6-a5 .. k13-k12 .. Ql11-g6
+27. Nc6-e7 .. Qh9xNf11 .. Qg6-d3
+28. Ka5-a4 .. Qf11xl5+ .. Kn7-m8
+29. b4-c4 .. Qj8xj11+ .. R
+30. Ne7-g8 .. Ql5xBn5
+31. Ng8-i9 .. Qj11xKm8
+32. Ni9-g8 .. Qm8-j11
+33. Ng8-f10 .. Qj11-i12
+34. Na10-c11 .. Qi12xb5+#

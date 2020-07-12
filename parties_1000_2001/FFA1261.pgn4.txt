@@ -1,0 +1,53 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1261"]
+[Result "unpedoviejo: 5 - Norbi985: 57 - mauricio1803: 0 - recordginescrack20: 53"]
+[Variant "FFA"]
+[Red "unpedoviejo"]
+[RedElo "1852"]
+[Blue "Norbi985"]
+[BlueElo "1579"]
+[Yellow "mauricio1803"]
+[YellowElo "1500"]
+[Green "recordginescrack20"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:36:35 GMT+0000 (UTC)"]
+[CurrentMove "101"]
+
+1. g2-g4 .. b5-c5 .. h13-h11 .. m9-l9
+2. g4-g5 .. Ba6-b5 .. h11-h10 .. m8-k8
+3. h2-h3 .. b10-c10 .. h10-h9 .. m7-l7
+4. g5-g6 .. Ba9-b10 .. h9-h8 .. Bn6-m7
+5. Bi1-h2 .. b8-c8 .. h8-h7=D .. m6-l6
+6. g6-g7 .. Bb10xj2 .. Qh7-h12 .. m4-l4
+7. Bh2-i3 .. Bj2xRk1 .. Qh12-j12 .. m10-l10
+8. Kh1-i1 .. Bk1xBi3 .. Qh14-h11 .. l6-k6
+9. Nj1xBi3 .. Qa7-b8+ .. Nj14-i12 .. Bm7xNi3
+10. Qg1-g3 .. Bb5xQh11 .. g13-g12 .. Bi3xRa11
+11. g7-g8=D .. Bh11-b5 .. Ne14-f12 .. Qn8-g1+#
+12. Na10-c9 .. Qj12-j10 .. l9-k9
+13. Bb5-c6 .. Qj10-k10+ .. Bn9-m8
+14. Na5-c4 .. Qk10-k12 .. m11-l11
+15. Nc4-d6 .. Qk12-i10 .. l10-k10
+16. b4-d4 .. Qi10xi2+ .. l4-k4
+17. d4-e4 .. Qi2-i11 .. k10-j10
+18. e4-f4 .. T .. Ba11xNc9
+19. Qb8xBc9 .. Qg1-n8
+20. Qc9xk9 .. l11-k11
+21. Qk9-g9 .. Qn8-i3
+22. Ka8-b8 .. Qi3xQi11
+23. Qg9xg12 .. Qi11xBf14
+24. f4-g4 .. k11-j11
+25. g4-h4=D .. j11xNi12
+26. Qh4-k7 .. Nn5-l6
+27. c5-d5 .. i12-h12
+28. d5-e5 .. Bm8xKg14
+29. e5-f5 .. Bg14-m8
+30. f5-g5 .. Nl6-j5
+31. Qk7xm5 .. Rn4-n6
+32. g5-h5=D .. Qf14xe13
+33. Qg12xh12 .. Qe13-e11+
+34. b9-c9 .. Qe11xb11+
+35. Kb8-c7 .. Qb11xc10
+36. Qh5xQc10 .. R

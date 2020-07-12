@@ -1,0 +1,21 @@
+[GameNr "1138"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Akusu"]
+[RedElo "1819"]
+[Blue "johanlundberg"]
+[BlueElo "1852"]
+[Yellow "eliss_78"]
+[YellowElo "1498"]
+[Green "ermis8992"]
+[GreenElo "2101"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:44:18 GMT+0000 (UTC)"]
+[CurrentMove "17"]
+
+1. h2-h3 .. b6-d6 .. g13-g11 .. m9-k9
+2. d2-d4 .. Qa7-b6 .. j13-j12 .. Qn8xj12
+3. Qg1-h2 .. Qb6xg11+ .. Bf14-g13 .. Qj12-f8
+4. Ne1-f3 .. Na5-c6 .. Nj14-i12 .. Qf8xf13+
+5. R

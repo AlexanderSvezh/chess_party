@@ -1,0 +1,58 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "365"]
+[Result "Rodrigojajaja1981: 20 - Luisfe1913: 20 - oitou: 66 - 04common_user: 51"]
+[Variant "FFA"]
+[Red "Rodrigojajaja1981"]
+[RedElo "1596"]
+[Blue "Luisfe1913"]
+[BlueElo "1490"]
+[Yellow "oitou"]
+[YellowElo "1571"]
+[Green "04common_user"]
+[GreenElo "1544"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:28:18 GMT+0000 (UTC)"]
+[CurrentMove "143"]
+
+1. Nj1-i3 .. Na10-c9 .. e13-e12 .. m10-l10
+2. j2-j3 .. b8-c8 .. Ne14-f12 .. m5-l5
+3. Bi1-j2 .. b5-c5 .. Nf12-d11 .. Bn6xBj2
+4. Rk1-j1 .. Nc9xNd11 .. e12xNd11 .. Bj2-m5
+5. Ne1-f3 .. b11-c11 .. d13-d12 .. Bm5xRd14
+6. g2-g4 .. b6-c6 .. f13-f12 .. m11-l11
+7. g4-g5 .. b7-c7 .. d12xc11 .. Nn10-l9
+8. g5-g6 .. b10xc11 .. g13-g11 .. Nn5-l4
+9. g6-g7 .. Ba6-b7 .. Bf14-g13 .. Bn9-m10
+10. g7-g8=D .. c6-d6 .. Nj14-i12 .. Nl9-k7
+11. Qg8-g2 .. Ra11-a10 .. f12-f11 .. O-O
+12. e2-e3 .. Ba9-b10 .. Bg13xQa7 .. Bd14xg11
+13. Bf1-e2 .. Bb10xNi3 .. Ni12xBg11 .. Nl4xk2
+14. Qg2-g3 .. Bi3-a11 .. Ba7-f12 .. m7-l7
+15. Qg3xNk7 .. Na5-c6 .. h13-h12 .. Qn8-m7
+16. Qg1-g2 .. c7-d7 .. Bi14-h13 .. Nk2-l4
+17. O-O-O .. Ra4-a6 .. Qh14-g13 .. Rn11-n9
+18. i2-i4 .. Ra10-a9 .. O-O-O .. Rn9-n10
+19. i4-i5 .. b9-c9 .. Ki14-j14 .. Bm10xNf3
+20. Be2xBf3 .. Nc6-e5 .. Rh14-e14 .. m8-l8
+21. Qk7-j7 .. Bb7xBf3 .. Qg13-f13 .. m6-k6
+22. Qj7xBf3+ .. Ne5xQf3 .. d11-d10+ .. l10-k10
+23. Qg2xNf3+ .. Ka8-a7 .. d10xc9 .. k10-j10
+24. h2-h4 .. Ba11xc9 .. Bf12xBc9+ .. j10-i10
+25. h4-h5 .. Ra9xBc9 .. Re14-e10 .. i10-h10
+26. h5-h6 .. Ka7-b6 .. Ng11-i12 .. Qm7-l6
+27. h6-h7 .. Rc9xm9 .. Re10-b10+ .. Rn6-m6
+28. h7-h8=D .. Kb6-c7 .. Qf13-c10 .. Rm6xRm9
+29. Qh8xNl4 .. Kc7-d8 .. f11-f10 .. h10-g10=D
+30. Rg1xQg10 .. d7-e7 .. Qc10xc8+# .. Rn10xRg10
+31. Rj1-g1 .. Qc8xRa6+ .. Ql6xRg1+#
+32. Qa6xd6 .. Rm9-f9
+33. j13-j12 .. Rg10xf10
+34. Rb10-b6 .. Rf10-f14+
+35. Kj14-j13 .. Rf9-f13
+36. Qd6-i6 .. Kn5-m5
+37. Qi6-m10+ .. Km5xQl4
+38. Ni12-g11 .. Rf13-f12
+39. Qm10xl11 .. Qg1-g10+
+40. Bh13-i12 .. Qg10-d13
+41. Ql11-h7 .. T

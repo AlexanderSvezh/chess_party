@@ -1,0 +1,27 @@
+[GameNr "154"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "nike08"]
+[RedElo "1500"]
+[Blue "xarisole1994"]
+[BlueElo "2420"]
+[Yellow "Antruni"]
+[YellowElo "1833"]
+[Green "7Mana"]
+[GreenElo "1833"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:16:36 GMT+0000 (UTC)"]
+[CurrentMove "41"]
+
+1. h2-h4 .. b7-c7 .. g13-g12 .. m8-l8
+2. Nj1-i3 .. Qa7-b7 .. j13-j11 .. Qn8-m8
+3. f2-f3 .. Na5-c6 .. Bi14-j13 .. Nn10-l9
+4. g2-g4 .. Qb7-e10 .. k13-k11 .. m7-l7
+5. e2-e4 .. b4-c4 .. Ne14-d12 .. Qm8-m7
+6. k2-k3 .. Qe10-h10 .. Qh14-g13 .. Qm7-k5
+7. Ne1-g2 .. Na10-c9 .. Qg13-i11 .. Nn5-l6
+8. j2-j4 .. Qh10-f10 .. k11-k10 .. Qk5-k8
+9. Bi1-j2 .. Qf10xf3 .. k10xNl9 .. Qk8-k6
+10. Bf1-e2 .. Qf3xBe2 .. Rk14xQk6 .. l7xRk6
+11. T

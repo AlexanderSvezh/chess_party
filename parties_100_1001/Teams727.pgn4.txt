@@ -1,0 +1,18 @@
+[GameNr "727"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "roachesst"]
+[RedElo "2163"]
+[Blue "shinson3552highland"]
+[BlueElo "1500"]
+[Yellow "christopherm1022"]
+[YellowElo "1484"]
+[Green "ezrahleura"]
+[GreenElo "1513"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:47:56 GMT+0000 (UTC)"]
+[CurrentMove "7"]
+
+1. h2-h3 .. b6-c6 .. Ne14-f12 .. m7-l7
+2. Bi1-h2 .. Na5-c4 .. T

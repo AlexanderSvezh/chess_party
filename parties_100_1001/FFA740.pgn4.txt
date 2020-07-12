@@ -1,0 +1,36 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "740"]
+[Result "Furychesss: 51 - TEminemT: 7 - PedrocaPro: 4 - Turboval: 49"]
+[Variant "FFA"]
+[Red "Furychesss"]
+[RedElo "1644"]
+[Blue "TEminemT"]
+[BlueElo "1500"]
+[Yellow "PedrocaPro"]
+[YellowElo "1500"]
+[Green "Turboval"]
+[GreenElo "1559"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:58:43 GMT+0000 (UTC)"]
+[CurrentMove "63"]
+
+1. g2-g4 .. b7-d7 .. j13-j12 .. m5-l5
+2. f2-f3 .. d7-e7 .. Bi14-j13 .. Bn6-m5
+3. g4-g5 .. e7-f7 .. Bj13xm10 .. Bn9xBm10
+4. h2-h4 .. f7-g7 .. g13-g11 .. Nn5-l6
+5. g5-g6 .. Na10-c9 .. Ne14-d12 .. O-O
+6. h4-h5 .. g7-h7=D .. Bf14-j10 .. Rn6-n7
+7. g6xQh7 .. Qa7xh7 .. Bj10-d4 .. Nl6-k4
+8. e2-e3 .. Qh7xh5+ .. Qh14-e11 .. Bm5xj2
+9. Bf1-h3 .. Qh5-d5 .. Qe11xNc9 .. Bj2xQc9
+10. Qg1xg11+ .. b8xBc9 .. T .. m7-k7
+11. Qg11xKg14 .. b10-c10 .. k7-j7
+12. Qg14-g8+ .. Ka8-a7 .. j7-i7
+13. Qg8xQd5 .. b4-c4 .. i7-h7
+14. Qd5-h5 .. Ba9-b10 .. h7-g7=D+
+15. Ne1-g2 .. Ka7-a8 .. Bm10xQh5
+16. Bi1-h2 .. T .. m6-l6
+17. Bh3xb9 .. Qg7-a7
+18. Bb9xKa8 .. Qa7xBa8
+19. R

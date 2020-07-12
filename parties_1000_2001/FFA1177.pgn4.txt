@@ -1,0 +1,52 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1177"]
+[Result "LuwerPVP: 3 - Dg906: 46 - StarWars00: 6 - idukke: 75"]
+[Variant "FFA"]
+[Red "LuwerPVP"]
+[RedElo "1487"]
+[Blue "Dg906"]
+[BlueElo "1681"]
+[Yellow "StarWars00"]
+[YellowElo "1473"]
+[Green "idukke"]
+[GreenElo "1502"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:12:09 GMT+0000 (UTC)"]
+[CurrentMove "99"]
+
+1. g2-g4 .. b7-d7 .. g13-g12 .. m11-k11
+2. g4-g5 .. d7-e7 .. Qh14-g13 .. Nn10-l11
+3. g5-g6 .. Ba6-b7+ .. Qg13xm7+ .. Bn6xQm7
+4. f2-f3 .. b10-c10 .. Bf14xBm7 .. Qn8xBm7
+5. g6-g7 .. e7-f7 .. h13-h11 .. m10-k10
+6. Bf1-i4 .. Bb7-d9 .. Bi14-h13 .. k11-j11
+7. Qg1-g4 .. Ba9xe13 .. R .. m9-l9
+8. e2-e4 .. b8-d8 .. Nn5-l6
+9. j2-j3 .. Qa7-g13 .. k10-j10
+10. Bi1xm5 .. Qg13xKg14 .. Rn4-n5
+11. g7-g8=D .. f7xQg8 .. Rn5xBm5
+12. Qg4xg8 .. Be13-b10 .. Nl11-k9
+13. Bi4-g6 .. Na5-b7 .. Rm5xb5
+14. Qg8-e6 .. Na10-b8 .. Bn9xj13
+15. Qe6-c6 .. Nb8xQc6 .. Rb5xb6
+16. Ne1-d3 .. Bd9xBg6 .. Rb6xNc6
+17. Rd1-g1 .. Bg6-d9 .. Bj13xh11
+18. Rg1-g11 .. Ra4-a5 .. j10-i10
+19. Nd3xb4 .. O-O .. Rc6-b6
+20. Nb4-d3 .. d8-e8 .. Nl6-j5
+21. e4-e5 .. Bb10xRk1 .. Rb6xNb7
+22. Nj1-k3 .. Bd9xRb7 .. Nj5xNk3
+23. T .. Bb7xf3 .. Qm7xh2
+24. Ra9-a7+ .. Nk9-l7
+25. e8-f8 .. Nk3xi2
+26. Bk1-b10 .. Ni2-g3
+27. f8-g8 .. Ng3xKh1
+28. Ra7-h7 .. Qh2-g3
+29. g8-h8=D .. Qg3xBf3
+30. Qg14-g13 .. Nh1-i3
+31. Qg13-j10 .. l9-k9
+32. Qj10-i9 .. Ni3-j5
+33. Qh8-f6 .. Qf3-k8
+34. Qi9-n4+ .. Kn7-m7
+35. T

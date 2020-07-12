@@ -1,0 +1,39 @@
+[GameNr "1287"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Streetham"]
+[RedElo "1497"]
+[Blue "skurbfloor"]
+[BlueElo "1527"]
+[Yellow "Bonvil"]
+[YellowElo "1863"]
+[Green "stlaz123"]
+[GreenElo "1527"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:45:19 GMT+0000 (UTC)"]
+[CurrentMove "90"]
+
+1. h2-h3 .. b8-d8 .. i13-i11 .. m7-k7
+2. i2-i3 .. Na5-c6 .. Ne14-f12 .. Bn6xi11
+3. Bi1-h2 .. b7-c7 .. Qh14-k11 .. m6-l6
+4. i3-i4 .. Qa7-e11 .. Qk11-k8 .. Nn10-l9
+5. f2-f3 .. b4-d4 .. j13-j12 .. m8-l8
+6. j2-j3 .. Ba9-b8 .. j12xBi11 .. Qn8-m7
+7. Qg1-f2 .. Nc6-e5 .. d13-d12 .. Bn9-l7
+8. Bh2-i1 .. Qe11-k5 .. Qk8-k10 .. Nn5-l4
+9. Ne1-d3 .. Ne5xNd3 .. Qk10xm10 .. Rn11-n10
+10. e2xNd3 .. Qk5-g9 .. Qm10-l11 .. Rn10-l10
+11. Rd1-e1 .. b11-d11 .. Ql11-e4+ .. Bl7-j9
+12. Bi1-d6 .. Ba6-b7 .. Qe4xBj9 .. Nl4-k6
+13. Bd6xQg9 .. Na10-c9 .. k13-k11 .. Nl9xk11
+14. Re1-e4 .. b5-c5 .. Rk14xNk11 .. Nk6-j8
+15. Re4-e6 .. Ka8-a7 .. Qj9-g6 .. Qm7-m6
+16. Re6xb6 .. Nc9-d7 .. Bi14-j13 .. m4-k4
+17. Rb6xBb7+ .. Ka7xRb7 .. Bj13xNd7 .. k4xj3
+18. k2-k4 .. Ra4-a6 .. Qg6-d9+ .. Rn4xk4
+19. Rk1xRk4 .. Kb7-b6 .. Rk11xm11 .. Qm6xRk4
+20. Nj1-i3 .. Kb6-a5 .. Rm11-n11+ .. Kn7-m6
+21. Ni3xQk4 .. Ra6-d6 .. Qd9-b7 .. m5-l5
+22. Bg9xRd6 .. Ra11-a7 .. Qb7-b5+ .. l5xNk4
+23. Bd6xc5 .. #

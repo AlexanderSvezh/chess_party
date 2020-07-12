@@ -1,0 +1,62 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "527"]
+[Result "kilapride: 0 - Persian_Army: 77 - juanmagr: 32 - AHMADIIU: 9"]
+[Variant "FFA"]
+[Red "kilapride"]
+[RedElo "1459"]
+[Blue "Persian_Army"]
+[BlueElo "1707"]
+[Yellow "juanmagr"]
+[YellowElo "1511"]
+[Green "AHMADIIU"]
+[GreenElo "1684"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:14:08 GMT+0000 (UTC)"]
+[CurrentMove "132"]
+
+1. h2-h3 .. b7-d7 .. h13-h11 .. m10-l10
+2. h3-h4 .. d7-e7 .. h11-h10 .. m5-l5
+3. h4-h5 .. e7-f7 .. h10-h9 .. Bn9-m10
+4. h5-h6 .. f7-g7 .. e13-e12 .. Bn6-m5
+5. h6-h7 .. Na5-c6 .. Ne14-f12 .. Nn5-l6
+6. i2-i3 .. Nc6-e7 .. Bf14-e13 .. O-O
+7. i3-i4 .. Ne7-f9 .. O-O .. Rn6-n7
+8. T .. Ba6-b7 .. Bi14-e10 .. Nl6-k4
+9. Bb7xg2 .. Be10xNf9 .. Nk4-i3
+10. Bg2xKh1 .. k13-k12 .. Ni3xBh1
+11. b4-d4 .. Bf9xb5 .. Nh1-i3
+12. Ra4-b4 .. Bb5-h11 .. m7-k7
+13. d4-e4 .. i13-i11 .. k7-j7
+14. e4-f4 .. i11-i10 .. j7-i7
+15. b8-c8 .. i10-i9 .. Bm10-f3+
+16. Ka8-b8 .. i9-i8 .. m8-k8
+17. b9-c9 .. i8xh7=D .. k8-j8
+18. b11-c11 .. Qh7-h3 .. Bf3-m10
+19. f4-g4 .. Qh3-g3+ .. Ni3xg4
+20. Kb8-a8 .. Qg3-f3+ .. j8-i8
+21. Ka8-b9 .. h9xi8 .. Qn8xi8
+22. g7-h7=D .. Qf3-f9 .. Qi8-i11
+23. Qh7-b7 .. Qf9xm9 .. Rn7-m7
+24. Rb4-c4 .. Qm9-n8+ .. Bm5-n6
+25. b10-c10 .. Qh14-h13 .. Bm10-l9
+26. Rc4-c7 .. Qh13-h14 .. Nn10-m8
+27. Rc7xi7 .. Qn8xRn11 .. Bl9xQn11
+28. Ri7xQi11 .. j13-j12 .. Rm7-j7
+29. Ri11-i7 .. j12-j11 .. Bn6-m5
+30. Ri7-h7 .. Qh14-h12 .. Bm5-n6
+31. Na10-b8 .. Qh12-g11 .. Ng4-i3
+32. Rh7-g7 .. Qg11-i9 .. Bn6xg13
+33. Rg7-d7 .. Rf14-g14 .. Bg13-j10
+34. Rd7xd13 .. Qi9-i8 .. Nm8-k9
+35. Rd13-d7 .. Qi8-n8+ .. Rj7-n7
+36. Rd7xRn7+ .. Qn8-l6#
+37. c11-d11 .. Nf12-h13
+38. d11xe12 .. f13xe12
+39. Ra11xBh11 .. Nh13-f12
+40. Rh11-e11 .. Nj14-h13
+41. Qb7-c6 .. Rk14-i14
+42. Qc6xQl6 .. k12-k11
+43. Re11xe12 .. Nf12-g10
+44. Re12xBe13+ .. Ke14-d14
+45. Qa7-d7+#

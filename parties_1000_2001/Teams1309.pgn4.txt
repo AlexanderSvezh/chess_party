@@ -1,0 +1,17 @@
+[GameNr "1309"]
+[Result "Aborted"]
+[Variant "Teams"]
+[Red "AC61"]
+[RedElo "1845"]
+[Blue "GongGong0607"]
+[BlueElo "1955"]
+[Yellow "Great-Gazoo"]
+[YellowElo "1295"]
+[Green "Akusu"]
+[GreenElo "1777"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:36:11 GMT+0000 (UTC)"]
+[CurrentMove "1"]
+
+1. R

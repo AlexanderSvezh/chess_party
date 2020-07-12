@@ -1,0 +1,42 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "499"]
+[Result "antentokounmpo: 83 - moyassin14: 6 - MSantos97: 16 - WockyKitaki: 27"]
+[Variant "FFA"]
+[Red "antentokounmpo"]
+[RedElo "1690"]
+[Blue "moyassin14"]
+[BlueElo "1557"]
+[Yellow "MSantos97"]
+[YellowElo "1608"]
+[Green "WockyKitaki"]
+[GreenElo "1475"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:56:26 GMT+0000 (UTC)"]
+[CurrentMove "73"]
+
+1. h2-h3 .. b7-d7 .. h13-h11 .. m8-k8
+2. Qg1-h2 .. Ba6xBi14 .. Qh14xBi14 .. k8-j8
+3. f2-f3 .. d7-e7 .. e13-e12 .. j8-i8
+4. g2-g4 .. e7-f7 .. Ne14-f12 .. i8-h8
+5. Bf1-g2 .. f7-g7 .. Bf14-e13 .. h8xg7=D
+6. Nj1-i3 .. Qa7xQg7 .. Qi14-a6+ .. Nn10-l9
+7. Qh2xb8+# .. k13-k12 .. Qn8xQb8
+8. Bi1xQb8 .. Qa6-h13 .. m7-k7
+9. d2-d4 .. h11-h10 .. Bn6-m7
+10. d4-d5 .. h10-h9 .. Bm7xNi3
+11. j2xBi3 .. h9-h8 .. Nn5-l6
+12. d5-d6 .. h8xQg7=D .. O-O
+13. d6-d7 .. Qg7-i7 .. Bn9-m8
+14. d7-d8=D .. Qi7xi3 .. Nl9-j8
+15. Qd8xQi3 .. O-O .. Bm8xQh13
+16. Qi3-d8 .. Nj14xBh13 .. Rn11-n8
+17. Bb8xNf12 .. Be13xBf12 .. Nj8-i6
+18. Qd8xd13+# .. Ni6-h4
+19. Qd13xe12 .. Nh4xBg2
+20. Ne1xNg2 .. Rn8-h8
+21. O-O-O .. Nl6-j5
+22. k2-k4 .. Nj5-h6
+23. Qe12-k6 .. m6-l6
+24. Ng2-i3 .. Rh8-d8
+25. Ni3-j5 .. R

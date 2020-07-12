@@ -1,0 +1,21 @@
+[GameNr "304"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "LinuxKernell"]
+[RedElo "2174"]
+[Blue "Arielgue21"]
+[BlueElo "1959"]
+[Yellow "tydudyjfykgyk"]
+[YellowElo "2151"]
+[Green "oscarbacca"]
+[GreenElo "1724"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:56:40 GMT+0000 (UTC)"]
+[CurrentMove "18"]
+
+1. h2-h3 .. b7-c7 .. h13-h12 .. m8-l8
+2. Qg1-k5 .. Ba6xBi14 .. Qh14xBi14 .. Qn8-m8+
+3. Qk5xb5 .. Na5-b7 .. Nj14-i12 .. Qm8-l9
+4. Bi1-h2 .. Ra4-a5 .. Qi14xNb7+ .. Ql9-d9
+5. Qb5-a6 .. #

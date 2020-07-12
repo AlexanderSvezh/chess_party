@@ -1,0 +1,52 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1023"]
+[Result "Gone_Again: 81 - merveduru: 19 - idukke: 10 - AlexMM321: 27"]
+[Variant "FFA"]
+[Red "Gone_Again"]
+[RedElo "1701"]
+[Blue "merveduru"]
+[BlueElo "1500"]
+[Yellow "idukke"]
+[YellowElo "1518"]
+[Green "AlexMM321"]
+[GreenElo "1794"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:22:38 GMT+0000 (UTC)"]
+[CurrentMove "127"]
+
+1. j2-j3 .. b7-d7 .. e13-e12 .. m8-k8
+2. Bi1-j2 .. d7-e7 .. d13-d11 .. k8-j8
+3. Nj1-i3 .. e7-f7 .. Bf14-e13 .. j8-i8
+4. O-O .. f7-g7 .. g13-g11 .. i8-h8
+5. Ne1-f3 .. g7xh8=D .. Nj14-i12 .. Qn8xQh8
+6. g2-g3 .. b6-c6 .. Ni12-h10 .. Qh8-n8
+7. d2-d3 .. b10-c10 .. d11-d10 .. Nn5-l6
+8. g3-g4 .. b11-d11 .. Be13-f12 .. m4-l4
+9. g4-g5 .. d11xe12 .. d10-d9 .. m10-l10
+10. g5-g6 .. c10xd9 .. Rd14xd9 .. Bn9-m10
+11. g6-g7 .. Ba6xRd9 .. Qh14-g13 .. m9-k9
+12. g7-g8=D .. Na10-c11 .. Qg13xk9 .. l10xQk9
+13. Qg8xQn8+ .. e12xf13+ .. Kg14xf13 .. Kn7xQn8
+14. h2-h4 .. Qa7-f7 .. k13-k12 .. Nn10-m8
+15. h4-h5 .. b8-c8 .. h13-h12 .. Bm10-k8+
+16. h5-h6 .. Ba9-b8 .. Bi14-g12 .. Bk8-m10
+17. Ri1-h1 .. Nc11-e10 .. Bg12-f11 .. m7-l7
+18. h6-h7 .. Bb8xBf12 .. Ne14xBf12 .. Rn11-n9
+19. h7-h8=D .. Ra11xBf11 .. Kf13-e12 .. k9-j9
+20. Qh8-e5 .. Bd9-c10+ .. Nf12-d11 .. j9-i9
+21. Qe5xNe10+ .. Rf11-f8 .. Ke12-d12 .. i9-h9
+22. Qe10-e5 .. Qf7-j7 .. Nd11-f10 .. Nl6xQj7
+23. Qe5xb5 .. T .. Nf10-h11 .. h9-g9=D+
+24. Bf1-g2 .. Nh11xQg9 .. Rn9xNg9
+25. Qb5-a6 .. Rk14-f14 .. Rg9-n9
+26. Qa6xKa8 .. Rf14xRf8 .. Nj7-l6
+27. Qa8-a9+ .. Kd12-d11 .. m11-l11
+28. Qa9-a11+ .. Kd11xBc10 .. l11xk12
+29. Bg2-h3 .. j13xk12 .. Bm10xk12
+30. Bh3-i4+ .. Kc10-d10 .. Rn9-i9
+31. Qg1-g7 .. Nh10-f9 .. Ri9xi13
+32. Qg7xRf8+ .. Kd10-e10 .. Bn6xh12
+33. Qa11-b10+ .. Ke10-f11 .. Bh12-m7
+34. Qf8xNf9+ .. Kf11-g12 .. Bk12-m10
+35. Qb10-d12+# .. R

@@ -1,0 +1,38 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "353"]
+[Result "Ariethy: 35 - owljay: 0 - Merlin-Pendragon: 41 - zalikwinnen: 13"]
+[Variant "FFA"]
+[Red "Ariethy"]
+[RedElo "1509"]
+[Blue "owljay"]
+[BlueElo "1668"]
+[Yellow "Merlin-Pendragon"]
+[YellowElo "1666"]
+[Green "zalikwinnen"]
+[GreenElo "1568"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:15:41 GMT+0000 (UTC)"]
+[CurrentMove "68"]
+
+1. j2-j3 .. b6-d6 .. k13-k11 .. m10-k10
+2. e2-e3 .. d6-e6 .. j13-j12 .. m11-l11
+3. Bf1-e2 .. e6-f6 .. Bi14-j13 .. Rn11-m11
+4. Bi1-j2 .. f6-g6 .. Nj14-i12 .. m9-k9
+5. Bj2-h4 .. g6-h6=D .. Ni12-g11 .. Nn10-l9
+6. Bh4-j2 .. Qa7-b6 .. Ng11-i10 .. m6-l6
+7. Nj1-i3 .. T .. Bj13-c6 .. k9-j9
+8. O-O .. Ni10-k9 .. m8-l8
+9. g2-g4 .. Nk9-i8 .. j9xNi8
+10. g4-g5 .. Bc6xb7 .. i8-h8
+11. Be2xNl9+ .. Bb7xKa8 .. Bn9-m8
+12. Bl9-i6 .. d13-d11 .. m7-k7
+13. g5-g6 .. d11-d10 .. Rm11-m9
+14. g6-g7 .. Ba8-d5 .. Rm9-g9
+15. g7xh8=D .. g13-g12 .. Rg9xQg1
+16. Ri1xRg1 .. i13-i11 .. Bm8-l7
+17. Qh8-e5 .. Bd5-f7 .. l8-k8
+18. Rg1-g5 .. j12-j11 .. k10xj11
+19. Rg5xm5 .. Bf7xj11+ .. R
+20. Rm5-m7 .. Bj11xKn7
+21. Rm7xBn7 .. R

@@ -1,0 +1,58 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1432"]
+[Result "ShahUnchained: 1 - Shikaday: 9 - rricorrodriguez: 43 - DarVader: 83"]
+[Variant "FFA"]
+[Red "ShahUnchained"]
+[RedElo "1726"]
+[Blue "Shikaday"]
+[BlueElo "1653"]
+[Yellow "rricorrodriguez"]
+[YellowElo "1765"]
+[Green "DarVader"]
+[GreenElo "1861"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:30:14 GMT+0000 (UTC)"]
+[CurrentMove "118"]
+
+1. j2-j3 .. b6-d6 .. k13-k11 .. m8-k8
+2. Bi1-j2 .. d6-e6 .. k11-k10 .. k8-j8
+3. e2-e3 .. b5-d5 .. k10-k9 .. j8-i8
+4. Ne1-d3 .. Qa7-b6 .. k9-k8 .. i8-h8
+5. Nd3-e5 .. e6-f6 .. k8-k7=D .. h8-g8=D
+6. d2-d4 .. b4-c4 .. Qk7-k10+ .. Qg8-m8
+7. Bf1-e2 .. f6-g6 .. Qk10-k13 .. m4-l4
+8. Nj1-i3 .. g6-h6=D .. Ne14-f12 .. Nn5-l6
+9. O-O .. b10-c10 .. d13-d12 .. m5-l5
+10. Ni3-g4 .. Na10-c9 .. e13-e12 .. Bn6-m5
+11. Ng4xQh6 .. Qb6xNh6 .. Qk13xk2+# .. O-O
+12. Ba9-b10 .. Qk2-k13 .. m10-l10
+13. O-O .. Bf14-e13 .. m11-k11
+14. Na5-c6 .. O-O .. m7-k7
+15. Nc6xd4 .. Nf12-d13 .. k7-j7
+16. Ba6-b5 .. Rf14-g14 .. Rn6-n7
+17. Nd4-c6 .. Nd13-c11+ .. j7-i7
+18. Bb10xNc11 .. d12xBc11 .. i7xQh6
+19. Nc6-d8 .. Qk13-c5 .. h6-g6=D
+20. Ra4-a5 .. i13-i12 .. Qm8xNd8
+21. Nc9-e10 .. g13-g12 .. Qd8xb8
+22. Ne10-d12+ .. Be13xNd12 .. Qb8xQh14
+23. Bb5xi12 .. Rg14xQh14 .. m9-k9
+24. Bi12xj13 .. Bi14xBj13 .. Bn9xBj13
+25. Ra5xQc5 .. Rk14-k13 .. Bj13-m10
+26. T .. h13-h11 .. k9-j9
+27. h11-h10 .. Bm10-j7
+28. h10-h9 .. j9-i9
+29. Rk13-i13 .. Nl6-k8
+30. Nj14-i12 .. Nk8-j10
+31. Ni12-g13 .. Nj10xh9
+32. Ri13xi9 .. Nh9-g11
+33. Ri9xb9 .. Qg6xc10
+34. Rb9xRa9 .. Qc10xKa10
+35. Ra9xQa10 .. l10-k10
+36. Ra10xk10 .. k11-j11
+37. Rk10-j10 .. Qn8xRh14+
+38. Bd12-f14 .. Ng11-h13
+39. Rj10xBj7 .. Rn7xRj7
+40. g12-g11 .. Qh14xBf14+
+41. R

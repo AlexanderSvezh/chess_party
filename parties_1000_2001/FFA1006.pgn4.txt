@@ -1,0 +1,42 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1006"]
+[Result "KINGPavelDatsyuk: 14 - SMARTandHANDSOME2018: 10 - TilemahosG: 66 - rlaalr: 35"]
+[Variant "FFA"]
+[Red "KINGPavelDatsyuk"]
+[RedElo "1571"]
+[Blue "SMARTandHANDSOME2018"]
+[BlueElo "1543"]
+[Yellow "TilemahosG"]
+[YellowElo "1798"]
+[Green "rlaalr"]
+[GreenElo "1598"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:10:03 GMT+0000 (UTC)"]
+[CurrentMove "64"]
+
+1. g2-g4 .. b7-c7 .. e13-e12 .. m4-l4
+2. g4-g5 .. b6-d6 .. Bf14-e13 .. m11-l11
+3. g5-g6 .. Ba6-b7+ .. Ne14-f12 .. m8-l8
+4. f2-f3 .. Bb7xf3+ .. O-O .. Qn8-m8
+5. Ne1xBf3 .. Qa7xQg1+ .. h13-h11 .. Qm8xBf1
+6. Nf3xQg1 .. b5-c5 .. Qh14-h13+ .. Qf1-m8
+7. j2-j3 .. b10-c10 .. Qh13-a6+# .. Qm8-g2+#
+8. h11-h10 .. Qg2xg6
+9. h10-h9 .. Qg6xg13
+10. Bi14-h13+ .. Bn9-m8
+11. Bh13xBm8+ .. Nn10xBm8
+12. Nj14-i12 .. Qg13xi13
+13. Rk14-j14 .. Qi13-h12
+14. Rf14-h14 .. Qh12-k9
+15. h9-h8 .. m5-k5
+16. h8-h7=D .. Bn6-m5
+17. Qa6-b7 .. Nn5-l6
+18. Qb7xc7 .. Nl6-k8
+19. Rh14-h9 .. Qk9-g13
+20. Ni12xQg13 .. Bm5xNf12
+21. Be13xBf12 .. Nm8-k9
+22. Bf12xRn4 .. Kn7-m8
+23. Bn4-m5 .. l4-k4
+24. Qh7xk4 .. Nk9-i10
+25. Qk4xk5 .. T

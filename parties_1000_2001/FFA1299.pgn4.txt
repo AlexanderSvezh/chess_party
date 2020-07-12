@@ -1,0 +1,46 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1299"]
+[Result "jhadiluweghdl: 31 - titomoron: 61 - m62: 18 - venegaz: 0"]
+[Variant "FFA"]
+[Red "jhadiluweghdl"]
+[RedElo "1621"]
+[Blue "titomoron"]
+[BlueElo "1638"]
+[Yellow "m62"]
+[YellowElo "1844"]
+[Green "venegaz"]
+[GreenElo "1588"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:45:09 GMT+0000 (UTC)"]
+[CurrentMove "91"]
+
+1. j2-j3 .. b6-d6 .. h13-h11 .. m8-k8
+2. k2-k4 .. d6-e6 .. Nj14-i12 .. k8-j8
+3. e2-e3 .. e6-f6 .. h11-h10 .. j8-i8
+4. Bf1-d3 .. Qa7-b6 .. Ne14-f12 .. i8-h8
+5. f2-f4 .. f6-g6 .. h10-h9 .. Bn9-m8
+6. Nj1-i3 .. g6-h6=D .. Bi14-h13 .. m4-l4
+7. Bi1-j2 .. Qh6xm6+# .. e13-e12
+8. Kh1-i1 .. Na10-c11 .. Bf14-e13
+9. g2-g4 .. Nc11-d9 .. Nf12-g10
+10. g4-g5 .. Qb6-f10 .. f13-f11
+11. Bd3-e2 .. Nd9-e11 .. Ng10-h12
+12. Ne1-g2 .. Ne11-g12 .. Bh13xNg12
+13. k4-k5 .. Qm6xBg12 .. Rd14-f14
+14. k5-k6 .. Qf10-d8 .. Rf14-d14
+15. k6-k7 .. b11-d11 .. Ni12-h10
+16. k7-k8=D .. Qg12-g9 .. k13-k12
+17. Qk8-k10+ .. Qd8xNh12 .. Nh10-i12
+18. Qk10xb10 .. Ra11-a10 .. Qh14xQh12
+19. Qb10xBe13 .. Ba9xQe13 .. Kg14-h13
+20. d2-d4 .. Qg9-d9 .. Rd14-e14
+21. Qg1-f2 .. Be13-a9 .. Qh12-h11
+22. Qf2-j6 .. Na5-c6 .. Ni12-g11
+23. Be2-l9+ .. Qd9xf11+ .. Kh13-h14
+24. Qj6-i6 .. Qf11-c8 .. i13-i12
+25. Bl9-k8 .. d11xe12 .. Ng11-i10
+26. Bk8xNi10 .. e12-f12 .. Qh11xBi10
+27. Qi6-j5 .. Ra10xQi10 .. g13xf12
+28. Qj5xj13 .. Qc8-h13+#
+29. Qj13xQh13 .. R

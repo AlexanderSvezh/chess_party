@@ -1,0 +1,22 @@
+[GameNr "1371"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "yoltzinfernandez"]
+[RedElo "1467"]
+[Blue "titomoron"]
+[BlueElo "1465"]
+[Yellow "austinkp"]
+[YellowElo "1644"]
+[Green "Bonvil"]
+[GreenElo "1885"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:01:13 GMT+0000 (UTC)"]
+[CurrentMove "21"]
+
+1. h2-h3 .. Na10-c9 .. g13-g12 .. m9-k9
+2. Bi1-h2 .. b5-c5 .. Bf14xk9 .. Nn5-l6
+3. d2-d3 .. b6-d6 .. Qh14-g13 .. m8-l8
+4. f2-f3 .. Qa7-b6 .. Bk9-h12 .. Qn8xi13
+5. Bh2xNl6 .. Qb6xBh12 .. Qg13xQh12 .. Qi13xQh12
+6. T

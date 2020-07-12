@@ -1,0 +1,35 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "437"]
+[Result "mancheg: 9 - oitou: 51 - Princyrulz: 23 - moyassin14: 0"]
+[Variant "FFA"]
+[Red "mancheg"]
+[RedElo "1567"]
+[Blue "oitou"]
+[BlueElo "1586"]
+[Yellow "Princyrulz"]
+[YellowElo "1825"]
+[Green "moyassin14"]
+[GreenElo "1570"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:36:49 GMT+0000 (UTC)"]
+[CurrentMove "63"]
+
+1. g2-g4 .. b10-c10 .. d13-d12 .. m6-k6
+2. g4-g5 .. b5-c5 .. e13-e11 .. m7-l7
+3. g5-g6 .. Na5-c6 .. h13-h12 .. Qn8-l6
+4. g6-g7 .. Nc6-d4 .. g13-g11 .. m5-k5
+5. g7-g8=D .. Nd4xe2 .. f13-f11 .. m8-k8
+6. Qg1-g2 .. Ne2-f4 .. Qh14-f12 .. Bn9-m8+
+7. Qg2-g5 .. Ba6xBf1 .. i13-i12 .. k6-j6
+8. Qg5xNf4 .. Bf1-e2 .. f11-f10 .. m4-l4
+9. Qf4-g5 .. Be2xRd1 .. j13-j12 .. m11-l11
+10. Qg5xRa11 .. Na10-c9 .. f10-f9 .. Nn10-l9
+11. Qg8-g10 .. Qa7-a6 .. Bi14-h13 .. l4-k4
+12. Qg10xm10 .. Qa6-f1+# .. f9-f8 .. k4-j4
+13. Qf1-e2 .. f8-f7=D .. Ql6-k7
+14. Qe2-g4 .. Qf7-f9 .. j4-i4
+15. b6-c6 .. i12-i11 .. Bn6xj2
+16. Qg4xi2+ .. Qf9xNl9 .. R
+17. Qi2xKn7 .. Ql9xBm8
+18. R

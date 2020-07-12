@@ -1,0 +1,19 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "41"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "bitfungi"]
+[RedElo "1559"]
+[Blue "bishbosh66"]
+[BlueElo "1500"]
+[Yellow "kingcon4848"]
+[YellowElo "1487"]
+[Green "ivan_rus_2010"]
+[GreenElo "1439"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 16:37:50 GMT+0000 (UTC)"]
+[CurrentMove "8"]
+
+1. h2-h4 .. b8-d8 .. g13-g11 .. m8-k8
+2. h4-h5 .. d8-e8 .. g11-g10 .. R

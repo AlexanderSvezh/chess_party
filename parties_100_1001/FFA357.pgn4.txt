@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "357"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "nasuru"]
+[RedElo "1837"]
+[Blue "invant"]
+[BlueElo "1786"]
+[Yellow "Alvaro_Ayala"]
+[YellowElo "1844"]
+[Green "Balsa66"]
+[GreenElo "1811"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:08:19 GMT+0000 (UTC)"]
+[CurrentMove "1"]
+
+1. T

@@ -1,0 +1,24 @@
+[GameNr "1036"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "atdheplakolli"]
+[RedElo "1787"]
+[Blue "chustgame"]
+[BlueElo "1733"]
+[Yellow "GamidGod"]
+[YellowElo "1511"]
+[Green "Beginner122143"]
+[GreenElo "1892"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:15:45 GMT+0000 (UTC)"]
+[CurrentMove "32"]
+
+1. h2-h3 .. b7-c7 .. e13-e12 .. m8-l8
+2. Qg1-j4 .. Qa7-b7 .. Ne14-f12 .. Qn8-m8
+3. Ne1-f3 .. Na10-c9 .. Nj14-i12 .. Nn5-l6
+4. Qj4-h2 .. b4-d4 .. Bf14-e13 .. Nl6-k4
+5. Nj1-i3 .. d4-e4 .. O-O .. Nk4xNi3+
+6. Qh2xNi3 .. e4xNf3 .. h13-h11 .. m4-k4
+7. e2xf3 .. b8-c8 .. Nf12-e10 .. Nn10-l9
+8. Rd1-e1 .. Qb7-d5 .. Ne10xNc9+ .. R

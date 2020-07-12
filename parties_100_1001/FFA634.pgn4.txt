@@ -1,0 +1,35 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "634"]
+[Result "Pollux1109: 25 - edgarjht: 5 - Noril4anin: 47 - johntowler: 5"]
+[Variant "FFA"]
+[Red "Pollux1109"]
+[RedElo "1658"]
+[Blue "edgarjht"]
+[BlueElo "1701"]
+[Yellow "Noril4anin"]
+[YellowElo "1826"]
+[Green "johntowler"]
+[GreenElo "1708"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:28:56 GMT+0000 (UTC)"]
+[CurrentMove "47"]
+
+1. j2-j3 .. b7-d7 .. h13-h11 .. m8-k8
+2. g2-g4 .. b8-c8 .. h11-h10 .. Nn10-l9
+3. Bf1xBn9 .. d7-e7 .. h10-h9 .. Qn8xBn9
+4. Ne1-f3 .. e7-f7 .. h9-h8 .. T
+5. Qg1-g2 .. b6-c6 .. h8-h7=D
+6. Qg2-m8 .. b5-d5 .. Ne14-f12
+7. Qm8xKn7 .. Ba6xe2 .. g13-g12
+8. Rd1-e1 .. Be2xNf3+ .. Qh7xh2+#
+9. Bf3-e4 .. k13-k11
+10. f7-g7 .. Qh2-h7
+11. Be4xQh7 .. Qh14xBh7
+12. Na5-c4 .. k11-k10
+13. b10-c10 .. k10xNl9
+14. Na10-c11 .. l9xk8
+15. Nc11-d9 .. k8-k7=D
+16. Nd9-f8 .. Qh7xg7
+17. Nf8-d7 .. d13-d11
+18. R

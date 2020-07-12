@@ -1,0 +1,56 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "172"]
+[Result "OrestesCaraballo: 14 - ilyar044: 99 - werowww: 34 - hi213456789: 4"]
+[Variant "FFA"]
+[Red "OrestesCaraballo"]
+[RedElo "1490"]
+[Blue "ilyar044"]
+[BlueElo "1536"]
+[Yellow "werowww"]
+[YellowElo "1787"]
+[Green "hi213456789"]
+[GreenElo "1554"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:30:17 GMT+0000 (UTC)"]
+[CurrentMove "91"]
+
+1. h2-h4 .. b8-d8 .. e13-e12 .. m8-k8
+2. Nj1-h2 .. d8-e8 .. Bf14-e13 .. m7-l7
+3. h4-h5 .. e8-f8 .. Ne14-f12 .. Qn8xNh2+
+4. Bi1xQh2 .. f8-g8 .. Nf12-g10 .. Bn6xg13
+5. g2-g4 .. g8-h8=D .. Qh14xBg13 .. l7-k7
+6. Bf1xBn9 .. Qh8xk8 .. Ng10-f12 .. Nn10-m8
+7. T .. Qa7-b8 .. O-O .. Kn7-n8
+8. Qk8xNm8+# .. Qg13xg4
+9. Qb8xBh2 .. Qg4-e4
+10. Qm8-g2 .. Qe4-i8+
+11. Na10-b8 .. h13-h11
+12. Qh2xKh1 .. Rf14-g14
+13. Qg2-e4 .. Qi8-f11
+14. b7-d7 .. Qf11xBa6+
+15. Nb8xQa6 .. Bi14xNa6
+16. Na5-b7 .. Rg14-g8+
+17. Ba9-b8 .. Ba6xb5
+18. Ra4-a5 .. Bb5xd7
+19. Qe4-d5 .. Bd7-f9
+20. Nb7-d8 .. Bf9-d11
+21. b10-c10 .. Rg8xNd8
+22. Qd5xRd8 .. Bd11-e10
+23. b11-d11 .. Be10-f11
+24. d11xe12 .. d13xe12
+25. Bb8xNf12 .. Be13xBf12
+26. Ra11xBf11 .. e12xRf11
+27. Qh1-e4+ .. Bf12-e13
+28. Ra5-e5 .. Nj14-h13
+29. Re5xBe13+ .. Ke14-f14
+30. Qd8xi13 .. Nh13-f12
+31. Qi13xj13 .. Rk14-g14
+32. Qj13xk13 .. Rg14-g8+
+33. Ka8-a9 .. Nf12-e10
+34. Re13xNe10 .. f11xRe10
+35. Qe4xe10 .. Rg8-g10
+36. Qe10-i14+ .. Kf14-e13
+37. Qk13-e7+ .. Ke13-d12
+38. Qi14-d9+ .. Kd12-c11
+39. Qe7-e11+#

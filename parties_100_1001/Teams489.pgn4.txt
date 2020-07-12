@@ -1,0 +1,27 @@
+[GameNr "489"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "salata"]
+[RedElo "2730"]
+[Blue "Pacados"]
+[BlueElo "1829"]
+[Yellow "Sourenb11"]
+[YellowElo "1626"]
+[Green "rubiayyegua"]
+[GreenElo "1638"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:52:31 GMT+0000 (UTC)"]
+[CurrentMove "44"]
+
+1. h2-h3 .. b7-c7 .. g13-g12 .. m8-l8
+2. Qg1-j4 .. Qa7-b7 .. Qh14-g13 .. Qn8-m8
+3. Ne1-f3 .. Na5-c6 .. j13-j12 .. Nn5-l6
+4. Nj1-i3 .. Qb7-d9 .. Bi14-j13 .. Nn10-l9
+5. Qj4-i5 .. Na10-c9 .. Ne14-d12 .. Qm8-k6
+6. k2-k4 .. b4-d4 .. Bj13-i12 .. Bn9-m8
+7. e2-e4 .. Nc9-d11 .. e13-e12 .. m5-k5
+8. Bf1xb5 .. Ba6xBb5 .. e12xNd11 .. Qk6-k7
+9. Qi5xBb5 .. Ra4-a7 .. Rd14-e14 .. Qk7xf2
+10. Bi1-h2 .. Qd9-b7 .. Bi12xNc6 .. Nl6xk4
+11. Rk1xNk4 .. Qb7xBc6 .. Qg13xb8+ .. R

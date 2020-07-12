@@ -1,0 +1,50 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "111"]
+[Result "Nagato_Zetsu: 63 - Hosam7080: 22 - BlackDragonMaster: 63 - Davidbloom001: 9"]
+[Variant "FFA"]
+[Red "Nagato_Zetsu"]
+[RedElo "1762"]
+[Blue "Hosam7080"]
+[BlueElo "1500"]
+[Yellow "BlackDragonMaster"]
+[YellowElo "1595"]
+[Green "Davidbloom001"]
+[GreenElo "1578"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:17:41 GMT+0000 (UTC)"]
+[CurrentMove "118"]
+
+1. j2-j3 .. b7-c7 .. h13-h11 .. m5-l5
+2. Bi1xBn6 .. b8-d8 .. f13-f11 .. Kn7xBn6
+3. Nj1-i3 .. Qa7-c9 .. d13-d12 .. Nn5-l6
+4. O-O .. c7-d7 .. e13-e11 .. Kn6-m5
+5. Ne1-d3 .. Qc9xe11 .. d12xQe11 .. Rn4-n6
+6. Nd3-f4 .. Ba6xf11 .. Bi14xBf11 .. m10-l10
+7. Nf4-g6 .. Na5-c6 .. k13-k12 .. Bn9-m10
+8. Ng6-h8 .. Nc6-e7 .. g13-g12 .. Nn10-l9
+9. Ni3-h5 .. d8-e8 .. Rd14xd7 .. m4-k4
+10. j3xk4 .. Ne7-f9 .. Bf11-b7+ .. Nl6xk4
+11. Nh8xNf9 .. Ka8-b8 .. e11-e10+ .. m8-k8
+12. Nf9-g7 .. b9-c9 .. Bf14-g13 .. Nl9-k11
+13. Ng7xe8 .. Ra4-a7 .. Bg13xc9+ .. Nk11xj13
+14. Ne8-c7 .. b10xBc9 .. Qh14-e11 .. Qn8-m8+
+15. Nc7xb5 .. Ra7xBb7 .. Kg14-f13 .. Nj13-h12+
+16. g2-g4 .. Rb7xRd7 .. i13xNh12 .. Qm8-h13+
+17. Qg1-g3+ .. Kb8-a8 .. Nj14xQh13 .. k8-j8
+18. Qg3xm9 .. Rd7-d13+ .. Kf13-e12 .. Bm10-j7+
+19. Qm9xm7 .. Rd13xNh13 .. Ke12-d11 .. Nk4-i5
+20. i2-i4 .. Ba9xh2 .. Qe11-h8+ .. Bj7-k6
+21. Qm7xBh2 .. Ka8-b9 .. e10-e9 .. Ni5xg4
+22. Qh2-j2+ .. Na10-b8 .. e9-e8 .. Km5-l6
+23. Bf1-h3 .. Rh13xh12 .. e8-e7=D .. Ng4-i5+
+24. Bh3xKb9+# .. Kd11-d10 .. Rn6-n7
+25. d2-d4 .. Qh8xj8+ .. Kl6-k5
+26. Kj1-i2 .. Qj8xQj2+ .. Bk6xi4
+27. Ki2-h1 .. Qj2-h4+ .. Kk5-j5
+28. Kh1-g1 .. Qe7-j12+ .. Rn7-j7
+29. Nh5-g3 .. Qh4-h10 .. Ni5-h3+
+30. Kg1-g2 .. Qj12xRj7+ .. Kj5-i5
+31. Ri1xBi4+# .. Qj7-j2+
+32. Ri4-i2 .. Qj2-j5
+33. R

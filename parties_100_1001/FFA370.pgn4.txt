@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "370"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "misquoted"]
+[RedElo "1792"]
+[Blue "ShahUnchained"]
+[BlueElo "1743"]
+[Yellow "invant"]
+[YellowElo "1776"]
+[Green "Rijangwachha"]
+[GreenElo "1752"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:11:08 GMT+0000 (UTC)"]
+[CurrentMove "2"]
+
+1. g2-g4 .. T

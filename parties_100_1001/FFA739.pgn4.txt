@@ -1,0 +1,65 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "739"]
+[Result "KIRA10DN: 30 - Ironmass: 9 - niko0779: 16 - taann: 73"]
+[Variant "FFA"]
+[Red "KIRA10DN"]
+[RedElo "1536"]
+[Blue "Ironmass"]
+[BlueElo "1699"]
+[Yellow "niko0779"]
+[YellowElo "1500"]
+[Green "taann"]
+[GreenElo "1715"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:10:44 GMT+0000 (UTC)"]
+[CurrentMove "145"]
+
+1. h2-h3 .. b7-d7 .. h13-h11 .. m5-k5
+2. g2-g4 .. Na5-b7 .. h11-h10 .. m6-l6
+3. Ne1-f3 .. d7-e7 .. h10-h9 .. m4-l4
+4. g4-g5 .. b5-c5 .. h9-h8 .. m7-k7
+5. Nj1-i3 .. Ba6-b5 .. h8-h7=D .. Bn6-m5
+6. Bi1-h2 .. Nb7-d6 .. Qh7-h12 .. Nn5-m7
+7. O-O .. Na10-c9 .. d13-d12 .. m10-l10
+8. h3-h4 .. b11-d11 .. f13-f12 .. Bn9-m10
+9. Bf1-h3 .. Bb5xe2 .. Bi14-d9 .. Bm10xj13
+10. Rd1-e1 .. Be2xNf3 .. Nj14-h13 .. Nn10-l9
+11. h4-h5 .. Ra4-a5 .. Rk14-j14 .. Bj13-m10
+12. Qg1-g3 .. Bf3-c6 .. Rj14-j9 .. m8-k8
+13. g5-g6 .. b8-c8 .. Bd9-c10 .. k8xRj9
+14. g6-g7 .. b9xBc10 .. g13-g12 .. Nl9-j8
+15. g7-g8=D .. Bc6-b7 .. e13-e11 .. O-O
+16. Re1xe7 .. Nd6-f5 .. Bf14-e13 .. l10-k10
+17. Qg8xc8+ .. Ba9-b8 .. Ne14-g13 .. m11-k11
+18. Bh3xNf5 .. b6-d6 .. O-O .. Nm7-k6
+19. Qc8-b9+# .. Qh14-i14 .. Bm10xQi14
+20. Ri1-e1 .. Ng13xBi14 .. m9-l9
+21. Qb9-e6 .. Qh12-k9 .. Rn6-m6
+22. Re1-e4 .. Rf14-g14 .. k11-j11
+23. h5-h6 .. Nh13-i11 .. Bm5-n6
+24. Qg3-h4 .. k13-k12 .. Bn6xQk9
+25. Bh2-g3 .. Ni11-g10 .. j11-i11
+26. h6-h7 .. i13-i12 .. Rn11-k11
+27. h7-h8=D .. Ng10xQh8 .. j9-i9
+28. Qh4xk7 .. Nh8-g10 .. l6xQk7
+29. Bg3xk7 .. Ng10xi9 .. Nj8-l7
+30. Bk7xNi9 .. Ni14-g13 .. k10-j10
+31. T .. Ng13-h11 .. Qn8-j8
+32. Be13-f14 .. Rm6-m11
+33. Ke14-d13 .. Qj8xj2
+34. Bf14-e13 .. Qj2xKj1
+35. Rg14-i14 .. Rk11xk12
+36. Ri14-i13 .. Rm11-k11
+37. f12-f11 .. Qj1-j7
+38. Be13-g11 .. Qj7xf11+
+39. g12xQf11 .. j10-i10
+40. Nh11-g13 .. i10-h10
+41. Bg11-f10 .. l4-k4
+42. Bf10-h8 .. k4-j4
+43. f11-f10 .. j4-i4
+44. f10-f9 .. Bk9-h6
+45. Ng13-h11 .. h10-g10=D+
+46. Kd13-e13 .. Qg10xf9
+47. Ri13-f13 .. Rk12-k13
+48. Ke13-e12 .. Qf9xRf13+#

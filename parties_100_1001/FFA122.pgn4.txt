@@ -1,0 +1,19 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "122"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "fln198"]
+[RedElo "1638"]
+[Blue "miltonskovbye"]
+[BlueElo "1490"]
+[Yellow "kawdhKUGCLI"]
+[YellowElo "1694"]
+[Green "4players"]
+[GreenElo "1448"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:04:05 GMT+0000 (UTC)"]
+[CurrentMove "6"]
+
+1. g2-g4 .. b7-d7 .. h13-h11 .. m7-k7
+2. g4-g5 .. T

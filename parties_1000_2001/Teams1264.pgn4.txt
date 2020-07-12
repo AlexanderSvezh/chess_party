@@ -1,0 +1,32 @@
+[GameNr "1264"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "true_Kotenka"]
+[RedElo "1901"]
+[Blue "AC61"]
+[BlueElo "1863"]
+[Yellow "7Mana"]
+[YellowElo "1837"]
+[Green "Akusu"]
+[GreenElo "1787"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:33:13 GMT+0000 (UTC)"]
+[CurrentMove "62"]
+
+1. h2-h3 .. b7-c7 .. h13-h12 .. m4-l4
+2. Qg1-i3 .. Ba6xBi14 .. Qh14xBi14 .. m7-l7
+3. Qi3-i12 .. Na5-c6 .. Qi14-d9 .. Nn10-l9
+4. d2-d4 .. Ra4-a5 .. Ne14-f12 .. m8-l8
+5. g2-g4 .. Na10-c9 .. d13-d11 .. Bn9-m8
+6. Bf1-g2 .. Qa7-b7 .. Qd9xQb7+ .. Nl9-k11
+7. Qi12-i4+ .. Nc9xQb7 .. i13-i12 .. Nk11xj13
+8. Bi1-h2 .. b10-d10 .. k13-k11 .. Nn5-l6
+9. Qi4-h4 .. Nb7-c9 .. Rk14-k13 .. Nj13xh12+
+10. d4-d5 .. Ba9xe13 .. g13xNh12 .. l8-k8
+11. d5xNc6 .. Be13xRd14 .. Nf12-h13 .. Bn6-l8
+12. Qh4-g5 .. Ra11-a10 .. Rk13-j13 .. m11-l11
+13. Qg5xm5 .. Nc9xd11 .. Kg14-h14 .. Nl6-k4
+14. Qm5xBd14 .. Ra10-c10 .. Rj13-j4 .. Nk4-l6
+15. Qd14xNd11 .. b11-c11 .. Rj4-j8 .. Bl8-m7
+16. Ne1-f3 .. R

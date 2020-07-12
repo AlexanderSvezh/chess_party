@@ -1,0 +1,27 @@
+[GameNr "623"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Akusu"]
+[RedElo "1823"]
+[Blue "ElPolloLocoMan"]
+[BlueElo "1595"]
+[Yellow "Boombeach1"]
+[YellowElo "1497"]
+[Green "Aveu"]
+[GreenElo "1526"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:27:34 GMT+0000 (UTC)"]
+[CurrentMove "41"]
+
+1. h2-h3 .. b5-c5 .. h13-h12 .. m9-k9
+2. d2-d3 .. b6-d6 .. g13-g12 .. Nn5-l6
+3. Nj1-i3 .. Qa7-b6 .. Ne14-f12 .. Qn8-k11
+4. Ni3-k4 .. Ba6-b5 .. j13-j12 .. Qk11-k10+
+5. Nk4xNl6+ .. Bb5xRk14 .. Bi14-h13 .. m5xNl6
+6. Ne1-f3 .. Bk14-i12 .. Nj14xBi12 .. Qk10-g6
+7. Qg1-h2 .. Qb6-c7 .. k13-k12 .. Rn4-n5
+8. k2-k3 .. b8-d8 .. e13-e11 .. Rn5-j5
+9. Rk1-j1 .. c5-d5 .. g12-g11 .. Qg6-k2
+10. k3-k4 .. Ba9-b8 .. g11-g10 .. Rj5-f5
+11. R

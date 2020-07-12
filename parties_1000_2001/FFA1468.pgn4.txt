@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1468"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "askdjhfajksdfb12"]
+[RedElo "1500"]
+[Blue "l000llllllll0l"]
+[BlueElo "1642"]
+[Yellow "AlbertJooseph"]
+[YellowElo "1651"]
+[Green "HansomeLou"]
+[GreenElo "1391"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:28:41 GMT+0000 (UTC)"]
+[CurrentMove "2"]
+
+1. k2-k4 .. R

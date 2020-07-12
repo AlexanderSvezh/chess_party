@@ -1,0 +1,23 @@
+[GameNr "494"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Requin0x"]
+[RedElo "1503"]
+[Blue "GaffelSchack"]
+[BlueElo "1631"]
+[Yellow "Willbill88"]
+[YellowElo "1512"]
+[Green "Tid123"]
+[GreenElo "1621"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:50:37 GMT+0000 (UTC)"]
+[CurrentMove "27"]
+
+1. g2-g4 .. b7-c7 .. g13-g12 .. m11-k11
+2. Bf1-g2+ .. b6-c6 .. h13-h11 .. k11-j11
+3. j2-j3 .. Qa7-b7 .. Bi14-h13 .. m9-l9
+4. Nj1-i3 .. b11-d11 .. Bh13xj11 .. Rn11xBj11
+5. e2-e3 .. d11-e11 .. i13-i12 .. Qn8xQh14+
+6. Bi1-j2 .. Qb7xg12+ .. Kg14xQh14 .. Rj11xj13
+7. Ni3-k4 .. Qg12-i14+ .. #

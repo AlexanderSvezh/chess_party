@@ -1,0 +1,29 @@
+[GameNr "700"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "ermis8992"]
+[RedElo "2074"]
+[Blue "Great-Gazoo"]
+[BlueElo "1355"]
+[Yellow "glutenfree55"]
+[YellowElo "1833"]
+[Green "Bonvil"]
+[GreenElo "1876"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:49:30 GMT+0000 (UTC)"]
+[CurrentMove "52"]
+
+1. h2-h3 .. b6-d6 .. g13-g12 .. m8-l8
+2. d2-d4 .. Qa7-b6 .. Bf14-h12 .. Qn8-m8
+3. d4-d5 .. b7-c7 .. Qh14-e11 .. Nn5-l6
+4. k2-k4 .. Qb6-b7 .. Nj14-i12 .. m11-k11
+5. Ne1-f3 .. b4-d4 .. j13-j11 .. m10-k10
+6. Nf3-g5 .. b5-c5 .. Rk14-j14 .. Bn9xBi14
+7. Ng5-e6 .. b10-d10 .. Qe11xd10 .. Bi14xh13+
+8. Ne6xc7+ .. Qb7xNc7 .. Kg14xBh13 .. k10xj11
+9. Qg1-i3 .. Na10-c9 .. Bh12xQc7 .. j11xNi12+
+10. e2-e4 .. b11-c11 .. Kh13-g13 .. Qm8-l9
+11. Rd1-e1 .. c11xQd10 .. Bc7-h12 .. Nn10-l11
+12. Bf1xBa6 .. Ba9xe13 .. Ne14-f12 .. Nl11xk13
+13. Ba6-b5 .. Ra4-b4 .. Rd14-e14 .. T

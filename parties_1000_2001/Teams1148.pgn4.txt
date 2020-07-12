@@ -1,0 +1,26 @@
+[GameNr "1148"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "salata"]
+[RedElo "2612"]
+[Blue "ermis8992"]
+[BlueElo "2105"]
+[Yellow "GioserchGarcia"]
+[YellowElo "2061"]
+[Green "johanlundberg"]
+[GreenElo "1857"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:49:31 GMT+0000 (UTC)"]
+[CurrentMove "37"]
+
+1. h2-h3 .. b6-d6 .. g13-g12 .. m9-k9
+2. d2-d4 .. Na10-c9 .. j13-j12 .. Qn8-m9
+3. Bi1-g3 .. Qa7-b6 .. Bf14-h12 .. Qm9-l9
+4. Qg1-k5 .. Qb6-c6 .. Nj14-i12 .. Nn5-l6
+5. Nj1-i3 .. Nc9-d11 .. Bh12-g11 .. Ql9xNi12
+6. Ni3-k4 .. Nd11xe13+ .. Bg11xNe13 .. Qi12xRk14
+7. Nk4xNl6+ .. Qc6-e8 .. Bi14-j13 .. m5xNl6
+8. Qk5-g9 .. Qe8xBj13 .. Qh14xQk14 .. m10-l10
+9. Qg9-g10 .. Qj13xQk14+ .. Kg14-g13 .. Bn9-j13
+10. R

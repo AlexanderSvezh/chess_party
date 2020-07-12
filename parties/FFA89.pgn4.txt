@@ -1,0 +1,57 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "89"]
+[Result "dosto95: 7 - Ocvx: 46 - oneagent: 5 - Abuelo332: 72"]
+[Variant "FFA"]
+[Red "dosto95"]
+[RedElo "1702"]
+[Blue "Ocvx"]
+[BlueElo "1826"]
+[Yellow "oneagent"]
+[YellowElo "1601"]
+[Green "Abuelo332"]
+[GreenElo "1487"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:04:41 GMT+0000 (UTC)"]
+[CurrentMove "98"]
+
+1. g2-g4 .. b7-d7 .. g13-g11 .. m8-k8
+2. g4-g5 .. d7-e7 .. g11-g10 .. k8-j8
+3. g5-g6 .. e7-f7 .. Qh14-d10 .. j8-i8
+4. g6-g7 .. b11-c11 .. Qd10-d5++ .. Bn9xBf1
+5. f2-f3 .. Na5-c6 .. Qd5-e6 .. Bf1-l7
+6. e2-e4 .. Na10-c9 .. Nj14-i12 .. Qn8-k8
+7. Qg1-g3 .. Ba6-c8 .. Qe6-e9 .. Qk8xf13+
+8. Ne1-d3 .. Nc9-d7 .. Kg14-h14 .. Qf13xBf14+#
+9. Qg3xm9 .. b4-c4 .. Qf14xf7
+10. Qm9xm10 .. c4xNd3 .. Qf7xg7
+11. Qm10xRn11 .. d3xe4 .. Qg7-g2+#
+12. e4-f4 .. i8-h8
+13. Nd7-f6 .. Qg2-g6
+14. Qa7-e7 .. m6-l6
+15. Bc8xi2+ .. m5-l5
+16. f4-g4 .. Bn6xj2
+17. Ra4-f4 .. h8-g8=D
+18. Qe7xBl7 .. Bj2xNf6
+19. b8-c8 .. Bf6-h4
+20. c8-d8 .. Qg8-g7
+21. Ql7-n9+ .. Kn7-m6
+22. Ba9-c7 .. Qg7xg10
+23. Nc6-e5 .. Qg6-e6
+24. O-O .. Qe6-e8
+25. Ka10-a11 .. Bh4xd8
+26. Bc7xBd8 .. Qe8xBd8
+27. b9-c9 .. Qd8-b8
+28. Ra9-a10 .. Qb8xNe5
+29. g4-h4=D .. Qe5xRf4
+30. Qh4xQf4 .. Qg10-e8
+31. Qn9xNn10 .. Qe8xb5
+32. Qf4-f13+ .. Km6-m5
+33. Qn10-n7 .. Qb5xb6
+34. Ra10-a4 .. m4-k4
+35. Qn7-m6+ .. Km5-l4
+36. Qf13-f8 .. Qb6-c6
+37. Ra4-a10 .. Qc6-k6
+38. Qm6-n6+ .. Kl4-m4
+39. Qf8-k3 .. Qk6-k5
+40. Qn6-m5+#

@@ -1,0 +1,30 @@
+[GameNr "1022"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "LinuxKernell"]
+[RedElo "2164"]
+[Blue "mikemanuver"]
+[BlueElo "2518"]
+[Yellow "ermis8992"]
+[YellowElo "2029"]
+[Green "salata"]
+[GreenElo "2671"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:15:43 GMT+0000 (UTC)"]
+[CurrentMove "53"]
+
+1. h2-h3 .. b6-d6 .. i13-i11 .. m8-l8
+2. d2-d4 .. Qa7-b6 .. g13-g12 .. Qn8-m8
+3. Ne1-f3 .. Qb6-f10 .. Nj14-i12 .. Nn5-l6
+4. k2-k4 .. Na10-c9 .. Ne14-f12 .. m5-k5
+5. Qg1-i3 .. Qf10-g9 .. Nf12-h11 .. m11-k11
+6. Bi1-h2 .. Qg9-e7 .. Ni12-h10 .. Bn6xj2
+7. Qi3xk5 .. Na5-c4 .. Nh10-j9 .. Rn4-n6
+8. Bh2-i3 .. Qe7-g7 .. j13-j11 .. Bj2xBi3
+9. Qk5xBi3 .. Nc9-d11 .. k13-k12 .. Kn7-n8
+10. g2-g4 .. b7-c7 .. Qh14-e11 .. m10-k10
+11. Qi3-k5 .. Ba6-b7 .. Nj9-h10 .. m4-l4
+12. Qk5xb5 .. Bb7xNf3+ .. Qe11xNd11 .. Qm8xh3+
+13. Kh1-i1 .. Qg7-j4 .. Qd11xb9+ .. Qh3-h1+
+14. #

@@ -1,0 +1,38 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1280"]
+[Result "H3CT04L0P3Z: 1 - alejandrooooooo: 10 - Ulra1: 31 - 684P: 61"]
+[Variant "FFA"]
+[Red "H3CT04L0P3Z"]
+[RedElo "1465"]
+[Blue "alejandrooooooo"]
+[BlueElo "1483"]
+[Yellow "Ulra1"]
+[YellowElo "1442"]
+[Green "684P"]
+[GreenElo "1829"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:35:57 GMT+0000 (UTC)"]
+[CurrentMove "69"]
+
+1. g2-g4 .. b7-d7 .. d13-d11 .. m8-k8
+2. Ne1-f3 .. b10-d10 .. h13-h11 .. k8-j8
+3. h2-h4 .. Na10-c9 .. g13-g12 .. j8-i8
+4. Nj1-i3 .. Ba9-c11 .. g12-g11 .. i8-h8
+5. Bi1-h2 .. d10-e10 .. h11-h10 .. h8-g8=D
+6. j2-j4 .. Nc9-e8 .. f13-f12 .. m6-k6
+7. O-O .. Ra11-a9 .. e13-e12 .. m5-l5
+8. j4-j5 .. e10-f10 .. f12-f11 .. k6xj5
+9. Ni3xj5 .. b8-d8 .. Nj14-i12 .. Qg8-j8
+10. Ri1-h1 .. f10-g10 .. f11xg10 .. Qj8-m5
+11. k2-k3 .. Ba6-c8 .. Qh14-h12 .. m4-k4
+12. Nj5-i3 .. Bc11xBf14 .. Qh12xBf14 .. Qm5xk3
+13. e2-e3 .. Na5-c4 .. Bi14xBc8 .. Qk3-j2+#
+14. b9xBc8 .. Qf14-b10 .. Qj2xj13
+15. T .. Rk14-h14 .. Qj13xNi12+
+16. Kg14-f14 .. m7-l7+
+17. Kf14-e13 .. Qi12xi13+
+18. Ke13-d12 .. Qi13xRh14
+19. Qb10-b9 .. Qh14xQa7
+20. Qb9xKa8 .. Qa7xQa8
+21. R

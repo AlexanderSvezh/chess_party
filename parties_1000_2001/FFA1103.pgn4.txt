@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1103"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "KuzinVG"]
+[RedElo "1711"]
+[Blue "mostafa_elgabrony"]
+[BlueElo "1698"]
+[Yellow "raziayoub"]
+[YellowElo "1742"]
+[Green "HANUMAN-1"]
+[GreenElo "1681"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:31:15 GMT+0000 (UTC)"]
+[CurrentMove "3"]
+
+1. h2-h4 .. b7-d7 .. T

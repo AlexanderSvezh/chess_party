@@ -1,0 +1,25 @@
+[GameNr "1008"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "cdjohn24"]
+[RedElo "1533"]
+[Blue "Vuhuuu71"]
+[BlueElo "1547"]
+[Yellow "Akusu"]
+[YellowElo "1844"]
+[Green "Volkan17"]
+[GreenElo "1515"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:06:15 GMT+0000 (UTC)"]
+[CurrentMove "35"]
+
+1. h2-h4 .. b7-c7 .. g13-g12 .. m8-k8
+2. g2-g4 .. Na5-c6 .. Nj14-i12 .. k8-j8
+3. g4-g5 .. Ba6-b7 .. j13-j12 .. j8-i8
+4. Ne1-f3 .. b4-d4 .. Qh14-e11 .. i8-h8
+5. i2-i3 .. d4-e4 .. Bf14-g13 .. h8-g8
+6. Nf3-e5 .. Nc6xNe5 .. Qe11xNe5 .. Bn9xBf1
+7. Qg1xBf1 .. e4-f4+ .. Bi14xm10 .. g8-f8
+8. f2-f3 .. b6-d6 .. Bm10xRn11 .. f8-e8
+9. e2-e4 .. d6xQe5 .. R

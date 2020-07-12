@@ -1,0 +1,61 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "504"]
+[Result "devil_chekmet: 1 - OlegNaz: 74 - hadix: 48 - Boombeach1: 0"]
+[Variant "FFA"]
+[Red "devil_chekmet"]
+[RedElo "1476"]
+[Blue "OlegNaz"]
+[BlueElo "1656"]
+[Yellow "hadix"]
+[YellowElo "1474"]
+[Green "Boombeach1"]
+[GreenElo "1470"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:08:35 GMT+0000 (UTC)"]
+[CurrentMove "95"]
+
+1. h2-h3 .. b7-d7 .. e13-e12 .. m8-k8
+2. Bi1xb8 .. Qa7xBb8 .. h13-h11 .. k8-j8
+3. g2-g3 .. Na5-c6 .. h11-h10 .. T
+4. T .. Qb8xj8 .. Bi14-h13
+5. Qj8xQn8 .. g13-g12
+6. Ba6-b7 .. Bh13-j11
+7. Ba9-b8 .. Qh14-h13
+8. d7-e7 .. Bj11xKn7
+9. b11-c11 .. h10-h9
+10. Nc6-d8 .. Bf14-h12
+11. b9-c9 .. Bh12-f10
+12. Bb7xKh1 .. h9-h8
+13. O-O-O .. h8-h7=D
+14. e7-f7 .. Qh13-m8
+15. Qn8xQm8+ .. Bn7xQm8
+16. Bh1-c6 .. Bf10xNd8
+17. c9xBd8 .. i13-i12
+18. d8-e8 .. Qh7-e10+
+19. Bc6-b7 .. Qe10xe8
+20. b10-d10 .. Qe8-e7
+21. Bb8-c9 .. Qe7xf7
+22. d10-e10 .. g12-g11
+23. c11-d11 .. Bm8-j5
+24. d11-e11 .. Ne14-d12
+25. Na10-c11 .. Nd12-c10
+26. Ra11-a8 .. d13-d12
+27. Nc11-b9 .. d12xe11
+28. Ra8-h8 .. Qf7-f10
+29. Rh8-h5 .. Bj5xe10
+30. Nb9-d8 .. Be10xBb7+
+31. Nd8xBb7 .. Qf10-f9
+32. Ka6-a5 .. Nj14-h13
+33. b4-d4 .. O-O-O
+34. d4-e4 .. Qf9-e8
+35. Rh5-k5 .. Qe8xe4
+36. Rk5xk13 .. Nc10-e9
+37. Bc9xe11 .. f13-f12
+38. Be11-b8 .. Ne9-d7
+39. Bb8-d6 .. Qe4-e6
+40. b5-c5 .. Nd7xc5
+41. Bd6xNc5 .. Rd14-d5
+42. Ra7-a9 .. Rh14-d14
+43. Ra9-j9 .. Rd5xBc5+
+44. Nb7xRc5 .. T

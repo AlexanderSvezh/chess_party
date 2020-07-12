@@ -1,0 +1,57 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1029"]
+[Result "Acrata00: 27 - erickleo: 10 - hugasho: 87 - andresktm1000: 15"]
+[Variant "FFA"]
+[Red "Acrata00"]
+[RedElo "1707"]
+[Blue "erickleo"]
+[BlueElo "1534"]
+[Yellow "hugasho"]
+[YellowElo "1571"]
+[Green "andresktm1000"]
+[GreenElo "1588"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:26:28 GMT+0000 (UTC)"]
+[CurrentMove "118"]
+
+1. g2-g4 .. b7-d7 .. j13-j12 .. m8-k8
+2. g4-g5 .. Ba6-b7+ .. Bi14-j13 .. Bn9xBf1
+3. f2-f3 .. Na10-c9 .. Bj13xd7 .. Bf1-n9
+4. g5-g6 .. Nc9xBd7 .. Nj14-i12 .. k8-j8
+5. g6-g7 .. b5-c5 .. e13-e12 .. j8-i8
+6. Nj1-i3 .. Bb7-a6 .. Bf14-e13 .. m6-l6
+7. d2-d3 .. b4-c4 .. Ne14-f12 .. i8-h8
+8. g7-g8=D .. c4xd3 .. Ni12-h10 .. Nn10-l9
+9. Qg8-e8 .. d3-e3 .. i13-i12 .. m4-l4
+10. Qe8xe3 .. Na5-c4 .. Nh10-g8 .. m11-l11
+11. Qe3-e4+ .. Ba6-b7 .. Ng8-e7 .. Bn9-l7
+12. Qe4xNe7 .. b9-c9 .. O-O .. Qn8-k8
+13. Qe7xNd7 .. Ra4-a6 .. k13-k11 .. h8-g8=D
+14. Ni3-g4 .. Nc4-d6 .. j12-j11 .. O-O-O
+15. Ne1-d3 .. b8-c8 .. k11-k10 .. l11xk10
+16. Qd7-i7 .. b11-c11 .. Rk14xk10 .. Qk8-m8
+17. Ng4-h6 .. b10-d10 .. Qh14-i14 .. Qg8xQg1+
+18. Rd1xQg1 .. c9-d9 .. Qi14xm10+#
+19. j2-j3 .. Ba9-b10 .. e12-e11
+20. i2-i3 .. d10xe11 .. Rk10xBb10
+21. Bi1-j2 .. e11xNf12 .. Qm10-c10+
+22. Nd3xc5 .. Ka8-a9 .. Qc10-b9+#
+23. Rg1xg13 .. h13-h11
+24. O-O .. Qb9xc8+
+25. Nc5-d7 .. Qc8-e8
+26. Nd7-c9 .. Qe8-e6+
+27. Nh6-g4 .. Qe6xe2
+28. Qi7xi12 .. Qe2xf3
+29. Qi12xh11 .. Qf3-h3+
+30. Kj1-k1 .. Qh3xQh11
+31. i3-i4 .. Qh11-h12
+32. Nc9-d11 .. Rb10-h10
+33. Nd11xBe13 .. Qh12xRg13
+34. Ne13-f11 .. Qg13xNg4
+35. Nf11xRh10 .. Qg4-h3
+36. Bj2-i3 .. Qh3xNh10
+37. Ri1-e1+ .. Ke14-d14
+38. k2-k4 .. Rf14-e14
+39. Re1xRe14+ .. Kd14xRe14
+40. R

@@ -1,0 +1,20 @@
+[GameNr "1397"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "TowersK"]
+[RedElo "2011"]
+[Blue "0437829"]
+[BlueElo "1475"]
+[Yellow "charles46975"]
+[YellowElo "1486"]
+[Green "AndrewChen012"]
+[GreenElo "1516"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:06:17 GMT+0000 (UTC)"]
+[CurrentMove "14"]
+
+1. h2-h3 .. b8-d8 .. h13-h12 .. m6-k6
+2. Bi1xBa9 .. Ka8xBa9 .. g13-g12 .. m7-k7
+3. Qg1-h2+ .. b7-c7 .. Qh14xQa7+ .. Qn8xQh2+
+4. Nj1xQh2 .. #

@@ -1,0 +1,52 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "531"]
+[Result "moyassin14: 3 - gilad9085: 45 - largerthanlife7: 57 - SheikMex: 20"]
+[Variant "FFA"]
+[Red "moyassin14"]
+[RedElo "1543"]
+[Blue "gilad9085"]
+[BlueElo "1689"]
+[Yellow "largerthanlife7"]
+[YellowElo "1767"]
+[Green "SheikMex"]
+[GreenElo "1578"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:11:13 GMT+0000 (UTC)"]
+[CurrentMove "117"]
+
+1. j2-j4 .. b10-c10 .. i13-i11 .. m4-k4
+2. k2-k3 .. Ba9-b10 .. i11-i10 .. m8-k8
+3. i2-i3 .. b8-c8 .. i10-i9 .. m5-l5
+4. Kh1-i2 .. Na10-b8 .. j13-j11 .. Bn9-k6
+5. Ki2-j2 .. O-O .. j11-j10 .. m11-l11
+6. h2-h4 .. b7-d7 .. k13-k11 .. Bk6-i8
+7. Bi1xNb8 .. Qa7xBb8 .. d13-d12 .. Bi8-j9
+8. g2-g3 .. Ba6-b7 .. e13-e12 .. k8-j8
+9. Bf1-g2 .. b6-c6 .. i9xj8 .. Qn8xj8
+10. f2-f4 .. b4-d4 .. Ne14-f12 .. Qj8-k8
+11. e2-e3 .. d4xe3 .. Rd14-d13 .. Qk8xRd1
+12. Bg2-f3 .. Qb8-c9 .. Bf14-e13 .. Qd1xd2+
+13. Kj2-i1 .. Qc9xBj9 .. Nj14-i12 .. m9-l9
+14. Nj1-h2 .. Qj9-e9 .. Kg14-f14 .. Bn6-m5
+15. Ki1-j2 .. e3xf4 .. h13-h11 .. Nn5-l6
+16. Bf3-i6 .. b5-d5 .. h11-h10 .. O-O
+17. h4-h5 .. f4-g4 .. h10-h9 .. Qd2-g5
+18. Qg1-f2 .. Bb10xQg5 .. h9-h8 .. Nn10-m8
+19. Qf2-f5 .. Bg5-b10 .. Nf12-g10 .. Rn11-n8
+20. Qf5-i8 .. Qe9-c9 .. Ng10-i9 .. Nm8-k7
+21. Qi8-f5 .. Qc9xi3+ .. h8-h7=D .. Nl6-j5
+22. R .. Qi3xKj2 .. Qh7-h11 .. Rn8-i8
+23. g4-h4=D .. Bi14-g12 .. Nj5xQh4
+24. Bb10xNh4 .. Qh14-j12 .. Ri8xBi6
+25. Bh4-e7 .. Qj12-j11 .. Nk7-i8
+26. Qj2-h4 .. Qh11xb11+# .. Ni8-h10
+27. Ni12xNh10 .. Bm5xNi9
+28. j10xBi9 .. Ri6xi9
+29. Nh10-j9 .. m10-k10
+30. Qj11-j10 .. Ri9xNj9
+31. Bg12xRj9 .. k10xBj9
+32. Qj10xj9 .. m7-l7
+33. Qj9xl9 .. l7-k7
+34. Qb11-g11 .. k7-j7
+35. Qg11-n4+#

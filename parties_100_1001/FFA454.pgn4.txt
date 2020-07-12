@@ -1,0 +1,47 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "454"]
+[Result "aranazizur: 43 - MteLoco: 63 - Ulra1: 22 - PAOLA_SH: 15"]
+[Variant "FFA"]
+[Red "aranazizur"]
+[RedElo "1508"]
+[Blue "MteLoco"]
+[BlueElo "1567"]
+[Yellow "Ulra1"]
+[YellowElo "1486"]
+[Green "PAOLA_SH"]
+[GreenElo "1549"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:51:56 GMT+0000 (UTC)"]
+[CurrentMove "100"]
+
+1. h2-h4 .. b7-d7 .. h13-h11 .. m8-k8
+2. g2-g4 .. Na10-c9 .. h11-h10 .. m7-l7
+3. Bi1-h2 .. b10-c10 .. h10-h9 .. m6-l6
+4. Nj1-k3 .. Ba9-b10 .. h9-h8 .. k8-j8
+5. Bf1-j5 .. O-O .. h8-h7=D .. j8-i8
+6. h4-h5 .. b8-c8 .. Qh7xl7+ .. Bn9xQl7
+7. Bj5xBl7 .. Ba6-b7+ .. Bi14-h13+ .. m9-l9
+8. Bl7-g2 .. b6-c6 .. e13-e12 .. i8-h8
+9. Bh2xRa9 .. Qa7xBa9 .. d13-d12 .. h8-g8=D
+10. Ne1-f3 .. Qa9-a8 .. g13-g12 .. Nn5-l4
+11. Nf3-h4 .. c8-d8 .. j13-j12 .. Nl4-j5
+12. Nh4xNj5 .. d8-e8 .. k13-k12 .. l6-k6
+13. Nj5-h6 .. Bb7-c8 .. Qh14-d10 .. Qg8-h7
+14. Qg1xQn8+ .. Na5-b7 .. Qd10xm10 .. Kn7xQn8
+15. Nh6-f5 .. c6-d6 .. Qm10xRn11 .. Qh7-k7
+16. h5-h6 .. Qa8-a6 .. Bf14-j10 .. Qk7xRd14
+17. h6-h7 .. d6-e6 .. Qn11xNn10+ .. Kn8-m8
+18. Bg2xk6+# .. e6xNf5 .. Qn10-h4+
+19. Bk6-h3 .. Qa6-c6+ .. Qh4xj2
+20. Kh1-h2 .. Nb7-d6 .. Bj10-e5+
+21. f2-f4 .. b4-d4 .. Be5xf4+
+22. Kh2-g1 .. f5xg4 .. Qj2xRk1+
+23. Kg1-f2 .. g4xBh3=D .. Qk1xRd1
+24. h7-h8=D .. Nd6-e4+# .. Bf4-k9
+25. Qh3xQh8 .. Qd1-g1
+26. Qh8xd12 .. Qg1-g10
+27. Qd12-d9 .. Ne14-d12
+28. Bb10xNd12 .. Nj14-i12
+29. Qd9xBk9 .. Ni12-g11
+30. Qk9-f14+#

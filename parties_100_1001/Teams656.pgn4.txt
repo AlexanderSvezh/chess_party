@@ -1,0 +1,29 @@
+[GameNr "656"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "szymek2009lis"]
+[RedElo "1495"]
+[Blue "9099999999"]
+[BlueElo "1672"]
+[Yellow "wilsonqian"]
+[YellowElo "1377"]
+[Green "malaybasak"]
+[GreenElo "2649"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:32:08 GMT+0000 (UTC)"]
+[CurrentMove "49"]
+
+1. g2-g4 .. b8-c8 .. g13-g11 .. m7-l7
+2. h2-h4 .. Qa7xQh14+ .. Kg14xQh14 .. Qn8xQg1+
+3. Kh1xQg1 .. Ba9xBi1 .. Bf14xBn6 .. Kn7xBn6
+4. Kg1-h1 .. Bi1xj2 .. h13-h12 .. Nn5-l4
+5. Nj1-k3 .. Bj2xRk1 .. Ne14-g13 .. Nl4xk2
+6. Ne1-f3 .. Bk1-j2 .. Bi14-h13 .. Nk2-i3+
+7. Kh1-h2 .. Bj2xNk3 .. Nj14-i12 .. Ni3xg4+
+8. Kh2-g2 .. b4-d4 .. j13-j12 .. m8-l8
+9. Kg2-g3 .. Bk3-i1+ .. k13-k11 .. Ng4-e3
+10. Kg3-h3 .. d4-e4 .. Kh14-i14 .. Ne3xRd1
+11. Kh3-g2 .. e4xNf3+ .. Ki14-j13 .. l7-k7+
+12. Kg2xf3 .. Ra4-f4+ .. Rd14-h14 .. Bn9xBf1
+13. #

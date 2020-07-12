@@ -1,0 +1,25 @@
+[GameNr "332"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "oscarbacca"]
+[RedElo "1738"]
+[Blue "aleksey1231"]
+[BlueElo "1487"]
+[Yellow "Arielgue21"]
+[YellowElo "1974"]
+[Green "Kujtimi"]
+[GreenElo "2835"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:06:29 GMT+0000 (UTC)"]
+[CurrentMove "33"]
+
+1. h2-h3 .. b7-d7 .. h13-h12 .. m10-l10
+2. Qg1-k5 .. Ba6xBi14 .. Qh14xBi14 .. m7-l7
+3. Qk5xb5 .. Na5-b7 .. k13-k12 .. Bn9-m10
+4. Bi1-h2 .. Nb7-d6 .. e13-e12 .. Qn8xBh2+
+5. Nj1xQh2 .. Nd6xQb5 .. Qi14-h13 .. Bm10-l9
+6. e2-e3 .. Qa7-c7 .. Nj14-i12 .. Bl9xRd1
+7. Bf1xNb5 .. b8-c8 .. j13-j11 .. Bd1-e2
+8. Bb5xBe2 .. Qc7xNh2+ .. Qh13xc8+ .. Bn6-m7
+9. #

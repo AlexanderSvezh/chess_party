@@ -1,0 +1,19 @@
+[GameNr "1192"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "oscarbacca"]
+[RedElo "1727"]
+[Blue "kingcon4848"]
+[BlueElo "1486"]
+[Yellow "lipisis"]
+[YellowElo "1702"]
+[Green "Stark231998"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:01:00 GMT+0000 (UTC)"]
+[CurrentMove "10"]
+
+1. h2-h3 .. b8-d8 .. g13-g12 .. m8-k8
+2. Bi1xBa9 .. Ka8xBa9 .. Qh14xQa7+ .. k8-j8
+3. Qg1-h2+ .. #

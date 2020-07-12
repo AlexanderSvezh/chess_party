@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "363"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "invant"]
+[RedElo "1786"]
+[Blue "LamHTo"]
+[BlueElo "1480"]
+[Yellow "Rodrigojajaja1981"]
+[YellowElo "1596"]
+[Green "Jolange287"]
+[GreenElo "1698"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:08:34 GMT+0000 (UTC)"]
+[CurrentMove "1"]
+
+1. R

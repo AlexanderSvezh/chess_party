@@ -1,0 +1,19 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "17"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "Kanitop"]
+[RedElo "1500"]
+[Blue "SirCas"]
+[BlueElo "1758"]
+[Yellow "XCMorley"]
+[YellowElo "1490"]
+[Green "masenkogohan"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 16:27:06 GMT+0000 (UTC)"]
+[CurrentMove "7"]
+
+1. h2-h4 .. b8-d8 .. g13-g11 .. m9-k9
+2. g2-g4 .. Na10-c9 .. R

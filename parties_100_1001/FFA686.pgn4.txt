@@ -1,0 +1,60 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "686"]
+[Result "ForzaOleg: 19 - Dovahkriid: 54 - benhleli: 66 - Bernily: 10"]
+[Variant "FFA"]
+[Red "ForzaOleg"]
+[RedElo "1522"]
+[Blue "Dovahkriid"]
+[BlueElo "1638"]
+[Yellow "benhleli"]
+[YellowElo "1597"]
+[Green "Bernily"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:00:00 GMT+0000 (UTC)"]
+[CurrentMove "152"]
+
+1. g2-g4 .. b7-d7 .. h13-h11 .. m7-k7
+2. Nj1-i3 .. d7-e7 .. h11-h10 .. m8-k8
+3. f2-f4 .. b6-d6 .. h10-h9 .. Bn9-l7
+4. Ne1-f3 .. b5-c5 .. h9-h8 .. Bn6-l8
+5. h2-h4 .. b8-d8 .. h8-h7=D .. Nn5-l6
+6. Bi1-h2 .. Na5-c6 .. Qh7-h11 .. Nn10-l9
+7. O-O .. Na10-b8 .. e13-e12 .. O-O
+8. Bf1-g2 .. b11-c11 .. Bf14-e13 .. k7-j7
+9. h4-h5 .. e7-f7 .. Ne14-f12 .. k8-j8
+10. g4-g5 .. Ba6xe2 .. O-O .. m11-k11
+11. Rd1-e1 .. Be2-b5 .. k13-k12 .. m10-l10
+12. h5-h6 .. Ra4-a5 .. Qh11-h7 .. k11-j11
+13. Ni3-g4 .. d8-e8 .. Rf14-g14 .. Bl7-k8
+14. Ng4-f6 .. Nc6-d8 .. Qh7-h13 .. Bl8-k7
+15. i2-i4 .. Bb5-c6 .. g13-g11 .. l10-k10
+16. i4-i5 .. b4-d4 .. g11-g10 .. j8-i8
+17. f4-f5 .. d6-e6 .. g10-g9 .. Bk7-i9
+18. Nf6-h5 .. e6xf5 .. g9-g8 .. Nl6-j5
+19. Bg2xNj5 .. f7xg8 .. Rg14xg8 .. Qn8-n7
+20. Bj5xRg8 .. Bc6xNf3 .. Qh13xh6 .. j7-i7
+21. Nh5-f6 .. Bf3xBk8 .. Qh6-h13 .. Bi9xNf6
+22. g5xBf6 .. Bk8-g4+ .. Qh13-g13 .. Nl9-j8
+23. Kj1-k1 .. Bg4xRn11 .. Qg13xBg8 .. Qn7xBn11
+24. Qg1xQg8 .. b9-d9 .. Qh14xBh2 .. Qn11-f3+
+25. Re1-h1 .. Nd8-c6 .. Qh2-k5 .. Qf3xf5
+26. Rh1-h14+ .. Nb8-d7 .. Be13-f14 .. Nj8-h7
+27. Rh14xBi14 .. Qa7xNf12 .. k12xj11 .. k10xj11
+28. Qg8-g14 .. Qf12-a7 .. Qk5xk2+# .. Nh7xf6
+29. Nd7xNf6 .. Qk2-k9 .. Rn6-n9
+30. Nf6-d7 .. Qk9xi7 .. Rn9-n8
+31. Ra5-a6 .. Qi7-m7 .. Rn8-n9
+32. c11-d11 .. Qm7-m8 .. Rn9-n11
+33. d11xe12 .. f13xe12 .. j11-i11
+34. b10-c10 .. Qm8-l9 .. Rn11-n9
+35. Ba9xBf14 .. Rk14-k11 .. i8-h8
+36. Nc6-e5 .. Rk11-n11 .. Rn9-n6
+37. Qa7-b6 .. Rn11-n7 .. h8-g8=D
+38. Bf14xi11 .. Ql9-n11 .. Qg8-m8
+39. Bi11xRn6 .. Rn7xBn6+#
+40. Qb6-g6 .. Qn11xRa11+
+41. Ka8-b7 .. Qa11-b11+
+42. Nd7-b8 .. Rn6-n7+
+43. Ne5-f7 .. R

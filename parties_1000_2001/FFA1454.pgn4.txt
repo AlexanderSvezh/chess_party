@@ -1,0 +1,44 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1454"]
+[Result "Mouseactingalone: 22 - mrfaria: 2 - heliocneto: 79 - FiddlePlayer: 28"]
+[Variant "FFA"]
+[Red "Mouseactingalone"]
+[RedElo "1545"]
+[Blue "mrfaria"]
+[BlueElo "1518"]
+[Yellow "heliocneto"]
+[YellowElo "1528"]
+[Green "FiddlePlayer"]
+[GreenElo "1759"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:35:34 GMT+0000 (UTC)"]
+[CurrentMove "98"]
+
+1. g2-g4 .. b7-d7 .. h13-h11 .. m5-l5
+2. g4-g5 .. b8-c8 .. h11-h10 .. Bn6-m5
+3. g5-g6 .. d7-e7 .. h10-h9 .. Nn5-l6
+4. g6-g7 .. e7-f7 .. Nj14-i12 .. O-O
+5. g7-g8=D .. f7xQg8 .. h9-h8 .. m10-l10
+6. Qg1xg8 .. Na5-c6 .. Ne14-f12 .. Nn10-l9
+7. Nj1-k3 .. Nc6-e7 .. e13-e12 .. Bn9-m10
+8. Bf1-g2+ .. b6-c6 .. h8-h7=D .. m7-k7
+9. Qg8-g4 .. b4-d4 .. Bf14-e13 .. Rn11-n10
+10. e2-e4 .. b5-d5 .. O-O .. Nl9-j8
+11. j2-j3 .. d5-e5 .. Qh7xk7 .. Bm10xQg4
+12. Bi1-j2 .. Ba6-c4 .. Qk7xNj8 .. Bg4xRd1
+13. O-O .. e5-f5 .. Qj8xd2 .. Bd1-m10
+14. e4xf5 .. Ne7xf5 .. Qd2xf2 .. l10-k10
+15. Bg2xc6+ .. Ka8-b8 .. Qf2xNf5 .. m11-l11
+16. Bc6-f3 .. Ra4-a5 .. Qf5-f10 .. Bm10xBf3
+17. Ne1xBf3 .. d4-e4 .. k13-k11 .. m9-k9
+18. Nf3-h4 .. b9-c9 .. Qh14-h13 .. k9-j9
+19. Nh4-j5 .. Ra5-f5 .. Qh13xc8+# .. Nl6xNj5
+20. Nk3xNj5 .. Bi14-g12 .. Qn8xh2
+21. Bj2xBm5 .. Nf12-h11 .. Rn6-n7
+22. Bm5-k7 .. Qc8-h8 .. m6-k6
+23. Nj5-l6+ .. Qh8xQh2 .. Kn5-m6
+24. Bk7xRn10 .. Qf10-k5 .. Rn7xBn10
+25. Nl6xm4 .. Qk5-m7+ .. Km6-n5
+26. Nm4-k3 .. Qh2-l6 .. R
+27. R

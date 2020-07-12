@@ -1,0 +1,19 @@
+[GameNr "183"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "xarisole1994"]
+[RedElo "2422"]
+[Blue "JustKnocks"]
+[BlueElo "1342"]
+[Yellow "7Mana"]
+[YellowElo "1835"]
+[Green "192829"]
+[GreenElo "1775"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:21:07 GMT+0000 (UTC)"]
+[CurrentMove "12"]
+
+1. h2-h3 .. b7-d7 .. g13-g12 .. m9-l9
+2. Qg1-k5 .. b6-d6 .. Bf14-h12 .. Qn8-m9
+3. Qk5-d5+ .. Na5-c6 .. Qh14-f12 .. R

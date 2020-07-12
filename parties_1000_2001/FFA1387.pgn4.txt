@@ -1,0 +1,58 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1387"]
+[Result "Yelbir: 0 - FrauVomSepp: 64 - gilad9085: 1 - Aladin2412: 37"]
+[Variant "FFA"]
+[Red "Yelbir"]
+[RedElo "1530"]
+[Blue "FrauVomSepp"]
+[BlueElo "1606"]
+[Yellow "gilad9085"]
+[YellowElo "1676"]
+[Green "Aladin2412"]
+[GreenElo "1677"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:20:53 GMT+0000 (UTC)"]
+[CurrentMove "116"]
+
+1. g2-g4 .. b8-d8 .. e13-e12 .. m10-l10
+2. h2-h4 .. b7-c7 .. Bf14-e13 .. Bn9-m10
+3. Nj1-i3 .. d8-e8 .. Ne14-d12 .. m9-k9
+4. h4-h5 .. e8-f8 .. O-O .. k9-j9
+5. g4-g5 .. f8-g8 .. h13-h11 .. j9-i9
+6. h5-h6 .. b9-d9 .. i13-i11 .. Qn8-m9
+7. Bi1-g3 .. Ba9-b8 .. k13-k12 .. m8-l8
+8. O-O .. Na10-c11 .. j13-j11 .. Nn5-l6
+9. Ri1-h1 .. O-O .. Rf14-g14 .. m5-l5
+10. g5-g6 .. Ka10-a11 .. Bi14-j13 .. Qm9-j9
+11. Bf1-i4 .. Na5-c6 .. Nj14-i12 .. Qj9xj2+#
+12. d9-e9 .. Rk14-i14 .. Qj2-j8
+13. e9-f9 .. i11-i10 .. Bn6-m5
+14. Ba6-c8 .. Ni12-g11 .. O-O
+15. Nc6-d8 .. Qh14-h12 .. Nn10-m8
+16. Nd8-f7 .. j11-j10 .. Rn6-n9
+17. Bb8-e11 .. j10-j9 .. l10-k10
+18. b4-d4 .. Ri14-j14 .. k10xj9
+19. d4-e4 .. Nd12-f11 .. m7-k7
+20. e4-f4 .. Rg14-i14 .. Bm5-n6
+21. f4-g4 .. Qh12-j12 .. j9xi10
+22. g4-h4=D .. h11xi10 .. Qj8xQj12
+23. Qh4xBi4 .. R .. Qj12xe12
+24. Nc11xQe12 .. i9-h9
+25. g8-h8=D .. m11-k11
+26. Qh8-l4 .. Bn6xQl4
+27. Qi4xBl4 .. k11-j11
+28. Nf7-g9 .. Bm10-k8
+29. Ne12xg13 .. Bk8xi10
+30. Ng13xKe14 .. Bi10xf13
+31. Ne14-f12 .. j11-i11
+32. Nf12-h11 .. Bf13xNh11
+33. Ng9xBh11 .. l8-k8
+34. Qa7-d10 .. Rn11-n10
+35. Qd10xh6 .. Rn9-j9
+36. Qh6-h4 .. Nl6-k4
+37. Ql4xNk4 .. l5xQk4
+38. Qh4xk4 .. Kn5-n6
+39. Be11-k5 .. Kn6-n7
+40. Qk4xm4 .. h9-g9=D
+41. Bc8xi2 .. T

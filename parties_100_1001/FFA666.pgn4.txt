@@ -1,0 +1,69 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "666"]
+[Result "zcrack7912: 51 - Apsey: 76 - KINGPavelDatsyuk: 11 - davrongar: 14"]
+[Variant "FFA"]
+[Red "zcrack7912"]
+[RedElo "1500"]
+[Blue "Apsey"]
+[BlueElo "1681"]
+[Yellow "KINGPavelDatsyuk"]
+[YellowElo "1600"]
+[Green "davrongar"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:57:03 GMT+0000 (UTC)"]
+[CurrentMove "150"]
+
+1. j2-j4 .. b7-d7 .. h13-h11 .. m8-k8
+2. g2-g4 .. d7-e7 .. h11-h10 .. k8-j8
+3. g4-g5 .. e7-f7 .. g13-g12 .. j8-i8
+4. Bf1-i4 .. f7-g7 .. e13-e12 .. Bn9xBi4
+5. g5-g6 .. Ba6-b7+ .. j13-j12 .. i8-h8
+6. Ne1-g2 .. g7-h7=D .. Bi14xm10 .. Qn8-m8+
+7. g6xQh7 .. Na10-c9 .. i13-i12 .. h8-g8=D
+8. h7xQg8=D .. b8-c8 .. Bm10xRn11 .. Qm8xQg8
+9. h2-h3 .. Ba9-b8 .. Bf14xb10 .. Qg8-h8
+10. Nj1-k3 .. Nc9-d11 .. f13-f12 .. m7-k7
+11. Nk3xBi4 .. Nd11xBb10 .. h10-h9 .. m9-l9
+12. j4-j5 .. Na5-c6 .. d13-d11 .. k7-j7
+13. j5-j6 .. b4-d4 .. e12-e11 .. j7-i7
+14. f2-f4 .. Qa7-a5 .. Bn11-m10 .. i7-h7
+15. e2-e4 .. Qa5-b4 .. Qh14-h13 .. h7-g7=D
+16. f4-f5 .. Ra11-a10 .. i12-i11 .. Qh8-h7
+17. k2-k4 .. Ra4-a7 .. Bm10xl9+ .. Nn10xBl9
+18. k4-k5 .. Bb8-c7 .. Qh13xNl9+ .. Kn7-n8
+19. k5-k6+ .. c8-d8 .. Ql9-l10+ .. Kn8-n7
+20. k6-k7 .. Ka8-a9 .. T .. Qh7-j7
+21. d2-d3 .. Nc6-e5 .. Qj7xj12
+22. k7-k8=D .. Nb10xd11 .. Qj12-j13
+23. Qk8-l8 .. Nd11xf12 .. Qg7xg12
+24. j6-j7 .. Nf12xKg14 .. Qg12xNg14
+25. j7-j8=D .. Bc7-b8 .. Qg14-h14
+26. Qj8-k7+ .. Ne5-f3 .. Bn6-m7
+27. Qg1-f1 .. Nf3-e5 .. Nn5-l6
+28. Qk7xBm7+# .. Bb8-c9
+29. Ql8xQl10 .. Ra10xQl10
+30. Bi1xNe5+ .. d4xBe5
+31. f5-f6 .. e5xf6
+32. h3-h4 .. d8-e8
+33. Qf1xf6 .. e8-f8
+34. Qf6xf8 .. Qb4xQf8
+35. Rk1-k6 .. b6-d6
+36. Ni4-g5 .. Rl10-h10
+37. h4-h5 .. Rh10xh9
+38. i2-i4 .. Bc9xNg5
+39. e4-e5 .. d6xe5
+40. Qm7-m10 .. Qf8-f3
+41. Rd1-g1 .. Qf3-j3+
+42. Kh1-h2 .. Qj3xi4
+43. Qm10-i10 .. Qi4xh5+
+44. Kh2-i1 .. Qh5-h2+
+45. Ki1-j1 .. Qh2xRg1+
+46. Qi10-i1 .. Qg1xQi1+
+47. Kj1xQi1 .. e5-f5
+48. Rk6-k5 .. Bb7xNg2
+49. Rk5xBg5 .. Ra7-i7+
+50. Ki1-j2 .. Rh9-j9+
+51. Kj2-k3 .. Bg2-h3
+52. T

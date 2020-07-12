@@ -1,0 +1,51 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "519"]
+[Result "Alvaro_Ayala: 41 - robertmc808: 35 - Koloso598: 39 - Radrag: 0"]
+[Variant "FFA"]
+[Red "Alvaro_Ayala"]
+[RedElo "1844"]
+[Blue "robertmc808"]
+[BlueElo "1869"]
+[Yellow "Koloso598"]
+[YellowElo "1964"]
+[Green "Radrag"]
+[GreenElo "1895"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:05:36 GMT+0000 (UTC)"]
+[CurrentMove "96"]
+
+1. Nj1-i3 .. b7-d7 .. e13-e12 .. m5-l5
+2. Ne1-f3 .. Na5-c6 .. Bf14-e13 .. Nn5-l6
+3. k2-k4 .. b10-c10 .. d13-d12 .. m9-k9
+4. e2-e3 .. d7-e7 .. Nj14-i12 .. l5-k5
+5. j2-j3 .. e7-f7 .. j13-j12 .. m4-l4
+6. Bi1-j2 .. f7-g7 .. Bi14-j13 .. Nn10-l9
+7. Nf3-g5 .. g7-h7=D .. Be13xNl6 .. R
+8. Ng5xQh7 .. Qa7xNh7 .. Bl6-e13
+9. g2-g3 .. Qh7xm7 .. Ni12-k11
+10. O-O .. Qm7xKn7 .. Bj13xNc6+
+11. Bf1xm8 .. b5xBc6 .. g13-g12
+12. Bm8xQn7 .. Na10-c9 .. Qh14-f12
+13. Qg1-g2 .. Ba6-b5 .. O-O-O
+14. Bn7-m8 .. O-O-O .. d12-d11
+15. Qg2-i4 .. Ba9xBe13 .. Qf12xBe13
+16. Qi4xb4 .. c10xd11 .. e12xd11
+17. Bm8-g2 .. Nc9-d7 .. Qe13-b10
+18. d2-d4 .. b9-c9 .. d11-d10
+19. d4-d5 .. Ra7-a10 .. Qb10-b9
+20. d5xc6 .. Bb5xc6 .. d10xc9
+21. Bg2xBc6 .. Nd7-c5 .. Ne14-d12
+22. Qb4-b5+ .. Ka6-a7 .. Qb9xb8+#
+23. Qb5xNc5 .. c9-c8
+24. Rd1-d8 .. Nd12-c10
+25. Rd8xc8 .. Qb8-b9
+26. Rc8-f8 .. f13-f11
+27. Bc6-g2 .. Qb9-e9
+28. Rf8-c8 .. Nc10-e11
+29. Ni3-j5 .. Ne11-g10
+30. Bj2-h4 .. f11-f10
+31. Bh4-i5 .. Qe9-i9
+32. Qc5-c6 .. Qi9xBi5
+33. Qc6xNg10 .. Rd14-f14
+34. Qg10-k14+#

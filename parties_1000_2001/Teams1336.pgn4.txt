@@ -1,0 +1,35 @@
+[GameNr "1336"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "spider-war"]
+[RedElo "2453"]
+[Blue "fcgarrido"]
+[BlueElo "1931"]
+[Yellow "Akusu"]
+[YellowElo "1784"]
+[Green "AC61"]
+[GreenElo "1812"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:58:00 GMT+0000 (UTC)"]
+[CurrentMove "73"]
+
+1. h2-h3 .. b7-c7 .. g13-g12 .. m8-l8
+2. Qg1-j4 .. Qa7-b7 .. Nj14-i12 .. Qn8-m8
+3. Bi1-h2 .. Na10-c9 .. Ne14-f12 .. m10-l10
+4. Qj4-g4 .. Qb7-d5 .. j13-j12 .. Nn10-l9
+5. Nj1-i3 .. Ba6-c8 .. Bi14xBn9 .. Rn11xBn9
+6. Qg4-i6 .. Na5-c6 .. Qh14-g13 .. Nn5-l6
+7. Ne1-f3 .. b4-c4 .. Qg13-i11 .. m5-l5
+8. k2-k3 .. b10-c10 .. d13-d12 .. Bn6-m5
+9. e2-e4 .. Qd5-d7 .. Qi11-h11 .. Nl9-j10
+10. Bf1-e2 .. Qd7xQh11 .. Nf12xQh11 .. Nj10xNh11
+11. Nf3-h4 .. Bc8xg12 .. f13xBg12 .. Nh11xi13+
+12. Nh4-j5 .. Nc9-d11 .. Kg14-f13 .. Ni13xRk14
+13. Nj5xNl6+ .. Ba9-b10 .. Bf14-g13 .. Bm5xNl6
+14. Qi6-f9 .. O-O .. Rd14xNk14 .. Qm8-l7
+15. Be2-l9+ .. Ra4-a5 .. Bg13xl8 .. Kn7-n6
+16. k3-k4 .. Nc6-d8 .. Bl8-g13 .. Rn9-n8
+17. Qf9-h9 .. Nd11xe13 .. k13-k12 .. Rn8-f8+
+18. k4xl5 .. Ne13xg12 .. Kf13-g14 .. m4xl5
+19. R

@@ -1,0 +1,45 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "76"]
+[Result "SacOnTopFFAPlayers: 49 - Moveeeit: 18 - luciano09876543210: 9 - tyymelord: 46"]
+[Variant "FFA"]
+[Red "SacOnTopFFAPlayers"]
+[RedElo "1562"]
+[Blue "Moveeeit"]
+[BlueElo "1531"]
+[Yellow "luciano09876543210"]
+[YellowElo "1494"]
+[Green "tyymelord"]
+[GreenElo "1607"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:01:11 GMT+0000 (UTC)"]
+[CurrentMove "94"]
+
+1. f2-f3 .. b6-c6 .. h13-h11 .. m10-l10
+2. g2-g4 .. Qa7xQg1+ .. h11-h10 .. Bn9-m10
+3. Kh1xQg1 .. b4-d4 .. h10-h9 .. m5-l5
+4. Ne1-d3 .. b5-d5 .. h9-h8 .. Bm10-l9+
+5. Nd3-c5 .. Ba6-b5 .. i13-i12 .. Bl9-i6
+6. Nc5xRa4 .. Bb5xNa4 .. Ne14-f12 .. Nn5-l6
+7. e2-e3 .. d4xe3 .. Nf12-h11 .. Nl6-j7
+8. d2xe3 .. Na5-c4 .. Nh11-g9 .. Bn6-l4
+9. Rd1-d4 .. Nc4-b6 .. Ng9-i10 .. Nj7xh8
+10. Rd4-b4 .. Ka8-a7 .. Ni10xNh8 .. Bi6-d11
+11. Bf1-b5 .. Ba4xBb5 .. e13-e12 .. Bd11xb9
+12. Rb4xBb5 .. Na10-c9 .. g13-g11 .. Bl4-m5
+13. Rb5-a5+# .. Bf14-e13 .. Bb9-d7
+14. e3-e4 .. Qh14-d10 .. Bd7-e6
+15. Nj1-i3 .. f13-f12 .. O-O
+16. f3-f4 .. g11-g10 .. Qn8-n9
+17. f4-f5 .. g10-g9 .. Be6-g8
+18. h2-h3 .. Qd10-f8 .. Bg8-k4
+19. Kg1-h1 .. g9-g8 .. Bk4xg8
+20. e4xd5 .. Qf8xBg8 .. Qn9-m10
+21. d5xc6 .. O-O .. m11-k11
+22. c6-c7 .. k13-k12 .. Nn10-l9
+23. c7xb8=D .. Qg8xQb8 .. l10-k10
+24. Bi1xQb8 .. Rf14-g14 .. Nl9-j8
+25. Kh1-g2 .. Rg14-g8 .. k10-j10
+26. Bb8-h2 .. Nh8-i10 .. Nj8xNi10
+27. f5-f6 .. R .. Ni10-h12
+28. R

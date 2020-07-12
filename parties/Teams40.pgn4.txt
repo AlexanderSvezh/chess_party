@@ -1,0 +1,29 @@
+[GameNr "40"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "sanvik2018"]
+[RedElo "1490"]
+[Blue "SenyorPink"]
+[BlueElo "1500"]
+[Yellow "rithvik2018"]
+[YellowElo "1443"]
+[Green "guiuclotaserra"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 16:45:28 GMT+0000 (UTC)"]
+[CurrentMove "50"]
+
+1. h2-h4 .. b8-d8 .. g13-g11 .. m7-k7
+2. i2-i3 .. d8-e8 .. Bf14xBn6 .. Kn7xBn6
+3. Bi1xBa9 .. Ka8xBa9 .. Qh14-g13+ .. m8-l8
+4. Qg1-h2+ .. Ka9-a8 .. Qg13-i11 .. Nn5-l6
+5. j2-j4 .. Na5-c6 .. Qi11-h11 .. m9-k9
+6. k2-k4 .. b7-d7 .. f13-f11 .. m5-l5
+7. k4-k5 .. Ba6xf11 .. Qh11-f13 .. Nl6-k4
+8. g2-g3 .. Bf11-b7 .. Kg14-f14 .. Bn9xBf1
+9. Qh2-g1 .. d7-e7 .. h13-h11 .. Bf1xe2
+10. Qg1-h2 .. e7-f7 .. Bi14-h13 .. Be2xRd1
+11. Qh2-i1+ .. f7-g7 .. Bh13-g14 .. Kn6-n5
+12. Rk1-k3 .. Bb7-i14 .. Qf13xb9+ .. m4-l4
+13. g3-g4 .. #

@@ -1,0 +1,19 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "604"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "AHMETALAKUS"]
+[RedElo "1569"]
+[Blue "zcrack7912"]
+[BlueElo "1500"]
+[Yellow "dr_shenanigans"]
+[YellowElo "1706"]
+[Green "GabSper"]
+[GreenElo "1642"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:15:40 GMT+0000 (UTC)"]
+[CurrentMove "5"]
+
+1. g2-g3 .. b7-d7 .. h13-h11 .. m8-k8
+2. R

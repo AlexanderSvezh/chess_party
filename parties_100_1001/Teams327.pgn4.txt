@@ -1,0 +1,19 @@
+[GameNr "327"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "LChessMaster85"]
+[RedElo "2383"]
+[Blue "nahuelsandoval"]
+[BlueElo "1663"]
+[Yellow "dust47"]
+[YellowElo "2247"]
+[Green "Hamsel2017"]
+[GreenElo "1617"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:02:13 GMT+0000 (UTC)"]
+[CurrentMove "12"]
+
+1. h2-h3 .. b7-c7 .. g13-g12 .. m8-l8
+2. Qg1-j4 .. Qa7-b7 .. Qh14-e11 .. m7-k7
+3. Qj4xQn8+ .. Na5-c6 .. Qe11-k5 .. #

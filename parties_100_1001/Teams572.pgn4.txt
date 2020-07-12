@@ -1,0 +1,20 @@
+[GameNr "572"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "ermis8992"]
+[RedElo "2058"]
+[Blue "roachesst"]
+[BlueElo "2198"]
+[Yellow "Akusu"]
+[YellowElo "1801"]
+[Green "LinuxKernell"]
+[GreenElo "2142"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:09:45 GMT+0000 (UTC)"]
+[CurrentMove "13"]
+
+1. h2-h3 .. b6-d6 .. g13-g12 .. m9-l9
+2. d2-d4 .. Qa7-b6 .. Bf14-h12 .. Qn8xi13
+3. Qg1-i3 .. Qb6xBh12 .. Qh14xQi13 .. m7-l7
+4. T

@@ -1,0 +1,20 @@
+[GameNr "319"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "ilyar044"]
+[RedElo "1500"]
+[Blue "oscarbacca"]
+[BlueElo "1718"]
+[Yellow "ChessN00b777"]
+[YellowElo "2185"]
+[Green "Arielgue21"]
+[GreenElo "1953"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:00:19 GMT+0000 (UTC)"]
+[CurrentMove "15"]
+
+1. h2-h4 .. b7-c7 .. h13-h12 .. m8-l8
+2. h4-h5 .. Ba6xBi14 .. Qh14xBi14 .. Qn8-m8+
+3. h5-h6 .. Qa7-b7 .. Kg14-h14 .. Qm8-g14+
+4. Qg1-i3 .. Qb7-h13+ .. #

@@ -1,0 +1,28 @@
+[GameNr "1241"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "yourmum1231"]
+[RedElo "1466"]
+[Blue "stlaz123"]
+[BlueElo "1517"]
+[Yellow "andrews810"]
+[YellowElo "2281"]
+[Green "skurbfloor"]
+[GreenElo "1517"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:18:46 GMT+0000 (UTC)"]
+[CurrentMove "46"]
+
+1. h2-h4 .. b7-d7 .. h13-h12 .. m8-k8
+2. Qg1-k5 .. d7-e7 .. Bi14xBa6 .. k8-j8
+3. Qk5xb5 .. e7-f7 .. Ba6-b7+ .. Qn8-m8+
+4. Qb5xNa5 .. Ka8xBb7 .. i13-i12 .. Qm8xg2+
+5. Bf1xQg2+ .. b6-c6 .. Qh14-h13+ .. Bn9xBg2+
+6. Ne1xBg2 .. b8-c8 .. Qh13xc8+ .. Nn10-l9
+7. Qa5xQa7+ .. Kb7xQa7 .. Qc8xc6 .. j8-i8
+8. Bi1xBa9 .. f7-g7 .. Qc6xRa4+ .. i8-h8
+9. Ba9xb10 .. Ka7-b7 .. Qa4-d7+ .. h8-g8
+10. Bb10-a9 .. Kb7-a8 .. Qd7-d8+ .. O-O-O
+11. Ba9-d12 .. Na10-b8 .. Qd8xNb8+ .. g8-f8
+12. Bd12-e11 .. #

@@ -1,0 +1,21 @@
+[GameNr "1207"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "kilapride"]
+[RedElo "1451"]
+[Blue "lipisis"]
+[BlueElo "1696"]
+[Yellow "kingcon4848"]
+[YellowElo "1464"]
+[Green "gnojham2"]
+[GreenElo "507"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:06:07 GMT+0000 (UTC)"]
+[CurrentMove "19"]
+
+1. h2-h3 .. b6-c6 .. g13-g11 .. m9-k9
+2. h3-h4 .. Qa7-b6 .. h13-h12 .. Qn8-l10
+3. h4-h5 .. b7-d7 .. Bi14xBa6 .. Ql10-k10+
+4. Bi1xb8 .. Qb6xBb8 .. i13-i12 .. Qk10-k11
+5. h5-h6 .. Qb8xQh14+ .. #

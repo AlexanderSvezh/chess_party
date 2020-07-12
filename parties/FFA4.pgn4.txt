@@ -1,0 +1,61 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "4"]
+[Result "Attila76: 16 - Felix_usa111: 63 - randomnezz86: 54 - fmuller33: 27"]
+[Variant "FFA"]
+[Red "Attila76"]
+[RedElo "1602"]
+[Blue "Felix_usa111"]
+[BlueElo "1690"]
+[Yellow "randomnezz86"]
+[YellowElo "1644"]
+[Green "fmuller33"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 16:38:46 GMT+0000 (UTC)"]
+[CurrentMove "150"]
+
+1. k2-k4 .. b10-c10 .. i13-i11 .. Nn5-l6
+2. k4-k5 .. Ba9-b10 .. Nj14-i12 .. Nl6-j7
+3. k5-k6 .. Na10-c11 .. g13-g12 .. Nj7-l6
+4. k6-k7 .. b5-c5 .. d13-d12 .. m9-l9
+5. h2-h3 .. Nc11-d9 .. Bf14-g13 .. Qn8xQh14+
+6. j2-j4 .. Bb10xRk1 .. Bg13xQh14 .. l9-k9
+7. Bi1-h2 .. Na5-c6 .. Bh14-f12 .. m8-l8
+8. k7xl8=D .. Ba6-b5 .. Ne14-g13 .. m7xQl8
+9. i2-i3 .. O-O .. k13-k11 .. k9-j9
+10. Nj1-k3 .. Bk1-j2 .. h13-h12 .. j9-i9
+11. Nk3-i4 .. Bj2-k1 .. Bf12xi9 .. Nl6-k8
+12. Kh1-i2 .. Bk1xi3 .. Bi9-f12 .. Nk8-i9
+13. Bh2xBi3 .. Qa7-a6 .. h12-h11 .. Nn10-l11
+14. d2-d3 .. Nc6-d4 .. i11-i10 .. Nl11-j12
+15. Ni4-g3 .. b6-d6 .. Rk14-j14 .. l8-k8
+16. Ne1-f3 .. Nd4xNf3 .. Bf12xNi9 .. Bn6xNg13
+17. g2xNf3 .. b7-d7 .. Bi9xm5 .. Rn4-n5
+18. Qg1-k1 .. Qa6-c8 .. Bm5-h10 .. Bn9-l7
+19. h3-h4 .. d7-e7+ .. Bh10xNj12 .. Bl7xBf1
+20. Ki2-j2 .. Ra4-a6 .. Ni12xBg13 .. Bf1-j5
+21. Qk1-k7+ .. Ra9-a7 .. Ng13-i12 .. Kn7-n6
+22. Qk7-l8+ .. Qc8-j8 .. Bj12-h10 .. Kn6-n7
+23. Rd1-k1 .. Qj8-i7+ .. j13-j12 .. Bj5-l7
+24. Ql8xk8 .. Qi7-l4+ .. Bi14xm10 .. Bl7xQk8
+25. Kj2-i2 .. Ql4xm4 .. Bm10xBk8 .. Rn5-d5
+26. Rk1xBk8 .. Qm4-j7+ .. Bh10-i11#
+27. Rk8xb8 .. Nd9xRb8 .. j12-j11
+28. Ng3-e4 .. e7-f7 .. j11-j10
+29. f3-f4 .. f7-g7 .. j10-j9
+30. f2-f3 .. g7-h7=D .. O-O
+31. Ne4-g5 .. Qh7-e10 .. k11-k10
+32. e2-e4 .. Ra7-e7 .. Bi11-h10
+33. f4-f5 .. Re7-e5 .. k10-k9
+34. Ng5-e6 .. Qe10-k4+ .. k9-k8
+35. Ki2-h3 .. Qj7xf3+ .. Rj14-k14
+36. Kh3-i4 .. Qk4-k2+ .. k8-k7=D
+37. Ki4-j5 .. Qk2-h5+# .. Qk7-k8
+38. Qh5xQk8 .. j9xQk8
+39. Ra6-a7 .. k8-k7=D
+40. Ra7xQk7 .. Bh10xRk7
+41. Re5xNe6 .. Bk7-f12
+42. Nb8-d9 .. Ni12-g11
+43. Qf3xf5 .. i10-i9
+44. Qf5xBf12 .. R

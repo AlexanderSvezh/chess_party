@@ -1,0 +1,42 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "366"]
+[Result "Kevchuxd: 0 - LamHTo: 6 - mariocrackdona: 30 - alperin: 53"]
+[Variant "FFA"]
+[Red "Kevchuxd"]
+[RedElo "1500"]
+[Blue "LamHTo"]
+[BlueElo "1480"]
+[Yellow "mariocrackdona"]
+[YellowElo "1530"]
+[Green "alperin"]
+[GreenElo "1638"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:19:43 GMT+0000 (UTC)"]
+[CurrentMove "88"]
+
+1. g2-g4 .. b7-d7 .. g13-g11 .. Nn5-l6
+2. g4-g5 .. d7-e7 .. g11-g10 .. m5-l5
+3. g5-g6 .. e7-f7 .. g10-g9 .. Nn10-l9
+4. g6-g7 .. Ba6-b7+ .. h13-h11 .. m8-l8
+5. Bf1-g2 .. b6-c6 .. Bi14-h13 .. Bn9-m8
+6. f2-f3 .. b8-c8 .. h11-h10 .. m11-k11
+7. Nj1-i3 .. Ba9-b8 .. Bf14-g13 .. Bn6-m5
+8. h2-h4 .. b9-c9 .. h10-h9 .. k11-j11
+9. f3-f4 .. Qa7-a6 .. i13-i12 .. m10-k10
+10. Bi1-g3 .. b5-d5 .. h9-h8 .. O-O
+11. Qg1-f1 .. Na10-c11 .. h8xg7=D .. j11-i11
+12. O-O .. Na5-c4 .. Qg7xf7 .. i11-h11
+13. Ne1-f3 .. Nc4-d6 .. Qf7-f11 .. h11-g11=D
+14. h4-h5 .. O-O .. f13-f12 .. Qg11-j8
+15. Ri1-h1 .. c8-d8 .. d13-d12 .. Rn11xQf11
+16. h5-h6 .. Nc11-e10 .. Bh13xRf11 .. Qj8xj13
+17. Qf1-f2 .. c9-d9 .. d12-d11 .. Qj13xj2+#
+18. Ne10xg9 .. e13-e12 .. Qj2xNi3
+19. Ng9xBf11 .. e12xNf11 .. m7-k7
+20. Nd6-f5 .. Qh14-h10 .. Nl9-j8
+21. Bb8-d10 .. Bg13-f14 .. Qi3xd8
+22. R .. Qh10xBd10 .. Qd8-c8
+23. Qd10xb10 .. k10-j10
+24. Qb10xKa10 .. Qc8xQa10
+25. R

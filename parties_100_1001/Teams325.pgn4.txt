@@ -1,0 +1,22 @@
+[GameNr "325"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "nish_14"]
+[RedElo "1368"]
+[Blue "noddler"]
+[BlueElo "1578"]
+[Yellow "ermis8992"]
+[YellowElo "1923"]
+[Green "Antruni"]
+[GreenElo "1857"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:03:23 GMT+0000 (UTC)"]
+[CurrentMove "22"]
+
+1. h2-h4 .. b7-c7 .. i13-i11 .. m5-k5
+2. Qg1-h2 .. Na5-b7 .. Qh14-k11 .. Bn6-m5
+3. Qh2-f4 .. b10-c10 .. Qk11-e5 .. m9-l9
+4. e2-e3 .. b6-d6 .. Qe5-e9 .. Qn8-k11
+5. Bf1-d3 .. b4-c4 .. Qe9xb9+ .. Qk11-i9
+6. Qf4-f5 .. #

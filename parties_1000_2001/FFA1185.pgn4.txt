@@ -1,0 +1,52 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1185"]
+[Result "nebukdanezar: 102 - LRCM: 17 - yassinetn: 5 - wilfridc2010: 6"]
+[Variant "FFA"]
+[Red "nebukdanezar"]
+[RedElo "1574"]
+[Blue "LRCM"]
+[BlueElo "1643"]
+[Yellow "yassinetn"]
+[YellowElo "1547"]
+[Green "wilfridc2010"]
+[GreenElo "1432"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:07:35 GMT+0000 (UTC)"]
+[CurrentMove "94"]
+
+1. g2-g4 .. b7-d7 .. h13-h11 .. m8-k8
+2. g4-g5 .. Ba6-b7+ .. h11-h10 .. k8-j8
+3. Ne1-f3 .. Qa7-a6 .. Bi14xBb7+ .. Bn9xBf1
+4. Rd1xBf1 .. Qa6xBb7 .. h10-h9 .. j8-i8
+5. g5-g6 .. Na5-c6 .. h9-h8 .. Qn8-m8+
+6. g6-g7 .. Qb7-i14 .. R .. Nn10-l9
+7. g7-g8=D .. Qi14xQh14 .. Qm8-j8
+8. Qg8xg13 .. Qh14xQg13 .. Qj8xj13
+9. Qg1xQg13 .. d7-e7 .. Qj13xRk14
+10. Qg13xKg14 .. e7-f7 .. Qk14-h11
+11. Qg14-g7 .. Ra4-a7 .. O-O-O
+12. Rf1-g1 .. b8-d8 .. Qh11xf13
+13. d2-d3 .. b4-d4 .. Nl9-j10
+14. Rg1-g4 .. b5-c5 .. Nj10-h9
+15. Qg7-g9 .. d8-e8 .. Nh9-f10
+16. e2-e3 .. Ba9-d6 .. Nf10xe8
+17. Qg9-g10 .. Bd6-a9 .. Ne8-g7
+18. Qg10xNg7 .. Nc6-d8 .. R
+19. Qg7xm7 .. d4xe3
+20. f2xe3 .. f7-g7
+21. Rg4xg7 .. Ra7xRg7
+22. Qm7xRg7 .. b6-d6
+23. Qg7-l7 .. d6-e6
+24. Ql7xKn9 .. Ba9-d6
+25. h2-h3 .. Nd8-f7
+26. Qn9-i4 .. Na10-c9
+27. Qi4-a4+ .. Ka8-b8
+28. Qa4xRa11 .. e6-f6
+29. Bi1xBd6+ .. Kb8-c8
+30. Bd6xc5 .. f6-g6
+31. Qa11-a6+ .. Nc9-b7
+32. Qa6xg6 .. Nf7-d6
+33. Bc5xNd6 .. Nb7xBd6
+34. Qg6xNd6 .. b9-d9
+35. k2-k4 .. R

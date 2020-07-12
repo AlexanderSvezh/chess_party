@@ -1,0 +1,51 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1113"]
+[Result "moreauvincent: 21 - pidgeymasters101: 14 - eldioserick: 4 - 684P: 96"]
+[Variant "FFA"]
+[Red "moreauvincent"]
+[RedElo "1495"]
+[Blue "pidgeymasters101"]
+[BlueElo "1495"]
+[Yellow "eldioserick"]
+[YellowElo "1483"]
+[Green "684P"]
+[GreenElo "1825"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:47:36 GMT+0000 (UTC)"]
+[CurrentMove "105"]
+
+1. g2-g4 .. b8-c8 .. h13-h11 .. m8-k8
+2. g4-g5 .. Qa7-c9 .. h11-h10 .. m6-k6
+3. g5-g6 .. Ba9-c7 .. Ne14-f12 .. k8-j8
+4. g6-g7 .. Na10-c11 .. Bi14-g12 .. j8-i8
+5. g7-g8=D .. O-O .. Bg12-h13+ .. m9-l9
+6. h2-h4 .. Qc9xh4+ .. h10-h9 .. i8xh9
+7. Bi1-h2 .. Qh4-d8 .. Nf12-e10 .. h9xQg8=D
+8. Nj1-i3 .. Qd8xQg8 .. Ne10xNc11+ .. Qn8-m9
+9. Bf1-g2 .. Ka10-a11 .. Nc11xb9+ .. Qm9-l8
+10. d2-d4 .. Ra9xNb9 .. e13-e11 .. Ql8xQg8
+11. d4-d5 .. Bc7-d8 .. Nj14-i12 .. Bn9-l7
+12. e2-e4 .. b7-c7 .. d13-d11 .. Qg8-f7
+13. f2-f3 .. Ba6-b7 .. f13-f12 .. Qf7-g8
+14. Qg1xb6 .. Rb9-a9 .. e11-e10 .. Qg8-k8
+15. Qb6xb5 .. Na5-c4 .. d11-d10 .. Qk8-f13+#
+16. Qb5xNc4 .. Bb7-a6 .. Qf13-j9
+17. Qc4-c6 .. Ra9xQj9 .. Bl7xRj9
+18. Bh2xc7 .. Ka11-a10 .. m5-l5
+19. Bc7xBd8 .. Ka10-b9 .. m11-k11
+20. Bg2-h3 .. Kb9-c10 .. k11-j11
+21. Bh3-i4+ .. Kc10xd10 .. j11-i11
+22. Qc6-h6+ .. Kd10xe10 .. i11-h11
+23. Qh6-e9+ .. Ke10-f11 .. h11-g11=D+#
+24. Qe9xBj9 .. Qg11xBd8
+25. Ne1-g2 .. Qd8-h8+
+26. Bi4-h3 .. Bn6xj2
+27. Rk1-j1 .. Bj2xNi3
+28. Ng2xBi3 .. Qh8-i7
+29. Qj9-j3 .. Qi7-i6
+30. k2-k4 .. Qi6xf3+
+31. Ni3-g2 .. Nn5-l4
+32. Qj3-i4 .. Qf3xRd1+
+33. Kh1-h2 .. Qd1xRj1
+34. R

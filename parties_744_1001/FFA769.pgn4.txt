@@ -1,0 +1,54 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "769"]
+[Result "EvilDenis: 40 - JAPH2001: 3 - guess1964: 74 - Bayames: 43"]
+[Variant "FFA"]
+[Red "EvilDenis"]
+[RedElo "1672"]
+[Blue "JAPH2001"]
+[BlueElo "1500"]
+[Yellow "guess1964"]
+[YellowElo "1768"]
+[Green "Bayames"]
+[GreenElo "1498"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:09:33 GMT+0000 (UTC)"]
+[CurrentMove "125"]
+
+1. g2-g4 .. Na10-c9 .. h13-h11 .. m8-k8
+2. Bf1xBn9 .. b7-d7 .. Nj14-i12 .. Qn8xBn9
+3. f2-f3 .. b8-c8 .. Ne14-f12 .. Nn5-l6
+4. j2-j3 .. b4-d4 .. g13-g11 .. m7-k7
+5. e2-e4 .. b10-d10 .. d13-d12 .. m4-l4
+6. Nj1-i3 .. b5-d5 .. Ni12-g13 .. Bn6-l8
+7. d2-d3 .. Na5-c6 .. j13-j12 .. Qn9-k6
+8. e4xd5 .. Nc6-e7 .. i13-i11 .. O-O
+9. d5-d6 .. Ba9xd6 .. Ng13-i12 .. Qk6xBd6
+10. g4-g5 .. Nc9-b7 .. Bf14-g13 .. Qd6xNe7
+11. Bi1-j2 .. Ba6xd3 .. O-O .. Qe7xRa11+
+12. Ne1xBd3 .. Nb7-a9 .. Nf12-d11 .. m11-l11
+13. O-O .. d4-e4 .. Rf14-g14 .. Nn10-l9
+14. f3xe4 .. Ra4xe4 .. Bg13-f14 .. Nl9-j8
+15. Qg1-g2 .. Qa7-b7 .. Qh14xd10 .. Nj8-i6
+16. g5-g6 .. b9-c9 .. Nd11xc9+ .. m9-k9
+17. Qg2xRe4 .. Ka8-a7 .. Nc9xQb7+ .. k7-j7
+18. Qe4-a4+ .. T .. Qd10-h14 .. Bl8-h4
+19. Ri1-g1 .. Bf14-g13 .. Bh4-b10
+20. Qa4-a6 .. Bg13xKa7 .. Bb10xNa9
+21. Qa6xNb7 .. Ba7-f12 .. Ba9xh2
+22. Rg1-h1 .. h11-h10 .. Bh2xNi3
+23. Bj2xBi3 .. g11-g10 .. Qa11xBi3
+24. Rh1-h3 .. h10-h9 .. Qi3-k5
+25. Qb7-g2 .. g10-g9 .. Ni6-j4
+26. i2-i3 .. h9-h8 .. Nj4xRh3
+27. Qg2xNh3 .. g9-g8 .. Nl6-j5
+28. Nd3-f4 .. g8-g7=D .. Nj5xi3+
+29. Qh3xNi3 .. Qg7-g9 .. Qk5xQi3
+30. Rd1-i1 .. h8-h7=D .. Qi3xj3+
+31. k2xQj3 .. Qh7-g7 .. m10-l10
+32. j3-j4 .. Qg7xj4+ .. Rn6-n7
+33. R .. Qj4xKj1 .. Rn7-k7
+34. Qj1-j5 .. m6-k6
+35. Qj5-h5 .. k8-j8
+36. Qg9xl4 .. Rk7-m7
+37. Ql4xl10 .. R

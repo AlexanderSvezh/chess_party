@@ -1,0 +1,33 @@
+[GameNr "570"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "TheVictoryyipe"]
+[RedElo "1500"]
+[Blue "Kasharella"]
+[BlueElo "1441"]
+[Yellow "dankillerchessen"]
+[YellowElo "1548"]
+[Green "barangumus"]
+[GreenElo "1457"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:19:55 GMT+0000 (UTC)"]
+[CurrentMove "67"]
+
+1. g2-g4 .. b5-c5 .. h13-h11 .. m9-k9
+2. g4-g5 .. b8-c8 .. h11-h10 .. Qn8-m9
+3. g5-g6 .. Na5-c4 .. Ne14-f12 .. Qm9-k7
+4. g6-g7 .. b7-c7 .. g13-g12 .. Qk7-l7
+5. Bf1xQl7 .. Ba6-b7+ .. Nj14-i12 .. m8xBl7
+6. f2-f3 .. Qa7-c9 .. Bf14xk9 .. Bn9-m8
+7. g7-g8 .. b10-d10 .. O-O .. Bm8xNi12
+8. h2-h3 .. Qc9-e9 .. Nf12-d11 .. Bi12-d7
+9. Qg1-f2 .. Qe9xBk9 .. Qh14xd10 .. Bd7-f9
+10. g8xBf9 .. Qk9xf9 .. Bi14-h13+ .. Kn7-n8
+11. Bi1-g3 .. Ba9-c11 .. Nd11-c9+ .. Nn5-l4
+12. Qf2xc5 .. Na10xNc9 .. Qd10xBc11 .. Nn10-l11
+13. Qc5xNc4 .. Ka8-a7 .. Qc11-k11+ .. m10-l10
+14. Qc4-k12 .. Qf9-n9 .. Qk11xNl11 .. Rn11-n10
+15. Bg3-h4 .. Ra11-a10 .. j13-j12 .. l7-k7
+16. Bh4xNc9+ .. Ka7-a8 .. Ql11-i8+ .. Kn8-m9
+17. Qk12xQn9+ .. Ra10-c10 .. T

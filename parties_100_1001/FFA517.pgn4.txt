@@ -1,0 +1,51 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "517"]
+[Result "ManuelGamero: 64 - AlbertJooseph: 31 - Oleg_Ukraine: 18 - PaoloFalopero: 33"]
+[Variant "FFA"]
+[Red "ManuelGamero"]
+[RedElo "1744"]
+[Blue "AlbertJooseph"]
+[BlueElo "1632"]
+[Yellow "Oleg_Ukraine"]
+[YellowElo "1737"]
+[Green "PaoloFalopero"]
+[GreenElo "1743"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:07:09 GMT+0000 (UTC)"]
+[CurrentMove "117"]
+
+1. h2-h4 .. b6-c6 .. e13-e12 .. m8-k8
+2. h4-h5 .. b4-c4 .. Bf14-e13 .. k8-j8
+3. j2-j3 .. Qa7-c5 .. g13-g12 .. j8-i8
+4. Nj1-i3 .. Qc5-d4 .. i13-i11 .. i8-h8
+5. Ne1-f3 .. Qd4-d8 .. i11-i10 .. h8-g8=D
+6. Bi1-j2 .. Qd8-c7 .. i10-i9 .. Qg8-i8
+7. g2-g3 .. b5-d5 .. Nj14-i12 .. Bn9xBf1
+8. Qg1xBf1 .. c4-d4 .. k13-k11 .. Qi8xi9
+9. O-O .. d4-e4 .. Be13xQi9 .. m11-l11
+10. Nf3-h2 .. b8-c8 .. j13-j11 .. Qn8-i8
+11. f2-f4 .. Ba9-b8 .. Bi9-f12 .. Nn10-m8
+12. Nh2-i4 .. b9-c9 .. Bf12-e13 .. m7-k7
+13. Ri1-h1 .. Na10-c11 .. j11-j10 .. Qi8xNi12
+14. d2-d3 .. c9-d9 .. h13xQi12 .. m10-k10
+15. h5-h6 .. Bb8xQh14 .. Kg14xBh14 .. m4-l4
+16. h6-h7 .. O-O .. Ne14-f12 .. Bn6xj10
+17. h7-h8=D+ .. Nc11xe12 .. Kh14-g14 .. Bj10-l8
+18. Qh8-h2 .. Ne12xRd14 .. Be13xNd14 .. Nn5-l6
+19. Qh2-h14+# .. Ra4-b4 .. O-O-O
+20. Qh14-h2 .. Na5-c4 .. k7-j7
+21. Qf1-g1 .. c6-d6 .. Rn4-n7
+22. d3xNc4 .. Ba6xc4 .. j7-i7
+23. Rd1-d4 .. Qc7-b6 .. Rn7-k7
+24. Rd4xBc4 .. Qb6xQg1 .. i7-h7
+25. Qh2xQg1 .. Rb4xRc4 .. h7-g7=D
+26. e2-e3 .. d9-e9 .. Rk7-k9
+27. k2-k4 .. b7-d7 .. Qg7-k7
+28. Qg1-f1 .. Rc4-c5 .. Nl6-n5
+29. g3-g4 .. d5-e5 .. m6-k6
+30. f4xe5 .. Rc5xe5 .. Qk7-l6
+31. Qf1-f6 .. e9-f9 .. m5-k5
+32. Ni3-h5 .. f9-g9 .. k5-j5
+33. Qf6xb10+# .. j5xNi4
+34. R

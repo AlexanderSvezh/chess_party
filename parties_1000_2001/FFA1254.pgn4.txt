@@ -1,0 +1,19 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1254"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "vikask77"]
+[RedElo "1751"]
+[Blue "Hebert_Herrera"]
+[BlueElo "1577"]
+[Yellow "Norbi985"]
+[YellowElo "1579"]
+[Green "recordginescrack20"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:19:58 GMT+0000 (UTC)"]
+[CurrentMove "5"]
+
+1. g2-g4 .. b7-d7 .. e13-e12 .. m9-l9
+2. T

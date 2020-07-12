@@ -1,0 +1,22 @@
+[GameNr "764"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "ezrahleura"]
+[RedElo "1572"]
+[Blue "Nigillus"]
+[BlueElo "1470"]
+[Yellow "8943GHWRGW34IH89H"]
+[YellowElo "1508"]
+[Green "S_Mistik"]
+[GreenElo "1446"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:56:46 GMT+0000 (UTC)"]
+[CurrentMove "22"]
+
+1. h2-h3 .. b8-c8 .. i13-i12 .. m8-k8
+2. Bi1xBa9 .. Ka8xBa9 .. g13-g12 .. k8-j8
+3. Qg1-h2+ .. Na10-b8 .. Qh14xNb8+ .. j8-i8
+4. e2-e3 .. Qa7xQb8 .. Bf14-g13 .. i8-h8
+5. Qh2xQb8+ .. Ka9-a10 .. Ne14-d12 .. h8-g8
+6. Qb8-a8+ .. #

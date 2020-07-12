@@ -1,0 +1,41 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "188"]
+[Result "nataliabella: 20 - azamatkaibaldiyev: 31 - Alexey390: 0 - houssine200: 44"]
+[Variant "FFA"]
+[Red "nataliabella"]
+[RedElo "1536"]
+[Blue "azamatkaibaldiyev"]
+[BlueElo "1500"]
+[Yellow "Alexey390"]
+[YellowElo "1518"]
+[Green "houssine200"]
+[GreenElo "1518"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:31:22 GMT+0000 (UTC)"]
+[CurrentMove "76"]
+
+1. g2-g4 .. b7-c7 .. h13-h11 .. m8-k8
+2. g4-g5 .. b6-d6 .. h11-h10 .. k8-j8
+3. g5-g6 .. d6-e6 .. h10-h9 .. j8-i8
+4. g6-g7 .. e6-f6 .. h9-h8 .. Bn9-m8+
+5. g7-g8=D .. Ba6xBi14 .. Nj14-i12 .. Bm8xNi12+
+6. Qg8xh8 .. Bi14-d9 .. R .. Bi12xKg14
+7. j2-j3 .. f6-g6 .. m7-l7
+8. Bi1-j2 .. Qa7-b6 .. Nn10-l11
+9. Qh8-h6 .. b8-d8 .. Bn6-j10
+10. Nj1-i3 .. Na10-c9 .. i8-h8
+11. Bj2xm5 .. Na5-b7 .. Bg14-j11
+12. Bm5xRn4 .. Ba9-b8 .. h8-g8=D
+13. Bf1-h3 .. b4-c4 .. Bj11-l9
+14. f2-f3 .. b5-d5 .. Qg8-i6
+15. Qg1xQb6 .. O-O .. Qi6xQh6
+16. Qb6-f6 .. Ra9-a6 .. m6-l6
+17. Qf6-f5 .. Bd9-c8 .. Bl9-m8
+18. Qf5xNn5+ .. Bc8xBh3 .. Bj10-n6
+19. Qn5-l5+ .. Bh3-c8 .. Kn7-m7
+20. Ql5xm4+ .. c4-d4 .. Km7-l8
+21. Qm4-n5 .. d5-e5 .. Bn6-j2
+22. R .. e5-f5 .. Qh6xh2
+23. g6-h6=D .. Qh2xKh1
+24. Qh6xl6 .. T

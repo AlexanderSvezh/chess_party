@@ -1,0 +1,56 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "45"]
+[Result "KINGPavelDatsyuk: 5 - ChesswizRyan: 35 - KoF_MaEsTRo_NeO: 38 - SheikMex: 34"]
+[Variant "FFA"]
+[Red "KINGPavelDatsyuk"]
+[RedElo "1588"]
+[Blue "ChesswizRyan"]
+[BlueElo "1589"]
+[Yellow "KoF_MaEsTRo_NeO"]
+[YellowElo "1667"]
+[Green "SheikMex"]
+[GreenElo "1580"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 16:54:01 GMT+0000 (UTC)"]
+[CurrentMove "125"]
+
+1. g2-g4 .. b7-d7 .. e13-e12 .. m7-k7
+2. g4-g5 .. d7-e7 .. Bf14-e13 .. k7-j7
+3. g5-g6 .. e7-f7 .. Ne14-f12 .. m8-k8
+4. g6-g7 .. b11-c11 .. O-O .. Bn9xBf1
+5. Qg1xBf1 .. b5-c5 .. j13-j12 .. m11-l11
+6. Qf1-g1 .. Ba6xe2 .. Bi14-j13 .. Qn8-j4
+7. i2-i3 .. b6-c6 .. h13-h11 .. Qj4-e4+
+8. f2-f3 .. Be2xRd1 .. h11-h10 .. Qe4-e6
+9. Qg1-g2 .. Qa7-b6 .. i13-i11 .. Nn10-l9
+10. k2-k4 .. Qb6-b7 .. Nj14-i12 .. Nn5-l6
+11. Kh1-g1 .. Bd1-e2 .. g13-g11 .. Bn6-l8
+12. h2-h4 .. Be2-b5 .. Rf14-g14 .. Qe6xNe1+
+13. Kg1-h2 .. b8-c8+ .. g11-g10 .. Nl6xk4
+14. R .. Ba9xKh2 .. g10-g9 .. Qe1xh4
+15. Bh2-b8 .. h10-h9 .. O-O-O
+16. Na10-c9 .. h9-h8 .. Bl8-j6
+17. O-O .. h8-h7=D .. Qh4xi3
+18. c6-d6 .. k13-k11 .. m5-l5
+19. Ra9-a6 .. k11-k10 .. Nl9-j8
+20. d6-e6 .. Qh7-h10 .. Nj8xk10
+21. e6-f6 .. Qh14-g13 .. Qi3-i5
+22. f6-g6 .. Be13xc11 .. Bj6-k7
+23. Bb8-a9 .. Qh10xBk7 .. Qi5xQk7
+24. b10xBc11 .. Nf12-d11 .. Nk10xj12
+25. Nc9xNd11 .. Rk14-h14 .. j7-i7
+26. Nd11-b10 .. Rh14-h10 .. k8-j8
+27. Ka10-b11 .. d13-d12 .. Nk4-i5
+28. Ba9-b8 .. Qg13-g11 .. j8-i8
+29. Nb10-d9 .. d12xc11 .. i8-h8
+30. Nd9xc11 .. g9xh8 .. Rn8xh8
+31. Na5-c4 .. Qg11-f11 .. Rn4-n8
+32. Bb5-d7 .. Rg14-g11 .. Rh8-f8
+33. Bb8-e11 .. Qf11xBe11 .. Rf8xf7
+34. R .. Qe11xNc11 .. Ni5xg6
+35. Qc11xKb11 .. i7-h7
+36. Qb11xRf7 .. Nj12-k10
+37. Qf7-c10 .. Rn8-k8
+38. Rg11-g10 .. Ng6-f8
+39. R

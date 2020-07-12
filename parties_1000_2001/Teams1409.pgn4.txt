@@ -1,0 +1,19 @@
+[GameNr "1409"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Kujtimi"]
+[RedElo "2782"]
+[Blue "taco68"]
+[BlueElo "1500"]
+[Yellow "yassinetn"]
+[YellowElo "1508"]
+[Green "Akusu"]
+[GreenElo "1783"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:11:06 GMT+0000 (UTC)"]
+[CurrentMove "10"]
+
+1. h2-h3 .. b4-d4 .. e13-e12 .. m8-l8
+2. Qg1-j4 .. Ra4-c4 .. Bf14-e13 .. Qn8-m8
+3. Nj1-i3 .. T

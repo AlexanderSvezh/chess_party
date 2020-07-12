@@ -1,0 +1,45 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "351"]
+[Result "alexandrubarladean: 42 - AbsolutelyRelative: 77 - Boombeach1: 6 - Arbalest62: 8"]
+[Variant "FFA"]
+[Red "alexandrubarladean"]
+[RedElo "1500"]
+[Blue "AbsolutelyRelative"]
+[BlueElo "1712"]
+[Yellow "Boombeach1"]
+[YellowElo "1493"]
+[Green "Arbalest62"]
+[GreenElo "1548"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:18:49 GMT+0000 (UTC)"]
+[CurrentMove "96"]
+
+1. Nj1-i3 .. b7-d7 .. h13-h11 .. m8-k8
+2. j2-j3 .. d7-e7 .. Ne14-f12 .. k8-j8
+3. Bi1-j2 .. e7-f7 .. Nf12-g10 .. j8-i8
+4. O-O .. f7-g7 .. Bi14xBa6 .. Bn9-m8+
+5. g2-g4 .. Qa7xBa6 .. i13-i12 .. m7-l7
+6. Ne1-f3 .. b4-d4 .. Nj14-h13 .. Nn10-l9
+7. d2-d3 .. d4-e4 .. d13-d11 .. m11-k11
+8. d3xe4 .. Ra4xe4 .. Rd14-d12 .. k11-j11
+9. g4-g5 .. b11-c11 .. e13-e12 .. j11xi12
+10. h2-h4 .. c11xRd12 .. Bf14xd12 .. i12xh11
+11. h4-h5 .. b8-d8 .. Ng10-h12 .. Nl9-j10
+12. Rd1xd8+ .. Ba9-b8 .. k13-k11 .. Nj10-h9
+13. Rd8xi8 .. g7-h7=D .. Rk14-i14 .. h11-g11=D
+14. Ri8xBb8+ .. Na10xRb8 .. f13-f12 .. Qg11-g12
+15. g5-g6 .. Qh7-b7 .. Ri14-i9 .. Qg12-e14+
+16. h5-h6 .. Qb7xNh13+# .. Qe14-k8
+17. h6-h7 .. Na5-c6 .. Bm8xQh13
+18. Nf3-g5 .. Qa6xBh13+ .. m9-l9
+19. Ng5xRe4 .. Qh13-e10 .. Qk8xNb8+
+20. g6-g7 .. Nc6xQb8 .. m4-l4
+21. g7-g8=D .. Qe10xNe4 .. Qn8-l6
+22. Qg8xNh9 .. O-O .. Ql6xb6
+23. h7-h8=D .. Nb8-d7 .. Rn11-n8
+24. Qh8xRn8+ .. Nd7xQb6 .. Kn7xQn8
+25. f2-f3 .. Qe4-e8+ .. Kn8-n7
+26. Qh9-h4 .. Ra9-a8 .. Nn5-m7
+27. Ni3-g4 .. Qe8-m8+#
+28. Qh4xb10+#

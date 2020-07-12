@@ -1,0 +1,49 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1372"]
+[Result "Attila76: 30 - Giant-Watermelon: 0 - Kelby060: 56 - TRACIOII: 19"]
+[Variant "FFA"]
+[Red "Attila76"]
+[RedElo "1548"]
+[Blue "Giant-Watermelon"]
+[BlueElo "1500"]
+[Yellow "Kelby060"]
+[YellowElo "1757"]
+[Green "TRACIOII"]
+[GreenElo "1717"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:15:08 GMT+0000 (UTC)"]
+[CurrentMove "102"]
+
+1. k2-k4 .. b8-d8 .. h13-h11 .. m8-k8
+2. k4-k5 .. Ba9-e5 .. h11-h10 .. k8-j8
+3. k5-k6 .. Na10-c9 .. h10-h9 .. j8-i8
+4. k6-k7 .. O-O .. h9-h8 .. Nn5-l6
+5. h2-h3 .. Nc9-e8 .. h8-h7=D .. m9-k9
+6. Bi1-h2 .. Qa7-e11 .. Qh7-h10 .. k9-j9
+7. Bh2xNl6 .. b7-d7 .. e13-e12 .. m5xBl6
+8. k7-k8=D .. d7-e7 .. Qh10xb10+# .. Qn8-m9
+9. Qk8-k4 .. Bf14-e13 .. Qm9-l8
+10. j2-j4 .. Bi14-h13+ .. Nn10-l9
+11. j4-j5 .. f13-f11 .. i8-h8
+12. i2-i4 .. Ne14-f12 .. h8-g8=D
+13. Nj1-i3 .. O-O .. Qg8xg13
+14. Qk4xm4 .. Qh14-i14 .. Rn4xQm4
+15. Rk1-j1 .. Nf12-h11 .. Qg13-k9
+16. j5-j6 .. Nh11-i9 .. m7-k7
+17. j6-j7 .. Nj14-i12 .. m10-l10
+18. Ni3-h5 .. Rf14-g14 .. Bn9-m8
+19. d2-d4 .. Ni9-j11 .. Qk9-h6
+20. d4-d5 .. Be13-f14 .. Ql8-l7
+21. d5-d6 .. Bf14xBn6 .. Kn7xBn6
+22. d6-d7 .. Qb10-f14+ .. Kn6-n7
+23. d7xNe8=D .. Nj11-k9 .. l10xNk9
+24. Qe8-d7 .. Bh13-g12 .. Qh6-j8
+25. i4-i5 .. Qi14-h13 .. Nl9-k11
+26. i5-i6 .. Qh13xNh5 .. Nk11xj13
+27. Qd7-g4 .. Qh5-n5+ .. Kn7-m7
+28. h3-h4 .. Qn5xRn11 .. Bm8xNi12
+29. h4-h5 .. Qn11xm11+ .. Qj8-m8
+30. Qg4xRm4 .. Qf14xk9+ .. Km7-n8
+31. j7-j8=D .. Qm11-n11+#
+32. Qj8xQk9 .. R

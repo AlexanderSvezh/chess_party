@@ -1,0 +1,29 @@
+[GameNr "8"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "tydudyjfykgyk"]
+[RedElo "2195"]
+[Blue "7Mana"]
+[BlueElo "1832"]
+[Yellow "GandaalfTheWhite"]
+[YellowElo "1712"]
+[Green "ThunderInc"]
+[GreenElo "1700"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 16:30:01 GMT+0000 (UTC)"]
+[CurrentMove "50"]
+
+1. h2-h3 .. b6-d6 .. h13-h12 .. m9-l9
+2. e2-e3 .. b8-c8 .. Bi14-g12 .. m8-k8
+3. Bf1-e2 .. Qa7-d10 .. Qh14-h13 .. Bn9-m8
+4. Be2-f3 .. Na5-c6 .. Nj14-i12 .. m11-k11
+5. Qg1-k5 .. Na10-c9 .. Ne14-f12 .. m4-l4
+6. Qk5-i7 .. b11-d11 .. e13-e11 .. Bm8-l7
+7. Nj1-i3 .. Qd10-d8 .. Rk14-j14 .. Qn8-m8
+8. Bi1-h2 .. b4-d4 .. Ni12-g11 .. m10-k10
+9. e3-e4 .. Nc6-e5 .. Ng11-e10 .. k11-j11
+10. Bh2xNe5 .. Nc9xNe10 .. Nf12xNe10 .. k8-j8
+11. Qi7-h8 .. Qd8xQh8 .. Ne10-f12 .. Bl7xBg12
+12. Be5xQh8 .. Ra11-c11 .. Qh13xBg12 .. Qm8-l7
+13. Bf3xl9+ .. R

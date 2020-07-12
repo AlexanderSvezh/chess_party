@@ -1,0 +1,35 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "448"]
+[Result "pabloMarinozi: 53 - angelcortez19960: 0 - Martimarinr: 8 - MrTotodile: 35"]
+[Variant "FFA"]
+[Red "pabloMarinozi"]
+[RedElo "1500"]
+[Blue "angelcortez19960"]
+[BlueElo "1501"]
+[Yellow "Martimarinr"]
+[YellowElo "1498"]
+[Green "MrTotodile"]
+[GreenElo "1546"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:43:31 GMT+0000 (UTC)"]
+[CurrentMove "61"]
+
+1. g2-g4 .. b10-d10 .. g13-g11 .. m7-k7
+2. g4-g5 .. b8-d8 .. g11-g10 .. k7-j7
+3. g5-g6 .. d8-e8 .. g10-g9 .. j7-i7
+4. e2-e3 .. Na10-c9 .. g9-g8 .. m10-l10
+5. g6-g7 .. Ba9-b8 .. h13-h12 .. Bn9-m10
+6. Bf1-e2 .. b6-d6 .. Qh14xd10 .. Bm10xBe2
+7. Ne1-g2 .. b11-c11 .. Qd10xg7 .. Be2xRd1
+8. Qg1xBd1 .. b5-c5 .. Qg7xi7+ .. Bn6-m7
+9. Qd1xRn11 .. d6-e6 .. h12-h11 .. Nn5-l6
+10. Qn11-g4 .. c5-d5 .. Bf14xBm7 .. Qn8xBm7
+11. Qg4xg8+ .. Ba6-f1 .. T .. O-O
+12. Qg8xKg14 .. Na5-c6 .. Qm7xQi7
+13. Ng2-i3 .. Ra4-a5 .. Nn10-l9
+14. j2-j3 .. e8-f8 .. Qi7-f10
+15. k2-k4 .. T .. Qf10-a10
+16. Qg14-g5 .. m4-l4
+17. Bi1xl4 .. Qa10xKa8
+18. Qg5xm5+#

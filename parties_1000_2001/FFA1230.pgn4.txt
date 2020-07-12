@@ -1,0 +1,62 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1230"]
+[Result "AlexanderRamirez1993: 31 - KayzerD: 55 - 684P: 2 - Butchinator1988: 1"]
+[Variant "FFA"]
+[Red "AlexanderRamirez1993"]
+[RedElo "1488"]
+[Blue "KayzerD"]
+[BlueElo "1498"]
+[Yellow "684P"]
+[YellowElo "1829"]
+[Green "Butchinator1988"]
+[GreenElo "1455"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:30:09 GMT+0000 (UTC)"]
+[CurrentMove "118"]
+
+1. g2-g4 .. b8-d8 .. h13-h11 .. m8-k8
+2. h2-h3 .. d8-e8 .. h11-h10 .. Bn9-j5
+3. i2-i4 .. e8-f8 .. h10-h9 .. Qn8-m8+
+4. Nj1-k3 .. b7-d7 .. Bi14-h13 .. Nn10-l9
+5. i4xBj5 .. Ba9-b8 .. f13-f11 .. m4-l4
+6. Nk3-i2 .. Qa7-b7+ .. h9-h8 .. Qm8xj5
+7. f2-f3 .. Na10-c9 .. Bh13-g12 .. Nl9-j8
+8. Ni2-h4 .. O-O .. Bg12xk8 .. Qj5-g8
+9. k2-k3 .. d7-e7 .. Bk8-f13 .. O-O-O
+10. Qg1-i3 .. b5-c5 .. Qh14-h11 .. Qg8-k4+
+11. j2-j3 .. b6-d6 .. Qh11xm11 .. T
+12. d2-d3 .. Ba6-b5 .. i13-i12
+13. Bi1-h2 .. e7-f7 .. h8-h7=D
+14. O-O .. f8-g8 .. Qh7-h11
+15. Ri1-g1 .. f7-g7 .. Qm11-n10
+16. g4-g5 .. g7-h7=D .. Qh11-g11
+17. Rg1-g4 .. g8-h8=D .. Nj14-k12
+18. Qi3-i4 .. Qh8-h13+#
+19. Qi4xKn9 .. Qh7-i7
+20. Qn9-i4 .. Qi7xQi4
+21. j3xQi4 .. Qh13xj13
+22. Kj1-i2 .. Qj13xNj8
+23. g5-g6 .. Nc9-e8
+24. Bh2-k5 .. Qb7-j7
+25. Ki2-h2 .. Qj7-j2+
+26. Kh2-g1 .. Qj2-j1+
+27. Kg1-f2 .. Qj8-j2+
+28. Kf2-e3 .. b4-d4+
+29. Ke3-f4 .. Qj1-i1+
+30. Kf4-g5 .. Qi1-e5+
+31. Kg5-h6 .. Qj2-j8+
+32. Bk5-i7 .. Qe5-g7+
+33. Kh6-i6 .. Qj8xBi7+
+34. Ki6-j5 .. Qg7-h7+
+35. Kj5-j4 .. Bb8-d10+
+36. Kj4-i3 .. Qi7-k5+
+37. Ki3-j3 .. Qk5xQk4+
+38. Kj3-i3 .. Bd10-j4+
+39. k3xBj4 .. Qk4-k1+
+40. Ki3-h2 .. Qh7-k4
+41. Bf1-g2 .. Qk4xj4+
+42. Kh2-g3 .. Qk1-i1+
+43. Kg3-f2 .. Qi1-g1+
+44. Kf2-g3 .. Ne8-f6
+45. Rg4-f4 .. Qj4-h2+#

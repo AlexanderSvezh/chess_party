@@ -1,0 +1,44 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "710"]
+[Result "Jefinhooo: 39 - alperin: 31 - PteToucher: 35 - andrews810: 7"]
+[Variant "FFA"]
+[Red "Jefinhooo"]
+[RedElo "1666"]
+[Blue "alperin"]
+[BlueElo "1645"]
+[Yellow "PteToucher"]
+[YellowElo "1661"]
+[Green "andrews810"]
+[GreenElo "1703"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:51:25 GMT+0000 (UTC)"]
+[CurrentMove "81"]
+
+1. h2-h4 .. b7-d7 .. h13-h11 .. m8-l8
+2. Qg1-j4 .. b8-c8 .. Nj14-i12 .. Bn9xg2++
+3. Bf1xBg2+ .. Na5-c6 .. h11-h10 .. m11-l11
+4. Bg2-f3 .. Na10-b8 .. k13-k12 .. Nn10-l9
+5. d2-d3 .. b4-d4 .. k12xl11 .. Rn11xl11
+6. k2-k4 .. b10-c10 .. j13-j12 .. R
+7. Qj4xm7 .. d4-e4 .. h10-h9
+8. Qm7xKn7 .. e4xBf3 .. h9-h8
+9. e2xf3 .. Ra4xh4+ .. d13-d12
+10. Nj1-h2 .. c8-d8 .. e13-e11
+11. k4-k5 .. Nb8-d9 .. Bi14-f11
+12. f3-f4 .. Rh4xf4 .. h8-h7=D
+13. Ne1-g2 .. Rf4xf2 .. Bf11-k6
+14. Qn7xm6 .. Ba6-c8 .. f13-f11
+15. Rk1-k3 .. Rf2-f8 .. Bk6-l7
+16. Qm6-l6 .. d7-e7 .. Bl7xNg2+
+17. Kh1xBg2 .. e7-f7 .. Qh7-g7+
+18. Kg2-h1 .. Nc6-e7 .. f11-f10
+19. Ql6xRd14 .. Rf8-g8 .. Qg7xf7
+20. Qd14xNe14 .. b6-d6 .. Qf7-d5++
+21. Rk3-f3 .. Bc8-b7 .. Qd5xRf3+#
+22. Bb7xQf3 .. g13-g11
+23. Ba9-b8 .. g11-g10
+24. Rg8xg10+ .. Bf14-g13
+25. Qa7-g1 .. Ni12-h10
+26. d6-e6 .. e11-e10
+27. Nd9xf10 .. R

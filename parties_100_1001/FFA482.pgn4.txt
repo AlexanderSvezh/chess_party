@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "482"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "carlosvar98"]
+[RedElo "1488"]
+[Blue "SirCas"]
+[BlueElo "1721"]
+[Yellow "LABB10MIL"]
+[YellowElo "1483"]
+[Green "tiger1099"]
+[GreenElo "1474"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:44:36 GMT+0000 (UTC)"]
+[CurrentMove "2"]
+
+1. h2-h4 .. T

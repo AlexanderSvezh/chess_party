@@ -1,0 +1,39 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "394"]
+[Result "Princyrulz: 49 - Davidbloom001: 0 - qureshb: 6 - MarshmallowQueen2: 25"]
+[Variant "FFA"]
+[Red "Princyrulz"]
+[RedElo "1820"]
+[Blue "Davidbloom001"]
+[BlueElo "1558"]
+[Yellow "qureshb"]
+[YellowElo "1500"]
+[Green "MarshmallowQueen2"]
+[GreenElo "1519"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:28:01 GMT+0000 (UTC)"]
+[CurrentMove "73"]
+
+1. k2-k3 .. b7-d7 .. g13-g11 .. m7-k7
+2. j2-j4 .. d7-e7 .. Ne14-f12 .. Nn5-l6
+3. h2-h3 .. e7-f7 .. h13-h12 .. Nn10-l9
+4. i2-i4 .. f7-g7 .. Nj14-i12 .. Qn8-m7
+5. Qg1-i3 .. b8-c8 .. Bf14-g13 .. m5-l5
+6. g2-g3 .. Qa7-e11 .. O-O .. Bn6-m5
+7. i4-i5 .. Qe11-e4+ .. Bi14-g12 .. O-O
+8. Bf1-g2 .. R .. h12-h11 .. Qm7-l7
+9. d2-d4 .. Bg13xRn6 .. Bm5xBn6
+10. d4-d5 .. d13-d12 .. Bn6-m5
+11. d5-d6 .. Ni12-h10 .. Ql7-k6
+12. d6-d7 .. Qh14-g13 .. Qk6-c6
+13. d7-d8=D .. Qg13-h12 .. Qc6xKa8
+14. i5-i6 .. i13-i12 .. Qa8-c6
+15. Qd8-d6 .. j13-j11 .. Qc6-e8
+16. i6-i7 .. Nf12-d11 .. m8-l8
+17. Qd6-d5 .. Nd11-f10 .. Qe8-k8
+18. Bg2-f3 .. Bg12-f11 .. Qk8-f8
+19. Qd5xQe4 .. Qh12-f12 .. Qf8xg7
+20. i7-i8=D .. Nh10xQi8 .. Qg7-d7
+21. Rd1xQd7 .. T .. Bn9-l7
+22. Qe4xe13 .. R

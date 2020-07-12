@@ -1,0 +1,25 @@
+[GameNr "1317"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Akusu"]
+[RedElo "1777"]
+[Blue "Great-Gazoo"]
+[BlueElo "1295"]
+[Yellow "AC61"]
+[YellowElo "1805"]
+[Green "SheikMex"]
+[GreenElo "1728"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:43:14 GMT+0000 (UTC)"]
+[CurrentMove "34"]
+
+1. h2-h3 .. b6-d6 .. g13-g12 .. m8-l8
+2. d2-d4 .. Qa7-b6 .. Bf14-h12 .. Nn5-l6
+3. Nj1-i3 .. Qb6-c6 .. Qh14-e11 .. m5-l5
+4. Ne1-f3 .. Na5-c4 .. Ne14-f12 .. Bn6-m5
+5. k2-k3 .. Na10-c9 .. d13-d11 .. Nl6-j5
+6. Ni3xNj5 .. Qc6-c8 .. Bh12-g13 .. Bn9xNj5
+7. i2-i4 .. Qc8xh3+ .. Qe11-j11+ .. Bj5-m8
+8. g2xQh3 .. Nc4-e3 .. Qj11-h11 .. O-O
+9. f2xNe3 .. R

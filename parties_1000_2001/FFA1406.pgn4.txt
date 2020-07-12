@@ -1,0 +1,32 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1406"]
+[Result "Yelbir: 22 - operation1000: 20 - WhiteHorse05: 0 - katashimori: 25"]
+[Variant "FFA"]
+[Red "Yelbir"]
+[RedElo "1526"]
+[Blue "operation1000"]
+[BlueElo "1724"]
+[Yellow "WhiteHorse05"]
+[YellowElo "1757"]
+[Green "katashimori"]
+[GreenElo "1925"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:15:21 GMT+0000 (UTC)"]
+[CurrentMove "55"]
+
+1. g2-g4 .. b7-d7 .. g13-g12 .. m10-l10
+2. g4-g5 .. d7-e7 .. h13-h11 .. Bn9-m10
+3. h2-h4 .. e7-f7 .. Bf14-g13 .. m9-k9
+4. f2-f3 .. f7-g7 .. Ne14-f12 .. Nn10-l9
+5. Bf1-j5 .. g7-h7=D .. O-O .. Nl9-j8
+6. Bj5xQh7 .. Na10-c9 .. h11-h10 .. Nj8xBh7
+7. g5-g6 .. b10-c10 .. d13-d12 .. Nh7-j8
+8. g6-g7 .. Ba9-b10 .. Nj14-i12 .. Nn5-l6
+9. g7-g8=D .. O-O .. g12-g11 .. m7-k7
+10. Qg8-e6 .. Ra9-a8 .. g11-g10 .. m8-l8
+11. Qg1-e3 .. b5-c5 .. h10-h9 .. Qn8-m8
+12. Qe6xe13+# .. b4-d4 .. Bn6-m7
+13. Qe3-e4 .. b6-c6 .. Nl6-k4
+14. j2-j3 .. c5-d5 .. Qm8-f1+#
+15. b8-d8 .. R

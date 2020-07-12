@@ -1,0 +1,25 @@
+[GameNr "746"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "davrongar"]
+[RedElo "1500"]
+[Blue "roachesst"]
+[BlueElo "2133"]
+[Yellow "ermis8992"]
+[YellowElo "2079"]
+[Green "GamidGod"]
+[GreenElo "1512"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:55:45 GMT+0000 (UTC)"]
+[CurrentMove "33"]
+
+1. h2-h4 .. b6-d6 .. i13-i11 .. m5-l5
+2. h4-h5 .. Qa7-d4 .. g13-g12 .. Nn5-l6
+3. Ne1-f3 .. Qd4-i9 .. Qh14-f12 .. Bn6-m5
+4. Qg1-i3 .. Qi9xQi3 .. Qf12-j8 .. Bm5xj2
+5. Nj1xQi3 .. b4-d4 .. Qj8xBj2 .. m8-k8
+6. Rk1-j1 .. d4-e4 .. Qj2-j4 .. m4-k4
+7. Bi1-m5 .. b5-c5 .. Qj4-j11+ .. m9-l9
+8. Bm5xRn4 .. e4xNf3 .. Qj11-i12 .. m7-k7
+9. T

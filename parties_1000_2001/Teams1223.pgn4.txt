@@ -1,0 +1,21 @@
+[GameNr "1223"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "oscarbacca"]
+[RedElo "1714"]
+[Blue "johanlundberg"]
+[BlueElo "1867"]
+[Yellow "kingcon4848"]
+[YellowElo "1440"]
+[Green "Bonvil"]
+[GreenElo "1853"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:12:14 GMT+0000 (UTC)"]
+[CurrentMove "19"]
+
+1. h2-h3 .. b7-c7 .. h13-h11 .. m9-k9
+2. Qg1-j4 .. Ba6xBi14 .. Qh14xBi14 .. Nn5-l6
+3. Qj4-e4+ .. b6-c6 .. Qi14-e10 .. Qn8xi13
+4. Qe4-k10 .. Qa7-b7 .. Qe10xQb7+ .. Qi13-i14+
+5. Qk10-h13 .. Na5xQb7 .. #

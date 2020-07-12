@@ -1,0 +1,31 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "445"]
+[Result "Abhinav8932934: 41 - comradical: 4 - hi213456789: 4 - Jolange287: 45"]
+[Variant "FFA"]
+[Red "Abhinav8932934"]
+[RedElo "1641"]
+[Blue "comradical"]
+[BlueElo "1735"]
+[Yellow "hi213456789"]
+[YellowElo "1545"]
+[Green "Jolange287"]
+[GreenElo "1714"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:37:44 GMT+0000 (UTC)"]
+[CurrentMove "53"]
+
+1. j2-j3 .. Na10-c9 .. e13-e12 .. m8-k8
+2. Bi1-j2 .. b11-c11 .. Bf14-e13 .. k8-j8
+3. Nj1-i3 .. b10-c10 .. Ne14-f12 .. j8-i8
+4. O-O .. Ba9-b10 .. O-O .. i8-h8
+5. g2-g4 .. O-O .. Nf12-e10 .. h8-g8=D
+6. g4-g5 .. Ra9-a8 .. Ne10xNc9+ .. m7-l7
+7. g5-g6 .. b8xNc9 .. Nj14-i12 .. Qg8xRa8+
+8. g6-g7 .. Qa7xQa8 .. Ni12-h10 .. Qn8xQa8+
+9. g7-g8=D .. Ka10-b11 .. Nh10-f11 .. Qa8xBa6
+10. Qg8-i10 .. c11-d11 .. Nf11-d12+ .. Qa6xb6
+11. Qi10xc10+ .. Kb11-a10 .. Be13xm5 .. Bn6xBm5
+12. Qc10-b11+ .. Ka10-a9 .. Nd12-c10+ .. Qb6-l6
+13. Qb11-a11+# .. Nc10xKa9 .. Ql6-e13+#
+14. Qa11xd11 .. R

@@ -1,0 +1,64 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1327"]
+[Result "hitsujyun: 22 - Indipendenza: 72 - sosanicolas19: 30 - emersonmorales: 45"]
+[Variant "FFA"]
+[Red "hitsujyun"]
+[RedElo "1555"]
+[Blue "Indipendenza"]
+[BlueElo "1676"]
+[Yellow "sosanicolas19"]
+[YellowElo "1574"]
+[Green "emersonmorales"]
+[GreenElo "1559"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:06:50 GMT+0000 (UTC)"]
+[CurrentMove "167"]
+
+1. h2-h4 .. b10-c10 .. h13-h11 .. m7-k7
+2. h4-h5 .. Ba9-b10 .. h11-h10 .. k7-j7
+3. h5-h6 .. Na10-c9 .. h10-h9 .. m5-l5
+4. Nj1-i3 .. O-O .. h9-h8 .. Nn5-l6
+5. h6-h7 .. b5-c5 .. Nj14-i12 .. Bn6-m5
+6. k2-k3 .. Ba6-b5 .. Ne14-f12 .. O-O
+7. Bi1-h2 .. b7-d7 .. d13-d12 .. Qn8-n7
+8. O-O .. b11-d11 .. e13-e11 .. m10-l10
+9. Ne1-f3 .. b6-d6 .. g13-g11 .. Nn10-l9
+10. d2-d3 .. b4-d4 .. Bf14-i11 .. Bn9-m10
+11. g2-g4 .. d7-e7 .. O-O .. Rn11-n8
+12. Bf1-h3 .. d4-e4 .. Rf14-g14 .. Bm10-l11
+13. Nf3-g5 .. e4-f4 .. g11-g10 .. m8-k8
+14. Ng5-f3 .. c5-d5 .. g10-g9 .. Bl11xh7
+15. g4-g5 .. d5-e5 .. g9-g8 .. Bh7-l11
+16. Qg1-g4 .. f4xg5 .. g8-g7=D .. k8-j8
+17. Qg4-g1 .. g5-h5=D .. Qg7-g11 .. Bl11-m10
+18. Qg1-h1 .. Qh5-f7 .. h8-h7=D .. j8-i8
+19. e2-e4 .. Qf7-e8 .. Qh7-h13 .. j7-i7
+20. d3-d4 .. Bb5-e2 .. Bi11-f14 .. i8-h8
+21. Rd1-d2 .. Be2xNf3 .. Bf14-e13 .. i7-h7
+22. Qh1xBf3 .. Ra4xd4 .. Ni12-h10 .. Nl6-j7
+23. Ri1-d1 .. Rd4xRd2 .. Qg11-g12 .. Nj7-i9
+24. Rd1xRd2 .. Nc9-e10 .. Nf12-d13 .. h8-g8=D
+25. Rd2xd6 .. Qe8-b5 .. k13-k12 .. Qg8-h8
+26. Rd6-d1 .. Na5-c4 .. Nh10-j9 .. Qh8-i8
+27. Rd1-g1 .. b8-c8 .. Nj9-h10 .. Qi8-i7
+28. Rg1xQg12 .. Ne10-f12+ .. Be13xNf12 .. h7-g7=D
+29. Rg12xRg14+ .. Qb5-c5 .. Qh13xRg14 .. Qg7-h6
+30. Bh2-g3 .. Nc4-d2 .. i13-i11 .. Ni9-k8
+31. Qf3xNk8 .. Nd2xe4 .. Bi14-h13 .. Rn8xQk8
+32. Ni3-j5 .. Ne4xBg3 .. Nd13-c11+ .. Qi7xi2+
+33. Bh3xQi2 .. Bb10xNc11 .. d12xBc11 .. Qh6-h2
+34. Nj5-l6+ .. Qc5xf2 .. Bh13xNl9 .. Bm5xNl6
+35. Bi2xc8 .. Qf2-e1+ .. Bl9xQn7 .. Rn6xBn7
+36. Kj1-k2 .. b9xBc8 .. Qg14xRn7+ .. Kn5-m5
+37. R .. Qe1-k1 .. T .. Qh2-h9
+38. Ra9xQh9 .. Rk8xc8
+39. Qk1xKk2 .. Rc8xc10+
+40. Ka10-b11 .. Rc10-c5
+41. Qa7xe11 .. Rc5-b5+
+42. Kb11xc11 .. Rb5-c5+
+43. Kc11-d12 .. Rc5xe5
+44. Qe11xKe14 .. Bl6-h2
+45. Rh9xm9 .. Bh2xNg3
+46. Rm9xBm10 .. Re5-k5
+47. R

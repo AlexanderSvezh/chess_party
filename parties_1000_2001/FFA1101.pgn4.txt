@@ -1,0 +1,57 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1101"]
+[Result "1nightstand: 71 - fireflight1324: 16 - mohamedyunis: 51 - SMARTandHANDSOME2018: 21"]
+[Variant "FFA"]
+[Red "1nightstand"]
+[RedElo "1745"]
+[Blue "fireflight1324"]
+[BlueElo "1504"]
+[Yellow "mohamedyunis"]
+[YellowElo "1605"]
+[Green "SMARTandHANDSOME2018"]
+[GreenElo "1542"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:46:23 GMT+0000 (UTC)"]
+[CurrentMove "140"]
+
+1. g2-g4 .. b7-d7 .. j13-j12 .. m11-l11
+2. g4-g5 .. b8-d8 .. e13-e12 .. m5-l5
+3. f2-f3 .. d7-e7 .. Bf14-e13 .. m6-l6
+4. k2-k3 .. d8-e8 .. Ne14-f12 .. Bn6-m5
+5. Nj1-i3 .. e8-f8 .. O-O .. m8-k8
+6. Ne1-g2 .. f8-g8 .. g13-g12 .. Bn9-l7
+7. f3-f4 .. g8-h8=D .. h13-h11 .. k8-j8
+8. h2-h3 .. e7-f7 .. h11-h10 .. Bl7-m8
+9. Bi1-h2 .. f7-g7 .. h10-h9 .. Bm8-i12
+10. O-O .. g7-h7=D .. Nj14xBi12 .. l11-k11
+11. e2-e3 .. Qh8xh9 .. Qh14-g14 .. k11xj12
+12. Qg1-f2 .. Ba9-b8 .. k13xj12 .. l6-k6
+13. d2-d3 .. Bb8xNf12 .. Be13xBf12 .. Nn10-l11
+14. Qf2-f3+ .. Ba6-b7 .. Bf12-e13 .. j8-i8
+15. e3-e4 .. Qh7xi8 .. Ni12-g11+ .. m9-l9
+16. f4-f5 .. Qh9-f11 .. g12xQf11 .. Bm5xNg11
+17. g5-g6 .. Bb7xf11 .. Bi14xBf11 .. Bg11xBe13
+18. h3-h4 .. Na10-b8 .. Ke14xBe13 .. Qn8-j8+
+19. h4-h5 .. Qi8xi13 .. Ke13-e14 .. Nl11xj12
+20. Bh2-f4 .. Na5-c4 .. Rk14-k12 .. Nj12-h13
+21. Bf4xQj8 .. Qi13-j13 .. Rk12-h12 .. Rn11xBf11
+22. Bj8xRn4 .. O-O .. e12xRf11 .. Nh13xRf14
+23. Ri1-h1 .. Qj13-e8+ .. Ke14xNf14 .. Kn7-m6
+24. Bn4-k7 .. Qa7xBk7 .. Qg14-g12+ .. Km6-n7
+25. h5-h6 .. Qk7-e13+ .. Kf14-g13 .. m4-l4
+26. k3-k4 .. Ra4-a7 .. Rh12-h11 .. l5xk4
+27. Ni3xk4 .. Qe8-e11+ .. Kg13-h12 .. Nn5-l6
+28. Nk4xNl6+ .. Qe13xd13 .. f13-f12 .. T
+29. Nl6xKn7 .. Qe11-e14 .. Qg12-g11
+30. d3xNc4 .. Qe14-h14+ .. Kh12-i12
+31. Rd1xQd13 .. Qh14-n8 .. f11-f10
+32. c4xb5 .. Qn8xNn7 .. Qg11xb11+#
+33. h6-h7 .. Rh11-j11
+34. Qf3-i6+ .. Ki12-j12
+35. h7-h8=D .. Qb11xb10
+36. Qi6-i13+ .. Kj12-k12
+37. Qi13-k13+ .. Kk12-l11
+38. Qh8-i8+ .. Kl11-m11
+39. Qk13-k9+ .. Km11-n11
+40. j2-j3 .. T

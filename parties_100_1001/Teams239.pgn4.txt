@@ -1,0 +1,21 @@
+[GameNr "239"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Antruni"]
+[RedElo "1823"]
+[Blue "chessstar3035"]
+[BlueElo "1482"]
+[Yellow "tyuiopweij"]
+[YellowElo "1518"]
+[Green "GolodniSneg"]
+[GreenElo "1543"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:36:39 GMT+0000 (UTC)"]
+[CurrentMove "18"]
+
+1. h2-h3 .. b7-d7 .. g13-g11 .. Nn5-l6
+2. e2-e3 .. b8-c8 .. Qh14xQa7+ .. m10-l10
+3. Bi1xBa9 .. Ka8xQa7 .. Bf14-g13+ .. Bn9-m10
+4. g2-g4 .. Ka7-a8 .. Ne14-f12 .. m9-l9
+5. Ba9xb10 .. R

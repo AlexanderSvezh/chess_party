@@ -1,0 +1,20 @@
+[GameNr "1449"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "charles46975"]
+[RedElo "1525"]
+[Blue "Aadit12345"]
+[BlueElo "1500"]
+[Yellow "MateoUchiha"]
+[YellowElo "1304"]
+[Green "facuflei"]
+[GreenElo "1465"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:24:44 GMT+0000 (UTC)"]
+[CurrentMove "14"]
+
+1. h2-h3 .. b7-d7 .. g13-g12 .. m7-l7
+2. Bi1-h2 .. Ba6-d9 .. h13-h12 .. Bn6-m7
+3. Nj1-i3 .. b8-d8 .. e13-e12 .. m8-l8
+4. Bh2xBa9 .. T

@@ -1,0 +1,24 @@
+[GameNr "595"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "GaffelSchack"]
+[RedElo "1651"]
+[Blue "Kaiser-Kai"]
+[BlueElo "2182"]
+[Yellow "Tid123"]
+[YellowElo "1641"]
+[Green "rubiayyegua"]
+[GreenElo "1594"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:18:19 GMT+0000 (UTC)"]
+[CurrentMove "31"]
+
+1. g2-g3 .. b8-c8 .. k13-k11 .. m7-l7
+2. j2-j3 .. Qa7-c9 .. k11-k10 .. Qn8-k5
+3. Nj1-i3 .. Qc9-d9 .. k10-k9 .. Qk5-k8
+4. k2-k4 .. Qd9-d5+ .. g13-g12 .. Qk8xe2
+5. Ne1-g2 .. Ba9-b8 .. i13-i12 .. Qe2-f3
+6. Rd1-e1 .. Bb8xQh14 .. Kg14xBh14 .. Qf3xf13
+7. k4-k5 .. Qd5-d10+ .. Ne14-g13 .. Qf13xBf14+
+8. k5-k6 .. Qd10-l10+ .. #

@@ -1,0 +1,23 @@
+[GameNr "1094"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "LinuxKernell"]
+[RedElo "2161"]
+[Blue "Butnskala"]
+[BlueElo "2094"]
+[Yellow "leorastelli"]
+[YellowElo "2235"]
+[Green "GioserchGarcia"]
+[GreenElo "2062"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:32:31 GMT+0000 (UTC)"]
+[CurrentMove "27"]
+
+1. h2-h3 .. b6-d6 .. h13-h12 .. m9-l9
+2. d2-d4 .. Qa7-b6 .. Bi14-g12 .. m8-k8
+3. e2-e3 .. Qb6-c6 .. Nj14-i12 .. m10-k10
+4. Qg1-j4 .. Na5-c4 .. k13-k12 .. Nn5-l6
+5. Nj1-i3 .. Nc4xe3 .. Bg12xk8 .. Qn8xBk8
+6. f2xNe3 .. Qc6-f9 .. h12-h11 .. Qk8xh11
+7. Qj4-f4 .. Qf9xf13+ .. #

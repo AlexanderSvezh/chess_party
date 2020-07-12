@@ -1,0 +1,63 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "235"]
+[Result "CRobby22: 63 - nahuelsandoval: 1 - Cristhian172: 25 - krylayi: 48"]
+[Variant "FFA"]
+[Red "CRobby22"]
+[RedElo "1684"]
+[Blue "nahuelsandoval"]
+[BlueElo "1500"]
+[Yellow "Cristhian172"]
+[YellowElo "1520"]
+[Green "krylayi"]
+[GreenElo "1497"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:44:29 GMT+0000 (UTC)"]
+[CurrentMove "104"]
+
+1. j2-j3 .. b8-c8 .. h13-h11 .. m8-k8
+2. Nj1-i3 .. Qa7-d10 .. h11-h10 .. Bn9-m8+
+3. Bi1-j2 .. Qd10xh10 .. Bi14-h13 .. m10-l10
+4. O-O .. R .. g13-g11 .. Bm8xBh13+
+5. f2-f3 .. Nj14xBh13 .. Nn10-l9
+6. Qg1xb6 .. Qh14-b8 .. Nl9-k11
+7. Qb6xBa6 .. Qb8xKa8 .. Qn8-m8
+8. Qa6xQa8 .. O-O-O .. Qm8-j5
+9. Qa8xb7 .. f13-f11 .. Qj5xj13+#
+10. g2-g4 .. Qj13xKi14
+11. g4-g5 .. k8-j8
+12. g5-g6 .. j8-i8
+13. g6-g7 .. Qi14-k12
+14. Qb7xc8 .. Rn11-n8
+15. g7-g8=D .. Qk12xk13
+16. d2-d4 .. Nn5-l4
+17. d4-d5 .. Nk11-j9
+18. d5-d6 .. m5-l5
+19. d6-d7 .. Nj9-i7
+20. Qg8-h8 .. Ni7-j5
+21. d7-d8=D .. Nl4xk2
+22. Qh8xi8 .. Nj5xNi3+
+23. Qi8xNi3 .. Nk2xQi3+
+24. Bj2xNi3 .. Rn8xQd8
+25. Qc8xRd8 .. Bn6xRi1
+26. Qd8-m8+ .. Kn7-n6
+27. Kj1xBi1 .. m4-k4
+28. Qm8xm7+ .. Kn6-m5
+29. Bi3-l6+ .. Km5-l4
+30. Bl6xRn4 .. k4xj3
+31. i2xj3 .. Qk13-k1+
+32. Ki1-i2 .. Qk1-k2+
+33. Ki2-i3 .. Qk2-k1+
+34. Ki3-j4 .. Qk1-k3+
+35. Kj4-i3 .. Qk3-i1+
+36. Ki3-h3 .. Qi1xBf1+
+37. Kh3-i2 .. Qf1-j5
+38. Qm7-n6+ .. Kl4-k5
+39. Qn6-n8+ .. Kk5-l4
+40. Rd1-d4+ .. Kl4-k3
+41. Qn8-k8+ .. Qj5-k4
+42. Rd4xQk4+ .. l5xRk4
+43. j3xk4 .. m9-l9
+44. Bn4-m5+ .. Kk3-k2
+45. Qk8-h5+ .. Kk2-k1
+46. Bm5-j2+#

@@ -1,0 +1,21 @@
+[GameNr "1082"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "GDII"]
+[RedElo "2347"]
+[Blue "johanlundberg"]
+[BlueElo "1830"]
+[Yellow "andrews810"]
+[YellowElo "2295"]
+[Green "RuijieXiao"]
+[GreenElo "1838"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:27:29 GMT+0000 (UTC)"]
+[CurrentMove "20"]
+
+1. h2-h3 .. b7-c7 .. h13-h12 .. m8-l8
+2. Qg1-k5 .. Ba6xBi14 .. Qh14xBi14 .. Qn8-m8+
+3. Qk5xb5 .. Qa7-b7 .. Kg14-h14 .. Qm8-g14+
+4. Qb5xNa5+ .. Ra4xQa5 .. Kh14xQg14 .. Bn9-m8+
+5. Bi1xc7 .. Qb7xBc7 .. Kg14-h14 .. T

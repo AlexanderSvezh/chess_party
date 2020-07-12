@@ -1,0 +1,22 @@
+[GameNr "1354"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "austinkp"]
+[RedElo "1617"]
+[Blue "Darkl1853"]
+[BlueElo "1476"]
+[Yellow "gnojham2"]
+[YellowElo "636"]
+[Green "morphysrevenge"]
+[GreenElo "1412"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:53:58 GMT+0000 (UTC)"]
+[CurrentMove "24"]
+
+1. h2-h3 .. b8-c8 .. g13-g12 .. m7-k7
+2. Qg1xQn8+ .. Qa7xQh14+ .. Kg14xQh14 .. Kn7xQn8
+3. Bi1xBa9 .. Ka8xBa9 .. Bf14xBn6 .. Nn5-l4
+4. k2-k3 .. b5-c5 .. Bn6xm5 .. Rn4-n5
+5. k3xNl4 .. Na5-c6 .. j13-j12 .. m11-k11
+6. Rk1xk7 .. b4-d4 .. Bm5-l6+ .. #

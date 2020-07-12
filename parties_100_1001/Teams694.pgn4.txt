@@ -1,0 +1,22 @@
+[GameNr "694"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "wilsonqian"]
+[RedElo "1374"]
+[Blue "ezrahleura"]
+[BlueElo "1492"]
+[Yellow "33eric2008"]
+[YellowElo "1938"]
+[Green "Marc2912"]
+[GreenElo "1485"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:40:49 GMT+0000 (UTC)"]
+[CurrentMove "22"]
+
+1. h2-h3 .. b8-c8 .. g13-g12 .. m5-l5
+2. Bi1xBa9 .. Qa7xQh14+ .. Kg14xQh14 .. Bn6-m5
+3. Ba9xb10 .. b7-d7 .. Bf14-g13 .. m9-l9
+4. Bb10xRa11 .. Na10-c9 .. Bg13xNc9 .. Bm5xe13
+5. Qg1-h2 .. b6-d6 .. Ne14-g13 .. Be13xRd14
+6. Qh2xd6 .. R

@@ -1,0 +1,27 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1037"]
+[Result "hi213456789: 40 - Armanuly: 40 - yassinetn: 0 - Abhinav8932934: 5"]
+[Variant "FFA"]
+[Red "hi213456789"]
+[RedElo "1511"]
+[Blue "Armanuly"]
+[BlueElo "1579"]
+[Yellow "yassinetn"]
+[YellowElo "1553"]
+[Green "Abhinav8932934"]
+[GreenElo "1640"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:14:37 GMT+0000 (UTC)"]
+[CurrentMove "29"]
+
+1. g2-g4 .. b10-c10 .. h13-h11 .. m5-l5
+2. j2-j3 .. Na10-c9 .. h11-h10 .. Bn6-m5
+3. Bi1xBm5 .. Ba9-b10 .. h10-h9 .. m8-k8
+4. Bm5xRn4 .. Nc9-d11 .. d13-d12 .. Bn9-m8+
+5. Bf1xBm8++ .. Nd11-f12+# .. Qn8xBm8
+6. Nj1-i3 .. Nf12-d11 .. R
+7. Qg1-g2 .. Na5-c4
+8. Qg2xQm8 .. b7-c7
+9. Qm8xKn7 .. Ba6-b7+
+10. R

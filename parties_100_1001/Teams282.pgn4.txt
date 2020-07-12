@@ -1,0 +1,30 @@
+[GameNr "282"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "ChessN00b777"]
+[RedElo "2219"]
+[Blue "IvanKubanec"]
+[BlueElo "1506"]
+[Yellow "caillou_yt"]
+[YellowElo "1486"]
+[Green "felipeaguirre"]
+[GreenElo "1464"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:54:24 GMT+0000 (UTC)"]
+[CurrentMove "53"]
+
+1. h2-h3 .. b8-c8 .. h13-h11 .. m7-k7
+2. Qg1xQn8+ .. Ba9xBi1 .. Ne14-f12 .. Kn7xQn8
+3. Kh1xBi1 .. Qa7-b8+ .. g13-g12 .. k7-j7
+4. Ki1-h1 .. b7-d7 .. Bf14xBn6 .. Nn5-l4
+5. k2-k3 .. Qb8-e5 .. Bn6-i11 .. Nl4-j5
+6. Nj1-i3 .. Ba6-b7 .. O-O .. Nj5xNi3+
+7. j2xNi3 .. Na5-c4 .. Nf12-e10 .. j7-i7
+8. Ne1-f3 .. Qe5xNe10 .. g12-g11 .. i7-h7
+9. Rk1-j1 .. Qe10-e6 .. Qh14-f12 .. h7-g7
+10. Rj1-j8 .. Na10-c9 .. Qf12-i12 .. g7-f7
+11. e2-e3 .. Nc9-d11 .. Qi12-d12 .. f7-e7
+12. Nf3-d4 .. Qe6-h6 .. Qd12xNd11 .. m9-k9
+13. Rj8-j9 .. Qh6xh11 .. Bi11xk9 .. m10-l10
+14. R

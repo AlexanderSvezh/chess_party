@@ -1,0 +1,68 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1423"]
+[Result "MagNaldo85: 50 - alohasurf: 75 - ramon_vb: 34 - seedmiga: 6"]
+[Variant "FFA"]
+[Red "MagNaldo85"]
+[RedElo "1503"]
+[Blue "alohasurf"]
+[BlueElo "1655"]
+[Yellow "ramon_vb"]
+[YellowElo "1688"]
+[Green "seedmiga"]
+[GreenElo "1517"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:32:11 GMT+0000 (UTC)"]
+[CurrentMove "147"]
+
+1. h2-h4 .. b10-c10 .. h13-h11 .. Nn10-l9
+2. j2-j3 .. Ba9-b10 .. Ne14-f12 .. m10-l10
+3. Bi1-j2 .. Na10-c9 .. h11-h10 .. Bn9-m10
+4. Ne1-f3 .. O-O .. h10-h9 .. Nl9-j8
+5. Qg1-j4 .. b7-d7 .. Nj14-i12 .. Nj8-i6
+6. Qj4-h2 .. Ra9-a8 .. g13-g11 .. Ni6-h8
+7. e2-e3 .. b8-c8 .. g11-g10 .. m8-k8
+8. Bf1-e2 .. Nc9-e8 .. e13-e12 .. m7-l7
+9. O-O-O .. b11-c11 .. Bf14-e13 .. Qn8-m7
+10. Bj2-i3 .. b6-d6 .. Ni12-g11 .. m6-l6
+11. g2-g4 .. Ne8-g9 .. j13-j12 .. Bm10xBi14
+12. h4-h5 .. Ng9-f11 .. e12xNf11 .. Bi14xf11
+13. g4-g5 .. c11-d11 .. i13-i11 .. T
+14. Bi3xl6 .. Bb10xBe13 .. Rd14-e14
+15. Bl6xNg11 .. Be13xNf12 .. Qh14-h13
+16. Bg11-d8 .. Na5-c6 .. Qh13xKn7
+17. Bd8-f6 .. d7-e7 .. k13-k11
+18. Bf6xNh8 .. b5-c5 .. k11xl10
+19. g5-g6 .. Ba6xBe2+ .. g10-g9
+20. Kf1xBe2 .. Qa7-a6+ .. g9xBh8
+21. d2-d3 .. Bf12-c9 .. l10-l9
+22. h5-h6 .. e7-f7 .. l9xk8
+23. g6-g7 .. Bc9xRk1 .. h8xg7=D
+24. Rg1xQg7+ .. d6-e6 .. Kg14-f14
+25. h6-h7 .. Bk1-b10+ .. Re14-e13
+26. h7-h8=D .. c8-d8 .. k8-k7=D
+27. Rg7xQk7 .. Bb10xRe13+ .. Kf14xBe13
+28. Rk7xRk14 .. Qa6xBf11 .. i11-i10
+29. Qh8-e8+ .. Qf11-j11 .. Ke13-d12
+30. Qe8xNc6 .. Qj11xQn7 .. f13-f11
+31. Qc6xc5 .. b4xQc5 .. f11-f10
+32. Qh2-g2 .. Qn7-i12+ .. Kd12-c11
+33. Qg2-g7+# .. Qi12xRk14
+34. k2-k4 .. d8-e8
+35. Nj1-i3 .. e8-f8
+36. Qg7-f6 .. Qk14-d7
+37. Nf3-e5 .. Qd7-d6
+38. Ni3-h5 .. f8-g8
+39. Ne5xf7 .. e6xNf7
+40. Qf6xQd6 .. c5xQd6
+41. k4-k5 .. g8-h8=D
+42. i2-i4 .. Qh8xNh5+
+43. i4xQh5 .. f7-g7
+44. k5-k6 .. g7-h7=D
+45. j3-j4 .. Qh7xh5+
+46. Ke2-d2 .. Ra4-a7
+47. f2-f3 .. Qh5xf3
+48. j4-j5 .. Ra8-f8
+49. j5-j6 .. Qf3-f2+
+50. Kd2-d1 .. Qf2-f1+
+51. Kd1-d2 .. Rf8-f2+#

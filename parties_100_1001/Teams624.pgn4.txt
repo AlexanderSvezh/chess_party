@@ -1,0 +1,23 @@
+[GameNr "624"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "9099999999"]
+[RedElo "1662"]
+[Blue "Marc2912"]
+[BlueElo "1500"]
+[Yellow "malaybasak"]
+[YellowElo "2639"]
+[Green "tommerrall949"]
+[GreenElo "2433"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:21:36 GMT+0000 (UTC)"]
+[CurrentMove "26"]
+
+1. h2-h3 .. b7-c7 .. h13-h12 .. m10-l10
+2. Qg1-k5 .. Ba6xBi14 .. Qh14xBi14 .. m7-l7
+3. Qk5xb5 .. Na5-b7 .. k13-k12 .. Qn8-k5
+4. Qb5xQk5 .. Ra4-a5 .. Qi14-d9 .. m6-k6
+5. Qk5-h8 .. b8-c8 .. Qd9-d11 .. Kn7-m6
+6. Qh8xc8+ .. Na10-b8 .. Qd11xb9+ .. Km6-l5
+7. Kh1-h2 .. #

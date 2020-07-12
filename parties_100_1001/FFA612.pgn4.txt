@@ -1,0 +1,35 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "612"]
+[Result "DIKEYMIX: 30 - AHMETALAKUS: 41 - antonicimar: 36 - zalikwinnen: 0"]
+[Variant "FFA"]
+[Red "DIKEYMIX"]
+[RedElo "1671"]
+[Blue "AHMETALAKUS"]
+[BlueElo "1559"]
+[Yellow "antonicimar"]
+[YellowElo "1598"]
+[Green "zalikwinnen"]
+[GreenElo "1587"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:24:52 GMT+0000 (UTC)"]
+[CurrentMove "56"]
+
+1. h2-h4 .. b7-d7 .. h13-h11 .. m6-l6
+2. g2-g4 .. d7-e7 .. h11-h10 .. m7-k7
+3. Ne1-f3 .. e7-f7 .. h10-h9 .. m10-l10
+4. i2-i4 .. f7-g7 .. i13-i11 .. m8-k8
+5. Bf1-h3 .. g7-h7=D .. i11-i10 .. m9-k9
+6. Bh3-i2+ .. Qh7xk7+ .. Bi14-h13+#
+7. g4-g5 .. b10-c10 .. Bh13xBa6
+8. Qg1-g4 .. b8-c8 .. Ba6xb5
+9. g5-g6 .. Ba9xe13 .. Bb5xRa4
+10. g6-g7 .. Be13xBf14 .. Kg14xBf14
+11. O-O-O .. Qk7xRd14 .. f13-f12
+12. Qg4-f4 .. Qd14xd13 .. i10-i9
+13. Qf4-a9++ .. Ka8-b7 .. Kf14-g14
+14. Qa9xb9+ .. Kb7-a6 .. i9-i8
+15. Bi2xc8+ .. Na5-b7 .. i8-i7=D
+16. g7-g8=D .. Qd13xNe14+#
+17. Bc8xNb7+ .. Qa7xBb7
+18. Qg8-c4+ .. R

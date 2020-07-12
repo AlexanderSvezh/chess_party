@@ -1,0 +1,19 @@
+[GameNr "1478"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "yassinetn"]
+[RedElo "1462"]
+[Blue "ICE_Cizod"]
+[BlueElo "1500"]
+[Yellow "CleanWindows"]
+[YellowElo "2429"]
+[Green "ICE_Chewy"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:33:55 GMT+0000 (UTC)"]
+[CurrentMove "9"]
+
+1. j2-j3 .. b7-d7 .. g13-g12 .. m9-k9
+2. Bi1-j2 .. b9-d9 .. k13-k11 .. m7-k7
+3. T

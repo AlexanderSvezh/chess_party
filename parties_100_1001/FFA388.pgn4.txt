@@ -1,0 +1,64 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "388"]
+[Result "Vlad_Vel: 51 - HuesitoRivera28: 79 - eddi12: 11 - quitianandres: 21"]
+[Variant "FFA"]
+[Red "Vlad_Vel"]
+[RedElo "1482"]
+[Blue "HuesitoRivera28"]
+[BlueElo "1572"]
+[Yellow "eddi12"]
+[YellowElo "1500"]
+[Green "quitianandres"]
+[GreenElo "1453"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:37:09 GMT+0000 (UTC)"]
+[CurrentMove "157"]
+
+1. Nj1-i3 .. b7-d7 .. g13-g12 .. m6-k6
+2. h2-h4 .. d7-e7 .. h13-h11 .. m5-k5
+3. g2-g4 .. e7-f7 .. Qh14-e11 .. m4-l4
+4. Ni3-h5 .. b10-c10 .. Ne14-d12 .. m9-l9
+5. Bf1-g2+ .. b6-c6 .. Nd12xb11 .. k6-j6
+6. g4-g5 .. Ba9-b10 .. Nj14-i12 .. j6-i6
+7. Nh5-g7 .. b9-c9 .. d13-d11 .. m8-k8
+8. Ng7xi6 .. c10-d10 .. Qe11xe2 .. Bn9-j5
+9. Ne1-f3 .. Ra11xNb11 .. Bi14-h13 .. Bj5xNi6
+10. Rd1-e1 .. f7-g7 .. Qe2-d3 .. Qn8xi13
+11. Re1-e3 .. b4-c4 .. Qd3-k10 .. m10-l10
+12. Nf3-e5 .. g7-h7=D .. Qk10-f10 .. Bi6-j7
+13. g5-g6 .. Qh7-c7 .. Qf10xQi13 .. k8-j8
+14. Bg2-i4 .. Qc7xQi13 .. Rk14-i14 .. j8-i8
+15. g6-g7 .. Qi13xj13 .. e13-e12 .. Bn6-m5
+16. g7-g8=D .. Ba6-b7 .. T .. Nn10-m8
+17. Qg8xg12 .. Qj13xBj7 .. i8-h8
+18. Qg12xKg14 .. Rb11xd11 .. Rn11-n9
+19. Qg14xRi14 .. Bb7-c8 .. h8-g8=D
+20. Qg1xQg8 .. d10-e10 .. Rn9-n8
+21. Qg8xBc8 .. Ka8-a9 .. Nm8-l6
+22. Qi14xBh13 .. Qj7-c7 .. Nl6-k4
+23. Qc8xRn8+ .. Rd11xd2 .. Kn7xQn8
+24. Re3-e1 .. Rd2xf2 .. Bm5-i9
+25. Qh13xe10 .. Rf2-f10 .. Bi9-k7
+26. Qe10xNk4 .. c9-d9 .. Bk7xh4
+27. Bi4xd9 .. Bb10xBh4 .. Nn5-l6
+28. Qk4xBh4 .. Qc7-e7 .. Rn4-n6
+29. Qh4-h5 .. c6-d6 .. Nl6-k8
+30. Ne5-f3 .. Na5-c6 .. Nk8-j6
+31. Qh5-h8+ .. Qe7xm7+ .. Kn8-n9
+32. Qh8-h3+ .. d6-e6 .. Kn9-n10
+33. Bd9-b11 .. Rf10xNf3 .. Nj6-l5
+34. Qh3xRf3 .. Na10-c9 .. Rn6-h6+
+35. Bb11-h5 .. Nc6-d4 .. Rh6xh11
+36. Qf3-g4 .. Ra4-a6 .. Rh11-a11+
+37. Qg4-h4+ .. Nc9-a10 .. Kn10-n11
+38. Bh5-c10 .. Qm7-d7 .. Ra11-c11
+39. Qh4-h9+ .. Na10-c9 .. Nl5-j4
+40. Bc10xe12 .. Nd4-f3 .. Rc11-i11
+41. Qh9xl9+ .. Nf3xRe1 .. Kn11-n10
+42. Ql9-l8+ .. e6-f6 .. Kn10-n9
+43. Ql8xNe1 .. f6-g6 .. Ri11xi2
+44. Be12-k6+ .. g6-h6=D+ .. Nj4xBk6
+45. Bi1-h2 .. Ra6-e6 .. Ri2xj2
+46. Qe1-l8 .. Qd7-h7 .. Rj2-j8
+47. Ql8-n6+ .. Qh6xBh2+# .. R

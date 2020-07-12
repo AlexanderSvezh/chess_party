@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1096"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "Reduccionista"]
+[RedElo "1500"]
+[Blue "pranshulmadan"]
+[BlueElo "1391"]
+[Yellow "KayzerD"]
+[YellowElo "1500"]
+[Green "AlexandruTanas"]
+[GreenElo "1633"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:28:27 GMT+0000 (UTC)"]
+[CurrentMove "4"]
+
+1. g2-g3 .. b6-d6 .. h13-h11 .. T

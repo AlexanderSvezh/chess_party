@@ -1,0 +1,26 @@
+[GameNr "525"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "ThunderInc"]
+[RedElo "1660"]
+[Blue "leorastelli"]
+[BlueElo "2198"]
+[Yellow "KZ2008"]
+[YellowElo "1523"]
+[Green "Boombeach1"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:02:59 GMT+0000 (UTC)"]
+[CurrentMove "37"]
+
+1. h2-h3 .. b7-c7 .. g13-g12 .. m8-k8
+2. f2-f3 .. Qa7-b7 .. Nj14-i12 .. k8-j8
+3. Qg1-j4 .. Na5-c6 .. Qh14-e11 .. Qn8-m8
+4. Bi1-h2 .. Na10-c9 .. Qe11-h8 .. Nn5-l6
+5. k2-k4 .. Nc9-d11 .. Kg14-h14 .. Nn10-l9
+6. Qj4-d10 .. Nd11-c9 .. Bf14-g13 .. m10-k10
+7. Bh2xNl6 .. b11-c11 .. Ne14-f12 .. m5xBl6
+8. Qd10-j4 .. Qb7-d9 .. h13-h11 .. m11-l11
+9. Nj1-i3 .. Qd9-g6 .. Nf12-g10 .. Bn6xj2
+10. R

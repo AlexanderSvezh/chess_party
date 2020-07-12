@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "576"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "hic-limpbizkit"]
+[RedElo "1634"]
+[Blue "xodiacoretureta"]
+[BlueElo "1640"]
+[Yellow "thunderplay"]
+[YellowElo "1681"]
+[Green "04common_user"]
+[GreenElo "1502"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:09:12 GMT+0000 (UTC)"]
+[CurrentMove "4"]
+
+1. g2-g4 .. b6-d6 .. g13-g11 .. R

@@ -1,0 +1,26 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1200"]
+[Result "nataliabella: 5 - C40S: 6 - jospinad95: 41 - Lt_Jilli: 25"]
+[Variant "FFA"]
+[Red "nataliabella"]
+[RedElo "1542"]
+[Blue "C40S"]
+[BlueElo "1749"]
+[Yellow "jospinad95"]
+[YellowElo "1613"]
+[Green "Lt_Jilli"]
+[GreenElo "1784"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:07:20 GMT+0000 (UTC)"]
+[CurrentMove "31"]
+
+1. g2-g4 .. Na5-c6 .. h13-h11 .. m5-k5
+2. g4-g5 .. b5-c5 .. h11-h10 .. m4-k4
+3. g5-g6 .. Nc6-d4 .. h10-h9 .. m10-l10
+4. g6-g7 .. Nd4xe2 .. h9-h8 .. Bn9-m10
+5. Qg1-g5 .. Ne2-d4 .. h8-h7=D .. Bm10xRd1
+6. Bf1xBa6 .. Qa7xBa6 .. Qh7-e4+ .. Bd1-m10
+7. T .. Qa6-f1 .. Qe4xb7+# .. k4-j4
+8. Qb7xKh1 .. j4-i4
+9. R

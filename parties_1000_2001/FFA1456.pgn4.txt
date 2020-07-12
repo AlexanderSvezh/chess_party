@@ -1,0 +1,34 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1456"]
+[Result "Indipendenza: 28 - BattleChex: 3 - ryancocuzzo: 0 - emersonmorales: 57"]
+[Variant "FFA"]
+[Red "Indipendenza"]
+[RedElo "1696"]
+[Blue "BattleChex"]
+[BlueElo "1556"]
+[Yellow "ryancocuzzo"]
+[YellowElo "1500"]
+[Green "emersonmorales"]
+[GreenElo "1573"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:33:16 GMT+0000 (UTC)"]
+[CurrentMove "59"]
+
+1. j2-j3 .. b4-d4 .. g13-g11 .. m8-k8
+2. Bi1-j2 .. b5-d5 .. f13-f12 .. k8-j8
+3. h2-h3 .. Ba6-b5 .. h13-h11 .. j8-i8
+4. Nj1-h2 .. d5-e5 .. i13-i12 .. i8-h8
+5. O-O .. d4-e4 .. Bf14-j10 .. h8-g8=D
+6. Nh2-g4 .. e5-f5 .. h11-h10 .. Qg8-j8
+7. Ng4-e5 .. e4-f4 .. i12-i11 .. m10-l10
+8. Ne1-d3 .. f5-g5 .. Bj10-i9 .. Qj8-e8
+9. g2-g4 .. b6-c6 .. T .. Qe8-e12
+10. e2-e3 .. c6-d6 .. Qe12xKg14
+11. Ne5-f7 .. d6-e6 .. Qg14-e12
+12. Nf7-d6 .. Bb5-c4 .. Qe12-g10
+13. e3xf4 .. g5-h5=D .. Qg10xRa4
+14. Nd6xBc4 .. Na5xNc4 .. Qa4xNc4
+15. g4xQh5 .. b7-d7 .. Qc4-c6+
+16. Bf1-g2 .. Qa7-b7 .. Qc6xQb7+#
+17. Bg2xQb7 .. R

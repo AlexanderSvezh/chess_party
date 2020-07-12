@@ -1,0 +1,40 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1428"]
+[Result "misquoted: 27 - PageBrix: 31 - carlosgabriel1234: 12 - pmartrepus: 28"]
+[Variant "FFA"]
+[Red "misquoted"]
+[RedElo "1738"]
+[Blue "PageBrix"]
+[BlueElo "1744"]
+[Yellow "carlosgabriel1234"]
+[YellowElo "1900"]
+[Green "pmartrepus"]
+[GreenElo "1725"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:25:04 GMT+0000 (UTC)"]
+[CurrentMove "84"]
+
+1. Ne1-f3 .. b4-d4 .. i13-i11 .. m8-k8
+2. e2-e4 .. Na5-c4 .. i11-i10 .. k8-j8
+3. d2-d3 .. Nc4-e5 .. e13-e11 .. j8-i8
+4. Bf1-e2 .. Ne5xNf3 .. i10-i9 .. m11-k11
+5. Be2xNf3 .. b6-c6 .. j13-j11 .. i8-h8
+6. j2-j3 .. Na10-c9 .. i9xh8 .. Qn8xh8
+7. Bi1-j2 .. b10-d10 .. e11xd10 .. Nn5-l6
+8. Nj1-i3 .. Ba9xBf14 .. Kg14xBf14 .. Qh8-j8
+9. k2-k4 .. Nc9-d11 .. k13-k12 .. Qj8xRd14
+10. O-O .. b7-d7 .. Bi14-j13 .. Qd14xd13
+11. Ri1-h1 .. Ba6-e10 .. h13-h11 .. Qd13-i8
+12. g2-g4 .. b8-c8 .. g13-g12 .. m7-k7+
+13. g4-g5 .. Qa7xd10 .. Kf14-g14 .. k7-j7
+14. g5-g6 .. Nd11-e13+ .. Kg14-h13 .. j7-i7
+15. g6-g7 .. Qd10-c10 .. Qh14-f12 .. i7-h7
+16. h2-h4 .. Be10xg12+ .. f13xBg12 .. Qi8-l8
+17. h4-h5 .. Qc10-g14+ .. Kh13-i13 .. Ql8-h12+#
+18. h5-h6 .. Qg14xj11+ .. m9-l9
+19. Ni3-g4 .. O-O-O .. Qh12-k9
+20. Ng4-i5 .. b9-d9 .. Nl6xk4
+21. Ni5xNk4 .. Qj11-j7+ .. Bn9-l7
+22. Nk4xm5+ .. Qj7xl9+#
+23. g7-g8=D .. R

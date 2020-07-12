@@ -1,0 +1,34 @@
+[GameNr "1393"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "oscarbacca"]
+[RedElo "1692"]
+[Blue "Bonvil"]
+[BlueElo "1894"]
+[Yellow "Deisky"]
+[YellowElo "2141"]
+[Green "SheikMex"]
+[GreenElo "1755"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:13:35 GMT+0000 (UTC)"]
+[CurrentMove "70"]
+
+1. h2-h3 .. b6-d6 .. h13-h12 .. m8-l8
+2. d2-d4 .. Na10-c9 .. Bi14-h13+ .. Bn9-m8
+3. Qg1-j4 .. Na5-c6 .. i13-i12 .. Nn5-l6
+4. k2-k4 .. Qa7-b6 .. Ne14-f12 .. m4-l4
+5. Bi1-h2 .. Qb6-f10 .. d13-d11 .. m5-k5
+6. Qj4-h4 .. b10-d10 .. k13-k11 .. Nl6-j5
+7. k4xNj5 .. Ra11-a10 .. Qh14-j12 .. Bn6-m5
+8. Ne1-f3 .. b7-c7 .. Bh13-b7+ .. Nn10-l11
+9. Qh4-f4 .. Ba6xBb7 .. Qj12-h10 .. Bm5xQh10
+10. Qf4xQf10 .. Nc9-e8 .. Nf12-e10 .. Bh10-e7
+11. Qf10xm10 .. Bb7xNe10 .. d11xBe10 .. Nl11-j12
+12. Qm10-h5 .. c7-d7 .. e13-e12 .. Nj12xRk14
+13. Qh5xb5 .. Ra4-a7 .. Bf14xBa9 .. Be7xj2
+14. Qb5xNc6+ .. Ka8xBa9 .. Kg14-f14 .. Bj2xRk1
+15. Bh2xd6 .. Ra10-c10 .. Rd14-d11 .. Bk1-e7
+16. Qc6-b6 .. Ra7-a8 .. Rd11xb11 .. Be7xBd6
+17. Qb6-g11 .. b8-c8 .. Rb11xb9+ .. Bd6-e7
+18. Qg11-b11 .. #

@@ -1,0 +1,56 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "430"]
+[Result "kylewarren81: 100 - raziayoub: 35 - grabovskii: 15 - PotterSquad7: 5"]
+[Variant "FFA"]
+[Red "kylewarren81"]
+[RedElo "1593"]
+[Blue "raziayoub"]
+[BlueElo "1731"]
+[Yellow "grabovskii"]
+[YellowElo "1780"]
+[Green "PotterSquad7"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:40:02 GMT+0000 (UTC)"]
+[CurrentMove "106"]
+
+1. g2-g4 .. b10-c10 .. h13-h11 .. m8-k8
+2. h2-h4 .. Ba9-b10 .. Bi14-h13+ .. m9-l9
+3. g4-g5 .. b7-d7 .. g13-g11 .. m5-l5
+4. Bf1-g2+ .. b6-c6 .. Ne14-f12 .. Nn5-l6
+5. Qg1-f1 .. d7-e7 .. Bf14-g13 .. Bn6-m5
+6. Bg2xBn9 .. Ba6-b7 .. O-O .. Qn8xBn9
+7. Qf1xQn9+# .. c6-d6+ .. Bh13xBb7++
+8. f2-f3 .. Na5xBb7 .. h11-h10
+9. Qn9xl9 .. Qa7-f2 .. k13-k11
+10. Ne1-g2 .. Qf2xe2 .. k11-k10
+11. Ql9xb9+ .. Ka8xQb9 .. j13-j11
+12. Rd1-e1 .. Qe2xf3 .. j11-j10
+13. Bi1xd6 .. Nb7xBd6 .. j10-j9
+14. Re1xe7 .. Qf3-f1+ .. j9xk8
+15. Kh1-h2 .. Bb10xRe7 .. k8-k7=D
+16. Nj1-i3 .. Be7-c9 .. k10-k9
+17. g5-g6 .. Qf1-e2 .. Qk7-i9
+18. g6-g7 .. Na10-c11 .. k9-k8
+19. g7-g8=D .. Qe2-d3 .. Rk14-k9
+20. Qg8-g4+ .. Nd6-c8 .. k8-k7=D
+21. Rk1-e1 .. Kb9-b10 .. Nf12-d11+
+22. Qg4-e4 .. Qd3xNd11 .. Bg13xBc9+
+23. Qe4xe13+# .. Qd11xd2
+24. Qe13-e8 .. Qd2-d6+
+25. Kh2-h3 .. Ra11-a6
+26. Qe8xNc8 .. b5-d5
+27. Re1-e9 .. Qd6-e6+
+28. Re9xQe6 .. Ra6xRe6
+29. Qc8xb8+ .. Nc11-b9
+30. Ng2-f4 .. Re6-e3+
+31. Kh3-i4 .. d5-e5
+32. Nf4-d5 .. Re3-e4
+33. Nd5-c7 .. Ra4-a5
+34. Qb8xNb9+ .. Kb10-c11
+35. Qb9-b7 .. e5-f5
+36. Qb7xRe4 .. f5-g5
+37. Qe4-e9+ .. c10-d10
+38. Qe9xg11+ .. Kc11-c10
+39. h4xg5 .. R

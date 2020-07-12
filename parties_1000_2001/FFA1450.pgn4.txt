@@ -1,0 +1,45 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1450"]
+[Result "alejandrooooooo: 29 - Aladin2412: 35 - cemoyvat: 27 - GermainGaeta: 9"]
+[Variant "FFA"]
+[Red "alejandrooooooo"]
+[RedElo "1481"]
+[Blue "Aladin2412"]
+[BlueElo "1679"]
+[Yellow "cemoyvat"]
+[YellowElo "1766"]
+[Green "GermainGaeta"]
+[GreenElo "1720"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:38:06 GMT+0000 (UTC)"]
+[CurrentMove "101"]
+
+1. g2-g4 .. b5-c5 .. h13-h11 .. m9-k9
+2. g4-g5 .. b10-c10 .. h11-h10 .. Qn8-m9
+3. g5-g6 .. Ba9-b10 .. d13-d12 .. k9-j9
+4. g6-g7 .. Ba6-b5 .. e13-e12 .. Nn5-l6
+5. g7-g8=D .. Bb5-c6+ .. Bf14-e13 .. Qm9xf2
+6. Bf1-g2 .. c5-d5 .. Ne14-f12 .. Qf2xe2
+7. Qg8-g3 .. b4-c4 .. h10-h9 .. Qe2-l9+
+8. Ne1-f3 .. Bc6xj13 .. Bi14-h13 .. Ql9-k9
+9. h2-h4 .. Bj13xRk14 .. h9-h8 .. j9-i9
+10. Qg3-g5 .. b9-c9 .. Bh13xm8+ .. Nl6xBm8
+11. Qg5xQk9 .. Bk14-b5 .. h8-h7=D .. Nm8xQk9
+12. Nf3-g5 .. b8-d8 .. Qh7-k10+ .. Bn9-m8
+13. h4-h5 .. c9-d9 .. Qk10xBm8+ .. Nn10xQm8
+14. h5-h6 .. d8-e8 .. O-O .. m7-l7
+15. h6-h7 .. Bb10xNg5 .. Nf12-g10 .. Nk9-j7
+16. Bg2-j5 .. Bg5-c9 .. Ng10-f12 .. Rn11-n9
+17. Bi1-e5 .. b7-c7 .. Qh14-h9 .. m6-k6
+18. Bj5-i6 .. Qa7-b7 .. Rf14-g14 .. Nm8-l6
+19. Nj1-h2 .. b6-d6 .. Nj14-h13 .. T
+20. Bi6-k4 .. d6xBe5 .. g13-g11
+21. Bk4xKn7 .. c4-d4 .. e12-e11
+22. O-O .. d4-e4 .. Qh9xh7
+23. d2-d3 .. e4-f4 .. g11-g10
+24. Nh2-j3 .. f4-g4 .. g10-g9
+25. Ri1-h1 .. Qb7-c8 .. Qh7-i8
+26. Rh1-h10 .. Qc8-d8 .. g9-g8
+27. Qg1-h2 .. Qd8xj2+# .. g8-g7=D
+28. R

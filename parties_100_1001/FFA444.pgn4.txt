@@ -1,0 +1,47 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "444"]
+[Result "ivan_usev: 74 - sachaledebutant: 5 - Balsa66: 35 - Kevchuxd: 0"]
+[Variant "FFA"]
+[Red "ivan_usev"]
+[RedElo "1849"]
+[Blue "sachaledebutant"]
+[BlueElo "1502"]
+[Yellow "Balsa66"]
+[YellowElo "1801"]
+[Green "Kevchuxd"]
+[GreenElo "1491"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:43:12 GMT+0000 (UTC)"]
+[CurrentMove "98"]
+
+1. g2-g4 .. b8-d8 .. e13-e12 .. m5-l5
+2. g4-g5 .. d8-e8 .. Bf14-e13 .. Nn5-l6
+3. g5-g6 .. e8-f8 .. Ne14-f12 .. Bn6-m5
+4. k2-k3 .. f8-g8 .. O-O .. O-O
+5. g6-g7 .. Ba9-e5 .. j13-j12 .. Nn10-l9
+6. h2-h4 .. Na10-c11 .. i13-i11 .. m8-k8
+7. Bi1xBe5 .. Nc11-d9 .. Bi14-j13 .. k8-j8
+8. h4-h5 .. Nd9-f10 .. h13-h11 .. m7-k7
+9. Nj1-i3 .. Nf10-h9 .. i11-i10 .. Rn6-n7
+10. h5-h6 .. Nh9-f10 .. Nj14-h13 .. k7-j7
+11. O-O .. Ra11-a9 .. Be13xb10 .. R
+12. Be5xRa9 .. g8-h8=D .. Bb10xBa9
+13. g7xQh8=D+ .. Ka8xBa9 .. Nh13-i11
+14. Bf1-l7 .. b7-d7 .. h11-h10
+15. Bl7xm6 .. b6-c6 .. i10-i9
+16. Qh8-i8 .. d7-e7 .. Ni11-g10
+17. Bm6xKn5 .. Ba6-c8 .. k13-k11
+18. Kj1-k1 .. Nf10-h9 .. Qh14-h11
+19. Bn5xQh11 .. Bc8-f5 .. Bj13xBh11
+20. Qi8xBf5 .. e7-f7 .. Rk14-i14
+21. h6-h7 .. Nh9-g11 .. k11-k10
+22. Qf5xb5 .. Ng11-h13 .. Nf12xNh13
+23. Qb5xRa4 .. f7-g7 .. k10-k9
+24. Qa4xb4 .. c6-d6 .. k9-k8
+25. Qb4xd6+ .. Ka9-a10 .. k8xj7=D
+26. Qd6xh10 .. b9-d9 .. Nh13-f12
+27. Ne1-f3 .. d9-e9 .. i9xj8
+28. h7-h8=D .. e9-f9 .. Ng10xQh8+
+29. Qh10xKa10# .. Qj7-i8
+30. R

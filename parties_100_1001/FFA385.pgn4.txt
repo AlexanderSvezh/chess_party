@@ -1,0 +1,53 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "385"]
+[Result "Ulra1: 15 - stultis: 12 - Magere: 113 - szymek2009lis: 34"]
+[Variant "FFA"]
+[Red "Ulra1"]
+[RedElo "1499"]
+[Blue "stultis"]
+[BlueElo "1577"]
+[Yellow "Magere"]
+[YellowElo "1566"]
+[Green "szymek2009lis"]
+[GreenElo "1515"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:33:54 GMT+0000 (UTC)"]
+[CurrentMove "126"]
+
+1. f2-f4 .. b7-d7 .. h13-h11 .. m8-k8
+2. f4-f5 .. d7-e7 .. h11-h10 .. Nn5-l6
+3. e2-e4 .. e7-f7 .. h10-h9 .. m7-l7
+4. Ne1-f3 .. f7-g7 .. g13-g12 .. Bn6xBf14
+5. Nf3-g5 .. g7-h7=D .. Kg14xBf14 .. O-O
+6. Ng5xQh7 .. Qa7xNh7 .. d13-d12 .. Bn9-m8
+7. Qg1xb6 .. Na5-b7 .. i13-i12 .. Nn10-l9
+8. Bf1xb5 .. Ba6xBb5 .. Ne14-f12 .. m4-l4
+9. h2-h3 .. Bb5-e2 .. Nj14-k12 .. Qn8-m7+
+10. Rd1-e1 .. Be2-d3 .. Kf14-g14 .. Kn5-n4
+11. Re1-e3 .. b4-c4 .. g12-g11 .. Qm7-l8
+12. Nj1-h2 .. Ra4-a7 .. g11-g10 .. m11-l11
+13. Nh2-g4 .. b11-c11 .. Nk12-i13 .. Ql8-k9
+14. Re3-f3 .. c11xd12 .. Rd14xd12 .. Qk9xd2
+15. Ng4-e5 .. Bd3xe4 .. Rd12xQd2 .. k8-j8
+16. Rf3-e3 .. Be4xf5 .. Rd2-d1+ .. l7-k7
+17. Kh1-h2 .. b8-c8 .. Rd1-d12 .. Rn6-n7
+18. Qb6-g11+ .. Qh7xh9 .. Bi14-g12 .. k7-j7
+19. Qg11xRa11 .. Qh9-d5 .. Rd12xQd5 .. j8-i8
+20. Qa11xNa10 .. T .. Rd5-a5 .. i8-h8
+21. Qa10xBa9 .. Ra5xRa7 .. h8-g8=D
+22. Ne5-c6 .. Ra7xKa8 .. Qg8-j8
+23. Qa9xb10 .. Ni13-j11 .. Qj8xRe3
+24. Qb10xe13 .. Kg14-g13 .. Qe3xQe13
+25. Nc6-e5 .. Bg12xm6 .. Qe13xNe5+
+26. Kh2-h1 .. Bm6xRn7 .. Qe5xBi1+
+27. Rk1xQi1 .. Bn7xBm8 .. Rn11-n8
+28. Kh1-h2 .. Bm8xNl9 .. Rn8-l8
+29. Ri1-f1 .. Bl9xm10 .. Rl8-l7
+30. Rf1-f4 .. Ra8xc8 .. j7-i7
+31. k2-k3 .. Rc8-c7 .. i7-h7
+32. k3xl4 .. Rc7xh7 .. Rl7xRh7
+33. l4xm5+ .. Qh14xRh7 .. Kn4xm5
+34. Rf4xBf5+ .. Qh7-m7+ .. Km5-l4
+35. Rf5-f4+ .. Qm7xNl6++#
+36. Kh2-i1 .. Ql6-g1+#

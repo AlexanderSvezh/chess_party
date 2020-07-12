@@ -1,0 +1,20 @@
+[GameNr "631"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Turboval"]
+[RedElo "1562"]
+[Blue "Dewan122157"]
+[BlueElo "929"]
+[Yellow "szymek2009lis"]
+[YellowElo "1498"]
+[Green "alyeasin93"]
+[GreenElo "2605"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:22:03 GMT+0000 (UTC)"]
+[CurrentMove "15"]
+
+1. g2-g4 .. b8-c8 .. h13-h11 .. m7-l7
+2. f2-f3 .. Qa7-d10 .. h11-h10 .. Qn8-k5
+3. Nj1-i3 .. Ba9-b8 .. h10-h9 .. Qk5-k10+
+4. Bf1xl7 .. Qd10xg13+ .. #

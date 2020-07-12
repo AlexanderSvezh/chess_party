@@ -1,0 +1,68 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1466"]
+[Result "Kirito-M: 84 - d_e_brown: 46 - claudioalbertobeto00: 7 - babiscus: 29"]
+[Variant "FFA"]
+[Red "Kirito-M"]
+[RedElo "1792"]
+[Blue "d_e_brown"]
+[BlueElo "1734"]
+[Yellow "claudioalbertobeto00"]
+[YellowElo "1479"]
+[Green "babiscus"]
+[GreenElo "1645"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:50:28 GMT+0000 (UTC)"]
+[CurrentMove "157"]
+
+1. g2-g4 .. b7-d7 .. d13-d12 .. m7-l7
+2. f2-f3 .. Na5-c6 .. k13-k12 .. m9-l9
+3. j2-j3 .. b10-c10 .. h13-h11 .. m4-l4
+4. Bi1-j2 .. Na10-c9 .. Bi14-h13 .. Nn5-l6
+5. Ne1-g2 .. Ba9-b10 .. j13-j12 .. Bn6-m7
+6. Nj1-i3 .. O-O .. h11-h10 .. O-O
+7. d2-d4 .. Qa7-c7 .. h10-h9 .. m11-k11
+8. O-O .. b5-c5 .. h9-h8 .. k11xj12
+9. d4xc5 .. b4xc5 .. h8-h7=D .. j12xi13
+10. Ri1-h1 .. Nc9-d11 .. Qh14xi13 .. Qn8-n7
+11. h2-h4 .. Qc7xQi13 .. Qh7-h10 .. m8-k8
+12. h4-h5 .. Qi13-c7 .. e13-e12 .. Nl6-m8
+13. Ng2-h4 .. Ba6xBh13+ .. Kg14xBh13 .. l9-k9
+14. e2-e4 .. Qc7-c8+ .. g13-g12 .. k9-j9
+15. Rh1-h3 .. Nd11-c9 .. d12-d11 .. Nn10-l9
+16. Qg1-h1 .. Bb10xBf14 .. d11xc10 .. Bm7xBf14
+17. Nh4-f5 .. b11xc10 .. Ne14-f12 .. Bf14-e13
+18. h5-h6 .. Qc8-e8 .. Rd14-d13 .. Be13xRa9
+19. h6-h7 .. Qe8xRk14 .. Nj14-i12 .. Ba9-c11
+20. h7-h8=D .. Qk14-j13+ .. Kh13-h12 .. Bc11-k3
+21. Qh8xQh10+ .. Qj13-h13+# .. Bk3xBj2
+22. Kj1xBj2 .. Qh13xg12 .. Nm8-k7
+23. Qh10-h5 .. Nc6-a7 .. Nl9-m7
+24. Qh5-h6 .. b6-d6 .. Nm7-l5
+25. Qh6-h5 .. Qg12xNf12 .. Qn7-j11
+26. Nf5-g3 .. Nc9-d11 .. m10-k10
+27. Qh5xc5 .. Na7-c8 .. k10-j10
+28. Qc5-b5 .. Ra4-a9 .. j10-i10
+29. Qb5xd7 .. Nc8-e9 .. Bn9xk12
+30. Qd7xd6 .. Ne9-g8 .. Bk12-i14
+31. e4-e5 .. Ra9-a5 .. Bi14-e10
+32. e5-e6 .. Ng8-e9 .. Rn11-l11
+33. e6-e7 .. Qf12-f10 .. Be10-i6
+34. e7-e8=D .. Qf10xKh12 .. Bi6-j7
+35. Rh3xQh12 .. T .. Qj11xNd11
+36. Qd6xQd11 .. Rl11xQd11
+37. Rd1xRd11 .. Nl5-k3
+38. Rd11-a11 .. Nk3-j5
+39. Ni3xNj5 .. Nk7xNj5
+40. Ng3-i4 .. m5-k5
+41. k2-k4 .. j9-i9
+42. Ra11xKa10 .. i9-h9
+43. Qe8-f9 .. Nj5-l6
+44. Qf9-g9 .. k8-j8
+45. Rh12-h10 .. Rn6-n10
+46. Ra10xc10 .. j8-i8
+47. Rh10xi10 .. Rn10xRi10
+48. Rc10xRi10 .. Nl6-k8
+49. Ri10-n10+ .. Kn5-m5
+50. Ni4xk5 .. l4xNk5
+51. Qg9xk5+ .. R

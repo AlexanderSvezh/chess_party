@@ -1,0 +1,41 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "276"]
+[Result "ErenButuc: 0 - rc1977: 59 - krylayi: 20 - M_Sabri_18: 36"]
+[Variant "FFA"]
+[Red "ErenButuc"]
+[RedElo "1753"]
+[Blue "rc1977"]
+[BlueElo "1817"]
+[Yellow "krylayi"]
+[YellowElo "1505"]
+[Green "M_Sabri_18"]
+[GreenElo "1469"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:54:13 GMT+0000 (UTC)"]
+[CurrentMove "84"]
+
+1. k2-k3 .. b7-d7 .. g13-g11 .. m8-k8
+2. d2-d3 .. d7-e7 .. Bf14-g13 .. Nn10-l9
+3. f2-f3 .. e7-f7 .. Ne14-d12 .. Nn5-l6
+4. Nj1-i3 .. f7-g7 .. Nj14-i12 .. m5-l5
+5. j2-j4 .. g7-h7=D .. j13-j12 .. Bn6-m5
+6. Bi1-j2 .. Na10-c9 .. g11-g10 .. m11-l11
+7. O-O .. Na5-b7 .. O-O .. O-O
+8. g2-g4 .. b8-c8 .. k13-k12 .. Rn6-n7
+9. Bf1-h3 .. b10-c10 .. k12xl11 .. Rn11xl11
+10. f3-f4 .. Qh7-e7 .. Bi14xRl11 .. m10xBl11
+11. e2-e3 .. Ba9xNd12 .. Bg13-f12 .. Nl6-m8
+12. g4-g5 .. Nc9-d11 .. Ni12-g11 .. Nl9-j10
+13. Ni3-k2 .. Nd11xBf12+ .. Qh14xNf12 .. Kn5-n6
+14. g5-g6 .. Qe7xBj2+ .. Qf12xBd12 .. Bm5xk3#
+15. Qj2xBk3+ .. i13-i11 .. Kn6-n5
+16. b4-d4 .. i11xNj10 .. m7-k7
+17. d4xe3 .. Rk14xk8 .. k7-j7
+18. e3xf4 .. Rk8xQk3 .. j7-i7
+19. f4-g4 .. Qd12xi7 .. Rn7xQi7
+20. g4-h4=D .. Ng11-h9 .. Ri7-j7
+21. Ra4-e4 .. Rk3-k14 .. Nm8-l6
+22. Qh4-b10 .. Rf14-i14 .. l11-k11
+23. Qb10xe13+# .. k11xj10
+24. Qa7-f12 .. R

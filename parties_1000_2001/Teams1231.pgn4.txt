@@ -1,0 +1,21 @@
+[GameNr "1231"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "stlaz123"]
+[RedElo "1500"]
+[Blue "Henkeeman"]
+[BlueElo "1500"]
+[Yellow "skurbfloor"]
+[YellowElo "1500"]
+[Green "WazaXEone"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:12:48 GMT+0000 (UTC)"]
+[CurrentMove "18"]
+
+1. h2-h4 .. b7-c7 .. h13-h11 .. m7-k7
+2. h4-h5 .. b8-c8 .. h11-h10 .. m11-k11
+3. Qg1xQn8+ .. c7-d7 .. g13-g11 .. Kn7xQn8
+4. Bi1xBa9 .. Ka8xBa9 .. Qh14xQa7+ .. m6-k6
+5. h5-h6 .. #

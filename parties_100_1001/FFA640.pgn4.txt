@@ -1,0 +1,63 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "640"]
+[Result "tyvand: 20 - AlexMM321: 53 - OmgMyNameWontFi: 60 - AngelinaKali: 57"]
+[Variant "FFA"]
+[Red "tyvand"]
+[RedElo "1856"]
+[Blue "AlexMM321"]
+[BlueElo "1809"]
+[Yellow "OmgMyNameWontFi"]
+[YellowElo "1836"]
+[Green "AngelinaKali"]
+[GreenElo "1920"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:39:06 GMT+0000 (UTC)"]
+[CurrentMove "171"]
+
+1. g2-g4 .. b7-d7 .. i13-i11 .. m5-l5
+2. g4-g5 .. Ba6-b7+ .. e13-e12 .. Bn6xj2
+3. f2-f3 .. d7-e7 .. Bf14-e13 .. Bj2xRk1
+4. i2-i3 .. e7-f7 .. j13-j12 .. Nn5-l6
+5. Nj1-k3 .. f7-g7 .. Bi14-j13 .. m11-k11
+6. g5-g6 .. Na5-c6 .. Nj14-i12 .. k11xj12
+7. Qg1-g4 .. Bb7-a6 .. k13xj12 .. Rn11-j11
+8. Bf1-i4 .. Na10-c9 .. Ni12-h10 .. Rj11-n11
+9. Qg4-j1 .. b5-c5 .. Bj13xNc6+ .. Bk1xi3
+10. h2xBi3 .. Nc9-b7 .. Bc6xRa4 .. Nl6-k4
+11. Ne1-g2 .. Ba6xe2 .. Ba4-i12 .. m9-l9
+12. Rd1-e1 .. Be2xf3 .. Ne14-f12 .. Nk4xi3+
+13. Kh1-g1 .. Bf3-d5 .. d13-d11 .. Ni3xQj1
+14. Nk3xNj1 .. b11-c11 .. O-O .. Nn10-l11
+15. Nj1-i3 .. b6-d6 .. j12-j11 .. Qn8xQh14
+16. Bi1-k3 .. Bd5xj11 .. Rf14xQh14 .. m4-l4
+17. Bk3xg7 .. Bj11xBi12 .. Nh10xBi12 .. O-O
+18. Bg7-f6 .. Nb7-c9 .. h13-h11 .. m8-k8
+19. g6-g7 .. b10-d10 .. i11-i10 .. Bn9xBi4
+20. g7-g8=D .. c5-d5+ .. Ni12-h10 .. Bi4xk2
+21. d2-d4 .. Ba9-b10 .. Nh10xQg8 .. Bk2-j3
+22. Re1xe12 .. O-O .. f13xRe12 .. m7-k7
+23. Bf6-g5 .. Qa7xd4+ .. Rk14-j14 .. Bj3-f7
+24. Kg1-h2 .. d6-e6 .. Ng8-f10 .. Bf7-g6
+25. Bg5-l10 .. Qd4xl4 .. Rh14-i14 .. Bg6-b11+
+26. Bl10-i7 .. Nc9xBb11 .. Nf10-h9 .. k8-j8
+27. Bi7xQl4 .. b4-d4 .. Ke14-d13 .. Rn6-n7
+28. Bl4-d12 .. c11xBd12 .. Be13-d14 .. Nl11-k9
+29. Ni3-k2 .. d4-e4 .. g13-g12 .. Kn5-m5
+30. Ng2-i3 .. d5-e5 .. Nf12-g10 .. Rn7-n4
+31. Ni3-j5 .. e4-f4 .. Nh9xj8 .. k7xNj8
+32. Nk2-i3 .. Ra9-a4 .. Bd14xj8+ .. Km5-n5
+33. Ni3-h5 .. e6-f6 .. Bj8xNk9 .. m6-k6
+34. Nj5-l6+ .. f6-g6 .. i10-i9 .. Kn5-m6
+35. Nh5xf4 .. e5xNf4 .. i9-i8 .. Rn4-h4+
+36. R .. f4-g4 .. i8-i7=D .. Rh4xKh2
+37. g4-h4=D .. Qi7-d7 .. Rh2xQh4
+38. Ra4xRh4 .. Qd7-m7+ .. Km6-n5
+39. g6-h6=D .. Bk9xQh6 .. Rn11-n6
+40. Rh4xBh6 .. Ri14-i4 .. Rn6-m6
+41. Rh6-f6 .. Qm7-g13 .. Kn5-m5
+42. b8-d8 .. Ri4-a4+ .. Rm6-m7
+43. Nb11-a9 .. Qg13xRm7+ .. R
+44. Rf6-f13+ .. Kd13-d14
+45. d8-e8 .. Qm7xKm5
+46. e8-f8 .. R

@@ -1,0 +1,25 @@
+[GameNr "1167"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Butnskala"]
+[RedElo "2139"]
+[Blue "Riba"]
+[BlueElo "2762"]
+[Yellow "GioserchGarcia"]
+[YellowElo "2030"]
+[Green "mikemanuver"]
+[GreenElo "2527"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:58:37 GMT+0000 (UTC)"]
+[CurrentMove "33"]
+
+1. h2-h3 .. b6-d6 .. h13-h12 .. m9-l9
+2. d2-d4 .. b8-c8 .. Qh14-h13 .. Nn5-l6
+3. Qg1-j4 .. Qa7-e11 .. d13-d12 .. Qn8-k11
+4. Bi1xd6 .. Qe11-f10 .. Ne14-f12 .. m5-k5
+5. Qj4-j9 .. Ba9xBd6 .. Qh13-g12 .. m8-k8
+6. Qj9-g6 .. Na5-c4 .. Nj14-i12 .. Qk11-h8
+7. e2-e4 .. Qf10-f4 .. Qg12-g11 .. Qh8xh3+
+8. g2xQh3 .. Qf4-i1+ .. Nf12-d11 .. Bn9xh3
+9. #

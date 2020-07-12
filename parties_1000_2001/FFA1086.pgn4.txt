@@ -1,0 +1,49 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1086"]
+[Result "stanislavnoskov: 40 - TITAANNN: 0 - winnie_the_pooh99: 52 - martinbran: 23"]
+[Variant "FFA"]
+[Red "stanislavnoskov"]
+[RedElo "1720"]
+[Blue "TITAANNN"]
+[BlueElo "1702"]
+[Yellow "winnie_the_pooh99"]
+[YellowElo "1761"]
+[Green "martinbran"]
+[GreenElo "1501"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:39:15 GMT+0000 (UTC)"]
+[CurrentMove "100"]
+
+1. g2-g4 .. b8-d8 .. h13-h11 .. m5-l5
+2. g4-g5 .. d8-e8 .. h11-h10 .. Nn5-l6
+3. g5-g6 .. e8-f8 .. h10-h9 .. Bn6-m5
+4. h2-h4 .. b7-d7 .. d13-d12 .. O-O
+5. h4-h5 .. d7-e7 .. Ne14-f12 .. Nn10-l9
+6. h5-h6 .. b9-d9 .. g13-g12 .. m7-l7
+7. h6-h7 .. d9-e9 .. Bf14-g13 .. m8-k8
+8. h7-h8=D .. Na10-c9 .. O-O .. m10-l10
+9. k2-k3 .. e7-f7 .. k13-k12 .. Bn9-m10
+10. g6-g7 .. e9-f9 .. j13-j11 .. l7-k7
+11. g7xf8=D+ .. T .. i13-i11 .. k8-j8
+12. Qf8xKa8 .. Bi14-j13 .. k7-j7
+13. e2-e3 .. i11-i10 .. j7-i7
+14. Qh8-h7 .. Nf12-e10 .. Nl9-k7
+15. Ne1-f3 .. g12-g11 .. j8-i8
+16. Qh7xi7 .. g11-g10 .. Nl6-j5
+17. Qg1xQn8 .. g10-g9 .. Rn11xQn8
+18. Qi7-i4 .. h9-h8 .. Bm10xNf3+
+19. Qa8xBf3 .. g9-g8 .. m4-l4
+20. Bf1-h3 .. g8-g7=D .. Rn8-j8
+21. Bi1-g3 .. Rf14-g14 .. Bm5-l6
+22. j2-j4 .. Bg13xNc9 .. l4xk3
+23. i2-i3 .. h8-h7=D .. Nj5xi3+
+24. Nj1xNi3 .. Qh7xBh3+ .. k3xj4
+25. Qi4xQh3 .. Qh14xQh3+ .. j4xNi3
+26. Kh1-g1 .. Bc9xi3+# .. i8-h8
+27. Qg7-g8 .. Bl6xBi3
+28. Qh3xBi3 .. Rj8-i8
+29. Qi3-h4 .. Nk7-i6
+30. Qh4-e4 .. Rn6-n7
+31. Qg8-g4 .. h8-g8=D
+32. Qg4-n4+#

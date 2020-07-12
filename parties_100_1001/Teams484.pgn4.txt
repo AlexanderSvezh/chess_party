@@ -1,0 +1,20 @@
+[GameNr "484"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "LinuxKernell"]
+[RedElo "2177"]
+[Blue "Antruni"]
+[BlueElo "1809"]
+[Yellow "Kujtimi"]
+[YellowElo "2816"]
+[Green "malaybasak"]
+[GreenElo "2616"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:46:13 GMT+0000 (UTC)"]
+[CurrentMove "13"]
+
+1. h2-h3 .. b7-c7 .. h13-h12 .. m10-l10
+2. Qg1-k5 .. Na5-c4 .. Bi14xBa6 .. Bn9xj13
+3. Qk5-d5+ .. b6-c6 .. Ba6-g12 .. m7-l7
+4. T

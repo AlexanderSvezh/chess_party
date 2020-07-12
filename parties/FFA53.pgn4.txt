@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "53"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "VictorBarndog"]
+[RedElo "1607"]
+[Blue "joujou82"]
+[BlueElo "1677"]
+[Yellow "SMARTandHANDSOME2018"]
+[YellowElo "1507"]
+[Green "ChessMeit211"]
+[GreenElo "1498"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 16:40:42 GMT+0000 (UTC)"]
+[CurrentMove "2"]
+
+1. i2-i4 .. T

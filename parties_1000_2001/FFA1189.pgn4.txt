@@ -1,0 +1,45 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1189"]
+[Result "PageBrix: 10 - urchallengeaccepted: 31 - Attila76: 0 - vukma62: 53"]
+[Variant "FFA"]
+[Red "PageBrix"]
+[RedElo "1717"]
+[Blue "urchallengeaccepted"]
+[BlueElo "1716"]
+[Yellow "Attila76"]
+[YellowElo "1542"]
+[Green "vukma62"]
+[GreenElo "1762"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:09:23 GMT+0000 (UTC)"]
+[CurrentMove "75"]
+
+1. h2-h4 .. b8-d8 .. d13-d11 .. m8-k8
+2. h4-h5 .. b7-c7 .. Rd14-d12 .. k8-j8
+3. h5-h6 .. Qa7-b8 .. f13-f12 .. j8-i8
+4. g2-g4 .. Na5-c6 .. h13-h12 .. Bn9-m8+
+5. Bf1xBm8++ .. Ba6xBi14 .. i13-i12 .. Qn8xBm8
+6. Ne1-f3 .. Bi14-b7 .. Nj14-h13 .. Nn10-l9
+7. g4-g5 .. c7-d7 .. Rd12-e12 .. i8-h8
+8. h6-h7 .. Qb8xBi1+# .. Ne14-d12 .. h8-g8=D
+9. b4-d4 .. Nd12-f11 .. O-O-O
+10. b9-c9 .. Nf11-h10 .. Qg8-h9
+11. d4-e4 .. Nh10-g12 .. Qh9xRe12+#
+12. e4-f4 .. m11-k11
+13. f4-g4 .. k11-j11
+14. g4-h4=D .. j11-i11
+15. Qh4xh7 .. m7-l7
+16. d7-e7 .. Qe12-i8
+17. Qh7-h11 .. i11xh12
+18. e7-f7 .. h12xg13=D
+19. f7-g7 .. Qg13-h12
+20. g7-h7=D .. Qi8xQh7
+21. Qh11-n11+ .. Nl9-n10
+22. O-O-O .. Qh12-h11
+23. Qn11xQh11 .. Qh7xQh11
+24. Ba9-c7 .. Qh11-h4
+25. b10-d10 .. Bn6-i11
+26. Na10-b8 .. Qm8-e8
+27. Ra11-a8 .. Qh4-a4+
+28. Nc6-a5 .. Qe8xb5+#

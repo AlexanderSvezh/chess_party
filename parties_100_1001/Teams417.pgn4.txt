@@ -1,0 +1,22 @@
+[GameNr "417"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "ImnotaStark"]
+[RedElo "1485"]
+[Blue "ermis8992"]
+[BlueElo "2014"]
+[Yellow "1314nenon"]
+[YellowElo "1506"]
+[Green "GamidGod"]
+[GreenElo "1523"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:25:24 GMT+0000 (UTC)"]
+[CurrentMove "21"]
+
+1. Ne1-f3 .. b6-d6 .. g13-g11 .. m5-l5
+2. j2-j3 .. Qa7-b6 .. Nj14-i12 .. Bn6xBi1
+3. Kh1xBi1 .. Qb6-d8 .. Bf14-i11 .. Nn5-l6
+4. g2-g4 .. Qd8-j2+ .. Ne14-f12 .. Nl6-k4
+5. Ki1-h1 .. Qj2xNj1+ .. O-O .. Nk4-i3+
+6. #

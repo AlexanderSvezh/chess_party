@@ -1,0 +1,46 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1308"]
+[Result "Tristan0425: 50 - nataliabella: 6 - Mouseactingalone: 5 - venegaz: 38"]
+[Variant "FFA"]
+[Red "Tristan0425"]
+[RedElo "1733"]
+[Blue "nataliabella"]
+[BlueElo "1536"]
+[Yellow "Mouseactingalone"]
+[YellowElo "1573"]
+[Green "venegaz"]
+[GreenElo "1588"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:45:49 GMT+0000 (UTC)"]
+[CurrentMove "80"]
+
+1. j2-j3 .. b7-d7 .. h13-h11 .. m8-k8
+2. Bi1-j2 .. d7-e7 .. h11-h10 .. Bn9-m8+
+3. Nj1-i3 .. e7-f7 .. i13-i12 .. k8-j8
+4. O-O .. f7-g7 .. h10-h9 .. Nn10-l9
+5. e2-e3 .. g7-h7=D .. h9-h8 .. m4-l4
+6. Bf1-e2 .. Ba6xBi14 .. Nj14-k12 .. m11-l11
+7. f2-f4 .. Bi14xj13 .. Rk14-j14 .. l11xNk12
+8. Be2-f3+ .. b6-c6 .. e13-e12 .. k12xBj13
+9. Bf3-e2 .. Qa7-e7 .. Rj14xj13 .. Nl9-k11
+10. Be2xb5 .. R .. Rj13xj8 .. Nk11xi12
+11. Bb5xc6 .. Qh14-h12 .. m7-k7
+12. Bc6xKa8 .. Qh12xNi12 .. Bm8xQi12+
+13. e3-e4 .. R .. Bi12xKg14
+14. f4-f5 .. k7-j7
+15. f5-f6 .. j7-i7
+16. f6-f7 .. Bg14-l9
+17. Ne1-f3 .. Qn8xRj8
+18. f7-f8=D .. Nn5-l6
+19. d2-d4 .. i7xh8
+20. Ba8-d5 .. Rn11-g11
+21. Bd5-g8 .. Bn6-i11
+22. Qf8-d8 .. m10-k10
+23. d4-d5 .. k10-j10
+24. d5-d6 .. Qj8-i8
+25. Rd1-d5 .. O-O
+26. Bj2xl4 .. m5-l5
+27. Qd8xRg11 .. j10-i10
+28. Qg11xNl6 .. i10-h10
+29. Ql6-m5+#

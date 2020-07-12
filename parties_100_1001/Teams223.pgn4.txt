@@ -1,0 +1,19 @@
+[GameNr "223"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "mudittewari"]
+[RedElo "1905"]
+[Blue "tyuiopweij"]
+[BlueElo "1509"]
+[Yellow "GM_PEA"]
+[YellowElo "2027"]
+[Green "GolodniSneg"]
+[GreenElo "1557"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:30:07 GMT+0000 (UTC)"]
+[CurrentMove "10"]
+
+1. h2-h3 .. b8-d8 .. g13-g12 .. Nn10-l9
+2. Bi1xBa9 .. Qa7xQh14+ .. Kg14xQh14 .. m8-l8
+3. Ba9xb10 .. R

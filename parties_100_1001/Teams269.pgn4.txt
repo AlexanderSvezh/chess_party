@@ -1,0 +1,21 @@
+[GameNr "269"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "salata"]
+[RedElo "2729"]
+[Blue "Hamsel2017"]
+[BlueElo "1618"]
+[Yellow "Antruni"]
+[YellowElo "1856"]
+[Green "nahuelsandoval"]
+[GreenElo "1664"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:46:21 GMT+0000 (UTC)"]
+[CurrentMove "18"]
+
+1. h2-h3 .. b6-d6 .. h13-h12 .. m8-l8
+2. e2-e3 .. b7-c7 .. Bi14xBa6 .. Bn9-m8+
+3. Bf1xb5 .. Na5-b7 .. i13-i12 .. Nn10-l9
+4. Qg1-f1 .. Ra4-a5 .. Ba6xNb7+ .. m10-l10
+5. Bb5-c6 .. R

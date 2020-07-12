@@ -1,0 +1,34 @@
+[GameNr "775"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "owljay"]
+[RedElo "1934"]
+[Blue "Bonvil"]
+[BlueElo "1870"]
+[Yellow "Vuhuuu71"]
+[YellowElo "1500"]
+[Green "rubiayyegua"]
+[GreenElo "1639"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:12:51 GMT+0000 (UTC)"]
+[CurrentMove "70"]
+
+1. h2-h3 .. b6-d6 .. h13-h11 .. m9-l9
+2. e2-e3 .. Na5-c6 .. h11-h10 .. Qn8-k11
+3. Qg1-i3 .. b8-c8 .. j13-j12 .. Qk11-g7
+4. Bf1-e2 .. b4-d4 .. h10-h9 .. Nn5-l6
+5. Qi3-k5 .. d4xe3 .. Bi14-g12 .. m7-l7
+6. d2xe3 .. Ra4-k4 .. Ne14-f12 .. Nn10-l11
+7. Qk5-d5 .. Qa7-e11 .. d13-d12 .. Qg7-f6
+8. Ne1-f3 .. Qe11-j6 .. Nj14-i12 .. m5-l5
+9. Bi1-g3 .. Qj6xj2 .. h9-h8 .. Nl6-j5
+10. O-O-O .. Qj2xRk1 .. h8-h7 .. Nj5-h6
+11. i2-i3 .. Rk4xk2 .. Ni12-h10 .. Nh6-f5
+12. Bg3-i5 .. Rk2-k5 .. Nh10-g8 .. Qf6-f9
+13. Qd5xNf5 .. Rk5xBi5 .. h7-h6 .. Qf9xQf5
+14. Nj1-h2 .. Qk1xi3 .. h6xRi5 .. Bn6-m5
+15. e3-e4 .. Nc6-e5 .. i5-i4=Q .. Qf5-k10+
+16. Nf3xNe5 .. d6xNe5 .. i13-i12 .. Qk10xe4
+17. f2-f3 .. Qi3xQi4 .. Bg12xl7 .. m8xBl7
+18. h3xQi4 .. T

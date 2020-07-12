@@ -1,0 +1,63 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "500"]
+[Result "break2684: 23 - HelicoBoy: 8 - Attila76: 87 - plumatica: 15"]
+[Variant "FFA"]
+[Red "break2684"]
+[RedElo "1500"]
+[Blue "HelicoBoy"]
+[BlueElo "1484"]
+[Yellow "Attila76"]
+[YellowElo "1562"]
+[Green "plumatica"]
+[GreenElo "1655"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:09:14 GMT+0000 (UTC)"]
+[CurrentMove "148"]
+
+1. h2-h4 .. b7-d7 .. d13-d11 .. m8-k8
+2. d2-d3 .. Ba6-b7 .. d11-d10 .. k8-j8
+3. k2-k4 .. b10-c10 .. e13-e11 .. m5-k5
+4. Ne1-f3 .. b11-c11 .. Ne14-f12 .. m4-l4
+5. Bi1-h2 .. Na5-c6 .. Nj14-i12 .. m6-k6
+6. Bh2xk5 .. b8-d8 .. Nf12-g10 .. l4xBk5
+7. Nj1-k3 .. Ba9-b8 .. g13-g12 .. Rn4-l4
+8. Qg1xk5 .. b5-c5 .. f13-f11 .. Nn5-l6
+9. Nk3-l5 .. c11xd10 .. e11-e10 .. Nl6-j7
+10. Qk5-i3 .. b9-c9 .. k13-k11 .. Bn6-m5
+11. Rk1-k3 .. Nc6-e7 .. Rd14-e14 .. Bm5-l6
+12. Qi3-j3 .. c9-d9 .. e10xd9 .. Nj7-k5
+13. Qj3-j6 .. Bb7xd9 .. h13-h12 .. m7-k7
+14. Qj6-f6 .. Bb8-c7 .. Bf14-g13 .. Nk5-i4
+15. Rk3-k2 .. Bc7-b8 .. k11-k10 .. m9-k9
+16. g2-g3 .. Ne7-f9 .. Rk14-k11 .. m10-l10
+17. Qf6xNf9 .. d8-e8 .. Rk11-h11 .. Nn10-l11
+18. Qf9-f5 .. Ra11-d11 .. j13-j12 .. Bl6-h2
+19. Bf1xNi4 .. Na10-c11 .. Bi14xNl11 .. Bn9-m8
+20. Nl5xk7 .. Qa7-b7 .. Bl11-m10 .. Rn11-n10
+21. Qf5-n5+ .. O-O-O .. Bm10-l9 .. Kn7-m7
+22. Qn5-m5+ .. Bb8-c9 .. Bl9xNf3+ .. Km7-n7
+23. e2xBf3 .. Qb7xf3+ .. Bg13xd10 .. Qn8-k5
+24. Bi4-g2 .. Qf3xRd1+ .. Bd10xBc9 .. Qk5xQm5
+25. Kh1xBh2 .. Ra7-c7 .. Bc9-d8 .. Qm5-k5+
+26. i2-i3 .. T .. Qh14-a7 .. Bm8xk10
+27. Nk7-i6 .. Rh11-i11 .. Qk5-j6
+28. Ni6-j4 .. Qa7xKa6 .. k9-j9
+29. Bg2xk6 .. Qa6xBd9 .. j9-i9
+30. Bk6-l5+ .. Ng10xi9 .. Kn7-n8
+31. k4-k5 .. Ni9xBk10 .. Qj6-j5
+32. Kh2-i2 .. Qd9-m9+#
+33. Nj4-k6 .. f11-f10
+34. i3-i4 .. f10-f9
+35. Rk2-k1 .. f9-f8
+36. Rk1-e1 .. f8-f7=D
+37. Re1-e3 .. g12-g11
+38. j2-j3 .. g11-g10
+39. Re3-e4 .. g10-g9
+40. Re4-f4 .. Qf7-e6+
+41. Ki2-i3 .. g9-g8
+42. Nk6-i5 .. g8-g7=D
+43. Bl5-n7 .. Nk10-l8
+44. Bn7xNi12+ .. Ri11xBi12
+45. d3-d4 .. Ri12xNi5
+46. T

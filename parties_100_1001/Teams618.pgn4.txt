@@ -1,0 +1,20 @@
+[GameNr "618"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Don_Hector_Salamanca"]
+[RedElo "1541"]
+[Blue "alyeasin93"]
+[BlueElo "2603"]
+[Yellow "szymek2009lis"]
+[YellowElo "1500"]
+[Green "Dewan122157"]
+[GreenElo "927"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:18:36 GMT+0000 (UTC)"]
+[CurrentMove "13"]
+
+1. h2-h3 .. b7-c7 .. h13-h11 .. m8-l8
+2. j2-j3 .. Ba6xBi14 .. Qh14xBi14 .. Qn8-m8+
+3. g2-g4 .. Qa7-b7+ .. i13-i12 .. Qm8xh3+
+4. #

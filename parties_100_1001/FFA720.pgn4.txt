@@ -1,0 +1,57 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "720"]
+[Result "Davidbloom001: 26 - talaamoaur: 57 - LuwerPVP: 5 - JAMarina: 68"]
+[Variant "FFA"]
+[Red "Davidbloom001"]
+[RedElo "1560"]
+[Blue "talaamoaur"]
+[BlueElo "1504"]
+[Yellow "LuwerPVP"]
+[YellowElo "1500"]
+[Green "JAMarina"]
+[GreenElo "1708"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:59:45 GMT+0000 (UTC)"]
+[CurrentMove "109"]
+
+1. g2-g4 .. b7-d7 .. h13-h11 .. m9-k9
+2. g4-g5 .. Ba6xBi14 .. Qh14xBi14 .. m10-l10
+3. g5-g6 .. Qa7-b7+ .. i13-i11 .. Bn9-m10
+4. Ne1-f3 .. Qb7xQi14+# .. k9-j9
+5. g6-g7 .. d7-e7 .. l10-k10
+6. g7-g8=D .. Na5-c6 .. Nn5-l6
+7. Bf1-g2 .. b5-d5 .. k10-j10
+8. Qg8xd5 .. Qi14-b7 .. j10-i10
+9. Nf3-d4 .. Ra4-a5 .. i10-h10
+10. Qd5xNc6 .. Qb7xQc6 .. h10-g10=D
+11. Nd4xQc6 .. b9-c9 .. j9-i9
+12. Nc6xRa5+ .. Ka8-b9 .. Bm10xe2
+13. Bg2-h3+ .. b8-c8 .. Qg10xQg1+
+14. Rd1xQg1 .. b11-d11 .. i9-h9
+15. Nj1-i3 .. Na10-c11 .. Be2-f3+
+16. Ni3-g2 .. Ba9-c7 .. h9-g9=D
+17. j2-j3 .. Ra11xNa5 .. Qn8-m9
+18. Bi1-j2 .. Bc7-d8 .. Qm9xf2
+19. O-O .. Nc11-e10 .. Qf2xd2
+20. Ng2-h4 .. Ne10xQg9 .. Bf3-m10
+21. Rg1-g2 .. Ng9-e8 .. Qd2-h6
+22. Nh4-f5 .. e7-f7 .. Qh6-k9
+23. Bj2xBd8 .. f7-g7 .. m5-l5
+24. Nf5xg7 .. Ne8xNg7 .. Qk9-k3
+25. Bh3xm8+ .. c9xBd8 .. Nn10xBm8
+26. R .. Ng7-h5 .. Qk3-j2
+27. d8-e8 .. Qj2xKj1
+28. e8-f8 .. Rn11-n9+
+29. Kb9-a10 .. Bm10xNh5
+30. Ra5xBh5 .. Qj1xi2
+31. f8-g8 .. Qi2xc8+
+32. Ka10-b11 .. Qc8xg8
+33. Rh5-c5 .. Rn9-a9
+34. Rc5-c9 .. Ra9xRc9
+35. b10xRc9 .. Qg8-b8+
+36. Kb11-c11 .. Qb8xc9+
+37. Kc11-d12 .. Bn6-m5
+38. b4-d4 .. Nl6-k4
+39. d4-e4 .. Qc9-e9
+40. e4-f4 .. Qe9xe13+#

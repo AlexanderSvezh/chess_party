@@ -1,0 +1,17 @@
+[GameNr "606"]
+[Result "Aborted"]
+[Variant "Teams"]
+[Red "ElPolloLocoMan"]
+[RedElo "1595"]
+[Blue "ilyar044"]
+[BlueElo "1451"]
+[Yellow "Aveu"]
+[YellowElo "1526"]
+[Green "9099999999"]
+[GreenElo "1672"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:16:59 GMT+0000 (UTC)"]
+[CurrentMove "4"]
+
+1. h2-h4 .. b6-c6 .. i13-i11 .. T

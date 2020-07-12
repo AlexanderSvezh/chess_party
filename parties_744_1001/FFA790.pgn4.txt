@@ -1,0 +1,37 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "790"]
+[Result "04common_user: 50 - FIV06: 15 - kiarant: 5 - Tom21112006: 26"]
+[Variant "FFA"]
+[Red "04common_user"]
+[RedElo "1469"]
+[Blue "FIV06"]
+[BlueElo "1749"]
+[Yellow "kiarant"]
+[YellowElo "1522"]
+[Green "Tom21112006"]
+[GreenElo "1469"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:09:02 GMT+0000 (UTC)"]
+[CurrentMove "63"]
+
+1. h2-h3 .. b10-c10 .. h13-h11 .. m5-l5
+2. Qg1-i3 .. Na10-c9 .. h11-h10 .. m8-l8
+3. Qi3-l6 .. Ba9-b10 .. h10-h9 .. Bn9-m8+
+4. Nj1-k3 .. O-O .. Bi14-h13 .. Nn5-l4
+5. Ql6-k5 .. b5-c5 .. Bh13xBm8+ .. Qn8xBm8+
+6. Qk5xk13 .. Na5-c6 .. Nj14-i12 .. Bn6-m5
+7. Qk13xj13 .. Nc6-d4 .. h9-h8 .. O-O
+8. Qj13xNi12+ .. Ba6-b5 .. Qh14-h13 .. m10-l10
+9. Qi12xRk14+# .. Bb5xQk14 .. Qm8xQh13
+10. h3-h4 .. Bk14-b5 .. Nl4-k6
+11. h4-h5 .. Ra9-a8 .. Qh13xh8
+12. h5-h6 .. Nd4xe2 .. Qh8-k8
+13. h6-h7 .. Ne2-d4 .. Nn10-l11
+14. h7-h8=D .. Bb5xBf1 .. Qk8-g4
+15. Qh8-h11 .. Bf1-e2 .. Qg4-h4+
+16. Kh1-g1 .. R .. Qh4-g4
+17. Qh11xb11 .. Bm5-l6+
+18. Bi1-h2 .. Qg4xb9
+19. Qb11xKa10 .. Qb9xQa10
+20. R

@@ -1,0 +1,52 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "152"]
+[Result "Otto_Lerma: 1 - Abhinav8932934: 14 - hi213456789: 1 - Merlin-Pendragon: 80"]
+[Variant "FFA"]
+[Red "Otto_Lerma"]
+[RedElo "1532"]
+[Blue "Abhinav8932934"]
+[BlueElo "1628"]
+[Yellow "hi213456789"]
+[YellowElo "1554"]
+[Green "Merlin-Pendragon"]
+[GreenElo "1658"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:23:53 GMT+0000 (UTC)"]
+[CurrentMove "93"]
+
+1. g2-g4 .. b10-c10 .. h13-h11 .. m11-k11
+2. g4-g5 .. b5-c5 .. h11-h10 .. k11-j11
+3. g5-g6 .. Ba9-b10 .. Qh14-h11 .. m10-k10
+4. g6-g7 .. Na10-c9 .. Bi14-g12 .. m7-l7
+5. g7-g8=D .. O-O .. Qh11-i11 .. Bn6xQi11
+6. h2-h4 .. b7-d7 .. h10-h9 .. Bi11-m7
+7. Qg1-g7 .. d7-e7 .. h9xQg8 .. m9-l9
+8. Qg7xg8 .. e7-f7 .. e13-e12 .. Bn9xj13
+9. Qg8-g7 .. b6-c6 .. Bf14-e13 .. Qn8xi13
+10. h4-h5 .. c6-d6 .. Ne14-f12 .. Qi13xg13+#
+11. h5-h6 .. Ba6-b7+ .. Qg13-k9
+12. Ne1-g2 .. Na5-c6 .. Qk9-k5
+13. h6-h7 .. d6-e6 .. Qk5-g1+#
+14. e6-f6 .. j11-i11
+15. f6-g6 .. i11-h11
+16. g6xh7=D .. h11-g11=D
+17. b4-d4 .. Qg1-j4
+18. Qh7-d11 .. Qj4xQg7
+19. Qd11xQg11 .. Rn11xQg11
+20. Nc6-e5 .. Bm7-j4
+21. Bb7-f3 .. Qg7-k11
+22. Ne5-c6 .. Bj4-c11
+23. Bb10xBc11 .. Rg11xBc11
+24. f7-g7 .. Bj13-e8
+25. g7-h7=D .. Nn5-l6
+26. Qh7-h5 .. Be8xQh5
+27. Bf3xBh5 .. Nl6-j5
+28. d4-e4 .. Nj5-h4
+29. Bh5-i4 .. O-O
+30. Bi4-e8 .. m8-k8
+31. Be8-g10 .. Nn10-m8
+32. Qa7-h7 .. Rn6-n11
+33. Ra9-a7 .. Rc11xb11
+34. Qh7xNh4 .. Rb11-a11+
+35. Ka10-b10 .. Qk11-c11+#

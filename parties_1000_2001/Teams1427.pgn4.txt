@@ -1,0 +1,26 @@
+[GameNr "1427"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "ronaldochris"]
+[RedElo "1785"]
+[Blue "Akusu"]
+[BlueElo "1782"]
+[Yellow "owljay"]
+[YellowElo "1937"]
+[Green "Great-Gazoo"]
+[GreenElo "1299"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:20:58 GMT+0000 (UTC)"]
+[CurrentMove "37"]
+
+1. h2-h3 .. b7-c7 .. g13-g12 .. Nn5-l6
+2. Qg1-j4 .. Qa7-b7 .. Qh14-e11 .. Nn10-l9
+3. Qj4-j9 .. Na10-c9 .. Nj14-i12 .. m8-k8
+4. Qj9-f5 .. Na5-c6 .. Qe11-e12 .. Nl6-j5
+5. Qf5xb9+ .. Ka8-a7 .. Qe12-i8 .. Nj5-i3+
+6. Nj1xNi3 .. b8-d8 .. Bf14-g13 .. m7-k7
+7. Qb9-e6 .. Ba9-b8 .. Ni12-j10 .. Bn9-l7
+8. Ni3-k4 .. Nc6-d4 .. Qi8-k10 .. Bn6xNj10
+9. Qe6-i6 .. Qb7xg2+ .. Bg13xBj10 .. Qn8-g1+
+10. #

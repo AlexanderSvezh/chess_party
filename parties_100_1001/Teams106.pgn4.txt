@@ -1,0 +1,22 @@
+[GameNr "106"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "thur1er"]
+[RedElo "1517"]
+[Blue "Aelpro10"]
+[BlueElo "1483"]
+[Yellow "lencho92"]
+[YellowElo "1517"]
+[Green "Jepkido"]
+[GreenElo "1529"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 16:59:06 GMT+0000 (UTC)"]
+[CurrentMove "22"]
+
+1. h2-h4 .. b7-d7 .. g13-g11 .. m8-k8
+2. h4-h5 .. b8-c8 .. Nj14-i12 .. m7-l7
+3. g2-g3 .. Ba9-b8 .. Bf14-g13 .. k8-j8
+4. h5-h6 .. Na5-c6 .. Bg13xBb8 .. l7-k7
+5. Bf1-g2 .. Qa7xBb8 .. Qh14xQb8+ .. j8-i8
+6. Bg2xNc6+ .. R

@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1033"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "letster31"]
+[RedElo "1500"]
+[Blue "yassinetn"]
+[BlueElo "1553"]
+[Yellow "fereira977"]
+[YellowElo "1473"]
+[Green "M1nD03"]
+[GreenElo "1573"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:10:38 GMT+0000 (UTC)"]
+[CurrentMove "1"]
+
+1. T

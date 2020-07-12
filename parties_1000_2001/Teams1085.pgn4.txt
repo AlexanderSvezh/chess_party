@@ -1,0 +1,20 @@
+[GameNr "1085"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Snooby123"]
+[RedElo "1857"]
+[Blue "Riba"]
+[BlueElo "2778"]
+[Yellow "Butnskala"]
+[YellowElo "2095"]
+[Green "mikemanuver"]
+[GreenElo "2522"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:25:46 GMT+0000 (UTC)"]
+[CurrentMove "15"]
+
+1. h2-h3 .. b6-d6 .. g13-g12 .. m8-l8
+2. e2-e3 .. Qa7-c5 .. h13-h11 .. Qn8-m8+
+3. Ne1-f3 .. Qc5-c8 .. Qh14-h13 .. Qm8xQh13+
+4. Kh1-h2 .. Qc8xg12+ .. #

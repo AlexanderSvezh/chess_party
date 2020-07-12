@@ -1,0 +1,72 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "65"]
+[Result "reydama07: 53 - KINGPavelDatsyuk: 25 - curtisad: 48 - IgorSergii: 8"]
+[Variant "FFA"]
+[Red "reydama07"]
+[RedElo "1500"]
+[Blue "KINGPavelDatsyuk"]
+[BlueElo "1588"]
+[Yellow "curtisad"]
+[YellowElo "1725"]
+[Green "IgorSergii"]
+[GreenElo "1371"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:07:09 GMT+0000 (UTC)"]
+[CurrentMove "150"]
+
+1. j2-j3 .. b7-d7 .. g13-g12 .. m7-k7
+2. Bi1-j2 .. d7-e7 .. Ne14-g13 .. k7-j7
+3. Nj1-i3 .. b10-c10 .. h13-h12 .. j7-i7
+4. k2-k4 .. Ba9-b10 .. Ng13-f11 .. i7-h7
+5. O-O .. e7-f7 .. Bf14-g13 .. h7-g7=D
+6. d2-d4 .. Na10-c9 .. O-O .. Qg7-g5
+7. e2-e3 .. f7-g7 .. Rf14-g14 .. Qg5xNc9
+8. Ne1-f3 .. Bb10xQc9 .. h12-h11 .. Bn6xBg13
+9. Bj2xm5 .. g7-h7=D+ .. Nf11xBg13 .. Nn5-m7
+10. Bm5xRn4 .. b4-c4 .. Nj14-h13 .. Nn10-l9
+11. Bn4-m5 .. b5-d5 .. Nh13-j12 .. Nl9-j8
+12. Bm5xNj8 .. b11-d11 .. i13-i12 .. T
+13. Bj8-l6 .. Qh7xNm7 .. Nj12-k10
+14. Bl6-m5 .. Qm7xKn7 .. i12-i11
+15. Bf1-e2 .. Qn7-e7 .. i11-i10
+16. Bm5-j2 .. Bc9-f12 .. e13-e12
+17. Qg1-h1 .. O-O .. Qh14-i13
+18. Rd1-f1 .. Bf12xNg13 .. Rg14xBg13
+19. Qh1-g1 .. d11xe12 .. f13xe12
+20. Ri1-h1 .. Ba6-c8 .. i10-i9
+21. h2-h3 .. b6-d6 .. Bi14-h13
+22. Nf3-d2 .. d6-e6 .. Bh13-i12
+23. g2-g4 .. e6-f6 .. Rk14-h14
+24. f2-f4 .. f6-g6 .. h11-h10
+25. g4-g5 .. Ra4-b4 .. i9-i8
+26. Ni3-j5 .. Bc8-a6 .. Qi13-g11
+27. f4-f5 .. d5-e5 .. Rh14-h11
+28. Nj5-i7 .. Ba6-b5 .. Qg11-b11+#
+29. f5xg6 .. Rh11-g11
+30. h3-h4 .. Qb11-e11
+31. Bj2-l4 .. h10-h9
+32. h4-h5 .. h9-h8
+33. Ni7-k6 .. Nk10-i9
+34. Qg1-f2 .. Rg13-g14
+35. Qf2-f13+ .. Ke14-d14
+36. h5-h6 .. Rg11-f11
+37. Rf1xRf11 .. g12xRf11
+38. g6-g7 .. i8-i7=D
+39. Nk6xQi7 .. h8-h7=D
+40. Ni7-k6 .. Qe11xQe7
+41. Qf13-f12+ .. Kd14-e14
+42. Qf12xNi9 .. Qe7xg5
+43. Bl4-j2 .. Qg5xe3
+44. Be2-i6 .. Qh7-f5
+45. Rh1-i1 .. Bi12-d7
+46. g7-g8=D .. Rg14xQg8
+47. Bi6xRg8 .. Qe3xNd2
+48. Qi9-i14+ .. Ke14-e13
+49. Qi14-i13+ .. Ke13-d12
+50. Bj2-l4+ .. Kd12-c11
+51. Qi13-e13+ .. Kc11-b11
+52. Qe13-d12 .. Qf5xi2+
+53. Ri1xQi2 .. Qd2xRi2+
+54. Kj1-k1 .. Qi2-i1+
+55. Bl4xQi1 .. R

@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "194"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "peepee152"]
+[RedElo "1500"]
+[Blue "Joelhaupt"]
+[BlueElo "1535"]
+[Yellow "Chessbron"]
+[YellowElo "1578"]
+[Green "and_2018"]
+[GreenElo "1652"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:23:47 GMT+0000 (UTC)"]
+[CurrentMove "4"]
+
+1. g2-g3 .. b7-d7 .. h13-h11 .. T

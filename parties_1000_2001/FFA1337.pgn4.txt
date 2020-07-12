@@ -1,0 +1,53 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1337"]
+[Result "Suturo: 46 - yoltzinfernandez: 0 - claudioalbertobeto00: 31 - Ulra1: 38"]
+[Variant "FFA"]
+[Red "Suturo"]
+[RedElo "1718"]
+[Blue "yoltzinfernandez"]
+[BlueElo "1430"]
+[Yellow "claudioalbertobeto00"]
+[YellowElo "1478"]
+[Green "Ulra1"]
+[GreenElo "1450"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:02:24 GMT+0000 (UTC)"]
+[CurrentMove "111"]
+
+1. g2-g4 .. b6-c6 .. h13-h11 .. m11-k11
+2. h2-h4 .. b9-c9 .. Ne14-d12 .. k11-j11
+3. Bi1-g3 .. b11-c11 .. Nd12-c10 .. m10-k10
+4. Bf1-i4 .. Ra11-b11 .. i13-i12 .. j11-i11
+5. Bi4xNc10+# .. d13-d12 .. Nn10-l9
+6. Nj1-i3 .. d12-d11 .. k10-j10
+7. Bc10-j3 .. d11-d10 .. Nl9-j8
+8. g4-g5 .. d10-d9 .. Bn9-l11
+9. h4-h5 .. k13-k12 .. Bl11-k10
+10. h5-h6 .. d9-d8 .. j10-i10
+11. g5-g6 .. d8-d7=D .. Qn8-n10
+12. g6-g7 .. Qd7-e7 .. Bk10-j9
+13. e2-e3 .. Qe7-f6 .. i10-h10
+14. Bg3-f4 .. Rd14-d6 .. h10-g10=D
+15. g7-g8=D .. e13-e12 .. Qg10-j7
+16. O-O .. g13-g11 .. Nn5-l4
+17. Ne1-g2 .. Bi14-f11 .. Qn10-k10
+18. Qg8xg11+ .. Bf14-g13 .. m5-k5
+19. h6-h7 .. f13-f12 .. Rn11-k11
+20. Qg11xNj8 .. Rd6-d3 .. Qj7-k7
+21. h7-h8=D .. Qf6-d6 .. m8-l8
+22. Bf4xQd6 .. Rd3xBd6 .. k5-j5
+23. Ni3xj5 .. Nj14-h13 .. Nl4xBj3
+24. i2xNj3 .. Nh13-g11 .. Qk7xk2+
+25. Kj1-i2 .. Bf11-c8+ .. Bj9-f5+
+26. Ki2-h1 .. Ng11-i10 .. Qk2xj2
+27. Qj8-i7 .. Rd6-d3 .. Qk10-k1
+28. Qg1-i3 .. Bc8-e6 .. Qk1xRi1+
+29. Ng2xQi1 .. Be6-d5+ .. Qj2xf2
+30. Ni1-g2 .. Bd5xNg2+ .. Bn6-k3
+31. Kh1-h2 .. Bg2xNj5+ .. Bk3-j4
+32. Kh2-h1 .. e12-e11 .. Rk11-k2
+33. Qi3xBj4 .. Bj5-g2+ .. Rk2-k1+
+34. Kh1-h2 .. Bg2-d5+ .. Rk1xRd1
+35. Kh2-i3 .. e11-e10 .. Rd1-i1+#
+36. Qh14-k11 .. T

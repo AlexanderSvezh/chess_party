@@ -1,0 +1,60 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "37"]
+[Result "Angel0017: 0 - coolrags: 46 - SirCas: 31 - Ch14garcia: 83"]
+[Variant "FFA"]
+[Red "Angel0017"]
+[RedElo "1500"]
+[Blue "coolrags"]
+[BlueElo "1500"]
+[Yellow "SirCas"]
+[YellowElo "1758"]
+[Green "Ch14garcia"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 16:48:32 GMT+0000 (UTC)"]
+[CurrentMove "108"]
+
+1. j2-j3 .. b7-d7 .. g13-g12 .. m10-l10
+2. h2-h3 .. Na10-c9 .. Qh14-g13 .. m8-l8
+3. Bi1-f4 .. b8-c8 .. Ne14-f12 .. m5-l5
+4. j3-j4 .. Ba9xBf4 .. Qg13-i11 .. Bn6-m5
+5. T .. Bf4-b8 .. Qi11xi2 .. Nn5-l6
+6. Nc9-e8 .. Qi2xKh1 .. O-O
+7. Bb8xNf12 .. e13xBf12 .. Nl6-j7
+8. Na5-c6 .. Bf14-g13 .. m9-k9
+9. b9-c9 .. Rd14-e14 .. l10-k10
+10. Ne8-g7 .. Re14-e10 .. Qn8xi13
+11. c8-d8 .. Re10xk10 .. Qi13xBi14+
+12. Ng7-e8 .. Bg13-h14 .. Bm5xf12
+13. Ba6-c8 .. Nj14-i12 .. Qi14xRk14
+14. Qa7-b8 .. k13-k11 .. Bn9xj13
+15. O-O-O .. Qh1xh3 .. Bj13xNi12
+16. d7-e7 .. h13xBi12 .. Nn10-l9
+17. Bc8xQh3 .. Kg14-h13 .. Qk14xBh14+#
+18. Bh3xNj1 .. k9-j9
+19. Bj1xk2 .. j9-i9
+20. Bk2-h5 .. m6-k6
+21. Bh5xNj7 .. k6xBj7
+22. Qb8-h2 .. Rn11-n9
+23. Qh2xj4 .. l8-k8
+24. Qj4-f8 .. i9-h9
+25. Qf8xk8+ .. Kn5-m5
+26. Qk8xj7 .. Qh14xKh13
+27. Qj7-j2+ .. m4-l4
+28. Qj2xRk1 .. Bf12-h10
+29. Qk1-g5 .. Nl9-j8
+30. Ne8-g9 .. Bh10xNg9
+31. Qg5xNj8+ .. Rn6-l6
+32. Qj8xm11 .. Bg9xe7
+33. Ra7xBe7 .. h9-g9=D
+34. Qm11xm7+ .. Rl6-m6
+35. Qm7-k7+ .. Km5-n5
+36. Ra11-a7 .. Qg9-l9
+37. Qk7-f12 .. Qh13-h5
+38. Re7-n7+ .. Rn9xRn7
+39. Ra7xRn7+ .. Ql9xRn7
+40. Qf12xg12 .. Qh5-j7
+41. Qg12-g4 .. Qj7-b7+
+42. Ka6-a5 .. Qb7-a7+
+43. Nc6xQa7 .. Qn7xNa7+#

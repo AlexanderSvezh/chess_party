@@ -1,0 +1,50 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "674"]
+[Result "bogibogason: 5 - thebest14023: 39 - GabSper: 62 - Ulra1: 13"]
+[Variant "FFA"]
+[Red "bogibogason"]
+[RedElo "1500"]
+[Blue "thebest14023"]
+[BlueElo "1530"]
+[Yellow "GabSper"]
+[YellowElo "1642"]
+[Green "Ulra1"]
+[GreenElo "1473"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:50:19 GMT+0000 (UTC)"]
+[CurrentMove "107"]
+
+1. g2-g4 .. b7-d7 .. h13-h11 .. m8-k8
+2. Nj1-i3 .. d7-e7 .. Nj14-i12 .. k8-j8
+3. Ne1-f3 .. e7-f7 .. e13-e12 .. j8-i8
+4. h2-h4 .. f7-g7 .. Bf14-e13 .. i8-h8
+5. Bf1-i4 .. b10-c10 .. d13-d12 .. h8-g8=D
+6. Bi4xBn9 .. g7-h7=D .. j13-j12 .. Qg8-l8
+7. Bn9-j5 .. Qh7-e7 .. Ne14-f12 .. Nn5-l4
+8. k2-k3 .. Ba9-b10 .. Bi14xm10 .. Nn10-m8
+9. T .. Qe7xh4 .. O-O .. Rn11-n10
+10. Qh4xKh1 .. Bm10-j13 .. m5-l5
+11. Na10-c9 .. Rf14-g14 .. Bn6-m5
+12. O-O .. g13-g11 .. Nm8-k9
+13. b6-d6 .. g11-g10 .. Ql8-k8
+14. Qh1-h7 .. h11-h10 .. Qk8-j9
+15. d6-e6 .. Rg14-f14 .. Qj9-l7
+16. e6-f6 .. h10-h9 .. Qn8-k8
+17. f6-g6 .. g10-g9 .. Nk9-i10
+18. g6-h6=D .. g9-g8 .. Ni10-g11
+19. Qh7-g7 .. Qh14-g14 .. Ng11xe12
+20. Qg7xQl7 .. Ke14-d13 .. m6xQl7
+21. Qh6xm11 .. f13xNe12 .. Rn10-n11
+22. Qm11xm9 .. g8-g7=D .. O-O
+23. Qa7-b6 .. h9-h8 .. Rn6xQb6
+24. Qm9xm7 .. h8-h7=D .. Rb6-d6
+25. Ba6-e10 .. Qh7-j7 .. Qk8-d8
+26. Bb10xd12 .. Qj7xRn11+ .. Bm5-n6
+27. Qm7xBn6+ .. Be13xBd12 .. Rd6xQn6
+28. Na5-c6 .. Qn11xRn6+ .. Kn5xQn6
+29. Nc6xQd8 .. Qg7-c11 .. Kn6-m5
+30. Nc9-d11 .. e12xNd11 .. Nl4-m6
+31. Be10-f11+ .. Kd13-d14 .. l7-k7
+32. b9-c9 .. Qc11-b10+# .. k7-j7
+33. Qg14-g7 .. R

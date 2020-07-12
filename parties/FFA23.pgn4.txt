@@ -1,0 +1,39 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "23"]
+[Result "hitsujyun: 3 - alexandrosebastiani: 5 - GerardCS: 39 - FrauVomSepp: 73"]
+[Variant "FFA"]
+[Red "hitsujyun"]
+[RedElo "1569"]
+[Blue "alexandrosebastiani"]
+[BlueElo "1500"]
+[Yellow "GerardCS"]
+[YellowElo "1472"]
+[Green "FrauVomSepp"]
+[GreenElo "1593"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 16:38:46 GMT+0000 (UTC)"]
+[CurrentMove "62"]
+
+1. h2-h4 .. b7-c7 .. h13-h12 .. m8-k8
+2. h4-h5 .. Qa7-b7 .. Bi14xQb7+ .. k8-j8
+3. Bi1xc7 .. Ka8xBb7 .. Qh14-h13++ .. m9-l9
+4. Bc7-i1 .. Kb7-a8 .. Qh13xBa6+# .. Qn8xi13
+5. h5-h6 .. Nj14-i12 .. Qi13xj13
+6. g2-g3 .. Rk14-i14 .. m7-l7
+7. h6-h7 .. Qa6-e10 .. Nn5-l6
+8. Qg1-h2 .. Qe10-l10 .. Qj13xRi14+
+9. h7-h8=D .. Ni12-h14 .. m11xQl10
+10. Qh8xj8 .. g13-g11 .. Bn9-m8
+11. Qj8-j11+ .. Kg14-g13 .. Rn11xQj11
+12. Bf1-g2 .. Kg13-g14 .. Rj11xg11+
+13. Qh2xh12 .. Ne14-g13 .. Bn6xQh12
+14. R .. f13-f12 .. Rg11xg3
+15. e13-e11 .. l9-k9+
+16. Kg14-f13 .. Qi14xNh14
+17. Bf14-e13 .. Rg3xNg13+
+18. Kf13-e12 .. Qh14-h13
+19. Be13-d12 .. Bh12-d8
+20. Bd12-c11 .. Qh13xKh1
+21. d13-d11 .. Qh1-h9+
+22. f12-f11 .. Qh9-h12+#

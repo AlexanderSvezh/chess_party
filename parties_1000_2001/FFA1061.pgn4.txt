@@ -1,0 +1,52 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1061"]
+[Result "0624570924: 40 - trappette: 74 - sibeta: 11 - rheesesodah: 0"]
+[Variant "FFA"]
+[Red "0624570924"]
+[RedElo "1506"]
+[Blue "trappette"]
+[BlueElo "1601"]
+[Yellow "sibeta"]
+[YellowElo "1489"]
+[Green "rheesesodah"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:29:22 GMT+0000 (UTC)"]
+[CurrentMove "91"]
+
+1. g2-g4 .. b10-c10 .. h13-h11 .. m5-k5
+2. g4-g5 .. Ba9-b10 .. h11-h10 .. Bn6-m5
+3. g5-g6 .. Na10-c9 .. g13-g11 .. m4-l4
+4. g6-g7 .. O-O .. h10-h9 .. m6-k6
+5. Bf1xk6 .. b7-d7 .. g11-g10 .. m7-l7
+6. Bk6-l5+# .. d7-e7 .. g10-g9
+7. g7-g8=D .. e7-f7 .. h9xQg8
+8. h2-h3 .. f7-g7 .. Ne14-f12
+9. Bl5xKn7 .. b4-d4 .. Nf12-g10
+10. Bn7xm8+ .. g7-h7=D .. Bi14-h13
+11. Bm8xBh13+ .. Qh7-c7 .. Qh14xBh13
+12. f2-f4 .. Ba6xQh13+ .. Kg14xBh13
+13. Bi1-g3 .. Qa7-a6+ .. Kh13-g14
+14. Nj1-h2 .. Qc7-a7 .. g8-g7=D
+15. O-O .. Qa6-i14+ .. Kg14-g13
+16. Bg3-l8+ .. Bb10xe13 .. Ng10-h12
+17. Qg1-f2 .. Qi14xi13+ .. T
+18. f4-f5 .. Qi13xKg13
+19. Bl8-k7 .. Be13-b10
+20. Bk7-h4 .. Qa7xQg7
+21. f5-f6 .. Qg7-j7
+22. j2-j3 .. Qj7-f7
+23. Ri1-g1 .. Qg13xf13
+24. Rg1xg9 .. Nc9-e10
+25. Rg9-g10 .. Qf7xf6
+26. Rg10xNe10 .. Qf6xQf2
+27. Bh4xBb10 .. Qf2-g1+
+28. Kj1-j2 .. Qg1xNh2
+29. Bb10xRa9 .. Ka10xBa9
+30. Ne1-d3 .. Qf13-f8
+31. Re10-e11 .. Qf8-f6+
+32. Kj2-j1 .. Qf6-h8
+33. Re11xb11 .. Ka9-a10
+34. Rb11-e11 .. Qh8xRe11
+35. R

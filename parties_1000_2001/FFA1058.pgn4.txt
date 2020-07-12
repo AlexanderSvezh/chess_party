@@ -1,0 +1,63 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1058"]
+[Result "JOJOCHABADA: 39 - mudwork: 26 - juninhovascaino: 87 - Edwalyon: 27"]
+[Variant "FFA"]
+[Red "JOJOCHABADA"]
+[RedElo "1500"]
+[Blue "mudwork"]
+[BlueElo "1681"]
+[Yellow "juninhovascaino"]
+[YellowElo "1678"]
+[Green "Edwalyon"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:33:09 GMT+0000 (UTC)"]
+[CurrentMove "147"]
+
+1. h2-h4 .. b7-d7 .. h13-h11 .. m6-l6
+2. h4-h5 .. d7-e7 .. h11-h10 .. m4-l4
+3. h5-h6 .. Na10-c9 .. h10-h9 .. m8-l8
+4. h6-h7 .. Na5-c6 .. h9-h8 .. m10-l10
+5. Ne1-f3 .. b8-d8 .. Bi14-h13+ .. Kn7-m6
+6. Nj1-k3 .. Ba9-b8 .. Bh13-g12+ .. l8-k8
+7. Nk3-j5 .. Ba6xBg12 .. f13xBg12 .. l10-k10
+8. Bi1xBb8 .. Qa7xBb8 .. e13-e12 .. Bn9xNj5
+9. Qg1-i3 .. O-O .. i13-i12 .. Bj5xh7
+10. Qi3-j3+ .. d8-e8 .. Qh14xm9 .. m5-l5
+11. Qj3-j10 .. e8-f8 .. Qm9xQn8 .. Km6-m5
+12. k2-k4 .. e7-f7 .. Qn8-i13 .. l5xk4
+13. Qj10xk10 .. f8-g8 .. Bf14-d12 .. Bh7xQk10
+14. Rk1xk4 .. Nc9-e10 .. Bd12-f10 .. Bk10-n7
+15. Rk4xk8 .. Nc6-e5 .. Bf10xb6 .. Nn10-m8
+16. Nf3-h2 .. Ra4-a6 .. Bb6xf2 .. Nm8-l10
+17. Rk8xh8 .. Ne5-g6 .. Bf2-j6 .. Rn11-n9
+18. Rh8-h5+ .. g8-h8=D .. Bj6-n10 .. Km5-m4
+19. Rh5xQh8 .. Qb8xRh8 .. Bn10xm11 .. Bn7xi12+
+20. g2-g3 .. f7-g7 .. Nj14xBi12 .. l4-k4
+21. Bf1xRn9 .. g7-h7=D .. Bm11xNl10 .. Km4-l5
+22. Bn9-h3 .. Ng6-i5 .. Rk14-h14 .. Rn4-m4
+23. j2-j4 .. Qh8-i8+ .. Bl10-j12 .. Kl5-m5
+24. j4xNi5 .. Qh7xRh14+ .. Qi13xQh14 .. Rm4-l4
+25. Rd1-f1 .. Qi8xi5+ .. Qh14-h10 .. Rl4-l5
+26. Bh3xb9+ .. Ra9xBb9 .. Qh10xNe10 .. Rl5xQi5
+27. Rf1-f4 .. R .. Qe10xb10 .. m7-k7
+28. e2-e4 .. Qb10xKa10 .. Ri5xNi12
+29. e4-e5 .. j13xRi12 .. T
+30. Rf4-f5 .. Qa10-m10
+31. Rf5xKm5 .. Qm10xRm5
+32. Kh1-g2 .. Qm5xe5
+33. Kg2-f1 .. Qe5xg3
+34. Nh2-j3 .. Qg3-f4+
+35. Kf1-e1 .. Qf4-e5+
+36. Ke1-d1 .. Qe5-h5+
+37. Kd1-e1 .. Bj12-m9
+38. Nj3-h4 .. Qh5xNh4+
+39. Ke1-d1 .. Qh4-h1+
+40. Kd1-e2 .. Qh1xi2+
+41. Ke2-f1 .. Bm9xk7
+42. Kf1-g1 .. Qi2xd2
+43. Kg1-f1 .. Qd2-e1+
+44. Kf1-g2 .. g12-g11
+45. Kg2-h2 .. Ne14-d12
+46. R

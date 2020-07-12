@@ -1,0 +1,17 @@
+[GameNr "43"]
+[Result "Aborted"]
+[Variant "Teams"]
+[Red "addekalk"]
+[RedElo "1500"]
+[Blue "GandaalfTheWhite"]
+[BlueElo "1729"]
+[Yellow "Sribasb"]
+[YellowElo "1482"]
+[Green "egeme"]
+[GreenElo "1502"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 16:38:41 GMT+0000 (UTC)"]
+[CurrentMove "4"]
+
+1. g2-g4 .. b8-c8 .. h13-h11 .. T

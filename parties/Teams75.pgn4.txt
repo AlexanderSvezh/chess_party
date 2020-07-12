@@ -1,0 +1,25 @@
+[GameNr "75"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "192829"]
+[RedElo "1793"]
+[Blue "LinuxKernell"]
+[BlueElo "2155"]
+[Yellow "GandaalfTheWhite"]
+[YellowElo "1756"]
+[Green "ThunderInc"]
+[GreenElo "1677"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 16:53:16 GMT+0000 (UTC)"]
+[CurrentMove "35"]
+
+1. g2-g3 .. b6-c6 .. g13-g12 .. m9-l9
+2. d2-d4 .. Qa7-b6 .. Qh14-g13 .. m8-l8
+3. Bf1xBn9 .. Qb6-e9 .. k13-k11 .. Qn8xBn9
+4. e2-e3 .. Qe9-e4+ .. Qg13-f12 .. Qn9-f1
+5. Ne1-f3 .. Qe4-d3 .. Qf12-f7 .. Qf1xRd1
+6. Qg1xQd1 .. Qd3xQd1+ .. Qf7-i4 .. Nn10-m8
+7. Kh1-g2 .. b5-d5 .. j13-j12 .. m11-l11
+8. Nf3-g1 .. Qd1-f1+ .. Bi14-j13 .. Nm8-k7
+9. Kg2-f3 .. Qf1xQi4 .. R

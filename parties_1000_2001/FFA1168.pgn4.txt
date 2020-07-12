@@ -1,0 +1,19 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1168"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "JoseReinoso1962"]
+[RedElo "1766"]
+[Blue "vladmirocha"]
+[BlueElo "1500"]
+[Yellow "georgeg7"]
+[YellowElo "1500"]
+[Green "SMARTandHANDSOME2018"]
+[GreenElo "1544"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:52:40 GMT+0000 (UTC)"]
+[CurrentMove "7"]
+
+1. g2-g4 .. b8-d8 .. h13-h11 .. m8-k8
+2. g4-g5 .. b7-d7 .. T

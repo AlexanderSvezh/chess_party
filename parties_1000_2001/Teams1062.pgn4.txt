@@ -1,0 +1,19 @@
+[GameNr "1062"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "RainbowStar27"]
+[RedElo "1603"]
+[Blue "GamidGod"]
+[BlueElo "1533"]
+[Yellow "Baronesss"]
+[YellowElo "1500"]
+[Green "Amogh211"]
+[GreenElo "1479"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:18:02 GMT+0000 (UTC)"]
+[CurrentMove "12"]
+
+1. h2-h4 .. b10-c10 .. e13-e12 .. m5-k5
+2. Qg1xk5 .. Ba9xBf14 .. Kg14xBf14 .. m6-l6
+3. Qk5-k4+ .. Na10-c9 .. Ne14-f12 .. #

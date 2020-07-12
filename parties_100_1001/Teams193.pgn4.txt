@@ -1,0 +1,19 @@
+[GameNr "193"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Nitojua93"]
+[RedElo "2358"]
+[Blue "JustKnocks"]
+[BlueElo "1341"]
+[Yellow "GolodniSneg"]
+[YellowElo "1530"]
+[Green "192829"]
+[GreenElo "1764"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:23:18 GMT+0000 (UTC)"]
+[CurrentMove "10"]
+
+1. h2-h3 .. b8-c8 .. g13-g11 .. m8-l8
+2. Bi1xBa9 .. Na10-b8 .. Bf14-g13 .. Bn9-m8
+3. Ba9xNb8 .. R

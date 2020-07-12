@@ -1,0 +1,17 @@
+[GameNr "554"]
+[Result "Aborted"]
+[Variant "Teams"]
+[Red "ImnotaStark"]
+[RedElo "1481"]
+[Blue "KZ2008"]
+[BlueElo "1519"]
+[Yellow "Boombeach1"]
+[YellowElo "1504"]
+[Green "Alejandroo2005"]
+[GreenElo "1437"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:04:47 GMT+0000 (UTC)"]
+[CurrentMove "1"]
+
+1. T

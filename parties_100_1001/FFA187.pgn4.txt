@@ -1,0 +1,50 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "187"]
+[Result "16millersa: 75 - jintomd: 2 - kylewarren81: 21 - David13x: 48"]
+[Variant "FFA"]
+[Red "16millersa"]
+[RedElo "1678"]
+[Blue "jintomd"]
+[BlueElo "1782"]
+[Yellow "kylewarren81"]
+[YellowElo "1579"]
+[Green "David13x"]
+[GreenElo "1737"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:30:47 GMT+0000 (UTC)"]
+[CurrentMove "104"]
+
+1. h2-h4 .. b7-d7 .. h13-h11 .. m8-k8
+2. h4-h5 .. d7-e7 .. Bi14-h13+ .. Nn10-l9
+3. h5-h6 .. e7-f7 .. Qh14-i14 .. k8-j8
+4. h6-h7 .. f7-g7 .. Bh13xBa6 .. j8-i8
+5. h7xi8=D .. g7-h7=D+ .. Ba6xb5 .. Bn9-m8
+6. Qi8xQh7 .. Qa7xQh7+ .. Bb5xe2 .. Nl9-k11+
+7. Nj1-h2 .. Qh7xh11 .. i13-i12 .. Nk11-l9
+8. Bf1xBe2 .. Qh11-d7 .. Qi14-a6+ .. m5-l5
+9. Be2-f3+# .. Qa6-e10 .. Rn11-n10
+10. g2-g4 .. g13-g12 .. Nn5-l6
+11. k2-k3 .. Nj14-k12 .. m11-l11
+12. g4-g5 .. Nk12-i11 .. Bn6-m5
+13. g5-g6 .. Ni11-j9 .. O-O
+14. g6-g7 .. O-O-O .. m10-k10
+15. g7-g8=D .. Nj9-i7 .. Qn8-n9
+16. Qg8xQe10 .. Bf14xm7 .. Nl9xBm7
+17. Qe10xe13 .. Rh14xNh2+ .. m9-k9
+18. Bi1xRh2 .. Ne14-f12 .. Nm7-k8
+19. Qe13xNf12 .. Ni7xNk8 .. Nl6xNk8
+20. Bf3xNk8 .. Rd14-h14 .. Bm5xQf12
+21. O-O .. Rh14xBh2 .. Bf12-l6
+22. Qg1-g6 .. Rh2xi2 .. Qn9-n8
+23. Ri1xRi2 .. k13-k12 .. l11xk12
+24. Ne1-g2 .. j13xk12 .. k10-j10
+25. f2-f4 .. k12-k11 .. j10-i10
+26. f4-f5 .. k11-k10 .. Bm8xk10
+27. Qg6-i6 .. f13-f11 .. Bk10xf5
+28. Rd1-i1 .. f11-f10 .. i10-h10
+29. Kj1-k1 .. g12-g11 .. h10xg11=D
+30. Ri2-h2 .. f10-f9 .. Bl6xRh2
+31. Bk8xm6+ .. f9-f8 .. Rn6xBm6
+32. Qi6xi12+# .. Bh2xRi1
+33. R

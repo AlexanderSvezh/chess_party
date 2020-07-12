@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1369"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "YisusVazquez"]
+[RedElo "1513"]
+[Blue "sshinko"]
+[BlueElo "1471"]
+[Yellow "evillagrg"]
+[YellowElo "1484"]
+[Green "audreymanley123"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:59:00 GMT+0000 (UTC)"]
+[CurrentMove "3"]
+
+1. g2-g4 .. b8-d8 .. T

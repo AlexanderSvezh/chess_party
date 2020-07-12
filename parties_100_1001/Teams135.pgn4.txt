@@ -1,0 +1,24 @@
+[GameNr "135"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "WIN_TOP_GOD"]
+[RedElo "1526"]
+[Blue "rithvik2018"]
+[BlueElo "1444"]
+[Yellow "vlo1111"]
+[YellowElo "1539"]
+[Green "sanvik2018"]
+[GreenElo "1491"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:12:22 GMT+0000 (UTC)"]
+[CurrentMove "30"]
+
+1. h2-h3 .. b8-d8 .. h13-h12 .. m7-k7
+2. Bi1xBa9 .. Ka8xBa9 .. g13-g12 .. m8-l8
+3. Qg1-i3 .. Na10-c9 .. Nj14-i12 .. Bn6-m7
+4. Qi3-g5 .. Qa7-b8 .. e13-e12 .. Nn5-l6
+5. g2-g3 .. b7-c7 .. Qh14-d10 .. O-O
+6. e2-e3 .. Qb8-b7+ .. Qd10xb10+ .. Bn9-l7
+7. Bf1-g2 .. Ka9-a8 .. Qb10-a9+ .. Qn8-n9
+8. Qg5xd8+ .. #

@@ -1,0 +1,19 @@
+[GameNr "350"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "gokul009"]
+[RedElo "1942"]
+[Blue "nahuelsandoval"]
+[BlueElo "1673"]
+[Yellow "e4bc4qh5qf7"]
+[YellowElo "2686"]
+[Green "Hamsel2017"]
+[GreenElo "1627"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:07:00 GMT+0000 (UTC)"]
+[CurrentMove "10"]
+
+1. h2-h3 .. b6-c6 .. h13-h12 .. m9-l9
+2. Qg1-h2 .. Qa7-d4 .. Bi14xb7+ .. Qn8-l10
+3. Qh2xb8+ .. #

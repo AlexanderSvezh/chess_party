@@ -1,0 +1,17 @@
+[GameNr "393"]
+[Result "Aborted"]
+[Variant "Teams"]
+[Red "oscarbacca"]
+[RedElo "1717"]
+[Blue "dust47"]
+[BlueElo "2216"]
+[Yellow "Great-Gazoo"]
+[YellowElo "1404"]
+[Green "Arielgue21"]
+[GreenElo "1952"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:18:37 GMT+0000 (UTC)"]
+[CurrentMove "4"]
+
+1. h2-h3 .. Na10-c9 .. h13-h12 .. T

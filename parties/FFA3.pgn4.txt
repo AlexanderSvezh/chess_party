@@ -1,0 +1,53 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "3"]
+[Result "aleph-euler: 61 - KINGPavelDatsyuk: 15 - manueldorado: 12 - ShahUnchained: 26"]
+[Variant "FFA"]
+[Red "aleph-euler"]
+[RedElo "1571"]
+[Blue "KINGPavelDatsyuk"]
+[BlueElo "1593"]
+[Yellow "manueldorado"]
+[YellowElo "1507"]
+[Green "ShahUnchained"]
+[GreenElo "1745"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 16:37:01 GMT+0000 (UTC)"]
+[CurrentMove "117"]
+
+1. g2-g4 .. b7-d7 .. h13-h11 .. m5-l5
+2. g4-g5 .. d7-e7 .. g13-g12 .. Bn6-m5
+3. g5-g6 .. b10-c10 .. Ne14-f12 .. m10-l10
+4. g6-g7 .. e7-f7 .. Nj14-i12 .. Bn9-m10
+5. f2-f3 .. b5-c5 .. e13-e12 .. Nn5-l6
+6. d2-d3 .. Ba9xBf14 .. Rd14xBf14 .. Nn10-l9
+7. Nj1-i3 .. Ba6-b5 .. Qh14-h12 .. O-O
+8. Bf1-i4 .. Na10-c9 .. Bi14-h13 .. m7-l7
+9. h2-h4 .. b4-d4 .. O-O-O .. Nl6-k8
+10. k2-k3 .. Na5-c6 .. Nf12-g10 .. Rn6-n7
+11. Bi1-h2 .. b11-d11 .. e12-e11 .. Qn8-n9
+12. O-O .. Nc9-e10 .. Ki14-j14 .. Bm10xj13
+13. Ni3-j5 .. b8-d8 .. Ni12-g13 .. Bj13-m10
+14. Nj5-h6 .. d8-e8 .. f13-f11 .. m8-l8
+15. h4-h5 .. Ne10-g9 .. Qh12-e9 .. Nk8-l6
+16. Nh6-j5 .. Qa7-e7 .. f11-f10 .. Nl6xNj5
+17. Bi4xNj5 .. Ng9-e10 .. f10-f9 .. m4-k4
+18. Bj5-f1 .. e8xf9 .. Qe9xf9 .. Rn7-n6
+19. Bh2-i3 .. Qe7-c7 .. Ng10-e9 .. Nl9-k11
+20. Bi3xRa11 .. Nc6-a7 .. Ne9xf7 .. Bm10xh5
+21. g7-g8=D+ .. Na7-c8 .. Qf9xBb5 .. Qn9-j13+#
+22. Ba11-i3 .. Ka8-a9 .. Bm5xk3
+23. Qg1-g5 .. Ka9-a10 .. Bh5-m10
+24. Bf1-h3 .. Qc7-e7 .. Bk3-m5
+25. Qg5xQe7 .. Nc8xQe7 .. T
+26. Bi3xNe7 .. Ra4-a7
+27. Be7-i3 .. Ra7-c7
+28. Qg8xl8 .. Rc7-c6
+29. Ql8xRn6 .. c10-d10
+30. Qn6xKn5 .. d10xe11
+31. Bh3-d7 .. Rc6-c7
+32. Bd7-h3 .. e11-f11
+33. Qn5-n8 .. f11xg12
+34. Qn8-a8+ .. Ka10-b11
+35. Qa8xb9+ .. Kb11-c11
+36. Qb9-b10+#

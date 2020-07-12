@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "201"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "devil_chekmet"]
+[RedElo "1460"]
+[Blue "01220798469"]
+[BlueElo "1500"]
+[Yellow "XxMynorxX"]
+[YellowElo "1477"]
+[Green "nicolaepetrea"]
+[GreenElo "1710"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:24:10 GMT+0000 (UTC)"]
+[CurrentMove "3"]
+
+1. h2-h3 .. b8-d8 .. R

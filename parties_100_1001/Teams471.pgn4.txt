@@ -1,0 +1,22 @@
+[GameNr "471"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "PpupsS"]
+[RedElo "1546"]
+[Blue "oscarbacca"]
+[BlueElo "1717"]
+[Yellow "leonpetri"]
+[YellowElo "1500"]
+[Green "soysaverio"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:45:01 GMT+0000 (UTC)"]
+[CurrentMove "24"]
+
+1. g2-g3 .. b8-c8 .. g13-g11 .. m7-k7
+2. i2-i3 .. Qa7xQh14+ .. Kg14xQh14 .. Bn6xBf14
+3. Ne1-f3 .. Ba9-b8+ .. Kh14-g14 .. Bf14xe13
+4. j2-j3 .. Bb8-c9 .. h13-h12 .. Be13xRd14
+5. Bi1xm5 .. b11-d11 .. Ne14-d12 .. Nn10-l9
+6. Bm5xRn4 .. d11-e11 .. Nd12-f11 .. T

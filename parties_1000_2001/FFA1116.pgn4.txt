@@ -1,0 +1,40 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1116"]
+[Result "xarisole1994: 50 - newtochess55: 12 - facupardo: 14 - diabra: 44"]
+[Variant "FFA"]
+[Red "xarisole1994"]
+[RedElo "1776"]
+[Blue "newtochess55"]
+[BlueElo "1808"]
+[Yellow "facupardo"]
+[YellowElo "1510"]
+[Green "diabra"]
+[GreenElo "1588"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:45:45 GMT+0000 (UTC)"]
+[CurrentMove "86"]
+
+1. h2-h4 .. b7-d7 .. h13-h11 .. m10-l10
+2. h4-h5 .. d7-e7 .. h11-h10 .. Nn10-l9
+3. h5-h6 .. Na10-c9 .. h10-h9 .. Bn9-m10
+4. h6-h7 .. b10-c10 .. j13-j11 .. m11-l11
+5. h7-h8=D .. Ba9-b10 .. Bi14-j13 .. m8-l8
+6. Ne1-f3 .. b5-c5 .. Nj14-i12 .. Qn8-m8
+7. Nj1-i3 .. Ba6-b5 .. Ni12-h10 .. O-O-O
+8. Qh8xh9 .. Bb5xBj13 .. Rk14-j14 .. m7-k7
+9. Bi1-h2 .. Bj13-b5 .. Ne14-f12 .. m4-k4
+10. d2-d4 .. b6-d6 .. Qh14-h12 .. Kn9-n10
+11. d4xc5 .. b4xc5 .. e13-e11 .. m6-k6
+12. Qh9-d5+ .. Ka8-a9 .. Bf14xBb10+ .. k7-j7
+13. Qd5xc5 .. Ka9xBb10 .. Nf12-e10 .. j7-i7
+14. Qc5xQa7 .. Ra11xQa7 .. Ne10xNc9 .. i7-h7
+15. Nf3-d4 .. Bb5-c4 .. Nc9-e8 .. k6-j6
+16. f2-f4 .. d6-e6 .. Qh12-d12+ .. j6-i6
+17. Nd4xe6 .. b11-c11 .. Qd12xRd1 .. i6-h6
+18. Ne6-c5 .. Ra4-b4 .. Qd1-d8+ .. h6-g6=D
+19. Nc5-d3 .. Kb10-a9 .. Ne8-c7 .. l8-k8
+20. Qg1xRa7+# .. Nh10-i12 .. Qg6xg13+
+21. Qa7xNc7 .. Ni12xQg13 .. h7-g7=D
+22. Qc7xQd8 .. Rd14-e14 .. Qg7xNg13+#
+23. R

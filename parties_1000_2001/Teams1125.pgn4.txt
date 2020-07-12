@@ -1,0 +1,24 @@
+[GameNr "1125"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "GDII"]
+[RedElo "2349"]
+[Blue "salata"]
+[BlueElo "2601"]
+[Yellow "kopashtar"]
+[YellowElo "1998"]
+[Green "RuijieXiao"]
+[GreenElo "1866"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:40:16 GMT+0000 (UTC)"]
+[CurrentMove "29"]
+
+1. h2-h3 .. b6-d6 .. g13-g12 .. m9-k9
+2. e2-e3 .. Qa7-c5 .. k13-k11 .. Nn5-l6
+3. Qg1-j4 .. Na10-c9 .. Qh14-e11 .. Nn10-l9
+4. Bi1-h2 .. Qc5-f5 .. Ne14-f12 .. m8-l8
+5. Ne1-f3 .. Qf5-i8 .. Nj14-i12 .. m5-k5
+6. Qj4-g4 .. Qi8xi2+ .. k11-k10 .. Bn9xh3
+7. Kh1-g1 .. Qi2-h1+ .. k10xNl9 .. Bh3xg2
+8. #

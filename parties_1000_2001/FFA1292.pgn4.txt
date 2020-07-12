@@ -1,0 +1,53 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1292"]
+[Result "TheMountainz: 34 - intlextreme: 73 - Keller1811: 50 - plumatica: 24"]
+[Variant "FFA"]
+[Red "TheMountainz"]
+[RedElo "1569"]
+[Blue "intlextreme"]
+[BlueElo "1626"]
+[Yellow "Keller1811"]
+[YellowElo "1531"]
+[Green "plumatica"]
+[GreenElo "1672"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:49:05 GMT+0000 (UTC)"]
+[CurrentMove "124"]
+
+1. g2-g4 .. b6-d6 .. g13-g11 .. m8-k8
+2. g4-g5 .. Qa7-b6 .. h13-h12 .. Bn9-l7
+3. g5-g6 .. d6-e6 .. Ne14-f12 .. m9-l9
+4. g6-g7 .. e6-f6 .. e13-e12 .. Qn8-m8
+5. g7-g8=D .. b11-c11 .. Bf14-e13 .. Bl7xBf1
+6. e2-e3 .. b4-c4 .. O-O .. Bf1-e2
+7. Qg8-h7 .. b8-c8 .. Bi14-e10 .. Be2xRd1
+8. Qh7xm7+ .. f6-g6 .. i13-i11 .. Nn5xQm7
+9. h2-h3 .. Ba9xBi1 .. Qh14-k11 .. Bd1-j7
+10. k2-k4 .. Bi1xj2 .. Qk11-g7 .. Nm7-k6
+11. Rk1-k2 .. Bj2-c9 .. Nj14-i12 .. Bn6-m7
+12. k4-k5 .. g6-h6=D .. Qg7-f8 .. m5-l5
+13. Nj1-i3 .. Qh6xh12 .. Rk14-h14 .. m4-k4
+14. Ni3xk4 .. Qh12-i13 .. Rh14-h13 .. l5xNk4
+15. Qg1-g3 .. Qi13xRh13 .. Nf12xQh13 .. Bm7xk5
+16. Ne1-g2 .. Bc9-b8 .. Qf8-h10 .. m6-l6
+17. Qg3xNn10+ .. Qb6xNk6 .. Qh10xm10 .. Rn11xQn10
+18. Rk2xk4 .. Qk6-f6 .. Qm10xRn10+ .. Qm8-n8
+19. Rk4xRn4+ .. Qf6xf2 .. Qn10xQf2 .. Kn7-m8
+20. Rn4xQn8+ .. Na10-c9 .. Qf2-l8+#
+21. Rn8-n4 .. Nc9xBe10 .. Ql8-e1+
+22. Ng2xQe1 .. Ne10-d12+ .. Be13xNd12
+23. Rn4-h4 .. c11xBd12 .. Nh13-j12
+24. Ne1-f3 .. b7-d7 .. g11-g10
+25. Rh4-h12 .. Ra11xi11 .. g10-g9
+26. Nf3-g5 .. Ba6-b7+ .. Rf14-h14
+27. Kh1-g1 .. Ri11xi2 .. Rh14xRh12
+28. Ng5-f7 .. Ri2xd2 .. g9-g8
+29. Nf7-d8 .. Bb8-d10 .. Rh12xh3
+30. Nd8xBb7 .. Na5xNb7 .. Rh3-g3+
+31. Kg1-h1 .. Ra4-a6 .. g8-g7=D
+32. e3-e4 .. Bd10xQg7 .. Rg3xBg7
+33. e4-e5 .. Ra6-e6 .. Rg7-h7+
+34. Kh1-i1 .. Rd2-g2 .. Rh7-h4
+35. Ki1-j1 .. Rg2-g14+#
+36. R

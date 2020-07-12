@@ -1,0 +1,37 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "303"]
+[Result "floranrey: 48 - Klfrn: 29 - Alu94: 0 - Audiuspetriks: 16"]
+[Variant "FFA"]
+[Red "floranrey"]
+[RedElo "1821"]
+[Blue "Klfrn"]
+[BlueElo "1831"]
+[Yellow "Alu94"]
+[YellowElo "1740"]
+[Green "Audiuspetriks"]
+[GreenElo "1583"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:59:27 GMT+0000 (UTC)"]
+[CurrentMove "67"]
+
+1. g2-g4 .. Na10-c9 .. h13-h11 .. m8-l8
+2. g4-g5 .. b10-c10 .. i13-i12 .. Bn9xBf1
+3. Qg1xBf1 .. Ba9-b10 .. h11-h10 .. Nn5-l6
+4. g5-g6 .. O-O .. h10-h9 .. m7-k7
+5. g6-g7 .. b5-c5 .. h9-h8 .. Bn6-m7
+6. g7-g8=D .. Ba6-b5 .. h8-h7=D .. O-O
+7. Qg8-g2 .. b7-d7 .. d13-d12 .. Nn10-l9
+8. f2-f3 .. b6-d6 .. Qh7-h11 .. Nl9-j10
+9. Nj1-i3 .. Na5-c6 .. Qh11-i10 .. m9-k9
+10. d2-d3 .. b8-d8 .. Ne14-f12 .. Qn8xQh14+
+11. Qg2xg13+# .. d8-e8 .. l8-k8
+12. Qg13-g5 .. d7-e7 .. k9-j9
+13. j2-j3 .. e8-f8 .. m5-l5
+14. k2-k4 .. Ra9-a8 .. Rn6-n9
+15. k4xl5 .. f8-g8 .. m6xl5
+16. Ni3-g4 .. g8-h8=D .. Qh14xQh8
+17. Rk1xk7 .. Ra8xQh8 .. Bm7-l8
+18. Qf1-l7+ .. Nc9-d7 .. R
+19. Ql7xKn5 .. Nd7-e5
+20. R

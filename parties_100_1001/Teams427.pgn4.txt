@@ -1,0 +1,21 @@
+[GameNr "427"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "ermis8992"]
+[RedElo "2018"]
+[Blue "Great-Gazoo"]
+[BlueElo "1396"]
+[Yellow "Arielgue21"]
+[YellowElo "1949"]
+[Green "glutenfree55"]
+[GreenElo "1842"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:29:28 GMT+0000 (UTC)"]
+[CurrentMove "18"]
+
+1. h2-h3 .. b6-d6 .. i13-i11 .. m11-k11
+2. d2-d4 .. b8-c8 .. Qh14-i13 .. Nn5-l6
+3. Qg1-j4 .. Qa7-e11 .. Qi13-b6 .. m8-l8
+4. Qj4-e9 .. Qe11xQe9 .. Qb6xBa6+ .. Qn8-m8
+5. Bi1xd6 .. #

@@ -1,0 +1,28 @@
+[GameNr "1102"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "RuijieXiao"]
+[RedElo "1836"]
+[Blue "salata"]
+[BlueElo "2642"]
+[Yellow "ermis8992"]
+[YellowElo "2054"]
+[Green "chustgame"]
+[GreenElo "1676"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:36:45 GMT+0000 (UTC)"]
+[CurrentMove "46"]
+
+1. h2-h3 .. b6-d6 .. g13-g12 .. m9-l9
+2. Bi1-g3 .. Qa7-c5 .. j13-j12 .. Qn8-l10
+3. Qg1-j4 .. Na10-c9 .. Nj14-i12 .. Ql10-g10
+4. d2-d4 .. Qc5-f5 .. Qh14-f12 .. m11-l11
+5. Ne1-f3 .. Qf5-i8 .. d13-d11 .. m8-l8
+6. Nj1-i3 .. b5-d5 .. Ne14-g13 .. Qg10-h9
+7. Bg3-h2 .. Ba6-b5 .. h13-h11 .. Nn5-l6
+8. k2-k4 .. Na5-c4 .. Bi14-h13 .. Bn9-m8
+9. Qj4-g4 .. b8-c8 .. Rk14-h14 .. Qh9-k9
+10. e2-e3 .. Bb5-d7 .. Ng13-e12 .. m5-k5
+11. Qg4-h5 .. Nc9xd11 .. Rd14xNd11 .. Bn6xj2
+12. Rk1-j1 .. R

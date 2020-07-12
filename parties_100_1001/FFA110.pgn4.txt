@@ -1,0 +1,37 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "110"]
+[Result "ByHenry8: 1 - dankillerchessen: 10 - gatomon7w7: 25 - NotteSerena: 40"]
+[Variant "FFA"]
+[Red "ByHenry8"]
+[RedElo "1536"]
+[Blue "dankillerchessen"]
+[BlueElo "1522"]
+[Yellow "gatomon7w7"]
+[YellowElo "1457"]
+[Green "NotteSerena"]
+[GreenElo "1595"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:07:46 GMT+0000 (UTC)"]
+[CurrentMove "67"]
+
+1. h2-h4 .. b7-d7 .. h13-h11 .. m7-k7
+2. Nj1-i3 .. Na5-c6 .. f13-f12 .. k7-j7
+3. j2-j3 .. Ba6-b7 .. Ne14-d12 .. m4-l4
+4. Bi1-j2 .. Na10-c9 .. e13-e12 .. m6-k6
+5. O-O .. b8-c8 .. Bf14-e13 .. Nn5-l6
+6. Ri1-h1 .. b10-c10 .. O-O .. Bn6-m7
+7. h4-h5 .. Ba9-b10 .. Nj14-i12 .. O-O
+8. e2-e3 .. O-O .. h11-h10 .. Nl6-j5
+9. Bf1xb5 .. Ra4-a5 .. Nd12-f11 .. j7-i7
+10. T .. Ra5xBb5 .. Qh14-h11+ .. m8-k8
+11. c8-d8 .. Qh11-f9 .. Bn9-l7
+12. Bb10xBe13 .. Qf9-f3 .. k8-j8+
+13. Be13xRf14 .. Ke14xBf14 .. i7-h7
+14. Nc6-e7 .. Qf3-g3 .. Bm7-l8
+15. d8-e8 .. Qg3-i1 .. h7-g7=D
+16. Ne7-c8 .. Qi1xKj1 .. Qg7-h7
+17. d7-e7 .. Nf11-g9 .. Qh7-j9
+18. Ra9-a8 .. Qj1-i1 .. Qj9-f13+#
+19. Bb7-c6 .. j8-i8
+20. T

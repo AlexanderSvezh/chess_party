@@ -1,0 +1,23 @@
+[GameNr "204"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "192829"]
+[RedElo "1761"]
+[Blue "tyuiopweij"]
+[BlueElo "1485"]
+[Yellow "yjim20"]
+[YellowElo "1501"]
+[Green "GolodniSneg"]
+[GreenElo "1533"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:28:40 GMT+0000 (UTC)"]
+[CurrentMove "27"]
+
+1. g2-g3 .. b8-d8 .. j13-j12 .. m7-l7
+2. Bf1-g2 .. Na5-c6 .. Bi14-j13 .. Bn6-m7
+3. d2-d3 .. Na10-c9 .. g13-g12 .. m10-l10
+4. Bg2-f3 .. b4-c4 .. h13-h12 .. Nn10-l9
+5. d3-d4 .. Ba9-c7 .. Bf14-g13 .. Bn9xBj13
+6. d4-d5 .. c4xd5 .. Nj14-h13 .. Bj13xRk14
+7. Rd1xd5 .. Nc6-d4 .. T

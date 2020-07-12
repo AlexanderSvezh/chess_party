@@ -1,0 +1,22 @@
+[GameNr "526"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "GaffelSchack"]
+[RedElo "1661"]
+[Blue "Sourenb11"]
+[BlueElo "1627"]
+[Yellow "Tid123"]
+[YellowElo "1651"]
+[Green "ImnotaStark"]
+[GreenElo "1460"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:00:39 GMT+0000 (UTC)"]
+[CurrentMove "21"]
+
+1. g2-g3 .. b8-c8 .. k13-k11 .. m7-l7
+2. j2-j3 .. Qa7-c9 .. k11-k10 .. Bn6-l8
+3. Bi1xm5 .. Qc9xRk1 .. i13-i12 .. Nn5-l4
+4. Bm5xNl4 .. Qk1xNj1+ .. k10-k9 .. Bl8xg3
+5. Bl4-i1 .. Qj1xBi1+ .. k9-k8 .. Qn8xh2+
+6. #

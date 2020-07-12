@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "328"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "SacOnTopFFAPlayers"]
+[RedElo "1552"]
+[Blue "Pundita"]
+[BlueElo "1743"]
+[Yellow "Jefinhooo"]
+[YellowElo "1667"]
+[Green "Galaxyery12"]
+[GreenElo "1646"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:00:18 GMT+0000 (UTC)"]
+[CurrentMove "1"]
+
+1. R

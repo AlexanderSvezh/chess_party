@@ -1,0 +1,20 @@
+[GameNr "591"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Vigc"]
+[RedElo "1500"]
+[Blue "Don_Hector_Salamanca"]
+[BlueElo "1522"]
+[Yellow "ThunderInc"]
+[YellowElo "1656"]
+[Green "Snapture"]
+[GreenElo "1530"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:15:07 GMT+0000 (UTC)"]
+[CurrentMove "13"]
+
+1. h2-h4 .. b7-d7 .. g13-g12 .. m9-l9
+2. Bi1-f4 .. d7-e7 .. k13-k11 .. m8-l8
+3. Qg1-i3 .. b10-c10 .. Qh14-f12 .. Nn5-l6
+4. T

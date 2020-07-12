@@ -1,0 +1,67 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "476"]
+[Result "VucicevicNikola: 96 - sebaqer: 28 - M_Sabri_18: 30 - MasacreKiz: 13"]
+[Variant "FFA"]
+[Red "VucicevicNikola"]
+[RedElo "1556"]
+[Blue "sebaqer"]
+[BlueElo "1694"]
+[Yellow "M_Sabri_18"]
+[YellowElo "1477"]
+[Green "MasacreKiz"]
+[GreenElo "1695"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:59:39 GMT+0000 (UTC)"]
+[CurrentMove "141"]
+
+1. g2-g4 .. b10-c10 .. h13-h11 .. m8-k8
+2. g4-g5 .. Na10-c9 .. d13-d12 .. k8-j8
+3. g5-g6 .. Ba9-b10 .. Ne14-f12 .. j8-i8
+4. g6-g7 .. O-O .. Nj14-i12 .. i8-h8
+5. g7-g8=D .. Ra9-a8 .. k13-k12 .. m5-l5
+6. h2-h4 .. b7-d7 .. Bi14xBa6 .. Bn6-m5
+7. h4-h5 .. Qa7xBa6 .. g13-g11 .. Nn5-l6
+8. h5-h6 .. b8-d8 .. g11-g10 .. Nl6-j7
+9. h6-h7 .. Qa6-b7+ .. Nf12-e10 .. Bm5xj2
+10. Bf1-g2 .. Qb7-a7 .. Ne10-c11+ .. Bj2xRk1
+11. Bg2-f3 .. Ka10-a11 .. Nc11xb9+ .. Bk1-h4
+12. Bf3xNj7 .. Ka11-a10 .. Nb9xQa7 .. Qn8-j8
+13. Bj7-i8 .. Ra8xNa7 .. Qh14-h13 .. Qj8xNj1
+14. Qg8xh8 .. Ra7-a8 .. Bf14xm7 .. Qj1xk2
+15. Qh8-i7 .. Na5-c6 .. Ni12-k11+ .. m9-l9
+16. h7-h8=D .. Nc9-d11 .. Bm7-l6+ .. Kn7-m8
+17. Bi8-g6+ .. Nd11xe13+ .. Bl6xNe13 .. Km8-m9
+18. Bg6xQk2 .. d8-e8 .. Nk11xl9 .. Nn10xNl9
+19. Qh8xBh4+ .. Bb10xQh4+ .. Be13xRn4 .. Km9-m8
+20. Qg1-m7+# .. b11-d11 .. Bn4-g11
+21. Qm7-h2 .. Bh4-d8 .. Bg11xBd8
+22. i2-i4 .. Nc6xBd8 .. R
+23. Qi7xd7+ .. Ka10-a11
+24. Qd7xe8 .. Nd8-e10
+25. Qe8xg10 .. Ne10-f12
+26. Qg10xKg14 .. Nf12xQg14
+27. Bi1-j2+ .. Ka11-b11
+28. i4-i5 .. Ng14-f12
+29. i5-i6 .. Nf12-e10
+30. Qh2-i2 .. b4-d4
+31. i6-i7 .. Ra8-e8
+32. i7-i8=D .. Re8xe2
+33. Qi8-b8+ .. Kb11-c11
+34. Bj2-k3+ .. c10-d10
+35. Qb8xd10+ .. Kc11xd12
+36. Bk3-l4+ .. Ne10-g9
+37. Bl4xNg9+ .. Kd12-d13
+38. Qd10xd11+ .. Kd13-e14
+39. Ne1-f3 .. Re2-e9
+40. Rd1-e1 .. Ra4-a9
+41. Re1xRe9+ .. Ra9xRe9
+42. Qi2xi13 .. Re9xBg9
+43. Qi13-h14+ .. Rg9-g14
+44. Qh14-e11+ .. Ke14-f14
+45. Qe11-d12+ .. Kf14-g13
+46. Qd11-g11+ .. Kg13xQh13
+47. Qg11xRg14+ .. Kh13xQg14
+48. Qd12xd4 .. b5-c5
+49. Qd4-d8 .. b6-d6
+50. Qd8-b6 .. R

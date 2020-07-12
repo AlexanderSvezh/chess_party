@@ -1,0 +1,20 @@
+[GameNr "442"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "ermis8992"]
+[RedElo "2023"]
+[Blue "Willbill88"]
+[BlueElo "1517"]
+[Yellow "ImnotaStark"]
+[YellowElo "1481"]
+[Green "Requin0x"]
+[GreenElo "1508"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:31:56 GMT+0000 (UTC)"]
+[CurrentMove "16"]
+
+1. h2-h3 .. b7-c7 .. i13-i11 .. m8-k8
+2. Qg1-j4 .. b10-d10 .. g13-g12 .. m5-l5
+3. Qj4-j11+ .. b5-c5 .. Qh14xm9 .. Bn9-m8
+4. Qj11xBm8+ .. Ba6xg12 .. Qm9xQn8+ .. #

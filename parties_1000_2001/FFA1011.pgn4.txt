@@ -1,0 +1,55 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1011"]
+[Result "NellG: 0 - DarkSquareAlice: 29 - Armanuly: 5 - zoltanilles: 46"]
+[Variant "FFA"]
+[Red "NellG"]
+[RedElo "1469"]
+[Blue "DarkSquareAlice"]
+[BlueElo "1668"]
+[Yellow "Armanuly"]
+[YellowElo "1579"]
+[Green "zoltanilles"]
+[GreenElo "1710"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:15:27 GMT+0000 (UTC)"]
+[CurrentMove "108"]
+
+1. j2-j3 .. b5-c5 .. j13-j12 .. m11-l11
+2. Bi1-j2 .. Ba6-b5 .. Nj14-i12 .. m8-k8
+3. k2-k3 .. Na5-c4 .. Bi14-j13 .. k8-j8
+4. e2-e3 .. b10-c10 .. h13-h11 .. j8-i8
+5. d2-d3 .. Nc4-d6 .. h11-h10 .. i8-h8
+6. Bf1-e2 .. Na10-c9 .. h10-h9 .. Nn10-l9
+7. Ne1-f3 .. Ba9-b10 .. Ne14-f12 .. Bn9-k6
+8. Qg1-f1 .. c5-d5 .. g13-g11 .. Bk6xh9
+9. h2-h3 .. b6-c6 .. Qh14xBh9 .. h8-g8=D
+10. Nj1-h2 .. b7-d7 .. Qh9-h13 .. m7-l7
+11. g2-g4 .. Nd6-b7 .. O-O-O .. Nn5-l6
+12. O-O .. O-O .. Bf14-g13 .. m5-l5
+13. i2-i4 .. b8-d8 .. d13-d12 .. Bn6-m5
+14. j3-j4 .. Qa7-b6 .. Qh13-f11 .. Nl9-m7
+15. j4-j5 .. Qb6-c7 .. Nf12-g10 .. O-O
+16. R .. Qc7xNh2 .. T .. Qg8-k12
+17. Qh2xBj2 .. Qk12xBj13
+18. Qj2xKj1 .. Qj13xKi14
+19. Qj1xh3 .. m10-k10
+20. b4-d4 .. k10-j10
+21. d5-e5 .. j10-i10
+22. e5-f5 .. Rn11-n10
+23. f5xg4 .. i10-h10
+24. Qh3xi4 .. h10xg11=D
+25. g4-h4=D .. l11-k11
+26. d4-e4 .. k11-j11
+27. e4-f4 .. j11-i11
+28. Qi4-h3 .. Qi14-g12
+29. f4-g4 .. i11-h11
+30. Qh4-i3 .. h11xNg10=D
+31. g4-h4=D .. Qg10xQf11
+32. Qi3xNl6 .. m4-k4
+33. Ql6xBm5+ .. Kn5xQm5
+34. Qh3xk3+ .. Km5-n5
+35. Qh4-j2 .. Nm7-k6
+36. Nb7-d6 .. Rn10-n11
+37. Bb5-a6 .. Qf11xb11+
+38. Nc9xQb11 .. Qg11xNb11+#

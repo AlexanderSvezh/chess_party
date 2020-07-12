@@ -1,0 +1,48 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "382"]
+[Result "raziayoub: 61 - carlosvar98: 36 - grabovskii: 38 - AWarriorOfGOD: 1"]
+[Variant "FFA"]
+[Red "raziayoub"]
+[RedElo "1719"]
+[Blue "carlosvar98"]
+[BlueElo "1500"]
+[Yellow "grabovskii"]
+[YellowElo "1783"]
+[Green "AWarriorOfGOD"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:26:09 GMT+0000 (UTC)"]
+[CurrentMove "89"]
+
+1. j2-j3 .. b7-d7 .. e13-e12 .. m8-k8
+2. Bi1-j2 .. d7-e7 .. Bf14-e13 .. m7-k7
+3. g2-g4 .. e7-f7 .. Ne14-f12 .. Qn8-l8
+4. Bf1xBn9 .. f7-g7 .. Nj14-i12 .. Nn10-l11
+5. Bn9-g2+ .. Ba6-b7 .. O-O .. Ql8-l6
+6. Bj2-i3 .. g7-h7=D .. Rf14-g14 .. Ql6-l5
+7. g4-g5 .. Qh7-k10+ .. g13-g11 .. m9-l9
+8. Nj1-k3 .. Qk10xm10 .. g11-g10 .. Nl11xk13
+9. Nk3xQl5 .. Qm10xRn11+# .. g10-g9
+10. Bg2xBb7+ .. Qa7xBb7+ .. h13-h11
+11. Ne1-f3 .. b10-c10 .. Bi14xQb7+
+12. g5-g6 .. Na5xBb7 .. d13-d12
+13. Bi3xRa11 .. Ra4-a5 .. g9-g8
+14. g6-g7 .. Qn11xl9 .. h11-h10
+15. Nl5-j4 .. Ql9xKn7 .. h10-h9
+16. Nj4-i6 .. Qn7-k10 .. Ni12-g11
+17. O-O .. Qk10xk8 .. i13-i11
+18. Ni6-h8 .. Qk8xk7 .. Ng11-e10
+19. Ba11-f6 .. T .. Nf12-d11
+20. Qg1-g3 .. Nd11-c9
+21. i2-i4 .. Nc9xKa8
+22. i4-i5 .. j13-j11
+23. i5-i6 .. i11-i10
+24. i6-i7 .. i10-i9
+25. i7-i8=D .. h9xQi8
+26. Ri1xi8 .. i9xNh8
+27. g7xh8=D .. Qh14-j12
+28. Qh8-k11 .. Qj12-d6
+29. Qg3xQd6 .. g8-g7=D
+30. Bf6xQg7 .. Rg14xBg7
+31. Qk11xRg7 .. R

@@ -1,0 +1,22 @@
+[GameNr "1476"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "king2315"]
+[RedElo "1517"]
+[Blue "User10254"]
+[BlueElo "1517"]
+[Yellow "owljay"]
+[YellowElo "1895"]
+[Green "Darkl1853"]
+[GreenElo "1477"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:36:00 GMT+0000 (UTC)"]
+[CurrentMove "22"]
+
+1. g2-g4 .. b8-d8 .. h13-h12 .. m7-l7
+2. g4-g5 .. b7-d7 .. Bi14xBa6 .. Bn6-m7
+3. Bf1-g2+ .. Na5-c6 .. Ba6xb5 .. m8-k8
+4. Bg2xNc6+ .. Qa7-b7 .. Bb5xRa4 .. Bn9-m8+
+5. Qg1-g2 .. b10-c10 .. Nj14-i12 .. Bm8xNi12+
+6. Bc6xQb7+ .. T

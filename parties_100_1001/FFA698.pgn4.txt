@@ -1,0 +1,70 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "698"]
+[Result "Jolange287: 11 - muhammed112112: 41 - rovere: 60 - lexa_elka: 0"]
+[Variant "FFA"]
+[Red "Jolange287"]
+[RedElo "1743"]
+[Blue "muhammed112112"]
+[BlueElo "1775"]
+[Yellow "rovere"]
+[YellowElo "1802"]
+[Green "lexa_elka"]
+[GreenElo "1726"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:00:50 GMT+0000 (UTC)"]
+[CurrentMove "151"]
+
+1. j2-j3 .. b7-d7 .. e13-e12 .. m8-k8
+2. Bi1-j2 .. d7-e7 .. Bf14-e13 .. k8-j8
+3. Ne1-f3 .. e7-f7 .. Ne14-f12 .. j8-i8
+4. e2-e3 .. f7-g7 .. O-O .. i8-h8
+5. Nj1-i3 .. g7-h7=D .. g13-g12 .. h8-g8=D
+6. O-O .. b4-c4 .. h13-h11 .. m4-l4
+7. d2-d4 .. Qh7-d7 .. Rf14-g14 .. R
+8. g2-g4 .. Qd7xm7 .. Bi14-h13
+9. Bf1-g2 .. Qm7xKn7 .. Bh13xQn7
+10. Nf3-e5+ .. b6-c6 .. Bn7-h13
+11. h2-h4 .. b11-c11 .. i13-i11
+12. h4-h5 .. b8-d8 .. i11-i10
+13. Ri1-h1 .. Ba9-b8 .. Bh13-i12
+14. h5-h6 .. d8-e8 .. Nj14-h13
+15. h6-h7 .. Na10-c9 .. j13-j11
+16. h7-h8=D .. e8-f8 .. k13-k11
+17. f2-f4 .. b5-d5 .. j11-j10
+18. f4-f5 .. c6-d6 .. j10-j9
+19. Ne5-g6 .. Na5-c6 .. k11-k10
+20. Ng6xf8 .. Qa7-c7 .. k10-k9
+21. Qh8-h4 .. Ba6-b5 .. k9-k8
+22. Ni3-j5 .. Qc7-b7 .. Qh14-k11
+23. Nf8-e10 .. Nc9xNe10 .. Bi12-m8
+24. i2-i4 .. Ne10-c9 .. Bm8xNj5
+25. i4xBj5 .. Ka8-a9 .. j9-j8
+26. j5-j6 .. Ra4-a7 .. i10-i9
+27. Rd1-f1 .. d6-e6 .. i9-i8
+28. f5-f6 .. Ra11-a10 .. j8-j7=D
+29. Bg2-h3 .. Qb7-b6 .. Nf12-g10
+30. g4-g5 .. d5-e5 .. Ng10-i9
+31. Bh3xe6 .. e5xf6 .. Ni9-h7
+32. g5xf6 .. Nc6xd4 .. Nh7xj6
+33. e3xNd4 .. Qb6xBe6+ .. k8-k7=D
+34. Qh4-h3 .. Qe6-b6 .. Qk7xk2+
+35. Kj1-i2 .. Ra7-a6 .. Qj7-i6+
+36. Qh3-i3 .. Bb5-d7+ .. Nj6-i4
+37. Rh1-h3 .. Qb6-c7 .. Ni4-k3+
+38. Ki2-h1 .. Bd7-c6+ .. Qi6xQi3
+39. d4-d5 .. c4xd5 .. Qi3-i2+#
+40. d5-e5 .. Nk3-j5
+41. e5-f5 .. i8-i7=D
+42. Qc7-h12 .. Nh13-f12
+43. Qh12-d8 .. Qi2-i5
+44. Ra6-a5 .. Qi7-g5
+45. Bc6-d7 .. Qk2-k9
+46. Qd8-c8 .. Qk11xf6
+47. Ra5-a6 .. Qf6-i9
+48. Ra10-a11 .. Nj5-h6
+49. Ra6-a5 .. Nh6-f7
+50. Bb8-c7 .. Qg5xNc9
+51. b10xQc9 .. Qi9xc9
+52. Qc8xQc9 .. Qk9xQc9
+53. R

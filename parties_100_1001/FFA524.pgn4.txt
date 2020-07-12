@@ -1,0 +1,61 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "524"]
+[Result "AguilaRealMEX: 42 - zalikwinnen: 63 - pablo197708081010: 25 - CodenameSoap: 15"]
+[Variant "FFA"]
+[Red "AguilaRealMEX"]
+[RedElo "1508"]
+[Blue "zalikwinnen"]
+[BlueElo "1577"]
+[Yellow "pablo197708081010"]
+[YellowElo "1479"]
+[Green "CodenameSoap"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:13:00 GMT+0000 (UTC)"]
+[CurrentMove "135"]
+
+1. g2-g4 .. b10-c10 .. g13-g11 .. m8-k8
+2. g4-g5 .. b9-d9 .. g11-g10 .. k8-j8
+3. g5-g6 .. b7-d7 .. g10-g9 .. j8-i8
+4. g6-g7 .. Na10-c9 .. Ne14-f12 .. Nn5-l6
+5. g7-g8=D .. b6-c6 .. Bf14-i11 .. Nn10-l9
+6. h2-h3 .. Nc9-e8 .. h13-h11 .. Bn9-j5
+7. Qg8xBj5 .. Na5-b7 .. h11-h10 .. Nl6xQj5
+8. i2-i3 .. Nb7-c9 .. O-O .. i8-h8
+9. h3-h4 .. c6-d6 .. g9-g8 .. Nj5xh4
+10. i3xNh4 .. b5-c5 .. Nj14-i12 .. m5-l5
+11. Bf1-g2+ .. Ba6-b7 .. Bi14-h13 .. Bn6-m5
+12. Ne1-f3 .. b4-c4 .. Ni12-j10 .. O-O
+13. Qg1-i3 .. b8-d8 .. Qh14-g14 .. Nl9xNj10
+14. Qi3xBi11 .. d7-e7 .. j13-j12 .. m9-k9
+15. Qi11xi13 .. Ba9-c7 .. Rk14-i14 .. Bm5xh10
+16. Qi13xk13 .. c5-d5 .. Nf12-h11 .. Nj10xNh11
+17. O-O-O .. Ne8-f6 .. Qg14-g10 .. Nh11xj12
+18. Qk13xk9 .. d8-e8 .. Ri14-i13 .. Bh10-j8
+19. Qk9-k3 .. Bc7-b6 .. Qg10-j10 .. Nj12-l11
+20. Bi1xd6 .. Nf6xg8 .. Qj10xh8 .. Qn8xRi13
+21. Bd6-i1 .. Bb6xQi13 .. Qh8xBj8 .. R
+22. Qk3xRn6 .. e7-f7 .. Rf14-i14
+23. Qn6xKn5 .. Bi13-b6 .. Bh13-l9
+24. Nj1-i3 .. Bb6xf2 .. Bl9xNf3
+25. Bg2xBf3 .. Bf2xRg1 .. Qj8xd2
+26. Bi1-c7 .. Qa7-f2+# .. Qd2-d1
+27. Qf2xh4 .. Qd1xe2
+28. f7-g7 .. Qe2-e5
+29. g7-h7=D .. d13-d11
+30. Nc9xd11 .. Ri14-f14
+31. Nd11xe13 .. f13-f11
+32. Qh7-h11+ .. Ke14xNe13
+33. Qh4-h10+ .. Ke13-d12
+34. b11-c11+ .. Kd12-e12
+35. c11-d11+ .. Ke12-e11
+36. Bg1-a7+ .. Ke11-d12
+37. Qh10-f10+ .. Kd12-e13
+38. Qh11-g11+ .. Ke13-f13
+39. Qf10xf11+ .. Kf13-e14
+40. Qf11-g12+ .. Rf14-f13
+41. Qg11-e11+ .. Ke14-d14
+42. Qg12xRf13 .. Qe5xe8+
+43. Qe11-b8 .. Qe8xQb8+
+44. Ba7xQb8 .. S

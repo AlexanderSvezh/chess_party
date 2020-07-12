@@ -1,0 +1,24 @@
+[GameNr "704"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Dhaanush_awesome"]
+[RedElo "1470"]
+[Blue "MaxGailey"]
+[BlueElo "1500"]
+[Yellow "christopherm1022"]
+[YellowElo "1500"]
+[Green "Streetham"]
+[GreenElo "1513"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:45:13 GMT+0000 (UTC)"]
+[CurrentMove "29"]
+
+1. h2-h3 .. b7-d7 .. Ne14-f12 .. m6-l6
+2. Nj1-i3 .. b9-d9 .. e13-e12 .. m5-k5
+3. Ne1-f3 .. Na10-c11 .. Bf14-e13 .. m8-l8
+4. g2-g4 .. Nc11xd13 .. Rd14xNd13 .. Nn10-l9
+5. Qg1-g2 .. Na5-c4 .. g13-g11 .. m10-l10
+6. Nf3-e5+ .. Qa7-b7 .. Be13-d12 .. Nl9-k11
+7. Ne5xNc4 .. b5xNc4 .. j13-j12 .. Nk11-j13
+8. T

@@ -1,0 +1,58 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1347"]
+[Result "benitgabriel: 1 - eastbonded: 52 - fireflight1324: 20 - bitfungi: 73"]
+[Variant "FFA"]
+[Red "benitgabriel"]
+[RedElo "1484"]
+[Blue "eastbonded"]
+[BlueElo "1552"]
+[Yellow "fireflight1324"]
+[YellowElo "1484"]
+[Green "bitfungi"]
+[GreenElo "1570"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:03:13 GMT+0000 (UTC)"]
+[CurrentMove "116"]
+
+1. h2-h4 .. b5-d5 .. h13-h11 .. m5-l5
+2. h4-h5 .. Na5-c6 .. h11-h10 .. Bn6-m5
+3. h5-h6 .. d5-e5 .. h10-h9 .. Nn5-l6
+4. h6-h7 .. b4-d4 .. h9-h8 .. O-O
+5. g2-g3 .. e5-f5 .. Bi14-e10 .. m10-l10
+6. Qg1-h2 .. b11-d11 .. Nj14-i12 .. Bn9xj13
+7. f2-f4 .. d11xBe10 .. Qh14-h10 .. Bj13xRk14
+8. j2-j4 .. b9-d9 .. Qh10-i9 .. Bk14xNi12+
+9. Bi1-j2 .. d4-e4 .. Qi9xBi12 .. m8-l8
+10. Bj2-f6 .. b7-c7 .. Qi12-h13 .. m9-k9
+11. Bf6xh8 .. Ra4-a5 .. Qh13xBh8 .. Bm5-j2
+12. T .. Ba6xe2 .. d13-d11 .. Nl6-k4
+13. Be2xRn11 .. Ne14-f12 .. Nk4-i3
+14. Na10-c11 .. g13-g12 .. Ni3xKh1
+15. b10-c10 .. d11xc10 .. Nn10-l11
+16. b8-c8 .. k13-k12 .. Qn8xBn11
+17. d9-e9 .. k12xNl11 .. Nh1xg3
+18. f5-g5 .. c10-c9 .. Bj2xg5
+19. Ra5xBg5 .. Qh8xc8+ .. Ng3xe4
+20. Ba9-b8 .. c9xBb8 .. Ne4xRg5
+21. Qa7xb8 .. Qc8-f5 .. Ng5xh7
+22. e10-f10 .. T .. Qn11-l9
+23. f10-g10 .. Ql9xKg14
+24. g10-h10=D .. Nh7-j8
+25. Ra11-a10 .. Qg14-j11
+26. Qh10-i9 .. Qj11xNc11
+27. Qi9-i12 .. l5-k5
+28. Qi12-m8 .. Qc11-d11+
+29. Qb8-b9 .. Qd11xQb9+
+30. Ka8xQb9 .. m6-k6
+31. Qm8xm7 .. k6-j6
+32. Qm7xk5+ .. Kn5-n4
+33. Qk5-m7 .. Kn4-n5
+34. Qm7xl8 .. j6-i6
+35. Ql8-i5+ .. Kn5-n4
+36. Qi5-h6 .. k9-j9
+37. Ra10-j10 .. j9-i9
+38. Qh6xNj8+ .. Kn4-n5
+39. Qj8-h6 .. i9-h9
+40. Rj10-j9 .. Rn6-n7
+41. Rj9xh9 .. R

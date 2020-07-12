@@ -1,0 +1,23 @@
+[GameNr "179"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Antruni"]
+[RedElo "1831"]
+[Blue "oscarbacca"]
+[BlueElo "1725"]
+[Yellow "blankmaster"]
+[YellowElo "1500"]
+[Green "tyuiopweij"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:22:35 GMT+0000 (UTC)"]
+[CurrentMove "26"]
+
+1. h2-h3 .. b6-c6 .. g13-g11 .. m8-k8
+2. Qg1-j4 .. Qa7xf2 .. Nj14-i12 .. Nn5-l6
+3. Ne1-d3 .. Qf2-d4 .. Ne14-f12 .. m7-k7
+4. Qj4xQd4 .. b5-c5 .. h13-h11 .. Bn6xBf14
+5. Qd4-e5 .. Na5-c4 .. Rd14xBf14 .. O-O
+6. Qe5-g5 .. b10-c10 .. Qh14-g13 .. Nn10-l9
+7. Qg5xRa11 .. R

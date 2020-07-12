@@ -1,0 +1,19 @@
+[GameNr "1362"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "SheikMex"]
+[RedElo "1724"]
+[Blue "gnojham2"]
+[BlueElo "659"]
+[Yellow "austinkp"]
+[YellowElo "1642"]
+[Green "morphysrevenge"]
+[GreenElo "1387"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:56:18 GMT+0000 (UTC)"]
+[CurrentMove "10"]
+
+1. h2-h3 .. b6-d6 .. g13-g12 .. m8-l8
+2. Qg1-j4 .. Qa7xf2 .. h13-h12 .. Nn5-l4
+3. Ne1-d3 .. R

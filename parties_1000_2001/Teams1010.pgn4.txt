@@ -1,0 +1,24 @@
+[GameNr "1010"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Darkl1853"]
+[RedElo "1500"]
+[Blue "smitlath"]
+[BlueElo "1555"]
+[Yellow "rtydthrdtydytdyjttr"]
+[YellowElo "1500"]
+[Green "Kaiser-Kai"]
+[GreenElo "2154"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:04:15 GMT+0000 (UTC)"]
+[CurrentMove "29"]
+
+1. h2-h4 .. b9-c9 .. h13-h11 .. m9-l9
+2. g2-g3 .. b6-c6 .. h11-h10 .. m5-l5
+3. Nj1-i3 .. b8-c8 .. h10-h9 .. Qn8-l10
+4. Bi1-h2 .. b7-d7 .. h9-h8 .. Bn6-m5
+5. O-O .. Qa7-d4 .. h8-h7 .. Ql10-k10+
+6. e2-e3 .. Qd4-j10 .. Bi14-h13 .. Qk10xh7
+7. Bf1-d3 .. Qj10xj2+ .. Bh13xc8 .. Qh7xQh14+
+8. #

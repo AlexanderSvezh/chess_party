@@ -1,0 +1,41 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "206"]
+[Result "anmargue: 3 - Blaz4r: 15 - 01220798469: 0 - devil_chekmet: 93"]
+[Variant "FFA"]
+[Red "anmargue"]
+[RedElo "1568"]
+[Blue "Blaz4r"]
+[BlueElo "1500"]
+[Yellow "01220798469"]
+[YellowElo "1500"]
+[Green "devil_chekmet"]
+[GreenElo "1460"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:36:08 GMT+0000 (UTC)"]
+[CurrentMove "63"]
+
+1. g2-g4 .. b7-d7 .. g13-g11 .. m8-l8
+2. g4-g5 .. Ba6-b7+ .. h13-h12 .. Bn9xBf1
+3. f2-f3 .. Na10-c11 .. Bi14-g12 .. Bf1xe2
+4. Ne1-g2 .. b4-c4 .. T .. Qn8-m8
+5. Rd1-e1 .. Nc11-e12 .. Be2xf3
+6. Re1xNe12 .. Bb7xBf3 .. Qm8xKg14
+7. Qg1-f2 .. Bf3xm10 .. Qg14-k10
+8. Qf2-f7 .. Bm10-d1 .. m9-l9
+9. Ng2-e3 .. Bd1-e2 .. Qk10-e4++
+10. Ne3-g2 .. Na5-b7 .. Qe4xBe2
+11. g5-g6 .. Nb7-d8 .. Qe2-d1+
+12. R .. Qa7-c7 .. Qd1-f3+
+13. Qc7-c6 .. Qf3xQc6+
+14. b5xQc6 .. m7-k7
+15. Nd8xQf7 .. k7-j7
+16. b8-d8 .. j7-i7
+17. Ba9-e5 .. i7-h7
+18. b10-d10 .. h7xg6=D
+19. c4-d4 .. Qg6xc6+
+20. Ka8-b8 .. Qc6xb6+
+21. Kb8-c8 .. Qb6-c5+
+22. Kc8-b8 .. Bn6-m7
+23. Be5xh2 .. Bm7xBh2+
+24. R

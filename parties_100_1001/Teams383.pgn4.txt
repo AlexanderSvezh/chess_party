@@ -1,0 +1,24 @@
+[GameNr "383"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Antruni"]
+[RedElo "1836"]
+[Blue "GDII"]
+[BlueElo "2348"]
+[Yellow "dankillerchessen"]
+[YellowElo "1554"]
+[Green "LChessMaster85"]
+[GreenElo "2388"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:21:58 GMT+0000 (UTC)"]
+[CurrentMove "31"]
+
+1. h2-h3 .. b6-d6 .. g13-g12 .. m9-l9
+2. e2-e3 .. Qa7-b6 .. Nj14-i12 .. Qn8xi13
+3. Qg1-k5 .. b4-c4 .. Qh14xQi13 .. m4-l4
+4. Qk5-f10 .. b7-c7 .. Ne14-f12 .. m10-l10
+5. Bf1-e2 .. Na10-c9 .. Bf14-g13 .. Bn9-l11
+6. Bi1-h2 .. Ba6-b7 .. O-O .. Bl11-i8
+7. Be2-f3 .. b5-d5 .. e13-e12 .. Bi8-h7
+8. d2-d4 .. b11-d11 .. T

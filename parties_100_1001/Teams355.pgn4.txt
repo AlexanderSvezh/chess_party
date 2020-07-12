@@ -1,0 +1,24 @@
+[GameNr "355"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "noddler"]
+[RedElo "1555"]
+[Blue "oscarbacca"]
+[BlueElo "1736"]
+[Yellow "B3thel"]
+[YellowElo "1945"]
+[Green "Arielgue21"]
+[GreenElo "1972"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:14:11 GMT+0000 (UTC)"]
+[CurrentMove "32"]
+
+1. h2-h3 .. b7-c7 .. h13-h12 .. m8-l8
+2. Qg1-j4 .. Ba6xBi14 .. Qh14xBi14 .. Qn8-m8+
+3. Qj4-e4+ .. Na5-c6 .. Nj14-i12 .. m10-l10
+4. e2-e3 .. b4-c4 .. k13-k12 .. m7-l7
+5. Bf1xc4 .. Ra4xBc4 .. Qi14-e10 .. Qm8-m7
+6. d2-d4 .. b8-c8 .. e13-e12 .. Qm7-j4
+7. Qe4xQj4 .. Na10-c9 .. Qe10-k10+ .. Nn10-l9
+8. Nj1-h2 .. Nc9-e10 .. Qk10xNl9+ .. R

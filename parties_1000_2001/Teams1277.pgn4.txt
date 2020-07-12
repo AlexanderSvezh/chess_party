@@ -1,0 +1,21 @@
+[GameNr "1277"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "skurbfloor"]
+[RedElo "1519"]
+[Blue "gnojham2"]
+[BlueElo "527"]
+[Yellow "stlaz123"]
+[YellowElo "1519"]
+[Green "tomkepert"]
+[GreenElo "1693"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:27:49 GMT+0000 (UTC)"]
+[CurrentMove "18"]
+
+1. h2-h4 .. b6-d6 .. g13-g11 .. m9-k9
+2. g2-g4 .. Qa7-c5 .. Bf14xk9 .. Qn8-k11
+3. Bi1-f4 .. Qc5-c6+ .. Bk9xm11 .. Rn11xBm11
+4. Bf1-g2 .. Qc6-c8 .. j13-j12 .. Qk11-j11
+5. Nj1-i3 .. R

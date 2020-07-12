@@ -1,0 +1,35 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "10"]
+[Result "GILdeGrenade: 6 - andresktm1000: 5 - davept: 48 - kennethspaciuk: 20"]
+[Variant "FFA"]
+[Red "GILdeGrenade"]
+[RedElo "1525"]
+[Blue "andresktm1000"]
+[BlueElo "1612"]
+[Yellow "davept"]
+[YellowElo "1566"]
+[Green "kennethspaciuk"]
+[GreenElo "1681"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 16:30:14 GMT+0000 (UTC)"]
+[CurrentMove "70"]
+
+1. h2-h4 .. b7-d7 .. h13-h11 .. m8-k8
+2. Nj1-i3 .. d7-e7 .. h11-h10 .. k8-j8
+3. j2-j3 .. e7-f7 .. h10-h9 .. Bn9-m8+
+4. Bi1-j2 .. f7-g7 .. Nj14-i12 .. Nn10-l9
+5. O-O .. g7-h7=D .. h9-h8 .. Nn5-l6
+6. Ri1-h1 .. b8-c8 .. d13-d11 .. m7-k7
+7. g2-g4 .. b10-d10 .. Bi14-e10 .. k7-j7
+8. h4-h5 .. Qh7xBe10 .. d11xQe10 .. j7-i7
+9. g4-g5 .. c8-d8 .. h8-h7=D .. Bn6-m7
+10. g5-g6 .. Ba6-b7 .. Qh7-h11 .. O-O
+11. g6-g7 .. b11-c11 .. Ne14-f12 .. j8-i8
+12. g7-g8=D .. Ba9-b8 .. Rd14-d11 .. i8-h8
+13. Qg8xd8 .. Na10-c9 .. Rd11xc11 .. Nl6-j7
+14. Ni3-j5 .. b6-d6 .. Rc11xRa11+ .. Nj7-i9
+15. Qd8xd10 .. Bb8-a9 .. Qh11-c11 .. h8-g8=D+
+16. Bj2xNc9 .. R .. Qc11xQd10 .. Qg8xKa8
+17. Bc9xQd10 .. Qh14-h9 .. Qa8-j8
+18. T .. Rk14-h14 .. R

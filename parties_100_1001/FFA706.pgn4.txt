@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "706"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "xxxXWhiteXxxx"]
+[RedElo "1506"]
+[Blue "GMmartinpetrov"]
+[BlueElo "1479"]
+[Yellow "nootdorp"]
+[YellowElo "1524"]
+[Green "calsetinesdebebe"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:42:19 GMT+0000 (UTC)"]
+[CurrentMove "4"]
+
+1. h2-h4 .. Na5-c6 .. Ne14-f12 .. T

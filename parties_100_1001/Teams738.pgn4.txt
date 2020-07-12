@@ -1,0 +1,20 @@
+[GameNr "738"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "juliendecarufel"]
+[RedElo "1545"]
+[Blue "rubiayyegua"]
+[BlueElo "1600"]
+[Yellow "antonicimar"]
+[YellowElo "1545"]
+[Green "ezrahleura"]
+[GreenElo "1544"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:50:23 GMT+0000 (UTC)"]
+[CurrentMove "13"]
+
+1. g2-g4 .. b8-c8 .. i13-i11 .. m7-l7
+2. g4-g5 .. Qa7-e11 .. h13-h12 .. Nn10-l11
+3. Bf1-j5 .. Qe11-e4+ .. k13-k12 .. Qn8xh2+
+4. #

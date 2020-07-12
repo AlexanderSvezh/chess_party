@@ -1,0 +1,43 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "175"]
+[Result "rainbowgirl1231: 3 - adamg2156: 52 - caballerocaballero: 8 - Myvecinotottoro: 65"]
+[Variant "FFA"]
+[Red "rainbowgirl1231"]
+[RedElo "1500"]
+[Blue "adamg2156"]
+[BlueElo "1431"]
+[Yellow "caballerocaballero"]
+[YellowElo "1500"]
+[Green "Myvecinotottoro"]
+[GreenElo "1746"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:27:44 GMT+0000 (UTC)"]
+[CurrentMove "91"]
+
+1. Nj1-i3 .. Na5-c6 .. g13-g11 .. m7-k7
+2. Ne1-f3 .. Nc6-e7 .. g11-g10 .. k7-j7
+3. Ni3-k4 .. b5-d5 .. g10-g9 .. j7-i7
+4. Nk4xm5+ .. Ba6-b5 .. Qh14-g13 .. Bn6xNm5
+5. j2-j3 .. Bb5-f9 .. f13-f11 .. m4-l4
+6. Bi1xl4 .. Bf9-g8 .. f11-f10 .. Nn5xBl4
+7. k2-k4 .. Bg8-i10 .. h13-h12 .. m8-k8
+8. e2-e3 .. Bi10-j11++ .. Bi14-h13 .. Nn10-l9
+9. Bf1-d3 .. Bj11xBh13+ .. Qg13xBh13 .. m10-l10
+10. Bd3-l11 .. b10-d10 .. Qh13-g13 .. Bn9xBl11
+11. Nf3-d4 .. Ne7-g6 .. g9-g8 .. Bl11xj13
+12. Nd4-e6 .. Ng6xi7 .. g8-g7=D .. O-O
+13. Ne6xQg7 .. Ni7xk8 .. Qg13xNg7 .. Qn8xNk8
+14. g2-g4 .. Ra4-a5 .. Qg7-j7 .. Qk8xQj7
+15. g4-g5 .. Ra5-c5 .. T .. Bj13-i12
+16. Qg1-g4 .. Rc5-c7 .. Qj7xQg4
+17. f2-f3 .. Rc7-c11 .. Qg4xf3+
+18. Kh1-i1 .. Rc11-g11 .. Qf3xd5
+19. Rd1-g1 .. Rg11xKg14 .. Bi12xRg14
+20. g5-g6 .. Na10-c11 .. Qd5xd10
+21. g6-g7 .. Ra11-a10 .. Qd10-d11
+22. h2-h4 .. Ba9-b10 .. Nl4xj3+
+23. Ki1-h1 .. Bb10-a9 .. Nj3xh4
+24. R .. Ra10-b10 .. Qd11-d5
+25. Rb10xf10 .. Qd5xKh1
+26. Qa7-a5 .. R

@@ -1,0 +1,66 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "461"]
+[Result "athiny2020: 69 - 1ChessAlex: 51 - moyassin14: 5 - Gregoreo2008: 0"]
+[Variant "FFA"]
+[Red "athiny2020"]
+[RedElo "1806"]
+[Blue "1ChessAlex"]
+[BlueElo "1575"]
+[Yellow "moyassin14"]
+[YellowElo "1557"]
+[Green "Gregoreo2008"]
+[GreenElo "1474"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:58:07 GMT+0000 (UTC)"]
+[CurrentMove "124"]
+
+1. j2-j3 .. b7-d7 .. j13-j11 .. m9-k9
+2. Nj1-i3 .. Na10-c9 .. k13-k12 .. m8-k8
+3. Bi1-j2 .. b8-d8 .. g13-g12 .. m7-k7
+4. O-O .. Ba9-b8 .. e13-e12 .. k8-j8
+5. d2-d3 .. b11-c11 .. h13-h11 .. m10-l10
+6. e2-e4 .. O-O .. i13-i12 .. j8-i8
+7. Bf1-e2 .. b6-d6 .. h11-h10 .. k7-j7
+8. Be2xj7 .. Na5-c6 .. h10-h9 .. i8-h8
+9. Bj7xRn11 .. b4-d4 .. i12-i11 .. T
+10. Bn11-l9 .. b5-c5 .. i11-i10
+11. Bl9xKn7 .. d7-e7 .. i10-i9
+12. k2-k4 .. Nc9-e10 .. Bf14-g13
+13. k4-k5 .. Bb8xBg13 .. Ne14xBg13
+14. k5-k6 .. d8-e8 .. i9-i8
+15. k6-k7 .. Ne10-f12+ .. Kg14-f14
+16. k7-k8=D .. e8-f8 .. i8-i7=D
+17. Bn7xm6 .. Qa7-e11 .. Nj14-h13
+18. h2-h4 .. Qe11-d12+#
+19. g2-g4 .. Ba6-c8
+20. g4-g5 .. Nc6-e5
+21. g5-g6 .. Nf12-e10
+22. Bm6-k4 .. Ne10-g9
+23. f2-f4 .. Ne5-d7
+24. f4-f5 .. Nd7-f6
+25. Bj2-l4 .. f8-g8
+26. Bl4xQi7 .. g8xh9=D
+27. Bi7xh8 .. Nf6-e8
+28. Bh8xNg9 .. Ne8xBg9
+29. h4-h5 .. Ra4-a8
+30. Qk8-k5 .. Qd12-d7
+31. Ne1-f3 .. d6-e6
+32. Nf3-h4 .. e7-f7
+33. g6xf7 .. e6xf7
+34. Qk5xNg9 .. Qh9xQg9
+35. Qg1xQg9 .. Bc8-d9
+36. Bk4-h7 .. Ra8-b8
+37. Ri1-g1 .. Ra9-a8
+38. Nh4-i6 .. Rb8-f8
+39. Rg1-g7 .. Bd9-c10
+40. Rd1-g1 .. Qd7-d6
+41. Kj1-j2 .. Qd6-h6
+42. Rg7xf7 .. Rf8xRf7
+43. Bh7-g6 .. Rf7-g7
+44. Ni3-j5 .. Rg7xQg9
+45. Nj5xQh6 .. Bc10xBg6
+46. h5xBg6 .. Rg9-h9
+47. Nh6-f7 .. b9-d9
+48. g6-g7 .. d9-e9
+49. g7-g8=D .. R

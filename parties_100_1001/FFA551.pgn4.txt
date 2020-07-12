@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "551"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "04common_user"]
+[RedElo "1532"]
+[Blue "castillaso96"]
+[BlueElo "1518"]
+[Yellow "nolocrick"]
+[YellowElo "1554"]
+[Green "Alejandroo2005"]
+[GreenElo "1509"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:03:00 GMT+0000 (UTC)"]
+[CurrentMove "1"]
+
+1. R

@@ -1,0 +1,20 @@
+[GameNr "219"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "AngelofHELL-ABADDON"]
+[RedElo "1500"]
+[Blue "lupinflow"]
+[BlueElo "1500"]
+[Yellow "V7adimir"]
+[YellowElo "1500"]
+[Green "Antruni"]
+[GreenElo "1838"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:30:08 GMT+0000 (UTC)"]
+[CurrentMove "14"]
+
+1. h2-h3 .. b8-d8 .. h13-h12 .. m9-l9
+2. Bi1xBa9 .. Ka8xBa9 .. g13-g11 .. m5-l5
+3. Qg1-h2+ .. b7-c7 .. Qh14xQa7+ .. Qn8xi13
+4. Qh2xc7+ .. #

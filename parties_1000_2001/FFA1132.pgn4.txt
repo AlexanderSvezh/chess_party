@@ -1,0 +1,38 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1132"]
+[Result "gardeneer_do: 13 - nootdorp: 18 - Rolling_rooks: 66 - jhadiluweghdl: 10"]
+[Variant "FFA"]
+[Red "gardeneer_do"]
+[RedElo "1521"]
+[Blue "nootdorp"]
+[BlueElo "1524"]
+[Yellow "Rolling_rooks"]
+[YellowElo "1724"]
+[Green "jhadiluweghdl"]
+[GreenElo "1640"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:49:29 GMT+0000 (UTC)"]
+[CurrentMove "73"]
+
+1. g2-g4 .. Na5-c6 .. h13-h11 .. m5-l5
+2. Nj1-k3 .. Nc6-d4 .. h11-h10 .. m4-l4
+3. Nk3-j1 .. b5-c5 .. h10-h9 .. m10-l10
+4. j2-j3 .. Nd4xe2 .. k13-k12 .. Bn9-m10
+5. Qg1-g2 .. b8-c8 .. h9-h8 .. Bm10-l9+
+6. Qg2-f3 .. Ne2-g3+ .. i13-i12 .. Bl9xg4
+7. f2xNg3 .. Ba6xBf1 .. h8-h7=D .. Bg4xQf3+
+8. Ne1xBf3 .. Bf1-e2 .. Qh7-h10 .. Nn10-l9
+9. Rd1-e1 .. Be2xNf3+ .. Qh10xRn4 .. Nn5-l6
+10. Kh1-g1 .. Qa7-a6 .. Ne14-f12 .. m7-l7
+11. Nj1-i3 .. Na10-c9 .. g13-g12 .. m8-l8
+12. Kg1-f2 .. Qa6-d3 .. Qh14-h10 .. l7-k7
+13. Bi1-j2 .. Bf3xNl9+ .. Qh10xk7+#
+14. Re1-e3 .. Qd3xd2+ .. Qk7xl8
+15. Kf2-g1 .. Bl9-d1 .. Qn4xNl6
+16. Re3-e7 .. b6-d6 .. Ql8-h12
+17. Re7-g7 .. Qd2-e3+ .. Qh12-h11
+18. Kg1-g2 .. Ra4-a7 .. d13-d11
+19. Rk1xBd1 .. Qe3-e2+ .. d11-d10
+20. Kg2-h1 .. Qe2xRd1+ .. Ql6-k6#
+21. R

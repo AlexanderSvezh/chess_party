@@ -1,0 +1,43 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "754"]
+[Result "GVG1323: 98 - 04common_user: 17 - Tom21112006: 7 - lucianomorales: 19"]
+[Variant "FFA"]
+[Red "GVG1323"]
+[RedElo "1772"]
+[Blue "04common_user"]
+[BlueElo "1478"]
+[Yellow "Tom21112006"]
+[YellowElo "1478"]
+[Green "lucianomorales"]
+[GreenElo "1695"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:59:03 GMT+0000 (UTC)"]
+[CurrentMove "79"]
+
+1. g2-g4 .. b7-c7 .. e13-e12 .. m8-k8
+2. g4-g5 .. Ba6-b7+ .. Bf14-e13 .. Bn9xBf1
+3. f2-f3 .. b11-c11 .. Be13xm5 .. Bn6xBm5
+4. Qg1xBf1 .. b10-c10 .. j13-j12 .. m11-l11
+5. g5-g6 .. c11-d11 .. h13-h12 .. Bm5xRd14
+6. g6-g7 .. Ba9-c11 .. Bi14-h13+ .. m9-l9
+7. g7-g8=D .. Bc11-b10 .. Ne14-f12 .. Bd14xNf12
+8. Qg8-g5 .. Na5-c4 .. Nj14-i12 .. Bf12xg13
+9. Qg5-m5 .. Bb10-h4 .. Qh14xBg13 .. Nn5-l6
+10. Qm5xRn4+ .. Bh4xNn10 .. Ni12-k11 .. R
+11. Qn4xKn7 .. Bn10xNe1 .. Nk11xm10
+12. Qf1xBe1 .. b6-c6 .. Bh13-k10
+13. Qn7-n5 .. Qa7-b6 .. Bk10xl9
+14. Qn5-i5 .. O-O-O .. Bl9xk8
+15. Nj1-i3 .. d11xe12 .. Qg13-g1+
+16. Qe1xQg1+ .. e12xf13+ .. Kg14xf13
+17. Qi5xi13+ .. Ra11-f11+ .. Kf13-e12
+18. Qi13xh12+ .. Rf11-d11 .. R
+19. Qh12xKe12 .. Rd11-j11
+20. Qg1xQb6+ .. Ka6xQb6
+21. j2-j3 .. b5-d5
+22. Bi1-j2 .. d5-e5
+23. d2-d3 .. e5-f5
+24. d3xNc4 .. f5-g5
+25. Qe12-e5 .. Rj11-g11
+26. Qe5-b5+#

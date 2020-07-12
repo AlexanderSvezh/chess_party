@@ -1,0 +1,43 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "297"]
+[Result "kylewarren81: 46 - Thjhs: 22 - comradical: 45 - azamatkaibaldiyev: 7"]
+[Variant "FFA"]
+[Red "kylewarren81"]
+[RedElo "1578"]
+[Blue "Thjhs"]
+[BlueElo "1527"]
+[Yellow "comradical"]
+[YellowElo "1737"]
+[Green "azamatkaibaldiyev"]
+[GreenElo "1511"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:04:56 GMT+0000 (UTC)"]
+[CurrentMove "94"]
+
+1. k2-k4 .. Na5-c6 .. e13-e12 .. m6-k6
+2. g2-g4 .. b8-c8 .. Bf14-e13 .. m8-k8
+3. Bf1-i4 .. b7-d7 .. Ne14-f12 .. Nn5-l6
+4. Qg1-g2 .. Ba9-c7 .. O-O .. m7-l7
+5. Bi4-j3 .. Ba6-b7 .. Rf14-g14 .. Kn7-m7
+6. f2-f3 .. Nc6-a5 .. g13-g11 .. Nl6-j7
+7. h2-h3 .. Na10-b8 .. g11-g10 .. Nn10-l9
+8. Bi1-h2+ .. O-O .. g10-g9 .. Nj7-l6
+9. k4-k5 .. Bc7xBh2 .. g9-g8 .. Nl6-j5
+10. Nj1xBh2 .. Qa7-a8 .. g8-g7=D .. m5-l5
+11. Ne1-d3 .. Na5-c4 .. h13-h11 .. Bn6xj2
+12. Rk1-k2 .. Nc4-e3 .. h11-h10 .. Nj5-i3+
+13. Kh1-g1 .. Ne3xQg2 .. h10-h9 .. Ni3xRk2
+14. Bj3xNk2 .. Ng2-e3 .. h9-h8 .. Qn8-l8
+15. d2xNe3 .. Ra4-a7 .. h8-h7=D .. Nl9-n8
+16. Nd3xb4 .. b5-c5 .. Qh7-h10 .. Rn4-n5
+17. Bk2xb11+ .. Ka10xBb11 .. Qg7-g11+ .. Ql8-l9
+18. Nb4-c6 .. Kb11-a10 .. Qh10-h11 .. Ql9-l8
+19. Nc6xNb8+ .. Qa8xNb8 .. Qg11-a11+# .. Ql8-g3+
+20. Kg1-h1 .. Qa11-e11 .. Bj2-i3
+21. Nh2-i4 .. Qe11xe3 .. m4-k4
+22. Ni4xQg3 .. Qe3-k9+ .. Km7-n7
+23. Rd1xd7 .. Qk9xm9 .. Bi3xk5
+24. Rd7xl7+ .. Qh11-j11+ .. Kn7-n6
+25. Rl7-n7+# .. Qm9xNg3
+26. R

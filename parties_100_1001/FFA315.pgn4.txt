@@ -1,0 +1,57 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "315"]
+[Result "MteLoco: 19 - Picadat: 8 - Davidbloom001: 1 - DAAM_IT: 85"]
+[Variant "FFA"]
+[Red "MteLoco"]
+[RedElo "1555"]
+[Blue "Picadat"]
+[BlueElo "1720"]
+[Yellow "Davidbloom001"]
+[YellowElo "1581"]
+[Green "DAAM_IT"]
+[GreenElo "1833"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:09:21 GMT+0000 (UTC)"]
+[CurrentMove "123"]
+
+1. g2-g4 .. b10-c10 .. h13-h11 .. m8-k8
+2. g4-g5 .. Ba9-b10 .. h11-h10 .. Bn9xBf1
+3. Qg1xBf1 .. b5-c5 .. h10-h9 .. k8-j8
+4. Ne1-f3 .. Ba6-b5 .. h9-h8 .. j8-i8
+5. d2-d3 .. Na10-c9 .. g13-g11 .. Nn5-l6
+6. g5-g6 .. O-O .. g11-g10 .. Nn10-l9
+7. Qf1-g1 .. Bb5xg10 .. Ne14-f12 .. m5-l5
+8. h2-h3 .. Bg10-b5 .. Nj14-i12 .. Bn6-m5
+9. Nj1-i3 .. b7-c7 .. Bi14-f11 .. O-O
+10. k2-k3 .. b6-d6 .. Qh14-h10 .. Rn11-n10
+11. Bi1-h2 .. c5-d5 .. O-O-O .. m7-k7
+12. O-O .. Bb5-a6 .. Bf14-h12 .. m11-k11
+13. g6-g7 .. Ba6xBf11+ .. Ki14-j14 .. k11-j11
+14. g7-g8=D .. d5-e5 .. Ni12-g11 .. m10-k10
+15. Qg8-g3 .. Bf11-b7 .. d13-d12 .. Nl9-k11
+16. e2-e3 .. Na5-c6 .. h8-h7=D .. Qn8-n9
+17. d3-d4 .. e5-f5 .. Qh7xk7 .. Qn9xj13+#
+18. Nf3-h4 .. Bb7-c8 .. j11-i11
+19. Nh4-j5 .. Nc9-e8 .. Nl6xNj5
+20. Ni3xNj5 .. Ne8-f6 .. Qj13xNj5
+21. i2-i4 .. Nf6-e4 .. Qj5-j12
+22. Qg3-f4 .. f5-g5 .. i11xBh12
+23. Bh2-j4 .. Ne4xf2 .. h12xNg11=D
+24. Qf4xNf2 .. Bc8xh3+ .. Qj12xBj4
+25. Kj1-k2 .. g5-h5=D .. Qj4-j11
+26. i4xQh5 .. Bh3-i4+ .. Qg11xb11+#
+27. h5-h6 .. Qb11xc10
+28. Qf2-h4 .. Qj11-j7
+29. Ri1xBi4 .. Qc10-h5
+30. Qg1-i3 .. Qh5xRd1
+31. Ri4xm4 .. Qd1-h5+
+32. Kk2-k1 .. Qh5xQh4
+33. Rm4xQh4 .. Qj7-j5
+34. Qi3-h2 .. i8-h8
+35. h6-h7 .. Rn10-n8
+36. Rh4-h5 .. Qj5-f1+
+37. Kk1-k2 .. Rn8-j8
+38. Qh2-i3 .. Bm5xk3
+39. Kk2xBk3 .. Qf1-k1+
+40. Kk3-l4 .. Qk1-k4+#

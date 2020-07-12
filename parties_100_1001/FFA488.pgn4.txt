@@ -1,0 +1,63 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "488"]
+[Result "J-B-A-N: 7 - carlosvar98: 89 - Norbi985: 33 - pabloMarinozi: 25"]
+[Variant "FFA"]
+[Red "J-B-A-N"]
+[RedElo "1585"]
+[Blue "carlosvar98"]
+[BlueElo "1488"]
+[Yellow "Norbi985"]
+[YellowElo "1588"]
+[Green "pabloMarinozi"]
+[GreenElo "1516"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:11:51 GMT+0000 (UTC)"]
+[CurrentMove "147"]
+
+1. d2-d4 .. b8-d8 .. e13-e12 .. m8-k8
+2. h2-h4 .. b7-d7 .. j13-j11 .. m5-l5
+3. Nj1-i3 .. Ba9xBi1 .. Bf14-e13 .. m6-l6
+4. Kh1xBi1 .. Qa7-c7+ .. Bi14-j13 .. m11-l11
+5. g2-g3 .. b11-c11 .. k13-k12 .. k8-j8
+6. h4-h5 .. d8-e8 .. j11-j10 .. m7-k7
+7. f2-f4 .. e8-f8 .. Nj14-i12 .. l6-k6
+8. Ne1-d3 .. f8-g8 .. Ni12-h10 .. Bn9-m8
+9. Bf1-g2+ .. b6-c6 .. Nh10xg8 .. m4-k4
+10. k2-k3 .. Qc7-d8 .. Ng8-h10 .. k4-j4
+11. k3xj4 .. Na5-c4 .. k12-k11 .. Qn8xj4
+12. Nd3-e5 .. Nc4xNe5 .. Ne14-f12 .. Bn6xj2+
+13. Ki1-j1 .. Ne5-f7 .. g13-g12 .. Bj2xNi3+
+14. Kj1-i1 .. Na10-b8 .. O-O .. Bi3xQg1
+15. Bg2xk6 .. Qd8xRk1+# .. Qh14-g13 .. Qj4-h4
+16. Qk1xQh4 .. Qg13-h12 .. Rn4xQh4
+17. O-O .. Qh12-b6 .. l5-k5
+18. Nf7-d6 .. Qb6xNb8 .. k5-j5
+19. Ba6-c8 .. Qb8xNd6 .. j5-i5
+20. b5-c5 .. Qd6-e7 .. Bg1-i3
+21. Ra4-a8 .. Qe7xk7+ .. Nn5-m7
+22. d7-e7 .. Qk7xi5 .. Rh4-n4
+23. Bc8xi2+ .. Qi5xBi3 .. Kn7-n6
+24. Bi2-d7 .. Bj13xBd7 .. m10-l10
+25. c6xBd7 .. Qi3xe7 .. l10xk11
+26. Ra8xj8 .. Rk14xk11 .. Bm8-l7
+27. b10-c10 .. Qe7xBl7 .. Nn10-l9
+28. Rj8-h8 .. Rk11-h11 .. Nl9xj10
+29. Rh8-b8 .. Rh11-j11 .. Nj10-k8
+30. Rb8-h8 .. Nh10-f11 .. Rn11-n8
+31. Rh8xh5 .. Nf12-e10 .. m9-l9
+32. b9-d9 .. Ql7xd7+ .. Nk8-l10
+33. Ka10-b11 .. Rj11-j6 .. Nm7-k8
+34. Ra9-a10 .. Rj6-j14 .. l9-k9
+35. Rh5-h6 .. Be13xRn4 .. k9-j9
+36. Rh6xBk6+ .. Rj14xj9 .. Kn6-n5
+37. Rk6-k5+ .. Bn4-e13 .. Kn5-m6
+38. Rk5-k6+ .. Rj9-j7 .. Km6-l5
+39. Rk6-i6 .. Qd7-h7 .. l11-k11
+40. Ri6xi13 .. Ne10-c9+ .. T
+41. Kb11-b10 .. Qh7-h4
+42. Ra10-a9 .. Rj7-c7
+43. Ra9-b9 .. Be13-f12
+44. c10-d10 .. Bf12-g11
+45. Ri13-i11 .. Bg11-d8
+46. Ri11-i8 .. T

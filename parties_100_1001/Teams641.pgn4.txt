@@ -1,0 +1,20 @@
+[GameNr "641"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "szymek2009lis"]
+[RedElo "1496"]
+[Blue "malaybasak"]
+[BlueElo "2648"]
+[Yellow "Marc2912"]
+[YellowElo "1491"]
+[Green "9099999999"]
+[GreenElo "1671"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:25:06 GMT+0000 (UTC)"]
+[CurrentMove "13"]
+
+1. g2-g4 .. b8-c8 .. h13-h11 .. m7-l7
+2. g4-g5 .. Qa7-d10 .. h11-h10 .. Qn8-k5
+3. g5-g6 .. Qd10-d5+ .. h10-h9 .. Qk5xh2+
+4. #

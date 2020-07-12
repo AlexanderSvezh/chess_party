@@ -1,0 +1,20 @@
+[GameNr "1318"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "gnojham2"]
+[RedElo "568"]
+[Blue "Chess1228michelle"]
+[BlueElo "1471"]
+[Yellow "TowersK"]
+[YellowElo "2020"]
+[Green "Paddy_9999"]
+[GreenElo "1687"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:40:29 GMT+0000 (UTC)"]
+[CurrentMove "13"]
+
+1. h2-h3 .. b7-c7 .. g13-g12 .. m8-l8
+2. Qg1-j4 .. Na10-c9 .. Qh14-e11 .. Bn9-m8
+3. Qj4-g4 .. Ba6-c8 .. Nj14-i12 .. Bm8xh3
+4. R

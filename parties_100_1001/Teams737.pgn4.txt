@@ -1,0 +1,21 @@
+[GameNr "737"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "SchlegelAlex"]
+[RedElo "1538"]
+[Blue "alyeasin93"]
+[BlueElo "2630"]
+[Yellow "Don_Hector_Salamanca"]
+[YellowElo "1538"]
+[Green "Dewan122157"]
+[GreenElo "955"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:51:29 GMT+0000 (UTC)"]
+[CurrentMove "19"]
+
+1. g2-g4 .. b8-c8 .. g13-g12 .. m9-l9
+2. Qg1-g2 .. Qa7xQh14+ .. Kg14xQh14 .. Qn8xi13+
+3. Nj1-k3 .. Ba9-c7 .. Kh14-g13 .. m7-l7+
+4. Nk3-l5 .. Bc7-b8+ .. Kg13-g14 .. Qi13xBi14+
+5. Nl5xRn4 .. Na5-c6 .. #

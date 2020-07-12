@@ -1,0 +1,50 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "295"]
+[Result "and_2018: 3 - hectobar: 50 - Taking_It_Easy: 44 - jesus-e1958: 31"]
+[Variant "FFA"]
+[Red "and_2018"]
+[RedElo "1630"]
+[Blue "hectobar"]
+[BlueElo "1702"]
+[Yellow "Taking_It_Easy"]
+[YellowElo "1737"]
+[Green "jesus-e1958"]
+[GreenElo "1485"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:06:53 GMT+0000 (UTC)"]
+[CurrentMove "113"]
+
+1. g2-g4 .. b5-c5 .. h13-h11 .. m7-k7
+2. g4-g5 .. b8-c8 .. h11-h10 .. k7-j7
+3. g5-g6 .. Ba6-b5 .. h10-h9 .. j7-i7
+4. d2-d3 .. b10-c10 .. d13-d12 .. Qn8-m7
+5. f2-f3 .. Ba9-b10 .. Ne14-f12 .. Nn10-l9
+6. i2-i3 .. Na10-b8 .. g13-g11 .. m8-l8
+7. h2-h4 .. O-O .. g11-g10 .. Bn9-l7
+8. Nj1-h2 .. b7-c7 .. Bf14-g13 .. m5-l5
+9. Nh2-i4 .. Qa7-b7 .. O-O .. Nn5-l6
+10. Bi1-h2 .. b6-d6 .. g10-g9 .. Bn6-m5
+11. h4-h5 .. Na5-c6 .. h9-h8 .. i7xh8
+12. h5-h6 .. Nc6-e7 .. g9xh8 .. O-O
+13. O-O .. Bb5-d7+ .. h8-h7=D .. Nl9-j8
+14. Kj1-k1 .. Nb8-d9 .. Qh7-h10 .. Nj8-k6
+15. g6-g7 .. Qb7-c6 .. Qh10xm10 .. Nk6-i5
+16. e2-e4 .. b4-d4 .. Qm10-k12 .. Nl6-j5
+17. Ri1-h1 .. c8-d8 .. Bi14xNd9 .. Ni5-h3
+18. Bf1xNh3 .. Ne7xBd9 .. Nf12-e10 .. Nj5-l4
+19. Bh3-f1 .. Bd7xj13 .. Qk12xk2+# .. Nl4xQk2
+20. Bj13xRk14 .. Ne10-c11+ .. Nk2-j4
+21. Nd9xNc11 .. d12xNc11 .. Bl7-k8
+22. Bb10xc11 .. Bg13-f12 .. Qm7-l7
+23. Bc11-b10 .. Qh14-g13 .. Bm5xBf12
+24. Bb10xe13 .. Qg13xBf12 .. Bk8xf13+
+25. Be13xQf12 .. Rf14xBf13 .. Rn6-n10
+26. Qc6-e8+ .. Ke14-f14 .. Rn10-f10
+27. Bf12-g11 .. Rf13xRf10 .. Ql7-g12
+28. Bg11xRf10 .. Nj14-h13 .. Qg12xNh13
+29. Bk14-h11 .. k13-k11 .. Qh13-h14+#
+30. Qe8-k8 .. Qh14-c9
+31. Bf10-g11 .. Rn11-n6
+32. Qk8-j8 .. Qc9-e11
+33. Qj8-m5+#

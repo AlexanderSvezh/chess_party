@@ -1,0 +1,21 @@
+[GameNr "1300"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "leorastelli"]
+[RedElo "2225"]
+[Blue "Great-Gazoo"]
+[BlueElo "1298"]
+[Yellow "Akusu"]
+[YellowElo "1774"]
+[Green "AC61"]
+[GreenElo "1848"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:35:58 GMT+0000 (UTC)"]
+[CurrentMove "18"]
+
+1. h2-h3 .. b6-d6 .. g13-g12 .. m8-l8
+2. Ne1-f3 .. b4-d4 .. Nj14-i12 .. Qn8-m8
+3. Qg1-j4 .. Ra4-c4 .. Qh14-e11 .. Nn10-l9
+4. Nj1-i3 .. Qa7-b6 .. Qe11-e12 .. Nn5-l6
+5. Bi1-h2 .. R

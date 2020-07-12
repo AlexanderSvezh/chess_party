@@ -1,0 +1,33 @@
+[GameNr "1442"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "0437829"]
+[RedElo "1458"]
+[Blue "User10254"]
+[BlueElo "1500"]
+[Yellow "AndrewChen012"]
+[YellowElo "1499"]
+[Green "Darkl1853"]
+[GreenElo "1463"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:29:50 GMT+0000 (UTC)"]
+[CurrentMove "65"]
+
+1. h2-h4 .. b9-d9 .. h13-h11 .. m7-l7
+2. Bi1-h2 .. b7-d7 .. Qh14-h12 .. m6-l6
+3. Nj1-k3 .. Ba6-b7 .. Bi14xd9 .. Bn6xQh12
+4. Nk3-j5 .. Bb7xBd9 .. g13xBh12 .. m9-l9
+5. Bh2xl6 .. b8-c8 .. Bf14-g13 .. m5xBl6
+6. Nj5xl6+ .. Qa7-c7 .. Nj14-k12 .. Qn8xNl6
+7. g2-g3 .. Qc7-d8 .. Nk12-j10 .. Ql6xQg1+
+8. Kh1xQg1 .. Ba9xg3 .. k13-k11 .. m10-l10
+9. f2xBg3 .. Qd8-c7 .. k11xl10 .. m11xl10
+10. Bf1-g2+ .. Na5-b7 .. Nj10-i8 .. Rn11xh11
+11. Ne1-f3 .. Qc7-c5+ .. Rk14-k7 .. Nn10-l11
+12. e2-e3 .. Nb7-d6 .. Rk7xl7+ .. m8xRl7
+13. Nf3-d4+ .. Nd6-e4 .. Ni8-k9 .. Nl11xNk9
+14. Bg2xNe4+ .. b6-c6 .. Ne14-f12 .. Rh11-k11
+15. Be4xc6+ .. b5xBc6 .. Bg13-h14 .. Rk11-k14
+16. g3-g4 .. Qc5-g9+ .. Kg14-f14 .. Rk14xBh14+
+17. R

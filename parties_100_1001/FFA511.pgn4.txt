@@ -1,0 +1,50 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "511"]
+[Result "MasacreKiz: 31 - GermainGaeta: 70 - Icewarrior33: 21 - tiger1099: 0"]
+[Variant "FFA"]
+[Red "MasacreKiz"]
+[RedElo "1695"]
+[Blue "GermainGaeta"]
+[BlueElo "1712"]
+[Yellow "Icewarrior33"]
+[YellowElo "1501"]
+[Green "tiger1099"]
+[GreenElo "1470"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:07:04 GMT+0000 (UTC)"]
+[CurrentMove "101"]
+
+1. g2-g4 .. b6-d6 .. h13-h11 .. m8-k8
+2. g4-g5 .. Qa7-b6 .. h11-h10 .. k8-j8
+3. g5-g6 .. d6-e6 .. h10-h9 .. j8-i8
+4. g6-g7 .. e6-f6 .. Bi14-f11 .. i8-h8
+5. g7-g8=D .. f6-g6 .. h9xQg8 .. Qn8-i8
+6. j2-j3 .. g6-h6=D .. Bf11xQi8 .. R
+7. Bf1-m8+ .. Qb6-c6+ .. i13-i12
+8. f2-f3 .. Qc6-c9 .. g13-g12
+9. Nj1-i3 .. Qc9xNi3 .. Bf14-g13
+10. Bm8xKn7 .. Qi3xRk1 .. Qh14-h9
+11. Ne1-g2 .. b10-c10 .. Nj14-k12
+12. Ng2-i3 .. Qk1xNi3 .. O-O-O
+13. Bn7xm6 .. Ba9xe13 .. Ne14-f12
+14. Bm6-k4 .. Be13-b10 .. Qh9-g9
+15. Bk4xg8 .. Qi3xBi8 .. Qg9xBg8
+16. Qg1xQg8 .. Qh6-i5 .. d13-d11
+17. O-O-O .. b5-c5 .. d11xc10
+18. h2-h4 .. Qi5xi2 .. c10xb9+
+19. Bi1xb8 .. Ka8xb9 .. Rd14-d9+
+20. Bb8-h2 .. Na10-c9 .. Rd9xd2
+21. Qg8-b8+ .. Kb9-a10 .. Rd2-d1+
+22. Kf1-f2 .. Na5-c6 .. Rd1-d2
+23. Qb8-f4 .. Nc6-d4 .. Rd2xNd4
+24. Qf4-g3 .. c5xRd4 .. j13-j11
+25. h4-h5 .. Qi8xi12+ .. Ki14-j14
+26. Qg3-g11+ .. Qi12-i5+ .. Bg13-h12
+27. Qg11-g3 .. Qi5-k7 .. g12-g11
+28. Kf2-f1 .. Qk7xNk12 .. j11-j10
+29. h5-h6 .. Qi2-e6 .. j10-j9
+30. h6-h7 .. Qe6xe2+# .. j9-j8
+31. Ba6-b5 .. j8-j7=D
+32. Qe2-e7 .. Rh14-e14
+33. Qe7xk13+#

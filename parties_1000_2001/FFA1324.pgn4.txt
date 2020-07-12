@@ -1,0 +1,19 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1324"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "houseofham"]
+[RedElo "1854"]
+[Blue "jandresmz"]
+[BlueElo "1502"]
+[Yellow "narek_s"]
+[YellowElo "1791"]
+[Green "David13x"]
+[GreenElo "1749"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:42:29 GMT+0000 (UTC)"]
+[CurrentMove "7"]
+
+1. i2-i4 .. b7-d7 .. h13-h11 .. m8-k8
+2. h2-h3 .. b8-c8 .. T

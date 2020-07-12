@@ -1,0 +1,62 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "279"]
+[Result "crewleader: 38 - PARADOX_VK: 18 - AkramMammadov: 16 - LordCrap: 92"]
+[Variant "FFA"]
+[Red "crewleader"]
+[RedElo "1496"]
+[Blue "PARADOX_VK"]
+[BlueElo "1560"]
+[Yellow "AkramMammadov"]
+[YellowElo "1377"]
+[Green "LordCrap"]
+[GreenElo "1806"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:07:42 GMT+0000 (UTC)"]
+[CurrentMove "155"]
+
+1. g2-g4 .. b8-c8 .. g13-g11 .. m5-l5
+2. g4-g5 .. Na10-c9 .. g11-g10 .. Bn6-m5
+3. g5-g6 .. b10-c10 .. g10-g9 .. Nn5-l6
+4. g6-g7 .. Ba9-b10 .. g9-g8 .. m8-k8
+5. h2-h4 .. b4-c4 .. Bf14-j10 .. Nl6-j7
+6. h4-h5 .. b7-c7 .. h13-h11 .. Bm5xe13
+7. Bf1-g2+ .. Ba6-b7 .. Bj10xg7 .. Be13xBb10
+8. Bg2xBb7+ .. Qa7xBb7+ .. Bi14-h13+ .. m9-l9
+9. Ne1-g2 .. Ra11-a10 .. Bg7-f8 .. Bb10-e13
+10. f2-f3 .. c7-d7 .. g8-g7=D .. Be13xRd14
+11. Bi1-h2 .. Na5-c6 .. Qg7-g5 .. Nj7-l6
+12. Nj1-i3 .. O-O-O .. Qg5xNc9 .. O-O
+13. O-O .. b11-d11 .. f13-f12 .. Qn8-l8
+14. Ng2-e3+ .. d7-e7 .. Bf8-g9 .. Bd14xf12
+15. Rd1-f1 .. e7-f7 .. Qh14xBf12 .. m10-k10
+16. h5-h6 .. c10-d10 .. k13-k12 .. m11-l11
+17. Rf1-f2 .. d10-e10 .. Qf12-e11 .. l11xk12
+18. Rf2-g2 .. c8-d8 .. Nj14xk12 .. Bn9-l7
+19. h6-h7 .. d8-e8 .. O-O-O .. l9-k9
+20. Rg2xBg9 .. e8-f8 .. Bh13xe10 .. k8-j8
+21. Rg9xQc9 .. d11xBe10 .. Qe11xRc9 .. Bl7xh11
+22. h7-h8=D .. f7-g7 .. Ne14-g13 .. Bh11-j9
+23. Qh8-h3 .. f8-g8 .. T .. Bj9-g12
+24. Qh3xRh14 .. g8-h8=D .. Bg12xKi14
+25. Qh14xBi14 .. g7-h7=D .. m7-l7
+26. Ri1-h1 .. Ka6-a5 .. Nn10-m8
+27. Qi14xi13 .. Qb7-c7 .. k10-j10
+28. Qi13xQc7 .. Ra7xQc7 .. Rn11-n10
+29. Bh2xRc7 .. Qh7xBc7 .. k9-j9
+30. Rh1xQh8 .. e10-f10 .. j10-i10
+31. Rh8-h10 .. f10-g10 .. j8-i8
+32. f3-f4 .. Nc6-d4 .. Nl6-j7
+33. Qg1-f1 .. Nd4-e6 .. Nm8-l6
+34. f4-f5 .. Ne6-g7 .. i8-h8
+35. f5-f6 .. Ng7-f9 .. h8-g8=D
+36. Rh10-h1 .. Nf9-d8 .. Qg8xNd8
+37. f6-f7 .. Qc7xQd8 .. Ql8xQd8
+38. f7-f8=D .. g10-h10=D .. Qd8-i13
+39. Qf8xQh10 .. Ra10xQh10 .. j9-i9
+40. Rh1xRh10 .. c4-d4 .. i9xRh10
+41. Ne3-f5 .. d4-e4 .. Qi13-i11
+42. Nf5-g3 .. b5-d5 .. h10-g10=D
+43. e2-e3 .. d5-e5 .. Qg10-a10+#
+44. Qf1xl7 .. m6xQl7
+45. T

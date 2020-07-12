@@ -1,0 +1,52 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1436"]
+[Result "DanielSM2002: 0 - Attila76: 85 - Kelby060: 18 - Spike083: 19"]
+[Variant "FFA"]
+[Red "DanielSM2002"]
+[RedElo "1548"]
+[Blue "Attila76"]
+[BlueElo "1556"]
+[Yellow "Kelby060"]
+[YellowElo "1766"]
+[Green "Spike083"]
+[GreenElo "1576"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:28:30 GMT+0000 (UTC)"]
+[CurrentMove "95"]
+
+1. g2-g4 .. b4-d4 .. h13-h11 .. m11-k11
+2. g4-g5 .. d4-e4 .. h11-h10 .. m10-l10
+3. g5-g6 .. e4-f4 .. h10-h9 .. Bn9-m10
+4. g6-g7 .. f4-g4 .. h9-h8 .. m9-k9
+5. Ne1-g2 .. b7-d7 .. h8xg7=D .. Nn10-l9
+6. Ng2-h4 .. b8-c8 .. Qh14xNh4 .. m8-k8
+7. T .. Ba6-b7 .. Qg7-g5 .. m7-k7
+8. b5-c5 .. Ne14-f12 .. k8-j8
+9. Bb7xKh1 .. Nj14-i12 .. Bn6-l8
+10. Bh1-f3 .. Qg5xm5 .. Nn5-m7
+11. b6-d6 .. Qm5xRn4+ .. Kn7-m8
+12. d6-e6 .. Qn4xm4 .. Qn8-n7
+13. c5-d5 .. Ni12-h10 .. k7-j7
+14. Na10-c9 .. Nh10-j9 .. Bl8xQh4
+15. Ba9xh2 .. Qm4xBh4 .. Rn11-n9
+16. Qa7-b8 .. Nj9xl10+ .. Km8-n8
+17. Bh2-g3 .. g13-g12 .. Rn9-m9
+18. Bg3xQh4 .. Bf14xk9 .. j8-i8
+19. Bh4xRm9+ .. T .. Kn8xBm9
+20. g4-h4=D+ .. Km9-n9
+21. Qh4-n4 .. Nl9-j10
+22. Qn4xQn7+ .. Kn9-m9
+23. Qn7xNm7+ .. Km9-n10
+24. Ra4-n4+ .. Kn10-m11
+25. Bf3xj7 .. Km11-l11
+26. Qm7xBm10+ .. Kl11-k10
+27. Bj7xi8+ .. Kk10-j11
+28. Qm10-m8+ .. Kj11-k12
+29. Qm8xKg14 .. k11-j11
+30. Qb8-g3 .. Nj10xBi8
+31. Qg14xg12+ .. Kk12xj13
+32. Qg3-g8 .. Ni8-h10
+33. Qg8-g10+ .. Kj13-j14
+34. Qg12-j12+ .. Kj14xBi14
+35. Qg10-g14+#

@@ -1,0 +1,31 @@
+[GameNr "404"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Svante10"]
+[RedElo "1971"]
+[Blue "javicabezon"]
+[BlueElo "2012"]
+[Yellow "dust47"]
+[YellowElo "2216"]
+[Green "LinuxKernell"]
+[GreenElo "2190"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:29:29 GMT+0000 (UTC)"]
+[CurrentMove "60"]
+
+1. h2-h3 .. b6-c6 .. g13-g12 .. m9-l9
+2. d2-d4 .. Na10-c9 .. j13-j12 .. Qn8-l10
+3. Qg1-j4 .. b5-d5 .. Qh14-e11 .. Nn5-l6
+4. Nj1-i3 .. b11-d11 .. Ne14-f12 .. Ql10-i10
+5. Qj4-e9 .. b10-d10 .. Qe11-h8 .. Qi10-k8
+6. Qe9xl9 .. Ba9xe13 .. Qh8xQk8 .. Nn10xQl9
+7. Bi1xb8 .. Qa7xBb8 .. Qk8xQb8+ .. m5-l5
+8. k2-k3 .. Ka8xQb8 .. Bf14xBe13 .. m11-k11
+9. Ne1-f3 .. d11-e11 .. Nf12-h11 .. k11xj12
+10. e2-e3 .. e11-f11 .. i13-i12 .. Nl6-k4
+11. Bf1xBa6 .. Ra11xBa6 .. Be13xRn4 .. Nk4xj2+
+12. Kh1-h2 .. f11xg12 .. h13xg12 .. Rn11-i11
+13. Rk1-j1 .. Na5-c4 .. k13xj12 .. Ri11xi12
+14. Rj1xNj2 .. Nc4xe3 .. Nj14xRi12 .. Bn6xk3
+15. f2xNe3 .. Ra6-a11 .. Rk14xBk3 .. R

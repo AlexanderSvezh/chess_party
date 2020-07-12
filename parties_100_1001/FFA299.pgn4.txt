@@ -1,0 +1,57 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "299"]
+[Result "josegodoy77: 31 - KRW16670: 6 - Cristhian172: 92 - LamHTo: 14"]
+[Variant "FFA"]
+[Red "josegodoy77"]
+[RedElo "1584"]
+[Blue "KRW16670"]
+[BlueElo "1489"]
+[Yellow "Cristhian172"]
+[YellowElo "1516"]
+[Green "LamHTo"]
+[GreenElo "1483"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:03:40 GMT+0000 (UTC)"]
+[CurrentMove "99"]
+
+1. h2-h4 .. b7-d7 .. h13-h11 .. m8-k8
+2. g2-g4 .. d7-e7 .. h11-h10 .. m7-k7
+3. Bf1-g2+ .. b6-c6 .. h10-h9 .. Bn9xBg2+
+4. Qg1xBg2 .. e7-f7 .. h9-h8 .. Qn8-m8+
+5. Nj1-k3 .. b4-d4 .. Nj14-i12 .. Qm8xQg2+
+6. Ne1xQg2 .. b8-d8 .. h8-h7=D .. R
+7. O-O-O .. Na5-c4 .. Qh7xk7
+8. h4-h5 .. Nc4xd2+ .. Qk7xKn7
+9. Kf1-e1 .. Nd2-e4 .. Bi14xBa6
+10. h5-h6 .. Qa7xBa6 .. Qn7xf7
+11. f2-f3 .. Ne4-d6 .. Qf7-f8
+12. Bi1-f4 .. b5-d5 .. Qf8xd8+
+13. Rk1-h1 .. Ka8-b7 .. Qh14-h7+
+14. g4-g5 .. Ba9-c7 .. Qh7xBc7+#
+15. h6-h7 .. O-O-O
+16. g5-g6 .. Qd8xj2
+17. Bf4-i7 .. Qj2xNk3
+18. h7-h8=D .. Rh14xQh8
+19. Bi7xRh8 .. Qk3xk2
+20. g6-g7 .. Ni12-h10
+21. Bh8-i9 .. Nh10-g8
+22. i2-i3 .. Ne14-f12
+23. Bi9-k11 .. Qc7-e7
+24. Ng2-f4 .. Qe7-e3
+25. Rh1-h14+ .. Ki14xRh14
+26. Rg1-h1+ .. Kh14-i14
+27. Bk11-l10 .. Qe3xNf4
+28. Bl10xQf4 .. g13-g11
+29. Rh1-h8 .. Ng8-f6
+30. Bf4-e5 .. Qk2-k7+
+31. Ke1-d2 .. Qk7xg7
+32. Be5xNf6 .. Qg7xBf6
+33. Rh8-h3 .. Qf6-f4+
+34. Kd2-e1 .. Bf14-l8+
+35. Ke1-f1 .. g11-g10
+36. i3-i4 .. g10-g9
+37. i4-i5 .. g9-g8
+38. i5-i6 .. g8-g7=D
+39. Rh3-h7 .. Qf4-i1+
+40. R

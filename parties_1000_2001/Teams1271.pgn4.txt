@@ -1,0 +1,18 @@
+[GameNr "1271"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "stlaz123"]
+[RedElo "1515"]
+[Blue "drteddyshortears"]
+[BlueElo "1479"]
+[Yellow "skurbfloor"]
+[YellowElo "1515"]
+[Green "gnojham2"]
+[GreenElo "532"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:24:25 GMT+0000 (UTC)"]
+[CurrentMove "8"]
+
+1. h2-h4 .. b8-d8 .. g13-g11 .. m9-k9
+2. Bi1xBa9 .. Ka8xBa9 .. Qh14xQa7+ .. R

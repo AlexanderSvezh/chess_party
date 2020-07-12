@@ -1,0 +1,47 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1065"]
+[Result "Lucca2156: 14 - DanielSM2002: 44 - Luis_Eduardo_M: 1 - scooda: 71"]
+[Variant "FFA"]
+[Red "Lucca2156"]
+[RedElo "1511"]
+[Blue "DanielSM2002"]
+[BlueElo "1517"]
+[Yellow "Luis_Eduardo_M"]
+[YellowElo "1500"]
+[Green "scooda"]
+[GreenElo "1570"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:35:12 GMT+0000 (UTC)"]
+[CurrentMove "103"]
+
+1. g2-g4 .. b5-c5 .. g13-g12 .. m7-k7
+2. g4-g5 .. Ba6-b5 .. Bf14-h12 .. k7-j7
+3. g5-g6 .. b10-c10 .. Ne14-f12 .. j7-i7
+4. g6-g7 .. Ba9xe13 .. Rd14-e14 .. i7-h7
+5. Nj1-i3 .. Be13-b10 .. Re14-e8 .. Nn5-l4
+6. j2-j3 .. Bb5xRe8 .. Nj14-i12 .. Qn8-l6
+7. Bi1-j2 .. Be8-b5 .. Bh12-e9 .. Ql6-k6
+8. Bf1xQk6 .. Na10-c9 .. Be9xg7 .. Nl4xBk6
+9. Qg1xBg7 .. O-O .. h13-h11 .. Nk6-j8
+10. O-O .. b7-d7 .. g12-g11 .. Nn10-l9
+11. h2-h4 .. b8-c8 .. Nf12-g10 .. m8-k8
+12. h4-h5 .. Bb5xe2 .. Ng10-i9 .. Bn9-l7
+13. Ne1-g2 .. Na5-c6 .. h11-h10 .. O-O-O
+14. Rd1-e1 .. Be2-b5 .. Bi14-g12 .. m4-l4
+15. Ng2-e3 .. Nc9-d11 .. Qh14-g13 .. Bn6xQg13
+16. h5-h6 .. Nd11-e13+ .. Kg14-h13 .. Bg13xQa7
+17. Qg7-g3 .. Ra4xBa7 .. j13-j12 .. m6-k6
+18. f2-f4 .. Ne13xBg12 .. k13-k11 .. m11-l11
+19. f4-f5 .. Ng12-e11 .. Ni12-j10 .. Rn4-n6
+20. f5-f6 .. Bb10xf6 .. T .. Nj8-h9
+21. Qg3-f3 .. Bf6-b10 .. Nh9xg11
+22. Qf3-f11 .. Ne11-d9 .. Ng11xKh13
+23. T .. d7-e7 .. k6-j6
+24. Nc6-e5 .. Bl7-h3
+25. Bb5-d7 .. Bh3xBd7
+26. Ra7xBd7 .. h7-g7=D
+27. Rd7xd2 .. Qg7xNe5
+28. Rd2xi2 .. Qe5-f5
+29. Ri2xBj2 .. Qf5xKj1
+30. Rj2xQj1 .. R

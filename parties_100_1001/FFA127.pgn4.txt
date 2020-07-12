@@ -1,0 +1,45 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "127"]
+[Result "mgfprojekt: 5 - King1258: 10 - Sen-24: 31 - SMARTandHANDSOME2018: 68"]
+[Variant "FFA"]
+[Red "mgfprojekt"]
+[RedElo "1500"]
+[Blue "King1258"]
+[BlueElo "1500"]
+[Yellow "Sen-24"]
+[YellowElo "1402"]
+[Green "SMARTandHANDSOME2018"]
+[GreenElo "1526"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:17:51 GMT+0000 (UTC)"]
+[CurrentMove "73"]
+
+1. h2-h3 .. b8-c8 .. h13-h11 .. m8-k8
+2. Bi1xBa9 .. Ka8xBa9 .. h11-h10 .. Bn9-m8+
+3. Nj1-i3 .. Na10-c9 .. i13-i12 .. k8-j8
+4. g2-g4 .. Na5-c6 .. h10-h9 .. Bm8xi12+
+5. f2-f3 .. Nc9-d7 .. j13xBi12 .. j8-i8
+6. Ne1-g2 .. b7-c7 .. h9-h8 .. m7-l7
+7. Ng2-h4 .. c8-d8 .. h8-h7=D .. i8xQh7
+8. T .. Ba6xBi14 .. Qh14xh7 .. Qn8xNi3
+9. T .. Qh7-e4 .. Qi3-h2
+10. Qe4xf3 .. Nn10-l9
+11. g13-g11 .. Rn11-n8
+12. Bf14-i11 .. Bn6xBi11
+13. Qf3xNc6 .. Bi11-d6
+14. Qc6-a8 .. Bd6xc7
+15. g11-g10 .. Bc7xKa9
+16. g10-g9 .. Rn8-g8
+17. Qa8xKh1 .. Qh2xQh1
+18. Nj14-k12 .. Rg8xg9+
+19. Kg14-h13 .. Ba9xb10
+20. Ne14-f12 .. Bb10xe13
+21. Rd14-g14 .. Rg9xRg14
+22. Nf12xRg14 .. Qh1-b7+
+23. Kh13-i13 .. Be13-g11+
+24. Ki13-j12 .. m11-k11+
+25. Kj12-j13 .. Qb7-h13+
+26. Ng14-i13 .. Qh13xf13
+27. Nk12-i11 .. Qf13xNi13+
+28. Kj13-k12 .. Qi13xi12+#

@@ -1,0 +1,44 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "413"]
+[Result "deejay_love: 26 - marcosdelyra: 50 - athiny2020: 15 - sumat777: 68"]
+[Variant "FFA"]
+[Red "deejay_love"]
+[RedElo "1951"]
+[Blue "marcosdelyra"]
+[BlueElo "1853"]
+[Yellow "athiny2020"]
+[YellowElo "1831"]
+[Green "sumat777"]
+[GreenElo "2018"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:35:12 GMT+0000 (UTC)"]
+[CurrentMove "93"]
+
+1. g2-g4 .. b6-d6 .. e13-e12 .. Nn5-l6
+2. Nj1-i3 .. b5-c5 .. Bf14-e13 .. m9-k9
+3. g4-g5 .. Ba6-b5 .. Ne14-f12 .. k9-j9
+4. f2-f3 .. Na10-c9 .. O-O .. j9-i9
+5. k2-k4 .. b11-c11 .. Nj14-i12 .. i9-h9
+6. k4-k5 .. Bb5-c4 .. Nf12-h11 .. Nl6-k8
+7. j2-j3 .. b8-c8 .. Ni12-g11 .. Qn8-m9
+8. h2-h3 .. Bc4-b5 .. Nh11-g9 .. m7-l7
+9. Bi1-g3 .. Ba9-b8 .. i13-i11 .. Qm9xQh14
+10. Bg3-i1 .. Nc9-e10 .. Rf14xQh14 .. m4-l4
+11. k5-k6 .. Ne10xNg9 .. i11-i10 .. Bn6-m7
+12. Bi1-h2 .. Bb8xg13 .. Rh14-g14 .. Bm7-l6
+13. k6xl7 .. Bg13-f12 .. i10xh9 .. m8xl7
+14. Ni3-k4 .. Bf12xBe13 .. Ke14xBe13 .. Bl6xNg11+
+15. Bh2-i1 .. Qa7-g13 .. Ke13-e14 .. m5-l5
+16. e2-e3 .. Qg13xRg14+# .. l5xNk4
+17. Bf1xBb5 .. O-O .. k4xj3
+18. i2-i3 .. Ng9-f7 .. Bg11-l6
+19. Bb5xRa4 .. Qg14xg5 .. Nn10-l9
+20. Qg1xQg5 .. Nf7xQg5 .. Bl6xi3
+21. Rk1xNk8 .. Ng5xh3 .. l7xRk8
+22. Bi1-g3 .. Nh3-f2+ .. Bi3-h4
+23. Bg3xNf2 .. Na5-c6 .. Bh4xBf2
+24. Ne1-g2 .. Ra9xBa4 .. l4-k4
+25. R .. c11-d11 .. Bn9xNg2
+26. d11-e11 .. Bg2xKh1
+27. R

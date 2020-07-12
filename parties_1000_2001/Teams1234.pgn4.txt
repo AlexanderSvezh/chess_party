@@ -1,0 +1,25 @@
+[GameNr "1234"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Chess_LostSyle"]
+[RedElo "2424"]
+[Blue "leorastelli"]
+[BlueElo "2209"]
+[Yellow "Butnskala"]
+[YellowElo "2119"]
+[Green "zserbo0314"]
+[GreenElo "2403"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:19:28 GMT+0000 (UTC)"]
+[CurrentMove "33"]
+
+1. h2-h3 .. b6-c6 .. g13-g12 .. m9-l9
+2. d2-d4 .. Qa7-b6 .. k13-k11 .. Nn5-l6
+3. Qg1-j4 .. b7-c7 .. Qh14-e11 .. m4-k4
+4. Nj1-k3 .. Na10-c9 .. d13-d11 .. m10-k10
+5. Qj4-f8 .. Ba6-c8 .. Ne14-f12 .. Qn8-m9
+6. Bi1-g3 .. Na5-b7 .. Qe11-i7 .. m8-l8
+7. Bg3xl8 .. Nb7-d6 .. d11-d10 .. Qm9-m8
+8. Qf8-f4 .. Nc9-d7 .. d10-d9 .. Nl6-k8
+9. T

@@ -1,0 +1,60 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "371"]
+[Result "katashimori: 64 - cerebropc: 21 - mogulskier82: 59 - Alvaro_Ayala: 23"]
+[Variant "FFA"]
+[Red "katashimori"]
+[RedElo "1923"]
+[Blue "cerebropc"]
+[BlueElo "1850"]
+[Yellow "mogulskier82"]
+[YellowElo "1826"]
+[Green "Alvaro_Ayala"]
+[GreenElo "1844"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:29:12 GMT+0000 (UTC)"]
+[CurrentMove "152"]
+
+1. g2-g4 .. b6-d6 .. e13-e12 .. Nn5-l6
+2. g4-g5 .. d6-e6 .. Bf14-e13 .. Nn10-l9
+3. g5-g6 .. Qa7-b6 .. Ne14-f12 .. m5-l5
+4. Ne1-f3 .. b11-c11 .. O-O .. Bn6-m5
+5. g6-g7 .. e6-f6 .. h13-h11 .. Nl6-k4
+6. k2-k3 .. Na10-c9 .. Rf14-g14 .. Nk4xj2+
+7. Bi1xNj2 .. f6-g6 .. g13-g11 .. m4-k4
+8. g7-g8=D .. g6-h6=D .. g11-g10 .. O-O
+9. d2-d3 .. b10-c10 .. Bi14-f11 .. m10-l10
+10. Qg8-g4 .. b8-c8 .. k13-k12 .. Rn11-n10
+11. Bf1-h3 .. Ba9-b10 .. Nj14-h13 .. Nl9-k7
+12. Qg1-g2 .. O-O .. i13-i11 .. Bn9-m10
+13. Qg4-i4 .. b7-c7 .. j13-j11 .. Bm10-l9
+14. Nj1-i3 .. c7-d7 .. h11-h10 .. m11-k11
+15. Rd1-f1 .. Na5-b7 .. h10-h9 .. Bl9-k8
+16. Ni3xk4 .. b4-c4 .. i11-i10 .. l5xNk4
+17. Qi4xk4 .. Ra9-a8 .. Nf12-h11 .. Bk8-l7
+18. Bh3xBl7 .. Nb7-a9 .. Nh13-f12 .. m8xBl7
+19. Qg2-g4 .. Ba6-b7 .. Nf12-h13 .. m6-l6
+20. Qk4-m4+ .. Bb7xNf3+ .. Be13xNk7 .. Kn5-m6
+21. e2xBf3 .. c4xd3 .. Bk7-e13 .. Km6-n7
+22. Qg4xRa4 .. Ra8xQa4 .. Nh13-f12 .. Kn7-m8
+23. Qm4xRa4 .. Qh6-c6 .. g10-g9 .. Km8-n9
+24. Qa4-g4 .. Qb6-b7 .. Nf12-e10 .. Qn8-l8
+25. Kh1-i1 .. Nc9xNe10 .. Bf11xNe10 .. l6-k6
+26. Bj2xBb10 .. Ka10xBb10 .. Nh11-f12 .. Bm5-l6
+27. Qg4-g5+ .. Kb10-b11 .. Be13xc11 .. k6-j6
+28. Qg5-b10+# .. Bc11xQb10 .. j6-i6
+29. Rk1-j1 .. Be10xi6 .. Ql8-i5
+30. h2-h4 .. Bi6-m10+ .. Rn10xBm10
+31. h4xQi5 .. g9-g8 .. Kn9-n10
+32. Rf1-h1 .. g8-g7=D .. Kn10-n11
+33. f3-f4 .. Qg7xl7 .. Kn11-m11
+34. Rj1-j6 .. Ql7-g2 .. Rm10-n10
+35. f4-f5 .. Qg2xf2 .. Rn6-n7
+36. Rj6xBl6 .. Qf2xi5 .. m7xRl6
+37. f5-f6 .. Bb10xf6 .. Rn7-k7
+38. Rh1-f1 .. Bf6-e5+ .. Rk7-f7
+39. R .. Be5xKi1 .. Rf7xNf12
+40. Qi5-m5 .. Rn10-m10
+41. Qm5xl6 .. Rf12xk12
+42. Rk14xRk12 .. Km11-l11
+43. Rk12-k14 .. R

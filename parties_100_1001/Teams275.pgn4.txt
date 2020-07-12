@@ -1,0 +1,25 @@
+[GameNr "275"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "glutenfree55"]
+[RedElo "1845"]
+[Blue "GDII"]
+[BlueElo "2343"]
+[Yellow "nish_14"]
+[YellowElo "1369"]
+[Green "bazukas"]
+[GreenElo "2411"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:54:46 GMT+0000 (UTC)"]
+[CurrentMove "35"]
+
+1. h2-h3 .. b6-d6 .. j13-j12 .. m9-k9
+2. d2-d4 .. Qa7-b6 .. g13-g12 .. Qn8-l10
+3. Qg1-j4 .. Qb6-c6 .. Bf14-g13 .. Ql10-l5
+4. k2-k4 .. Qc6xRk14 .. Bg13xb8 .. Ql5-i8
+5. Bi1xd6 .. Ba9xBb8 .. Ne14-d12 .. Qi8-d8
+6. Bd6xBb8 .. Qk14xNj14 .. Nd12-c10 .. Qd8-c8
+7. Qj4-f4 .. b11xNc10 .. O-O .. Qc8-e8
+8. Bb8-c9 .. Qj14xBi14 .. Qh14xQi14 .. Qe8xe13+
+9. Bc9xb10 .. Ra11-e11 .. #

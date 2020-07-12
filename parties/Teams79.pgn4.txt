@@ -1,0 +1,26 @@
+[GameNr "79"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "adamg2156"]
+[RedElo "1420"]
+[Blue "Austin1359"]
+[BlueElo "1500"]
+[Yellow "7Mana"]
+[YellowElo "1843"]
+[Green "oscarbacca"]
+[GreenElo "1706"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 16:52:36 GMT+0000 (UTC)"]
+[CurrentMove "39"]
+
+1. Ne1-f3 .. b8-d8 .. h13-h12 .. m7-l7
+2. Nf3-g5 .. Ba9-f4 .. Qh14-h13 .. Qn8-l6
+3. Ng5-f7 .. b9-c9 .. Ne14-f12 .. Ql6-g6
+4. Nf7-h8 .. Bf4-i7 .. Qh13-k10 .. Qg6xQk10+
+5. Nh8-f9 .. Na10-b8 .. j13-j11 .. Qk10xj11+
+6. Nf9-e11 .. Bi7xNe11 .. i13-i12 .. Qj11-j8
+7. g2-g4 .. Na5-c6 .. Bi14xm10 .. Bn9xBm10
+8. Bf1-i4 .. b7-d7 .. Nj14-k12 .. Qj8-j13
+9. Bi4-f7 .. d8-e8 .. Nk12xm11 .. Qj13xRk14+
+10. Bf7-k12 .. Be11xNf12 .. #

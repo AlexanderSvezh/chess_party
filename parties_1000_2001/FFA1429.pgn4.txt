@@ -1,0 +1,46 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1429"]
+[Result "JRB2009: 0 - iamacknow: 53 - WALLSTBEETS: 1 - Tonet33: 43"]
+[Variant "FFA"]
+[Red "JRB2009"]
+[RedElo "1422"]
+[Blue "iamacknow"]
+[BlueElo "1666"]
+[Yellow "WALLSTBEETS"]
+[YellowElo "1484"]
+[Green "Tonet33"]
+[GreenElo "1503"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:23:50 GMT+0000 (UTC)"]
+[CurrentMove "87"]
+
+1. g2-g4 .. b7-d7 .. g13-g11 .. m10-l10
+2. g4-g5 .. d7-e7 .. Ne14-f12 .. m9-k9
+3. g5-g6 .. b10-c10 .. Bf14-g13 .. m7-l7
+4. g6-g7 .. e7-f7 .. O-O .. m8-k8
+5. Bf1-g2+ .. b6-c6 .. h13-h11 .. Bn6-m7
+6. Bg2-e4 .. b5-d5 .. h11-h10 .. Nn5-l6
+7. Be4-k10+ .. Ba6xe2 .. h10-h9 .. Nn10-m8
+8. Bk10-l9 .. Be2xRd1 .. j13-j12 .. Rn11-n10
+9. Qg1-g5 .. Na10-c9 .. g11-g10 .. O-O
+10. h2-h4 .. Qa7xf2 .. g10-g9 .. k8-j8
+11. Ne1-g2 .. Bd1xBl9 .. h9-h8 .. Nm8-k7
+12. R .. Qf2xNg2 .. h8xg7=D .. Nk7xBl9
+13. Qg2xKh1 .. Qg7xf7 .. Qn8-m9
+14. b4-d4 .. g9-g8 .. l7-k7
+15. d4-e4 .. g8-g7=D .. Qm9-l8
+16. Na5-c4 .. Qf7-b7+ .. j8-i8
+17. Nc9xQb7 .. T .. Ql8-j8
+18. Qh1-f3 .. i8-h8
+19. Qf3-f8 .. h8-g8=D
+20. Qf8-d10 .. k7-j7
+21. Qd10xd13 .. Qg8xQg7
+22. Qd13xKe14 .. j7-i7
+23. Ba9xe13 .. i7-h7
+24. Be13xNf12 .. Qj8xBf12
+25. Qe14-e12 .. Qg7-f8
+26. Qe12-e8 .. Qf8xQe8
+27. Nb7-d8 .. h7-g7=D
+28. Nd8-f7 .. Qg7xNf7
+29. Nc4-e5 .. Qf12xb8+#

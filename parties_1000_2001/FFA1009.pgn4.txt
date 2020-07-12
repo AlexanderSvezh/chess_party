@@ -1,0 +1,39 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1009"]
+[Result "yourmum1231: 15 - 684P: 65 - WilliCastro: 0 - danipersin: 16"]
+[Variant "FFA"]
+[Red "yourmum1231"]
+[RedElo "1500"]
+[Blue "684P"]
+[BlueElo "1828"]
+[Yellow "WilliCastro"]
+[YellowElo "1425"]
+[Green "danipersin"]
+[GreenElo "1488"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:11:42 GMT+0000 (UTC)"]
+[CurrentMove "74"]
+
+1. h2-h3 .. b7-d7 .. h13-h11 .. m8-k8
+2. Ne1-f3 .. b9-d9 .. g13-g12 .. k8-j8
+3. Nj1-k3 .. Ba6-c8 .. Bf14-j10 .. j8-i8
+4. Nk3-j1 .. d7-e7 .. f13-f12 .. i8-h8
+5. Nf3-h4 .. b10-c10 .. Ne14-d12 .. h8-g8=D
+6. g2-g4 .. Bc8-b9 .. Nj14-k12 .. Qg8-m8+
+7. Qg1-h2 .. b11-c11 .. i13-i12 .. Qm8-k8
+8. Qh2-g3 .. c11xNd12 .. R .. m7-l7
+9. f2-f3 .. c10-d10 .. Qn8-l6
+10. Bf1-g2 .. Bb9xKg14 .. Kn7-n8
+11. Nj1-i3 .. Bg14-b9 .. Ql6xNi3
+12. j2xQi3 .. d12xe13 .. l7-k7
+13. Bi1-j2 .. e13-f13 .. k7-j7
+14. Bj2-l4 .. f13-g13 .. m5xBl4
+15. k2-k3 .. g13-h13=D .. j7-i7
+16. Rk1-i1 .. Qh13xh11 .. Qk8xQh11
+17. k3xl4 .. Ra11xQh11 .. Bn9xh3
+18. Bg2xBh3 .. Rh11-h7 .. Bn6-k9
+19. Bh3-k6 .. d10-e10 .. Nn5xl4
+20. i3-i4 .. e10-f10 .. Nl4xBk6
+21. i2-i3 .. e7-f7 .. Nk6-j8
+22. T .. Rh7xi7 .. T

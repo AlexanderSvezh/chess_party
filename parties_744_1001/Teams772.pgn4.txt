@@ -1,0 +1,18 @@
+[GameNr "772"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Snooby123"]
+[RedElo "1874"]
+[Blue "Xchess69xxx"]
+[BlueElo "2110"]
+[Yellow "Great-Gazoo"]
+[YellowElo "1350"]
+[Green "owljay"]
+[GreenElo "1929"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:56:31 GMT+0000 (UTC)"]
+[CurrentMove "7"]
+
+1. h2-h3 .. b7-c7 .. h13-h12 .. m9-l9
+2. Bi1-g3 .. Ba6xBi14 .. R

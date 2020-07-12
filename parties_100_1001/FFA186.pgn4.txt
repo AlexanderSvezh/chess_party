@@ -1,0 +1,68 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "186"]
+[Result "W371ER: 30 - Guiome06: 2 - randomnezz86: 69 - Muriqi: 36"]
+[Variant "FFA"]
+[Red "W371ER"]
+[RedElo "1498"]
+[Blue "Guiome06"]
+[BlueElo "1515"]
+[Yellow "randomnezz86"]
+[YellowElo "1645"]
+[Green "Muriqi"]
+[GreenElo "1616"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:44:21 GMT+0000 (UTC)"]
+[CurrentMove "151"]
+
+1. h2-h4 .. b5-d5 .. h13-h11 .. m8-k8
+2. h4-h5 .. b4-d4 .. Bi14-h13+ .. m9-l9
+3. h5-h6 .. b8-c8 .. Ne14-f12 .. Nn10-m8
+4. h6-h7 .. d5-e5 .. Nf12-g10 .. m6-l6
+5. g2-g3 .. e5-f5 .. i13-i11 .. m7-k7
+6. Bf1-k6 .. f5-g5 .. j13-j12 .. Nn5-m7
+7. g3-g4 .. Qa7-d10 .. Bh13-f11 .. Nm7xBk6
+8. Qg1-i3 .. Qd10-h6+ .. Ng10-i9 .. Nm8-l10
+9. Bi1-h2 .. g5-h5=D .. h11-h10 .. Nk6-j8
+10. g4xQh5 .. Qh6xh5 .. Bf11-e12 .. Bn9-l7
+11. h7-h8=D .. Qh5xQh8 .. Ni9-g10 .. Qn8-m8
+12. Qi3-j3+ .. Qh8-d8 .. Nj14-h13 .. m4-k4
+13. Qj3-i3 .. Qd8-d5+ .. g13-g11 .. m5-k5
+14. f2-f3 .. b6-d6 .. Qh14-f12 .. k4-j4
+15. Qi3-f6 .. Na10-c9 .. Ng10-e11 .. Bn6-m7
+16. Qf6-h6 .. d6-e6 .. Bf14-g13 .. j4-i4
+17. Qh6-d10 .. Ba9-b8 .. d13-d12 .. i4-h4
+18. Qd10xb10 .. T .. Ne11-d9 .. k7-j7
+19. Qb10-a9 .. Nd9-c7 .. j7-i7
+20. Bh2xNc7 .. g11-g10 .. i7-h7
+21. Qa9xKa8 .. g10-g9 .. h7-g7=D
+22. Qa8-a7 .. O-O .. Bl7-g2+
+23. Ne1xBg2 .. k13-k11 .. Qm8xNg2+
+24. Kh1-i1 .. k11xNl10 .. Qg7xBc7+
+25. Nj1-h2 .. Qf12-g12 .. Qc7xNh2+
+26. Ki1-j1 .. Be12-l5+ .. Kn7-n8
+27. Qa7xb7 .. g9-g8 .. k5-j5
+28. k2-k4 .. Bl5-i8 .. Qh2xi2+
+29. Kj1-k2 .. g8-g7=D .. Qi2xBi8
+30. Qb7-c6 .. Qg7xQg2 .. Rn4xk4+
+31. Kk2-j3 .. Qg2xj5+# .. Rk4-k5
+32. Qj5-g8 .. Qi8-j7
+33. h10-h9 .. Nj8xh9
+34. Rf14-g14 .. Nh9-f10
+35. Rk14xk8+ .. Rk5xRk8
+36. Qg8-g4 .. Qj7-k7
+37. Qg12-g10 .. Nf10-d11
+38. Nh13-f12 .. Nd11-e9
+39. Qg10-g9 .. Ne9-f7
+40. Qg9-g10 .. Nf7-h8
+41. Qg10-g12 .. Nh8-j7
+42. i11-i10 .. m11xl10
+43. Bg13xBm7+ .. Kn8xBm7
+44. Qg12-h12+ .. Km7-m8
+45. Qg4xh4 .. Qk7xQh4
+46. Qh12xQh4 .. Rn11-n6
+47. Qh4-m4+ .. Km8-n9
+48. Qm4xNj7 .. Rk8-j8
+49. Qj7xRj8 .. Rn6-m6
+50. Qj8-j5+ .. Rm6-m8
+51. Rg14-g8 .. T

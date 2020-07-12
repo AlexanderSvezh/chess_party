@@ -1,0 +1,50 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "647"]
+[Result "ChessRafa2018: 4 - Lalande21185: 60 - Oleg_Ukraine: 14 - Eric_1931: 35"]
+[Variant "FFA"]
+[Red "ChessRafa2018"]
+[RedElo "1747"]
+[Blue "Lalande21185"]
+[BlueElo "1731"]
+[Yellow "Oleg_Ukraine"]
+[YellowElo "1739"]
+[Green "Eric_1931"]
+[GreenElo "1774"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:40:46 GMT+0000 (UTC)"]
+[CurrentMove "112"]
+
+1. f2-f4 .. Na10-c9 .. e13-e12 .. m8-k8
+2. f4-f5 .. b11-c11 .. Bf14-e13 .. k8-j8
+3. h2-h3 .. b10-c10 .. h13-h11 .. Bn9-m8+
+4. g2-g4 .. Nc9-d11 .. Kg14-f14 .. j8-i8
+5. Ne1-f3 .. Nd11xBe13 .. Kf14xNe13 .. i8-h8
+6. f5-f6 .. b5-c5 .. Ne14-f12 .. h8-g8=D
+7. Nj1-i3 .. Na5-c6 .. Rd14-g14 .. Qg8-l8
+8. j2-j3 .. c11-d11+ .. Ke13-e14 .. Bm8xRg14
+9. Bi1-j2 .. d11-e11 .. Nf12xBg14 .. m4-l4
+10. k2-k4 .. Ba6-b5 .. Ng14-e13 .. m5-k5
+11. d2-d3 .. b8-c8 .. g13-g11 .. Bn6-m5
+12. g4-g5 .. Qa7-b8 .. h11-h10 .. Nn5-l6
+13. g5-g6 .. O-O-O .. j13-j11 .. O-O
+14. f6-f7 .. Nc6-e5 .. Bi14xm10 .. Nn10-l9
+15. Nf3xNe5 .. Qb8xNe5 .. i13-i12 .. Rn11-n10
+16. g6-g7 .. Bb5-c6+ .. Bm10-j13 .. Ql8-f2
+17. e2-e4 .. Qe5-b8 .. h10-h9 .. Qf2xQg1+
+18. Kh1xQg1 .. Qb8-h2+# .. h9-h8 .. Nl6-k8
+19. Qh2-b8 .. h8xg7=D .. m7-k7
+20. b9-d9 .. Nj14-h13 .. Nl9-j10
+21. c10-d10 .. Ne13-f11 .. Qn8-n7
+22. d10-e10 .. Nf11-g13 .. m9-k9
+23. Qb8-b10 .. Qh14-f14 .. k7-j7
+24. Qb10-c9 .. Qf14-i14 .. j7-i7
+25. e11-f11 .. Ng13-h11 .. i7-h7
+26. Bc6xNh11 .. i12xBh11 .. Nj10-i8
+27. Qc9-b10 .. Qi14-f14 .. Ni8xQg7
+28. Qb10-d8 .. k13-k12 .. Rn10-n8
+29. Ba9xQf14 .. T .. Ng7-h9
+30. Qd8-b10 .. h7-g7=D
+31. Qb10-e13 .. Nk8-j10
+32. Qe13xKe14 .. k9-j9
+33. R

@@ -1,0 +1,23 @@
+[GameNr "1070"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Akusu"]
+[RedElo "1837"]
+[Blue "leorastelli"]
+[BlueElo "2230"]
+[Yellow "paloniaalmonia"]
+[YellowElo "1566"]
+[Green "oscarbacca"]
+[GreenElo "1698"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:24:44 GMT+0000 (UTC)"]
+[CurrentMove "27"]
+
+1. h2-h3 .. b7-c7 .. h13-h11 .. m8-l8
+2. Qg1-k5 .. Na5-c6 .. Bi14-h13+ .. Bn9-m8
+3. Ne1-f3 .. Ba6xBh13+ .. Nj14xBh13 .. Bm8xNh13+
+4. Qk5xb5 .. Na10-c9 .. Qh14xBh13+ .. Qn8-m8
+5. Qb5-k5 .. Ra4-a5 .. Ne14-f12 .. Nn5-l6
+6. Qk5-h2 .. Nc9-d11 .. Nf12xNd11 .. Qm8xQh13+
+7. Qh2xc7 .. Qa7-b7 .. #

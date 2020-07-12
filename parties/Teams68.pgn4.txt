@@ -1,0 +1,19 @@
+[GameNr "68"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "7Mana"]
+[RedElo "1843"]
+[Blue "oscarbacca"]
+[BlueElo "1706"]
+[Yellow "deejay_love"]
+[YellowElo "3039"]
+[Green "soisescoriasz"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 16:47:16 GMT+0000 (UTC)"]
+[CurrentMove "12"]
+
+1. h2-h3 .. b7-c7 .. h13-h12 .. m4-k4
+2. Qg1-k5 .. Ba6xBi14 .. Qh14xBi14 .. m6-l6
+3. Qk5-l5+ .. Qa7-b7 .. Qi14xQb7+ .. #

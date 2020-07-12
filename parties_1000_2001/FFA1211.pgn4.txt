@@ -1,0 +1,37 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1211"]
+[Result "jpkoury: 30 - Cdbaron2: 7 - RhyeArpad: 34 - PageBrix: 41"]
+[Variant "FFA"]
+[Red "jpkoury"]
+[RedElo "1915"]
+[Blue "Cdbaron2"]
+[BlueElo "1740"]
+[Yellow "RhyeArpad"]
+[YellowElo "1760"]
+[Green "PageBrix"]
+[GreenElo "1717"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:14:36 GMT+0000 (UTC)"]
+[CurrentMove "70"]
+
+1. j2-j3 .. b7-d7 .. i13-i11 .. m8-k8
+2. Bi1-j2 .. d7-e7 .. i11-i10 .. k8-j8
+3. Nj1-i3 .. e7-f7 .. Qh14-i13 .. j8-i8
+4. O-O .. f7-g7 .. i10-i9 .. Nn10-l9
+5. e2-e3 .. g7-h7=D .. j13-j12 .. i8xQh7
+6. Bf1-e2 .. Qa7xh7 .. i9-i8 .. Bn9xg2+
+7. f2-f4 .. Qh7-b7 .. i8-i7=D .. Bg2xQb7+
+8. Be2xb5 .. Na5xBb7 .. Qi13xb6 .. Nn5-l6
+9. Bb5xRa4 .. Nb7-c5 .. Nj14-i12 .. Qn8-k8
+10. Ne1-g2 .. Ba6xh13+ .. Bi14xBh13 .. Qk8-f3+
+11. d2-d4 .. Nc5-e4 .. Qb6-a7+# .. O-O-O
+12. Ba4xNi12 .. Bh13xBi12 .. m7-l7
+13. k2-k4 .. Bi12xNl9 .. Qf3xBl9+
+14. h2-h4 .. Kg14-h14 .. Ql9-h9+
+15. h4-h5 .. Kh14-i13 .. Qh9-e9+
+16. h5-h6 .. Ki13-j13 .. Qe9-f9+
+17. h6xQi7 .. Kj13-i13 .. Rn8-i8+
+18. Ni3-h5 .. Ki13-h14 .. Qf9xRk14+
+19. Ng2-i3 .. Kh14-h13 .. Qk14-i14+#
+20. Ni3-j5 .. R

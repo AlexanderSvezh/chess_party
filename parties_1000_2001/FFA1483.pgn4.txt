@@ -1,0 +1,50 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1483"]
+[Result "LYM9: 7 - juanpidanielramirez: 36 - Hhhhhhhh999: 10 - MAZTI: 69"]
+[Variant "FFA"]
+[Red "LYM9"]
+[RedElo "1664"]
+[Blue "juanpidanielramirez"]
+[BlueElo "1500"]
+[Yellow "Hhhhhhhh999"]
+[YellowElo "1500"]
+[Green "MAZTI"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:47:34 GMT+0000 (UTC)"]
+[CurrentMove "95"]
+
+1. g2-g4 .. b7-d7 .. g13-g11 .. m8-k8
+2. Ne1-f3 .. d7-e7 .. Nj14-i12 .. Bn9xBf1
+3. Rd1xBf1 .. e7-f7 .. Ne14-f12 .. Nn10-l9
+4. g4-g5 .. f7-g7 .. h13-h11 .. Nn5-l6
+5. g5-g6 .. Ba6xBi14 .. Rk14xBi14 .. m7-k7
+6. Nj1-i3 .. b8-c8 .. h11-h10 .. Bn6xBf14
+7. e2-e4 .. Na5-c6 .. Rd14xBf14 .. O-O
+8. d2-d4 .. Nc6-e7 .. T .. Nl9-j10
+9. e4-e5 .. Qa7xNf12 .. Nj10xNi12
+10. h2-h4 .. Qf12xNi12 .. Qn8-l8
+11. h4-h5 .. Qi12xKg14 .. k7-j7
+12. Bi1-g3 .. Qg14xf13 .. Ql8-k9
+13. O-O .. Qf13xNf3 .. k8-j8
+14. Ni3-g4 .. Na10-c11 .. Rn11-n7
+15. Ng4-f6 .. O-O-O .. j8-i8
+16. Ri1-h1 .. g7-h7=D .. i8xQh7
+17. g6xh7 .. Ne7-d9 .. j7-i7
+18. Rh1-h3 .. Qf3-c6 .. Rn7-j7
+19. Bg3-f4 .. Qc6xj13 .. Rj7xQj13
+20. h5-h6 .. Nd9-e7 .. Qk9-j9
+21. h6xi7 .. Ne7-d5 .. Qj9xj2+#
+22. Ba9xe5 .. Qj2-j5
+23. b6-d6 .. m9-k9
+24. Ka6-a5 .. k9-j9
+25. Nc11-d9 .. j9-i9
+26. Nd9-f8 .. Rj13-j8
+27. Nf8-h9 .. Rj8-h8
+28. Nh9-f10 .. i9-h9
+29. Be5xNf6 .. h9-g9=D
+30. Bf6xRh8 .. Qg9xBh8
+31. Nf10-d9 .. Qj5xNd5
+32. b5-c5 .. Qh8-d8+
+33. Ka5-a4 .. Qd5-c6+#

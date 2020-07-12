@@ -1,0 +1,52 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1034"]
+[Result "macrafa: 63 - Rolling_rooks: 1 - Argos16: 31 - FIV06: 50"]
+[Variant "FFA"]
+[Red "macrafa"]
+[RedElo "1651"]
+[Blue "Rolling_rooks"]
+[BlueElo "1745"]
+[Yellow "Argos16"]
+[YellowElo "1472"]
+[Green "FIV06"]
+[GreenElo "1734"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:25:20 GMT+0000 (UTC)"]
+[CurrentMove "109"]
+
+1. g2-g4 .. b8-c8 .. h13-h11 .. m5-l5
+2. g4-g5 .. b7-d7 .. h11-h10 .. Bn6-m5
+3. f2-f3 .. b5-c5 .. h10-h9 .. Nn5-l6
+4. g5-g6 .. Ba6-b5 .. h9-h8 .. O-O
+5. g6-g7 .. b4-d4 .. h8-h7=D .. Nn10-l9
+6. g7-g8=D .. Bb5xe2 .. Bi14-h13 .. Nl6-k4
+7. Bf1xBe2 .. R .. Qh7-g7 .. Nk4xj2+
+8. Bi1xNj2 .. Qg7xQg1+ .. Bm5xBj2
+9. Kh1xQg1 .. g13-g12 .. Bj2xRk1
+10. Qg8-d5 .. Qh14-c9 .. m10-l10
+11. Qd5xKa8 .. Qc9xBk1 .. Bn9xj13
+12. Kg1-f2 .. k13-k12 .. m8-k8
+13. Nj1-i3 .. Qk1-j2 .. Bj13-g10
+14. Ne1-g2 .. Nj14-i12 .. Nl9-j8
+15. Qa8-e4 .. Qj2xNj8 .. Bg10-j7
+16. h2-h4 .. Rk14-j14 .. m9-k9
+17. Rd1-h1 .. Qj8-g11 .. Bj7-k6
+18. h4-h5 .. d13-d11 .. k8-j8
+19. Kf2-e3 .. d11-d10 .. Rn6-n7
+20. h5-h6 .. d10-d9 .. j8-i8
+21. Qe4-b7 .. Ne14-f12 .. i8-h8
+22. h6-h7 .. Nf12-e10 .. k9-j9
+23. Ke3-d3 .. Ne10-c9 .. Qn8-m9
+24. Qb7-c6 .. Qg11-f11 .. Bk6xQf11
+25. Rh1-h6 .. g12xBf11 .. Rn7-n6
+26. Ni3-j5 .. f11-f10 .. j9-i9
+27. k2-k3 .. Rj14xNj5 .. i9-h9
+28. Qc6-g6+ .. Bf14-g13 .. h9-g9=D
+29. Qg6xQg9 .. f10xQg9 .. h8xg9=D
+30. h7-h8=D .. d9xc8 .. Qg9xNg2
+31. Qh8xBh13+ .. Kg14-f14 .. Qm9-m8
+32. Qh13-i14+ .. Bg13-h14 .. Qg2xRj5
+33. Rh6xBh14+ .. Ni12xRh14 .. Qj5-g2
+34. Qi14xNh14+# .. Qm8-i8+
+35. R

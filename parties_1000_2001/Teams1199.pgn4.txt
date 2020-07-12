@@ -1,0 +1,23 @@
+[GameNr "1199"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Stark231998"]
+[RedElo "1492"]
+[Blue "oblivi"]
+[BlueElo "1490"]
+[Yellow "oscarbacca"]
+[YellowElo "1734"]
+[Green "vonyass"]
+[GreenElo "1490"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:08:12 GMT+0000 (UTC)"]
+[CurrentMove "25"]
+
+1. g2-g4 .. b8-d8 .. h13-h12 .. m8-k8
+2. Qg1-g2 .. Na5-c4 .. Qh14-h13+ .. m9-l9
+3. Qg2-e4 .. b5-c5 .. Qh13-f11 .. Qn8xi13
+4. Qe4xNc4 .. Ba6xQc4 .. Ne14-f12 .. Nn10-l11
+5. Bf1xBn9 .. Bc4xe2 .. Nj14-k12 .. Qi13-m9
+6. Bn9-g2 .. Be2xRd1 .. Bi14-h13 .. Qm9-i13
+7. T

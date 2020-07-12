@@ -1,0 +1,39 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "621"]
+[Result "dark_marbul: 63 - c_jain: 38 - kiarant: 3 - HelicoBoy: 1"]
+[Variant "FFA"]
+[Red "dark_marbul"]
+[RedElo "1692"]
+[Blue "c_jain"]
+[BlueElo "1757"]
+[Yellow "kiarant"]
+[YellowElo "1514"]
+[Green "HelicoBoy"]
+[GreenElo "1472"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:26:13 GMT+0000 (UTC)"]
+[CurrentMove "63"]
+
+1. g2-g4 .. b10-c10 .. h13-h11 .. m8-k8
+2. g4-g5 .. Ba9-b10 .. h11-h10 .. Nn10-l9
+3. g5-g6 .. Na10-c9 .. h10-h9 .. m7-k7
+4. g6-g7 .. O-O .. h9-h8 .. Qn8-l6
+5. g7-g8=D .. Na5-c6 .. h8-h7=D .. Bn6-m7
+6. Qg8-g2 .. b4-c4 .. g13-g11 .. Bn9-l7
+7. h2-h3 .. b7-c7 .. Bf14-g13 .. Ql6-e6
+8. i2-i3 .. b8-c8 .. Bg13xNc9 .. Qe6-j11+
+9. Qg2xg11+# .. c8-d8 .. Qj11-j6
+10. Qg11-g2 .. d8-e8 .. O-O-O
+11. j2-j3 .. c7-d7 .. Qj6xj3+
+12. k2xQj3 .. d7-e7 .. R
+13. h3-h4 .. Ba6-b7
+14. Qg2xBl7 .. Nc6-d4+
+15. Ne1-f3 .. Bb7xNf3+
+16. e2xBf3 .. Nd4xf3
+17. Bf1-g2 .. Nf3xQg1
+18. Rd1xNg1 .. Ra9-a8
+19. Ql7xKn9 .. e8-f8
+20. Bg2xRa8 .. Qa7xBa8+
+21. Rg1-g2 .. e7-f7
+22. R

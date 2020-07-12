@@ -1,0 +1,23 @@
+[GameNr "1047"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "paloniaalmonia"]
+[RedElo "1546"]
+[Blue "RainbowStar27"]
+[BlueElo "1623"]
+[Yellow "rightegg"]
+[YellowElo "1467"]
+[Green "Springbonnie950"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:16:32 GMT+0000 (UTC)"]
+[CurrentMove "26"]
+
+1. h2-h4 .. b8-d8 .. k13-k11 .. m11-l11
+2. h4-h5 .. b6-d6 .. j13-j11 .. m9-l9
+3. h5-h6 .. Na5-c6 .. i13-i11 .. m8-k8
+4. h6-h7 .. b7-c7 .. j11-j10 .. Bn9xg2+
+5. Bf1xBg2 .. Qa7-c5 .. i11-i10 .. Qn8-l8
+6. Bi1-g3 .. Na10-c9 .. i10-i9 .. Ql8xBg3
+7. f2xQg3 .. R

@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "220"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "PotterSquad7"]
+[RedElo "1500"]
+[Blue "Myvecinotottoro"]
+[BlueElo "1752"]
+[Yellow "adamg2156"]
+[YellowElo "1442"]
+[Green "nahuelsandoval"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:29:51 GMT+0000 (UTC)"]
+[CurrentMove "3"]
+
+1. g2-g4 .. b5-c5 .. T

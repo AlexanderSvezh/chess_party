@@ -1,0 +1,57 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1363"]
+[Result "CarlitosFrancisco: 1 - Anderson-Council: 38 - yousseftarhri: 17 - PageBrix: 85"]
+[Variant "FFA"]
+[Red "CarlitosFrancisco"]
+[RedElo "1514"]
+[Blue "Anderson-Council"]
+[BlueElo "1723"]
+[Yellow "yousseftarhri"]
+[YellowElo "1484"]
+[Green "PageBrix"]
+[GreenElo "1735"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:13:34 GMT+0000 (UTC)"]
+[CurrentMove "129"]
+
+1. h2-h4 .. b7-d7 .. g13-g11 .. m11-k11
+2. h4-h5 .. d7-e7 .. d13-d12 .. k11-j11
+3. h5-h6 .. e7-f7 .. i13-i12 .. j11xi12
+4. Bi1-e5 .. b4-d4 .. j13xi12 .. Rn11xg11+
+5. Be5-f6 .. b5-d5 .. Bf14-g13 .. Rg11xBg13+
+6. g2-g4 .. d5-e5 .. Qh14xRg13 .. m7-k7
+7. Bf6xe5 .. d4xBe5 .. Qg13-h14 .. Bn6-m7
+8. g4-g5 .. Na10-c9 .. h13-h11 .. Bm7xQg1
+9. h6-h7 .. f7-g7 .. Qh14-j12 .. Bg1xf2
+10. h7-h8=D .. g7xQh8=D+ .. Qj12xj2 .. Qn8-g1+#
+11. Na5-c4 .. Bi14-g12 .. m4-l4
+12. b8-c8 .. Ne14-f12 .. m10-k10
+13. Qh8-j10 .. Nj14-k12 .. Bn9xNk12
+14. Qj10xk10 .. Bg12-h13 .. Bk12-d5+
+15. Nc9-b7 .. Qj2-j14 .. Bd5xNb7+
+16. Qa7xBb7 .. i12-i11 .. Nn10-l9
+17. Qk10-h7 .. Bh13xNl9 .. m6-l6
+18. Qh7-g7+ .. Kg14-f14 .. m8xBl9
+19. b11-d11 .. Qj14-j13 .. Nn5-m7
+20. Ba6-b5 .. Rk14-g14 .. O-O
+21. Qg7-f6 .. Qj13-j9+ .. Kn5-n4
+22. d11-e11 .. d12xe11 .. Bf2-j6
+23. b10-c10 .. Qj9-k9 .. l6-k6
+24. Qf6-b10 .. Rd14-d12 .. k7-j7
+25. Ba9-b8 .. Nf12-g10 .. Bj6-l8
+26. Bb8-a7 .. Qk9xBl8 .. m9xQl8
+27. b6-d6 .. i11-i10 .. Qg1-h2
+28. d6-e6 .. i10-i9 .. Qh2xh11
+29. e6-f6 .. Rd12-h12 .. Qh11-j11
+30. f6xg5 .. k13-k12 .. Qj11-k10
+31. Bb5-e8 .. f13-f11 .. Rn6-n11
+32. g5-h5=D .. Rh12xQh5 .. Rn11xf11+
+33. Be8xRh5 .. Kf14-e14 .. Qk10-f5
+34. Bh5-d9 .. e13-e12 .. Rf11-f9
+35. Bd9-e8 .. Ng10-h8 .. Rf9xi9
+36. Be8-h11+ .. Ke14-d13 .. j7-i7
+37. Bh11-d7 .. Nh8-i6 .. Qf5-f13+
+38. e5-f5 .. Kd13-d14 .. Qf13xRg14+
+39. Ra11xe11 .. T .. Qg14xKd14
+40. Re11-n11+ .. R

@@ -1,0 +1,19 @@
+[GameNr "1319"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "owljay"]
+[RedElo "1961"]
+[Blue "Deisky"]
+[BlueElo "2156"]
+[Yellow "ChessN00b777"]
+[YellowElo "2145"]
+[Green "7Mana"]
+[GreenElo "1869"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:40:59 GMT+0000 (UTC)"]
+[CurrentMove "12"]
+
+1. h2-h3 .. b7-c7 .. h13-h12 .. m10-l10
+2. Qg1-k5 .. Ba6-b7 .. k13-k12 .. m4-l4
+3. Qk5xb5 .. Bb7-c6 .. Bi14-b7+ .. R

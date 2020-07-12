@@ -1,0 +1,46 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1380"]
+[Result "automatic-watermelon: 0 - deluis888: 42 - red1600000: 33 - sshinko: 23"]
+[Variant "FFA"]
+[Red "automatic-watermelon"]
+[RedElo "1492"]
+[Blue "deluis888"]
+[BlueElo "1731"]
+[Yellow "red1600000"]
+[YellowElo "1517"]
+[Green "sshinko"]
+[GreenElo "1464"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:13:03 GMT+0000 (UTC)"]
+[CurrentMove "88"]
+
+1. g2-g4 .. b5-c5 .. h13-h11 .. m7-k7
+2. f2-f4 .. Ba6-b5 .. h11-h10 .. m8-k8
+3. Ne1-d3 .. Bb5-c6+ .. h10-h9 .. Bn9-m8+
+4. e2-e4 .. Bc6xj13 .. i13-i12 .. Nn10-l11
+5. T .. Bj13xRk14 .. h9-h8 .. Bm8-g2
+6. b4-c4 .. h8-h7=D .. Bg2xKh1
+7. c4xNd3 .. Ne14-f12 .. Bh1xi2
+8. Na10-c9 .. e13-e12 .. Bi2xg4
+9. d3xe4 .. Qh7-h8 .. m9-l9
+10. Na5-c6 .. Bf14-e13 .. Bg4-e6
+11. b8-c8 .. O-O .. Nl11-j10
+12. Nc6-d4 .. i12-i11 .. Nj10-i12
+13. Nd4xBe6 .. Qh14-g14 .. Ni12xNj14
+14. Bk14-c6 .. i11-i10 .. m4-k4
+15. Ne6xf4 .. i10-i9 .. Rn4-l4
+16. Nf4-g6 .. Qh8-h9 .. k7-j7
+17. Ng6-f8 .. Qh9-h12 .. j7-i7
+18. e4-f4 .. Qh12xNj14 .. i7-h7
+19. Nf8xh7 .. i9-i8 .. Rl4-l7
+20. Nh7-f8 .. Bi14-h13 .. Rl7-i7
+21. f4-g4 .. Qj14-i14 .. Ri7-i4
+22. b11-c11 .. i8-i7=D+ .. Kn7-m8
+23. Nf8-d7 .. Qi7xRi4+ .. Km8-l8
+24. g4-h4=D+ .. Qi4-i11+ .. Kl8-m8
+25. Qh4xk4 .. Qi11-i12 .. Qn8xh2
+26. Ba9xQh2 .. k13-k11 .. T
+27. Bc6-g2 .. Qi12xl9
+28. Bg2xKm8 .. Ql9xBm8
+29. R

@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "85"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "Ourebi"]
+[RedElo "1744"]
+[Blue "devil_chekmet"]
+[BlueElo "1440"]
+[Yellow "anmargue"]
+[YellowElo "1542"]
+[Green "wertyu78910"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 16:51:04 GMT+0000 (UTC)"]
+[CurrentMove "4"]
+
+1. h2-h4 .. b6-c6 .. h13-h11 .. T

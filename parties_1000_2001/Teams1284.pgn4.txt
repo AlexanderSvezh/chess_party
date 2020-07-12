@@ -1,0 +1,21 @@
+[GameNr "1284"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "leorastelli"]
+[RedElo "2223"]
+[Blue "Great-Gazoo"]
+[BlueElo "1299"]
+[Yellow "jtovarramos"]
+[YellowElo "1882"]
+[Green "oscarbacca"]
+[GreenElo "1702"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:30:10 GMT+0000 (UTC)"]
+[CurrentMove "18"]
+
+1. h2-h3 .. b6-d6 .. g13-g12 .. m8-l8
+2. d2-d4 .. Qa7-b6 .. Bf14-h12 .. Qn8-m8
+3. Qg1-j4 .. Qb6-c6 .. Nj14-i12 .. Nn5-l6
+4. Ne1-f3 .. Qc6-g10 .. Qh14-e11 .. m4-k4
+5. Nj1-i3 .. R

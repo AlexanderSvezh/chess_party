@@ -1,0 +1,46 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "318"]
+[Result "marcosdelyra: 54 - Deybis_Rios_Ariza: 19 - Koco12: 32 - 1APokerchess: 16"]
+[Variant "FFA"]
+[Red "marcosdelyra"]
+[RedElo "1850"]
+[Blue "Deybis_Rios_Ariza"]
+[BlueElo "1729"]
+[Yellow "Koco12"]
+[YellowElo "1859"]
+[Green "1APokerchess"]
+[GreenElo "1643"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:11:26 GMT+0000 (UTC)"]
+[CurrentMove "103"]
+
+1. g2-g4 .. b10-c10 .. h13-h11 .. Nn5-l4
+2. g4-g5 .. Ba9-b10 .. h11-h10 .. Nl4-k6
+3. Bf1xNk6 .. b5-c5 .. h10-h9 .. m8-l8
+4. Bk6xBn9 .. Ba6xe2 .. h9-h8 .. Qn8xBn9
+5. Ne1-g2 .. Na10-c9 .. h8-h7=D .. Qn9-m8+
+6. Nj1-i3 .. Be2xm10 .. i13-i12 .. Qm8-l9
+7. j2-j3 .. Bm10xQl9+ .. Qh7-h9 .. Nn10xBl9
+8. Bi1-j2 .. O-O .. Qh9xNl9+ .. Kn7-n8
+9. g5-g6 .. Nc9-d11 .. d13-d12 .. Rn11-n9
+10. Rd1-e1 .. b7-d7 .. j13-j12 .. m7-l7
+11. Kh1-i1 .. b6-d6 .. Bi14-j13 .. m4-l4
+12. g6-g7 .. Na5-c6 .. Nj14-h13 .. Rn9-n10
+13. g7-g8=D .. b8-d8 .. j12-j11 .. Rn10-l10
+14. Qg8-g4 .. d7-e7 .. Ql9-f9 .. Bn6-m7
+15. Qg4-h5 .. Nc6-e5 .. Qh14-i13 .. Bm7-l6
+16. f2-f4 .. Ne5-d7 .. O-O-O .. Kn8-m8
+17. Ni3-k4 .. Nd7-f6 .. Ki14-j14 .. Bl6xe13
+18. Qh5xm5 .. d8-e8 .. Qf9-h11 .. Be13xRd14
+19. Qm5xm6+ .. e8-f8 .. Qh11-g11 .. R
+20. Qm6xKm8 .. f8-g8 .. Ne14-f12
+21. Qm8xl7 .. Nd11xNf12 .. Qg11xNf12
+22. Ng2-e3 .. Qa7-d7 .. d12-d11
+23. Ql7-g7 .. Qd7-e8 .. Bf14xBb10
+24. Bj2xNf6 .. Ka10xBb10 .. d11xc10
+25. Qg1-g5 .. b9-c9 .. Qf12-d12+
+26. Bf6xe7 .. R .. Qd12xKb10
+27. Qg7xg8 .. g13-g12
+28. f4-f5 .. Qb10-e13
+29. f5-f6 .. R

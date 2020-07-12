@@ -1,0 +1,35 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "50"]
+[Result "GerardCS: 26 - ivan_rus_2010: 0 - ByHenry8: 21 - oneagent: 35"]
+[Variant "FFA"]
+[Red "GerardCS"]
+[RedElo "1481"]
+[Blue "ivan_rus_2010"]
+[BlueElo "1429"]
+[Yellow "ByHenry8"]
+[YellowElo "1543"]
+[Green "oneagent"]
+[GreenElo "1590"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 16:48:26 GMT+0000 (UTC)"]
+[CurrentMove "65"]
+
+1. g2-g4 .. b7-d7 .. h13-h11 .. m4-k4
+2. g4-g5 .. d7-e7 .. j13-j12 .. m11-l11
+3. h2-h4 .. e7-f7 .. Bi14-j13 .. m9-k9
+4. h4-h5 .. f7-g7 .. e13-e12 .. k4-j4
+5. Qg1-g2+ .. Ba6-b7 .. Bf14-e13 .. j4-i4
+6. f2-f3 .. g7-h7=D .. Ne14-f12 .. i4-h4
+7. h5-h6 .. Na5-c6 .. O-O .. Nn5-l6
+8. Qg2-k6 .. Na10-c9 .. Nj14-i12 .. h4xg5=D
+9. Ne1-g2 .. b8-c8 .. h11-h10 .. m8-l8
+10. f3-f4 .. Ba9-c7 .. Qh14-h11 .. Qg5-h5+
+11. Nj1-h2 .. Bc7-b8 .. k13-k12 .. Bn9xQk6
+12. Ng2-i3 .. O-O .. Qh11-g10 .. Qh5-d5+
+13. Bf1-g2 .. Qh7-g7 .. Qg10xb10+# .. Qd5-i10
+14. Bg2xBk6 .. Qb10-c11 .. m7-l7
+15. Bk6xl7 .. j12-j11 .. Qi10xBl7
+16. Rd1-g1 .. T .. Ql7xf13
+17. h6xQg7 .. Qf13xKe14
+18. g7-g8=D .. R

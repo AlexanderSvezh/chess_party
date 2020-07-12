@@ -1,0 +1,58 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1183"]
+[Result "nataliabella: 0 - liws: 46 - PteToucher: 35 - anthoant513: 44"]
+[Variant "FFA"]
+[Red "nataliabella"]
+[RedElo "1542"]
+[Blue "liws"]
+[BlueElo "1790"]
+[Yellow "PteToucher"]
+[YellowElo "1677"]
+[Green "anthoant513"]
+[GreenElo "1852"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:10:47 GMT+0000 (UTC)"]
+[CurrentMove "115"]
+
+1. g2-g4 .. b7-d7 .. h13-h11 .. Nn5-l6
+2. g4-g5 .. b8-c8 .. h11-h10 .. m5-l5
+3. g5-g6 .. Na10-c9 .. h10-h9 .. Bn6-m5
+4. g6-g7 .. Ba9-c7 .. h9-h8 .. O-O
+5. g7-g8=D .. O-O .. h8-h7=D .. m7-l7
+6. Qg8-g4 .. Na5-c6 .. Nj14-i12 .. m9-k9
+7. i2-i3 .. Nc6-e5 .. g13-g11 .. Qn8-m9
+8. Qg4-i2 .. b6-d6 .. Bf14-g13 .. m8-k8
+9. h2-h3 .. b5-c5 .. Bg13xNc9 .. Nn10-l9
+10. d2-d3 .. Qa7xBc9 .. j13-j12 .. k9-j9
+11. j2-j3 .. Ba6-b7+ .. Qh7xh3+# .. m11-l11
+12. Qc9-f6 .. k13-k11 .. m10-k10
+13. d7-e7 .. Ne14-f12 .. l7-k7
+14. e7-f7 .. O-O .. Bn9xQh3
+15. f7-g7 .. Qh14xBh3 .. k8-j8
+16. Bc7-b8 .. g11-g10 .. Nl6-k8
+17. Bb8xNf12 .. e13-e12 .. j9-i9
+18. Bb7-e4 .. g10-g9 .. Nl9-j10
+19. g7-h7=D .. Qh3-e3 .. Nj10xNi12
+20. Qf6-d8 .. Rf14-g14 .. k10-j10
+21. Qd8-d12 .. Qe3xBe4 .. j8-i8
+22. Qh7xQe4 .. Bi14xc8 .. i8-h8
+23. b9xBc8 .. e12-e11 .. h8-g8=D
+24. Qd12-e13+# .. Qg8xc8+
+25. Ka10-a11 .. Ni12-h10
+26. Ra9-a8 .. Qc8-g12
+27. Ra8xNk8 .. Qg12xRk8
+28. d6-e6 .. Rn11-n8
+29. e6-f6 .. Nh10-f11
+30. Qe13xe11 .. Qk8-g12
+31. f6-g6 .. Nf11xg9
+32. g6-h6=D .. j10-i10
+33. Qh6-f4 .. m4-k4
+34. b11-c11 .. i10-h10
+35. Qf4-f10 .. Qg12-h11
+36. Qe11-e12 .. Qh11xRa4+
+37. Ka11-b11 .. Qa4-e8+
+38. Qe12xQe8 .. Ng9xQe8
+39. Qf10-k5 .. h10-g10=D
+40. Ne5-g6 .. Rn8-n10
+41. R

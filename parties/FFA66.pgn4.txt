@@ -1,0 +1,53 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "66"]
+[Result "jorgeuy: 96 - snlam: 8 - yannleningrad: 27 - georgeramirez: 27"]
+[Variant "FFA"]
+[Red "jorgeuy"]
+[RedElo "1621"]
+[Blue "snlam"]
+[BlueElo "1686"]
+[Yellow "yannleningrad"]
+[YellowElo "1500"]
+[Green "georgeramirez"]
+[GreenElo "1657"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:02:01 GMT+0000 (UTC)"]
+[CurrentMove "112"]
+
+1. j2-j3 .. b7-d7 .. g13-g11 .. m8-k8
+2. Bi1-j2 .. d7-e7 .. Ne14-f12 .. k8-j8
+3. g2-g4 .. e7-f7 .. Bf14-g13 .. j8-i8
+4. f2-f3 .. f7-g7 .. Nf12-d11 .. i8-h8
+5. Bf1xBn9 .. g7-h7=D .. j13-j12 .. Qn8xBn9
+6. d2-d3 .. Qh7-b7 .. Bi14-j13 .. h8-g8=D
+7. Nj1-i3 .. Na10-c9 .. Bg13xNc9 .. Qg8-m8
+8. O-O .. b10xBc9 .. Nj14-k12 .. m5-l5
+9. Bj2xBn6 .. b8-c8 .. Nd11xc9+ .. Kn7xBn6
+10. Qg1xb6 .. Ka8-b8 .. Nc9xQb7+ .. Qm8-f1
+11. Ne1-g2 .. Kb8-a8 .. Nb7-c9+ .. Qf1xRi1+
+12. Kj1xQi1 .. Qa7xNc9 .. Qh14xQc9 .. Nn5-l6
+13. Qb6xBa6+# .. Qc9xRa11 .. Nn10-l11
+14. Qa6-e6 .. O-O-O .. m9-k9
+15. Qe6-j6 .. Qa11xb11 .. Qn9-k6
+16. Qj6-l4+ .. Qb11-e8 .. Kn6-n5
+17. e2-e4 .. Qe8-f8 .. Nl6-j5
+18. Ni3xNj5 .. Qf8xf3 .. Qk6xNj5
+19. Rd1-g1 .. Qf3-f11 .. Rn11-n9
+20. Ng2-i3 .. Nk12xm11 .. Qj5-m8
+21. Ki1-j2 .. Nm11xRn9 .. Qm8xNn9
+22. g4-g5 .. h13-h11 .. Nl11xk13+
+23. Ql4-e11 .. Ki14-j14 .. Nk13-j11
+24. Qe11xQf11 .. e13-e12 .. Qn9-m8
+25. Qf11-f4 .. Bj13-i12 .. m10-k10
+26. g5-g6 .. Bi12xNj11 .. k10xBj11
+27. Qf4-l4 .. Kj14-j13 .. Qm8-l7
+28. Rg1-g5 .. Rd14-g14 .. k9-j9
+29. Ni3-k4 .. Rh14-k14 .. m6-k6
+30. Ql4-m5+# .. Rk14-k8
+31. g6-g7 .. Rg14-k14
+32. Qm5xg11 .. Rk8xk6
+33. Qg11xh11+ .. Kj13-j14
+34. g7-g8=D .. Rk6xNk4
+35. Qg8-g14+ .. Kj14-k13
+36. Qg14xRk14+#

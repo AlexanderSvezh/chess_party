@@ -1,0 +1,59 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "747"]
+[Result "rn0176: 38 - abarigenus: 28 - Sesteronekue: 28 - carlosgabriel1234: 61"]
+[Variant "FFA"]
+[Red "rn0176"]
+[RedElo "1526"]
+[Blue "abarigenus"]
+[BlueElo "1489"]
+[Yellow "Sesteronekue"]
+[YellowElo "1553"]
+[Green "carlosgabriel1234"]
+[GreenElo "1896"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:12:52 GMT+0000 (UTC)"]
+[CurrentMove "153"]
+
+1. g2-g4 .. b7-d7 .. e13-e12 .. Nn5-l6
+2. Nj1-i3 .. d7-e7 .. Bf14-e13 .. Nn10-l9
+3. h2-h4 .. e7-f7 .. Ne14-f12 .. m10-l10
+4. Bi1-e5 .. f7-g7 .. O-O .. m5-l5
+5. Bf1-g2+ .. Na5-c6 .. k13-k12 .. Bn6xj2
+6. Rk1-j1 .. g7-h7=D .. Nj14-i12 .. Bj2-m5
+7. Qg1-h2 .. Ba6-b7 .. g13-g11 .. m4-k4
+8. Be5-g3 .. Qh7-i6 .. g11-g10 .. O-O
+9. Ne1-f3 .. Qi6xNi12 .. h13xQi12 .. Rn6-n7
+10. h4-h5 .. Bb7xBi14 .. Rk14xBi14 .. m7-k7
+11. h5-h6 .. Na10-c9 .. g10-g9 .. k7-j7
+12. h6-h7 .. Nc9-e8 .. Rf14-g14 .. j7-i7
+13. O-O-O .. Ne8-g7 .. Nf12-d11 .. Bn9-m10
+14. Bg3-j6 .. b8-c8 .. Qh14-h13 .. m8-k8
+15. Bj6-g3 .. Ba9xBg3 .. Ri14-h14 .. Nl6-j5
+16. Qh2xBg3 .. Qa7-b7 .. Qh13xh7 .. Nj5xNi3
+17. Rj1xj13 .. O-O-O .. Be13xb10 .. Ni3xk2
+18. Rj13xi13 .. Ra11-a10 .. Bb10-f14 .. Nk2-l4
+19. Ri13xi12 .. Qb7-a8 .. Nd11-c9 .. Nl9-k11
+20. Ri12-j12 .. Ng7-e8 .. Nc9xQa8 .. k8-j8
+21. Nf3-g5 .. Ra7xQh7 .. Rh14-i14 .. m9-k9
+22. Ng5xRh7 .. Ra10xNa8 .. g9-g8 .. k9-j9
+23. Nh7-f8 .. b9-d9 .. g8-g7=D .. j8-i8
+24. Nf8-e6 .. b4-c4 .. Qg7-g13 .. i8-h8
+25. Bg2-h3 .. b5-d5 .. Bf14-d12 .. Bm5-k7
+26. Qg3-f4 .. Ka6-b5 .. Qg13-g8 .. Bk7-m5
+27. Ne6-d4+ .. Nc6xNd4 .. Qg8-h7 .. Nk11-i10
+28. Rj12xe12+ .. Kb5-b4 .. d13xRe12 .. l10-k10
+29. Qf4xNd4 .. Ra8-a6 .. Ri14-h14 .. Bm10xk12
+30. Bh3-g2 .. b6-c6 .. Rg14-g12 .. Bk12-m10
+31. d2-d3 .. Kb4-b5 .. Rh14-g14 .. Bm5-l6
+32. d3xc4+ .. Kb5-b4 .. Rg12xg4 .. Bl6xRg1
+33. Qd4-e3 .. Ne8-f6 .. Qh7-b7+ .. Bg1-l6
+34. Qe3-e5 .. Kb4-a5 .. Rg4xBg2 .. Qn8-j8
+35. Qe5-d4 .. R .. Qb7xRa6 .. Qj8-d14+#
+36. Qd4-c5 .. Qd14-g11
+37. Qc5xKa5 .. Qg11xQa5
+38. e2-e3 .. h8-g8=D
+39. f2-f4 .. i7-h7
+40. c4xd5 .. Qa5xd5
+41. Kf1-f2 .. h7-g7=D
+42. R

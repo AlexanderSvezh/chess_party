@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "688"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "Stocktonk1ller"]
+[RedElo "1530"]
+[Blue "J-B-A-N"]
+[BlueElo "1579"]
+[Yellow "KRW16670"]
+[YellowElo "1475"]
+[Green "Zaphkiel312"]
+[GreenElo "1695"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:38:17 GMT+0000 (UTC)"]
+[CurrentMove "3"]
+
+1. h2-h4 .. b8-d8 .. T

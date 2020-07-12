@@ -1,0 +1,58 @@
+[GameNr "637"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Don_Hector_Salamanca"]
+[RedElo "1536"]
+[Blue "Turboval"]
+[BlueElo "1560"]
+[Yellow "PolarisMinor"]
+[YellowElo "1603"]
+[Green "rubiayyegua"]
+[GreenElo "1601"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:46:06 GMT+0000 (UTC)"]
+[CurrentMove "168"]
+
+1. h2-h3 .. b7-c7 .. g13-g12 .. m8-l8
+2. g2-g4 .. Ba6-b7+ .. Nj14-i12 .. m7-k7
+3. f2-f3 .. b10-c10 .. Ne14-f12 .. Bn6-m7
+4. i2-i3 .. Ba9-b10 .. d13-d12 .. Qn8-m8
+5. Ne1-g2 .. Na10-c9 .. j13-j12 .. Qm8xh3+
+6. Qg1-h2 .. O-O .. Bi14xm10 .. Qh3xQh2+
+7. Kh1xQh2 .. Bb7-c6 .. Bm10xBn9 .. m11-l11
+8. Ng2-f4 .. b4-d4 .. Bn9-m10 .. Rn11-m11
+9. j2-j4 .. b5-d5 .. Bm10-h5 .. m4-l4
+10. k2-k3 .. d4-e4 .. Bf14-g13 .. l4-k4
+11. f3xe4 .. Ra4xe4 .. Rd14-e14 .. Nn10-m8
+12. Bf1-g2 .. Re4xNf4 .. Bh5-l9 .. Nn5-l6
+13. Rd1-f1 .. Rf4-f9 .. Bl9-h5 .. Kn7-n6
+14. e2-e4 .. Rf9xRf1 .. Kg14-f14 .. Nm8-n10
+15. Bg2xRf1 .. d5xe4 .. h13-h11 .. Nl6-n5
+16. Kh2-h1 .. e4-f4+ .. Ni12-k11 .. Kn6-n7
+17. Bf1-g2 .. Bc6xBg2+ .. Nk11-l9 .. Bm7-n6
+18. Kh1xBg2 .. b6-d6 .. Nl9xRm11 .. Rn4-m4
+19. Bi1xf4 .. Qa7-d4 .. Nm11-l9 .. Nn10-m8
+20. Kg2-f3 .. Na5-c4 .. k13-k12 .. l11-k11
+21. Nj1-h2 .. Nc4xd2+ .. Bh5-g6 .. Rm4-n4
+22. Bf4xNd2 .. Qd4xBd2 .. j12xk11 .. Rn4-m4
+23. Nh2-f1 .. Qd2-d5+ .. Bg6-e4 .. Rm4-n4
+24. Rk1-h1 .. Qd5-f7+ .. Be4-f5 .. m5-l5
+25. Rh1-h7 .. Qf7-f9 .. Nl9-j10 .. Rn4-m4
+26. Nf1-e3 .. Qf9-c6+ .. Bf5-e4 .. Bn6xk3
+27. g4-g5 .. Qc6-f9+ .. Be4-f5 .. Bk3-i1
+28. g5-g6 .. d6-e6 .. Bf5xe6+ .. Bi1-e5
+29. Ne3-f5 .. Nc9-e8 .. Bg13-h12 .. l5-k5
+30. j4xk5 .. Bb10xi3 .. Nf12-g10 .. Rm4-m5
+31. Kf3-e4 .. Ne8-f6+ .. Ng10-h8 .. Be5-i1
+32. Ke4-d4 .. Qf9-a4+ .. Qh14xb8 .. Rm5-m4
+33. Kd4-c5 .. Nf6-e4+ .. Bh12xc7 .. Bi1-n6
+34. Kc5-d5 .. Ne4-f6+ .. Qb8xRa9+ .. Rm4-n4
+35. Kd5-e5 .. Qa4xQa9 .. Bc7xQa9 .. Nm8-n10
+36. Rh7xk7+ .. Ka10xBa9 .. Be6-j11+ .. Kn7-n8
+37. Rk7-i7 .. Bi3-g5 .. d12-d11 .. Nn5-m7
+38. Ri7-a7+ .. Ka9-b10 .. d11xc10 .. Rn4-m4
+39. Ra7-b7 .. b11xc10 .. Re14-d14 .. Rm4-n4
+40. g6-g7 .. Nf6-g4+ .. Rd14-d10 .. Rn4-n5
+41. Ke5-e4 .. Ng4-f2+ .. Nj10-l11 .. Nn10-l9
+42. Ke4-f3 .. Nf2-d3 .. Rd10xNd3 .. R

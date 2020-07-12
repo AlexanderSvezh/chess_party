@@ -1,0 +1,25 @@
+[GameNr "1433"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Kujtimi"]
+[RedElo "2782"]
+[Blue "TowersK"]
+[BlueElo "2033"]
+[Yellow "7Mana"]
+[YellowElo "1827"]
+[Green "Nitojua93"]
+[GreenElo "2323"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:21:48 GMT+0000 (UTC)"]
+[CurrentMove "35"]
+
+1. h2-h3 .. b7-c7 .. h13-h12 .. Nn5-l6
+2. Qg1-k5 .. Ba6-b7 .. Bi14xBb7+ .. m8-l8
+3. Qk5xb5 .. Na5xBb7 .. Qh14-h13+ .. Qn8-m8
+4. Bi1-h2 .. Ra4-a5 .. Nj14-i12 .. Nl6-k4
+5. Qb5-c6 .. Ra5-c5 .. Qh13-f11 .. Nk4xj2+
+6. Kh1-g1 .. Rc5xQc6 .. Qf11-g10 .. m5-l5
+7. Bh2-i3 .. Rc6-i6 .. Qg10-h10 .. Rn4-n5
+8. k2-k3 .. Ri6xNi12 .. Ne14-f12 .. Nj2-k4
+9. Bi3xb10 .. Ri12xi13+ .. R

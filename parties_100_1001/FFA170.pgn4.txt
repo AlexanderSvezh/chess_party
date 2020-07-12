@@ -1,0 +1,54 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "170"]
+[Result "SheikMex: 29 - pushkarravishanker: 85 - aaak39356: 4 - JulFunkyFresh: 40"]
+[Variant "FFA"]
+[Red "SheikMex"]
+[RedElo "1558"]
+[Blue "pushkarravishanker"]
+[BlueElo "1521"]
+[Yellow "aaak39356"]
+[YellowElo "1500"]
+[Green "JulFunkyFresh"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:31:12 GMT+0000 (UTC)"]
+[CurrentMove "112"]
+
+1. g2-g4 .. b7-d7 .. h13-h11 .. m8-k8
+2. g4-g5 .. d7-e7 .. Ne14-f12 .. Nn5-l6
+3. g5-g6 .. Na5-c6 .. i13-i11 .. m9-l9
+4. g6-g7 .. e7-f7 .. g13-g12 .. m7-l7
+5. Bf1-i4 .. b4-c4 .. Bf14-h12 .. Bn6-l8
+6. Ne1-f3 .. Na10-c9 .. Qh14-i13 .. O-O
+7. h2-h4 .. b10-c10 .. Bh12xb6 .. Nn10-l11
+8. Bi1-d6 .. Qa7-d7 .. k13-k12 .. Nl11-j12
+9. Qg1-g3 .. b5-c5 .. Rk14-k13 .. Nj12xBi14
+10. Bd6-f8 .. Qd7-b7 .. Qi13xNi14 .. m11-l11
+11. O-O-O .. Qb7xBb6 .. R .. l11xk12
+12. Bi4xf7 .. Qb6-h12 .. m10-k10
+13. g7-g8=D .. b8-c8 .. Bl8-m7
+14. Qg3-g7 .. Qh12xk12 .. Bn9xQk12
+15. Qg8xBk12 .. c5-d5 .. Nl6-m8
+16. Nf3-d4 .. Nc6-d8 .. Bm7xRg1
+17. Qg7xBg1 .. Ba9-b10 .. k10-j10
+18. Qg1xQn8 .. Nc9-e10 .. Rn6xQn8
+19. Bf8-e7 .. Ne10xNf12 .. Nm8-l10
+20. Qk12xg12 .. Nf12xKg14 .. k8-j8
+21. Qg12xNg14 .. Nd8xBf7 .. j8-i8
+22. Be7xBb10 .. Ra11-a10 .. Nl10-j9
+23. Bb10-c9 .. Nf7-e9 .. i8-h8
+24. Nd4-e6 .. d5xNe6 .. Nj9-i7
+25. Qg14-g2+ .. Ba6-b7 .. l9-k9
+26. f2-f3 .. Ne9-d7 .. h8-g8=D
+27. Qg2xQg8 .. Nd7xBc9 .. Ni7xQg8
+28. R .. Bb7xf3 .. Ng8-h6
+29. Bf3xe2 .. Rn8-f8
+30. Be2xKf1 .. Rf8xBf1
+31. O-O-O .. Rf1-f4
+32. Ra7-c7 .. Nh6-g8
+33. Ra10-a7 .. Rn11-n7
+34. Nc9-e10 .. l7-k7
+35. Rc7xk7 .. Rn7xRk7
+36. Ra7xRk7 .. Rf4xc4
+37. Rk7-n7+#

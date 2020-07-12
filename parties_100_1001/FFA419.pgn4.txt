@@ -1,0 +1,48 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "419"]
+[Result "carlosvar98: 15 - AguilaRealMEX: 25 - amagador: 78 - SirCas: 16"]
+[Variant "FFA"]
+[Red "carlosvar98"]
+[RedElo "1500"]
+[Blue "AguilaRealMEX"]
+[BlueElo "1500"]
+[Yellow "amagador"]
+[YellowElo "1491"]
+[Green "SirCas"]
+[GreenElo "1735"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:41:36 GMT+0000 (UTC)"]
+[CurrentMove "106"]
+
+1. h2-h4 .. b7-d7 .. h13-h11 .. Nn5-l6
+2. h4-h5 .. b6-d6 .. h11-h10 .. m8-k8
+3. h5-h6 .. Na10-c9 .. h10-h9 .. Nn10-l9
+4. h6-h7 .. b10-c10 .. h9-h8 .. m10-l10
+5. Bi1xd6 .. Ba9-b10 .. g13-g11 .. Nl9-j8
+6. Bd6-h2 .. Nc9-e8 .. Ne14-f12 .. m9-l9
+7. Nj1-i3 .. Na5-c6 .. g11-g10 .. m4-k4
+8. Ne1-f3 .. O-O .. Bf14-i11 .. k4-j4
+9. Ni3-h5 .. Bb10xj2 .. O-O .. j4-i4
+10. Rk1-j1 .. Bj2-c9 .. Rf14-g14 .. i4xNh5
+11. Rj1xNj8 .. Ba6xBi14 .. Qh14xBi14 .. m7-k7
+12. Rj8xh8 .. Bc9-b10 .. Nj14-i12 .. Bn6-m7
+13. g2-g3 .. Ne8-f6 .. g10-g9 .. h5-g5=D
+14. Rh8-g8 .. Nf6xRg8 .. k13-k12 .. Qg5-k1+
+15. Bh2-i1 .. Bb10xQk1 .. Qi14-e10 .. Nl6-k4
+16. Bf1xBn9 .. Ng8-h6 .. Qe10xh7 .. Rn11xBn9
+17. Qg1-g2 .. Nh6-g4+ .. g9-g8 .. Nk4-i3+
+18. Kh1-g1 .. Bk1xNi3+ .. j13-j12 .. Bm7xBi3+
+19. Kg1-f1 .. Ng4xBi3 .. g8-g7=D .. Qn8xNi3
+20. Qg2xRn9+ .. Ra4-a6 .. Qh7xk7+#
+21. Qn9-h3 .. Qa7-b6 .. Qg7-g11
+22. e2-e3 .. Qb6-c5 .. Bi11xQc5
+23. Kf1-e2 .. b4xBc5 .. Qk7xk2
+24. Rd1-g1 .. Ra9-a7 .. Qg11-g9
+25. g3-g4 .. c5-d5 .. Qg9-c5
+26. g4-g5 .. R .. Qc5xRa7
+27. g5-g6 .. Rg14-g7
+28. Rg1-h1 .. Rg7xg6
+29. Nf3-e5 .. Rg6-g7
+30. Qh3-h8 .. Qk2-k7
+31. T

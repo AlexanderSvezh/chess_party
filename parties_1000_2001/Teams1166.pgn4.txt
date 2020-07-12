@@ -1,0 +1,31 @@
+[GameNr "1166"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "johanlundberg"]
+[RedElo "1889"]
+[Blue "rhorowitz"]
+[BlueElo "1512"]
+[Yellow "ermis8992"]
+[YellowElo "2132"]
+[Green "kingcon4848"]
+[GreenElo "1488"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:59:38 GMT+0000 (UTC)"]
+[CurrentMove "60"]
+
+1. h2-h3 .. b7-d7 .. i13-i11 .. m8-k8
+2. Ne1-f3 .. b6-c6 .. Qh14-i13 .. m10-l10
+3. Qg1-k5 .. Qa7-c5 .. Qi13-b6 .. m6-l6
+4. Qk5xQc5 .. Ba6xh13+ .. Nj14xBh13 .. Qn8-l8
+5. Bi1xb8 .. Ba9xBb8 .. Qb6-a6+ .. Ql8-k7
+6. Qc5xm5 .. Bb8-a7 .. Qa6xb5 .. Bn6xQm5
+7. Nf3-d4 .. Ba7xNd4 .. Qb5xBm5 .. Qk7-k5
+8. j2-j4 .. Na5-b7 .. Qm5xRn4 .. Qk5-a5
+9. Nj1-k3 .. Na10-c9 .. Ne14-f12 .. Kn7-m6
+10. j4-j5 .. O-O .. Qn4xm4+ .. Km6-l7
+11. Rk1-j1 .. d7-e7 .. Qm4xNn5+ .. Kl7-k7
+12. j5-j6+ .. e7-f7 .. Qn5xBn9 .. Kk7-j7
+13. Nk3-i4 .. f7-g7 .. Qn9-m10 .. Qa5-d5
+14. e2-e3 .. Ra9-a7 .. Qm10xRn11 .. Nn10-m8
+15. Bf1-e2+ .. g7-h7 .. Qn11xk8+ .. #

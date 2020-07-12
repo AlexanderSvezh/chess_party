@@ -1,0 +1,20 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "787"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "luciano09876543210"]
+[RedElo "1497"]
+[Blue "Gogy89"]
+[BlueElo "1634"]
+[Yellow "Ulra1"]
+[YellowElo "1465"]
+[Green "Ironmass"]
+[GreenElo "1699"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:00:26 GMT+0000 (UTC)"]
+[CurrentMove "9"]
+
+1. g2-g4 .. b7-d7 .. h13-h11 .. m7-l7
+2. f2-f4 .. d7-e7 .. h11-h10 .. m8-k8
+3. R

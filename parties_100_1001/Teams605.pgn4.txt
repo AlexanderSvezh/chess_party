@@ -1,0 +1,20 @@
+[GameNr "605"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "bp165"]
+[RedElo "1632"]
+[Blue "tommerrall949"]
+[BlueElo "2464"]
+[Yellow "Akusu"]
+[YellowElo "1792"]
+[Green "leorastelli"]
+[GreenElo "2218"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:16:47 GMT+0000 (UTC)"]
+[CurrentMove "15"]
+
+1. h2-h4 .. b6-d6 .. g13-g12 .. m9-l9
+2. Qg1-j4 .. Qa7xf2 .. k13-k11 .. Qn8-m9
+3. Qj4-g1 .. Qf2xh4+ .. Nj14-i12 .. Qm9-i5
+4. Qg1-h2 .. Qh4xQh2+ .. R

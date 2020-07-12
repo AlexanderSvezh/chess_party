@@ -1,0 +1,21 @@
+[GameNr "343"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "ImnotaStark"]
+[RedElo "1481"]
+[Blue "caillou_yt"]
+[BlueElo "1412"]
+[Yellow "ermis8992"]
+[YellowElo "1942"]
+[Green "noddler"]
+[GreenElo "1560"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:06:34 GMT+0000 (UTC)"]
+[CurrentMove "18"]
+
+1. h2-h3 .. b7-c7 .. i13-i11 .. m11-k11
+2. g2-g4 .. c7-d7 .. Qh14-i13 .. m5-l5
+3. Qg1-k5 .. d7-e7 .. Qi13xb6 .. Bn6-l4
+4. Qk5-d5+ .. Ba6-b7 .. Qb6xQa7+ .. m7-l7
+5. Qd5xBb7+ .. #

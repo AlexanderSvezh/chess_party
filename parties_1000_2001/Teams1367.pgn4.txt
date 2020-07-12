@@ -1,0 +1,20 @@
+[GameNr "1367"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "GongGong0607"]
+[RedElo "1958"]
+[Blue "Chessplayernewmember"]
+[BlueElo "1909"]
+[Yellow "Great-Gazoo"]
+[YellowElo "1284"]
+[Green "SheikMex"]
+[GreenElo "1725"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:58:01 GMT+0000 (UTC)"]
+[CurrentMove "15"]
+
+1. h2-h3 .. b7-c7 .. d13-d11 .. m8-l8
+2. Qg1-j4 .. Qa7-b7 .. d11-d10 .. Nn5-l6
+3. Ne1-f3 .. Na5-c6 .. d10-d9 .. Nn10-l9
+4. j2-j3 .. b8-d8 .. R

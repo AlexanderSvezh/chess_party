@@ -1,0 +1,40 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "665"]
+[Result "mohamedyunis: 20 - xxxXWhiteXxxx: 20 - KiwiM8: 53 - trappette: 0"]
+[Variant "FFA"]
+[Red "mohamedyunis"]
+[RedElo "1583"]
+[Blue "xxxXWhiteXxxx"]
+[BlueElo "1500"]
+[Yellow "KiwiM8"]
+[YellowElo "1719"]
+[Green "trappette"]
+[GreenElo "1598"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:40:33 GMT+0000 (UTC)"]
+[CurrentMove "70"]
+
+1. g2-g4 .. b8-d8 .. d13-d11 .. m5-l5
+2. g4-g5 .. b10-c10 .. d11xc10 .. Bn6-m5
+3. g5-g6 .. b11xc10 .. Rd14xd8+ .. Nn5-l6
+4. g6-g7 .. Ba9-b8 .. e13-e11 .. O-O
+5. k2-k3 .. b7-c7 .. Rd8-g8 .. m8-k8
+6. e2-e3 .. Ra11xe11 .. g13-g12 .. m10-l10
+7. Bf1-e2 .. Re11xNe14 .. Qh14-f12 .. Bn9-m10
+8. Ne1-d3 .. Ba6-e10 .. Rg8-e8 .. Nn10-l9
+9. Qg1-g4 .. Qa7-b7+ .. Re8xe3 .. k8-j8
+10. f2-f3 .. Bb8xQf12 .. Re3xBe2 .. T
+11. Qg4xm4 .. b4-c4 .. h13-h12
+12. Nd3-f4 .. Be10-i6 .. Re2xRe14
+13. Qm4xKn5 .. Bi6xf3+ .. Nj14-i12
+14. Nf4-g2 .. Bf3xRd1 .. Bi14-h13
+15. g7-g8=D+ .. Na10-b8 .. Re14-e1+#
+16. Bd1-k8 .. Re1-e8
+17. b9-d9 .. Re8xQg8
+18. Na5-c6 .. g12-g11
+19. O-O-O .. Rg8xj8
+20. Bk8-i10 .. Rj8-i8
+21. Bi10-h9 .. Ri8-i9
+22. Bh9-g10 .. Bf14-g13
+23. T

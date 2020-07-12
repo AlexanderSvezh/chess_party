@@ -1,0 +1,69 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "457"]
+[Result "Das_Funzer: 47 - derrickvolkmann: 67 - GabArt: 8 - VishXJ: 35"]
+[Variant "FFA"]
+[Red "Das_Funzer"]
+[RedElo "1808"]
+[Blue "derrickvolkmann"]
+[BlueElo "1814"]
+[Yellow "GabArt"]
+[YellowElo "1836"]
+[Green "VishXJ"]
+[GreenElo "1887"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:03:23 GMT+0000 (UTC)"]
+[CurrentMove "177"]
+
+1. g2-g4 .. b7-d7 .. g13-g12 .. m8-k8
+2. g4-g5 .. Ba6-b7+ .. h13-h11 .. Bn9xBf1
+3. f2-f3 .. b10-c10 .. i13-i12 .. Bf1-n9
+4. j2-j3 .. Ba9-b10 .. Bi14-h13 .. Nn10-l9
+5. Bi1-j2 .. Na10-c9 .. Nj14-k12 .. m11-l11
+6. g5-g6 .. O-O .. Nk12-i13 .. k8-j8
+7. g6-g7 .. b6-d6 .. h11-h10 .. j8-i8
+8. g7-g8=D .. Na5-c6 .. i12-i11 .. Nn5-l6
+9. e2-e3 .. d7-e7 .. Bh13-i12 .. m4-l4
+10. Nj1-i3 .. Bb7-e10 .. d13-d12 .. m5-l5
+11. Qg8-g4 .. b4-d4 .. Ne14-f12 .. Bn6-m5
+12. e3-e4 .. Ra4-a6 .. Nf12xBe10 .. Kn7-n6
+13. Kh1-i1 .. Nc9xNe10 .. Bf14-h12 .. Nl9-j8
+14. f3-f4 .. Ra9-a8 .. Qh14-h13 .. Nj8-i10
+15. Ne1-f3 .. b8-d8 .. Bh12-g13 .. Bn9-l7
+16. d2-d3 .. Qa7-b6 .. Bi12-h11 .. Rn11-n10
+17. Ki1-j1 .. b5-c5 .. j13-j11 .. Ni10-k11
+18. Qg1-f2 .. Ne10-g11 .. Qh13-h12 .. Bl7xBh11
+19. Rd1-g1 .. Ng11xf13 .. Kg14xNf13 .. Bh11-l7
+20. f4-f5 .. Qb6-b7 .. Qh12-j12 .. Nk11-l9
+21. h2-h3 .. d8-e8 .. i11-i10 .. m10-k10
+22. Nf3-g5 .. e8-f8 .. i10-i9 .. l11-k11
+23. Ng5-e6 .. Qb7-b6 .. Qj12-i12 .. k10xj11
+24. Qg4xNl9 .. Qb6-f10+ .. Bg13-f12 .. j11xQi12
+25. Ql9xi12 .. Qf10-a5 .. Ni13-h11 .. Rn10-n9
+26. Qi12xg12+ .. f8-g8 .. R .. k11-j11
+27. Qg12xKf13 .. g8-h8=D .. Bl7-j9
+28. Qf2-g3 .. Qh8-b8 .. j11-i11
+29. Qg3-i1 .. Qb8-b5 .. i11xh10
+30. Rg1-d1 .. Nc6-e5 .. Rn9-n10
+31. Qi1-f1 .. Qb5-g10 .. i8-h8
+32. Qf13-j13 .. Ra8-g8 .. Bj9-h7
+33. Bj2-i1 .. Ra6-a8 .. Bh7xRg8
+34. Ni3-h1 .. Ra8xBg8 .. Rn10-m10
+35. Qj13xRm10 .. Ne5-f7 .. Kn6-n5
+36. Nh1-j2 .. Rg8xh8 .. Qn8-n6
+37. Qf1-e2 .. Rh8xh10 .. l4-k4
+38. Qm10xm9 .. Nf7-e5 .. Nl6-n7
+39. Qm9-j6 .. Qa5-b5 .. k4xj3
+40. k2xj3 .. Qg10-d7 .. Bm5xi9
+41. Nj2-i4 .. Rh10-i10 .. Bi9-m5
+42. Ni4-k3 .. e7-f7 .. m7-l7
+43. Nk3xl5 .. Bb10xRk1 .. m6xNl5
+44. Qj6xQn6+ .. Bk1-b10 .. Bm5xQn6
+45. Bi1xBn6 .. f7-g7 .. Kn5xBn6
+46. Qe2-h5 .. g7-h7=D .. Kn6-m5
+47. Qh5-l9 .. Qd7-e7 .. Rn4-n6
+48. Ql9-m8+ .. Qe7-j2++# .. Km5-n5
+49. Qb5-f9 .. Nn7-l6
+50. Qh7xl7+ .. Rn6-m6
+51. Ri10-n10+ .. Kn5-m4
+52. Ql7xRm6+#

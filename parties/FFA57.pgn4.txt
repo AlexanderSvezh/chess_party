@@ -1,0 +1,51 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "57"]
+[Result "C40S: 47 - nodlord: 5 - Sribasb: 6 - FrauVomSepp: 47"]
+[Variant "FFA"]
+[Red "C40S"]
+[RedElo "1720"]
+[Blue "nodlord"]
+[BlueElo "1736"]
+[Yellow "Sribasb"]
+[YellowElo "1517"]
+[Green "FrauVomSepp"]
+[GreenElo "1605"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 16:59:39 GMT+0000 (UTC)"]
+[CurrentMove "105"]
+
+1. g2-g4 .. b9-d9 .. g13-g11 .. m10-l10
+2. g4-g5 .. d9-e9 .. g11-g10 .. Nn5-l6
+3. g5-g6 .. Na10-c9 .. Ne14-f12 .. m5-l5
+4. k2-k3 .. b7-d7 .. Bf14-g13 .. Bn6-m5
+5. Ne1-f3 .. b6-d6 .. O-O .. m11-k11
+6. g6-g7 .. Na5-c6 .. h13-h11 .. Bn9-m10
+7. g7-g8=D .. b11-c11 .. Bg13-h12 .. O-O
+8. Qg8-g2 .. b8-d8 .. Nj14-i12 .. k11-j11
+9. e2-e3 .. b4-c4 .. Ni12-g11 .. j11-i11
+10. d2-d4 .. d7-e7 .. Bh12-g13 .. m9-k9
+11. Bf1-e2 .. Ba6-b7 .. Ng11-h9 .. m8-k8
+12. h2-h4 .. d8-e8 .. Nh9xi11 .. Nn10-l9
+13. Qg1-h2 .. e8-f8 .. h11-h10 .. k8-j8
+14. O-O-O .. e7-f7 .. h10-h9 .. Nl9-j10
+15. Kf1-e1 .. f7-g7 .. Bg13-h12 .. Qn8-n7
+16. Qg2-g6 .. Nc9-d7 .. i13-i12 .. Qn7-l9
+17. Qh2-h3 .. Bb7xBi14 .. Qh14xBi14 .. j8-i8
+18. Qg6-e6 .. Nd7-c9 .. h9-h8 .. Nl6-k4
+19. Qe6-b9+# .. h8xg7=D .. m7-l7
+20. Rg1-g6 .. T .. Nk4xj2
+21. Bi1xNj2 .. Rn11xNi11
+22. Qb9xf13 .. i8-h8
+23. Qh3-e6 .. Ri11-i8
+24. Qe6-g8 .. Nj10-k8
+25. Qf13xKe14 .. Nk8-i7
+26. Qg8-e6 .. Ni7xRg6
+27. Qe6xNg6 .. h8-g8=D
+28. Qg6-g3 .. Ri8xi2
+29. k3-k4 .. Ri2xBj2
+30. k4xl5 .. m6xl5
+31. Nj1-i3 .. Qg8-i6
+32. Rk1-k7 .. Bm5xRk7
+33. h4-h5 .. Bk7xQg3
+34. R

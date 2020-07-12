@@ -1,0 +1,67 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "703"]
+[Result "Gone_Again: 18 - baguilarjose: 55 - ivanbernal: 94 - Gabriel15486: 13"]
+[Variant "FFA"]
+[Red "Gone_Again"]
+[RedElo "1712"]
+[Blue "baguilarjose"]
+[BlueElo "1708"]
+[Yellow "ivanbernal"]
+[YellowElo "1585"]
+[Green "Gabriel15486"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:01:06 GMT+0000 (UTC)"]
+[CurrentMove "147"]
+
+1. j2-j3 .. b7-d7 .. k13-k11 .. m7-k7
+2. Bi1-j2 .. d7-e7 .. j13-j11 .. m8-k8
+3. Nj1-i3 .. e7-f7 .. j11-j10 .. m9-k9
+4. O-O .. f7-g7 .. i13-i11 .. Nn10-l9
+5. Ne1-f3 .. g7-h7=D .. Nj14-i12 .. k9xj10
+6. d2-d3 .. Ba6-b7 .. i11xj10 .. k7-j7
+7. d3-d4 .. b8-c8 .. Ne14-f12 .. m6-k6
+8. e2-e3 .. Bb7xNf3 .. Nf12-g10 .. k8-j8
+9. g2xBf3 .. b4-c4 .. Ng10-h12 .. j8-i8
+10. Bf1-g2 .. Qh7xh2 .. Nh12-j11 .. j7-i7
+11. Qg1-f1 .. Qh2-h11 .. Nj11-i9 .. i8-h8
+12. f3-f4+ .. Qh11-c6 .. j10-j9 .. h8-g8=D
+13. Bg2xQc6+ .. Na5xBc6 .. Ni9xQg8 .. Qn8xNg8
+14. d4-d5 .. Nc6-a5 .. k11-k10 .. Nl9-j8
+15. Qf1-h1 .. Qa7xi7+ .. k10-k9 .. Nj8-l7
+16. d5-d6+ .. Qi7-b7 .. k9-k8 .. Qg8-j8
+17. Qh1-e1 .. Ba9xd6 .. k8xNl7=D+ .. Bn9xQl7
+18. Ni3-k4 .. Qb7xBl7+ .. Bi14xm10 .. Nn5-m7
+19. Nk4xm5+ .. Ql7-l8 .. Bm10xRn11 .. Bn6xNm5
+20. Bj2xb10 .. Ql8-n10+ .. Bn11xRd1 .. Qj8-n8
+21. Qe1xBd1 .. Qn10xBb10 .. Qh14-j14 .. Bm5xRi1
+22. Qd1xBd6 .. Qb10-j2+# .. j9-j8 .. Qn8-l10
+23. Qj2-c9 .. Rk14-k7 .. Ql10-k9
+24. Qc9-b8 .. g13-g12 .. Kn7-m6
+25. Na5-c6 .. Rk7xQk9 .. T
+26. O-O-O .. Rk9xk6
+27. Ra7xNm7 .. Rk6xKm6
+28. Rm7xRm6 .. j8-j7=D
+29. b9-d9 .. Bf14-g13
+30. Qb8-a8 .. Qj7-j9
+31. Rm6xQd6 .. Qj9-e9
+32. Qa8-b7 .. Bg13-h12
+33. Nc6-b8 .. Ni12-h10
+34. Nb8-d7 .. Qe9-d8
+35. Na10-c9 .. d13-d11
+36. Ra11-a10 .. Nh10-f9
+37. Nc9-e10 .. d11xNe10
+38. d9xe10 .. Nf9-d10
+39. b11-c11 .. Nd10xc8
+40. Rd6-c6 .. Nc8xb6
+41. e10-f10 .. Nb6xNd7
+42. Ka6-a7 .. Bh12-g13+
+43. Ra10-d10 .. Bg13xRd10+
+44. c11xBd10 .. Qd8xd10+
+45. Ka7-a6 .. Nd7-b8+
+46. Qb7xNb8 .. Qd10xQb8
+47. f10-g10 .. Qj14-f10
+48. g10-h10=D .. Qf10xQh10
+49. Rc6-c10 .. Qh10xRc10
+50. c4-d4 .. Qc10-a8+#

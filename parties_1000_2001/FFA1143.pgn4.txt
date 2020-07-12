@@ -1,0 +1,63 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1143"]
+[Result "JeremyHDLC: 24 - Hartor: 95 - tjbr: 25 - Pollito1917: 18"]
+[Variant "FFA"]
+[Red "JeremyHDLC"]
+[RedElo "1508"]
+[Blue "Hartor"]
+[BlueElo "1575"]
+[Yellow "tjbr"]
+[YellowElo "1565"]
+[Green "Pollito1917"]
+[GreenElo "1480"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:06:10 GMT+0000 (UTC)"]
+[CurrentMove "150"]
+
+1. g2-g4 .. b10-c10 .. j13-j11 .. m8-k8
+2. g4-g5 .. Ba9-b10 .. i13-i11 .. k8-j8
+3. g5-g6 .. Na5-c6 .. j11-j10 .. m7-k7
+4. g6-g7 .. Nc6-e7 .. i11-i10 .. j8-i8
+5. g7-g8=D .. Ne7-d9 .. Qh14-i13 .. k7-j7
+6. h2-h3 .. Na10-c9 .. j10-j9 .. Qn8xQg1+
+7. Kh1xQg1 .. O-O .. j9-j8 .. i8-h8
+8. Qg8xh8 .. Ra9-a8 .. i10-i9 .. Nn5-l6
+9. Qh8-g7 .. b8-d8 .. Bi14-j13 .. Bn9-j5
+10. Ne1-f3 .. b7-d7 .. Ne14-f12 .. m5-l5
+11. Nj1-i3 .. d8-e8 .. Bj13xm10 .. Bj5-i6
+12. Qg7-g5 .. d7-e7 .. Bm10xRn11 .. Bn6-l4
+13. k2-k3 .. e8-f8 .. Qi13xm9 .. j7-i7
+14. Qg5xi7+ .. e7-f7 .. j8xQi7=D+ .. Bl4xQi7
+15. Bi1-g3 .. f8-g8 .. Bn11xBi6 .. O-O
+16. Bg3xQm9 .. f7-g7 .. i9-i8 .. Nn10-m8
+17. Bf1-g2 .. g8-h8=D .. Bi6-h7 .. Bi7-g5
+18. Rk1-h1 .. b5-c5 .. Nf12-g10 .. Bg5xNc9
+19. Bm9-g3 .. Bb10xBc9 .. Ng10xQh8 .. Nl6-j5
+20. Ni3-h5 .. Ra8xNh8 .. g13-g12 .. Nm8-k7
+21. e2-e3 .. Ba6-e2 .. Bf14-j10 .. Rn6-n10
+22. Rd1-e1 .. Be2-b5 .. Bj10xRh8 .. m6-k6
+23. Bg3xNk7 .. g7xBh8=D .. O-O .. Nj5xBk7
+24. j2-j4 .. Bb5xRk14 .. Rf14-i14 .. Rn10-n8
+25. Nf3-h4 .. b6-d6 .. i8-i7=D .. Nk7-m8
+26. Nh4-f5 .. Qh8-e8 .. Bh7xNf5 .. m11-k11
+27. i2-i3 .. Qa7-b8 .. Bf5-j9+ .. Kn5-m5
+28. Nh5xQi7 .. Bc9-b10 .. Ri14xNi7 .. Nm8-l10
+29. i3-i4 .. Qe8xe13++# .. Km5-m6
+30. f2-f4 .. Qb8xRn8 .. Km6-l7
+31. Re1-f1 .. Qe13-l6+#
+32. f4-f5 .. Qn8-f8
+33. e3-e4 .. Qf8-f6
+34. Rh1-k1 .. Ql6-g11
+35. Rk1-k2 .. Qg11-g5
+36. d2-d3 .. Ra4-a7
+37. k3-k4 .. Ra7-g7
+38. Kg1-h1 .. Bk14-b5
+39. j4-j5 .. b11-d11
+40. k4-k5 .. Bb5xd3
+41. Rf1-g1 .. d11-e11
+42. j5-j6 .. e11-f11
+43. Rk2-i2 .. Nd9-e7
+44. i4-i5 .. Ne7-g6
+45. i5-i6 .. Ng6-f4
+46. Bg2-f3 .. Qg5xRg1+#

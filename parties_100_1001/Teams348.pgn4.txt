@@ -1,0 +1,23 @@
+[GameNr "348"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Akusu"]
+[RedElo "1842"]
+[Blue "LChessMaster85"]
+[BlueElo "2384"]
+[Yellow "Antruni"]
+[YellowElo "1839"]
+[Green "dust47"]
+[GreenElo "2248"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:09:25 GMT+0000 (UTC)"]
+[CurrentMove "27"]
+
+1. h2-h3 .. b6-d6 .. g13-g12 .. Nn5-l6
+2. Nj1-i3 .. Qa7-b6 .. Bf14-h12 .. m9-k9
+3. d2-d4 .. b7-c7 .. j13-j12 .. Qn8-l10
+4. Ne1-f3 .. Ba6-d9 .. Bi14-j13 .. Ql10-e10
+5. k2-k3 .. Bd9-c10 .. Qh14-f12 .. Qe10xg12+
+6. Ni3-j5 .. Bc10xf13+ .. Kg14-f14 .. Qg12-g14+
+7. Nj5xNl6+ .. Ka8-a7 .. #

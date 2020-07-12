@@ -1,0 +1,21 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "72"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "calinpls"]
+[RedElo "1500"]
+[Blue "lynxshogun"]
+[BlueElo "1498"]
+[Yellow "Johnsalchichon99"]
+[YellowElo "1439"]
+[Green "ivan_rus_2010"]
+[GreenElo "1429"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 16:47:23 GMT+0000 (UTC)"]
+[CurrentMove "16"]
+
+1. h2-h3 .. b7-d7 .. h13-h11 .. m8-k8
+2. d2-d3 .. d7-e7 .. j13-j12 .. Nn10-l9
+3. Ne1-f3 .. e7-f7 .. Bi14-j13 .. Bn9-m8
+4. g2-g3 .. f7-g7 .. Nj14-i12 .. R

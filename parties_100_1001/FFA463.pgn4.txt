@@ -1,0 +1,61 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "463"]
+[Result "deejay_love: 78 - grabovskii: 46 - pauloloukantopoulos: 26 - marcosdelyra: 20"]
+[Variant "FFA"]
+[Red "deejay_love"]
+[RedElo "1943"]
+[Blue "grabovskii"]
+[BlueElo "1780"]
+[Yellow "pauloloukantopoulos"]
+[YellowElo "1573"]
+[Green "marcosdelyra"]
+[GreenElo "1861"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:00:35 GMT+0000 (UTC)"]
+[CurrentMove "159"]
+
+1. g2-g4 .. b8-d8 .. g13-g11 .. Nn5-l6
+2. Nj1-i3 .. Na10-c9 .. h13-h11 .. m9-k9
+3. g4-g5 .. b10-c10 .. g11-g10 .. m10-l10
+4. g5-g6 .. b6-d6 .. h11-h10 .. Bn9-m10
+5. Qg1-g2 .. b5-c5 .. k13-k12 .. m5-l5
+6. d2-d3 .. Na5-c6 .. g10-g9 .. Bm10-l9+
+7. Ne1-f3 .. Ba9xe13 .. i13-i12 .. Bn6-m5
+8. g6-g7 .. Be13xRd14 .. Bf14-b10 .. Kn7-n6
+9. g7-g8=D .. Ra11-a10 .. Bb10xNc9 .. m8-k8
+10. k2-k4 .. Nc6-b8 .. Qh14-e11 .. Nn10-m8
+11. k4xl5 .. b11-d11 .. Ne14-d12 .. m4xl5
+12. j2-j3 .. Bd14xh10 .. Bc9xNb8 .. Bm5xBi1
+13. Rk1xBi1 .. Qa7-b6 .. Nd12-b11 .. Qn8-m9
+14. Qg8-f9 .. b9-d9 .. Nb11-c9+ .. Rn4xb4
+15. Qg2-g3 .. Ka8-b9 .. Nc9-b11 .. Qm9xQg3
+16. f2xQg3 .. Ra4xRb4 .. Qe11-c9+ .. m7-k7
+17. Qf9-f4 .. Kb9-a8 .. Bb8-c7 .. Kn6-m7
+18. Qf4-h6 .. Qb6xBc7 .. Qc9xQc7 .. l10-k10
+19. Qh6xBh10 .. Ra10-b10 .. g9-g8 .. m11-k11
+20. Qh10-d10 .. Rb4-b6 .. g8-g7=D .. k11-j11
+21. Qd10-e11 .. Rb6-c6 .. Qc7xd8+ .. j11xi12
+22. Qe11-k5 .. Rc6-c8 .. Nb11-c9+ .. k10-j10
+23. Qk5xc5 .. Ka8-b9 .. Qd8-h12 .. j10-i10
+24. Qc5xd6 .. Rc8xNc9 .. Nj14xi12 .. Rn11-h11
+25. Qd6xBa6 .. b7-c7 .. Qh12-i13 .. i10-h10
+26. Qa6-b5+ .. Kb9-a10 .. Bi14-g12 .. Bl9xNi12+
+27. Qb5xRh11 .. Ka10-b11 .. j13xBi12 .. h10-g10=D
+28. Qh11-h3 .. Rb10-b7 .. Qg7xQg10 .. k8-j8
+29. g3-g4 .. c7-d7 .. Qg10-i10 .. k7-j7
+30. d3-d4 .. d7-e7 .. Qi10xm6+ .. R
+31. Qh3xNm8 .. e7-f7 .. O-O-O
+32. Qm8xKm7 .. f7-g7 .. Qm6xQm7
+33. d4-d5 .. g7-h7=D .. Rh14xQh7
+34. d5-d6 .. Rb7xRh7 .. Qi13-b6+
+35. d6-d7 .. Kb11-c11 .. Qm7-k7
+36. d7-d8=D .. Rc9-c7 .. Qk7-i5+
+37. Bf1-h3 .. Kc11-d12 .. Qi5-j6+
+38. Qd8-d3 .. Kd12xd13 .. Qb6-b10
+39. e2-e3 .. Rh7-e7 .. Qj6-f10
+40. e3-e4 .. Kd13-e14 .. f13-f11+
+41. Bh3-g2 .. Ke14-d13 .. T
+42. Qd3-d6 .. Re7-e14
+43. Qd6xRc7 .. Re14xKi14
+44. Qc7xc10 .. R

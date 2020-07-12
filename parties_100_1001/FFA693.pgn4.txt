@@ -1,0 +1,49 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "693"]
+[Result "heribertoheenandez: 62 - Al3x615: 28 - enigmaG: 0 - 0624570924: 36"]
+[Variant "FFA"]
+[Red "heribertoheenandez"]
+[RedElo "1687"]
+[Blue "Al3x615"]
+[BlueElo "1606"]
+[Yellow "enigmaG"]
+[YellowElo "1537"]
+[Green "0624570924"]
+[GreenElo "1487"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:49:54 GMT+0000 (UTC)"]
+[CurrentMove "99"]
+
+1. g2-g4 .. b7-d7 .. j13-j11 .. m7-k7
+2. g4-g5 .. d7-e7 .. i13-i11 .. k7-j7
+3. g5-g6 .. e7-f7 .. Bi14-j13 .. j7-i7
+4. Bf1-g2+ .. Na5-c6 .. j11-j10 .. Bn6-m7
+5. g6-g7 .. Na10-c9 .. g13-g12 .. i7-h7
+6. j2-j3 .. Ba6-e10 .. h13-h12 .. Nn5-l6
+7. Bi1xm5 .. Be10xh7 .. h12-h11 .. Bm7-n6
+8. Bm5xRn4 .. Qa7-b7 .. i11-i10 .. m8-l8
+9. Nj1-i3 .. O-O-O .. j10-j9 .. Bn9-m8+
+10. Ne1-f3 .. Qb7xg12+# .. Nl6-j7
+11. Bg2-h3 .. Bh7-g8 .. Bm8xBh3
+12. i2xBh3 .. Qg12-c8 .. Nj7-i5
+13. Qg1-g3 .. b10-c10 .. Qn8-m8
+14. Qg3xNi5 .. Ba9-c11 .. Qm8-k6
+15. O-O-O .. Nc9-e8 .. l8-k8
+16. Bn4-i9 .. Qc8-d8 .. Nn10-l9
+17. Qi5-j4 .. c10-d10 .. Qk6-f11+
+18. Qj4xb4 .. b8-c8 .. Qf11xBc11
+19. Qb4-a4+ .. Nc6-a5 .. Bn6-l4
+20. Qa4xBl4 .. Qd8-e9 .. Nl9-m7
+21. Bi9-h8 .. Ne8xg7 .. Qc11-f11
+22. Bh8xNg7 .. Qe9xBg7 .. Qf11-g10
+23. Rg1xQg7 .. Bg8-d11 .. Qg10xRg7
+24. Ql4xm4 .. Ra7-e7 .. Qg7-k7
+25. Rk1-g1 .. d10-e10 .. Rn11-n8
+26. Qm4xd13 .. Bd11-c10 .. Qk7-l6
+27. Qd13-d8 .. Ra11-a7 .. Ql6xb6+#
+28. Qd8xQb6 .. Nm7-l5
+29. Ni3-k4 .. Nl5-k3
+30. Rg1-g7+ .. Kn7-n6
+31. Qb6-l6 .. Rn8-m8
+32. Ql6-n4+#

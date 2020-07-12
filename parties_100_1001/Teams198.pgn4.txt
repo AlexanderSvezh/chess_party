@@ -1,0 +1,21 @@
+[GameNr "198"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "4players"]
+[RedElo "1500"]
+[Blue "mudittewari"]
+[BlueElo "1898"]
+[Yellow "Antruni"]
+[YellowElo "1845"]
+[Green "GM_PEA"]
+[GreenElo "2020"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:26:59 GMT+0000 (UTC)"]
+[CurrentMove "19"]
+
+1. g2-g4 .. b8-c8 .. e13-e11 .. m7-l7
+2. g4-g5 .. Qa7xe11 .. h13-h12 .. Qn8-k5
+3. g5-g6 .. Na10-c11 .. i13-i11 .. Qk5-k10+
+4. g6-g7 .. Qe11-f11 .. Bi14-h13 .. Qk10-f10
+5. g7-g8 .. Qf11xf13+ .. #

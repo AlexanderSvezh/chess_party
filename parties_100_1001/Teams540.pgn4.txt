@@ -1,0 +1,31 @@
+[GameNr "540"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Kujtimi"]
+[RedElo "2787"]
+[Blue "malaybasak"]
+[BlueElo "2646"]
+[Yellow "Motopony"]
+[YellowElo "2468"]
+[Green "senofcarl"]
+[GreenElo "1957"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:12:23 GMT+0000 (UTC)"]
+[CurrentMove "58"]
+
+1. h2-h3 .. b6-d6 .. h13-h12 .. m9-l9
+2. e2-e3 .. b8-c8 .. Bi14-g12 .. m8-k8
+3. Qg1-j4 .. Na5-c6 .. Qh14-h13 .. Qn8-m8
+4. Bf1-e2 .. Qa7-c9 .. Ne14-f12 .. Nn5-l6
+5. Nj1-i3 .. b11-d11 .. d13-d12 .. m4-k4
+6. Bi1-h2 .. Qc9-i9 .. Bg12xc8 .. m10-k10
+7. Qj4-e4 .. Ka8-a7 .. Bc8-d7 .. k4-j4
+8. Qe4-e11+ .. Na10-c9 .. Bd7-i12 .. j4xNi3
+9. j2xi3 .. Qi9-f6 .. Qh13-d9 .. Nl6-k4
+10. Kh1-g1 .. Qf6xf2+ .. Qd9xl9 .. Qm8xQl9
+11. Kg1xQf2 .. b4-d4 .. e13-e12 .. Bn9-m8
+12. Be2-d3 .. d4xe3+ .. e12xd11 .. Ql9-l8+
+13. Kf2-g1 .. b10-d10 .. Bi12xk10 .. Bm8xBk10+
+14. Qe11xe3+ .. Nc6-d4 .. Kg14-h14 .. Nn10-m8
+15. Bd3xBk10 .. R

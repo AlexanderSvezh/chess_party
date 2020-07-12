@@ -1,0 +1,20 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "771"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "Skull2046"]
+[RedElo "1500"]
+[Blue "houseofham"]
+[BlueElo "1886"]
+[Yellow "LuwerPVP"]
+[YellowElo "1500"]
+[Green "GodGuy13"]
+[GreenElo "1547"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:57:54 GMT+0000 (UTC)"]
+[CurrentMove "12"]
+
+1. g2-g4 .. b9-d9 .. g13-g12 .. m8-k8
+2. g4-g5 .. Na10-c9 .. Qh14-f12 .. m7-l7
+3. g5-g6 .. b11-d11 .. Qf12-d10 .. T

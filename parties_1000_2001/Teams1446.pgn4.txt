@@ -1,0 +1,28 @@
+[GameNr "1446"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "JJCS17"]
+[RedElo "1676"]
+[Blue "SheikMex"]
+[BlueElo "1765"]
+[Yellow "Jose129"]
+[YellowElo "1483"]
+[Green "NNDivine"]
+[GreenElo "1615"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:26:32 GMT+0000 (UTC)"]
+[CurrentMove "45"]
+
+1. h2-h4 .. b6-d6 .. h13-h12 .. m8-l8
+2. Bi1xd6 .. Qa7-b6 .. Bi14-h13+ .. Nn10-l9
+3. Bd6-h2 .. b8-c8 .. g13-g11 .. Nn5-l6
+4. Bh2xBa9 .. Ka8xBa9 .. Bh13-i12 .. m7-k7
+5. Qg1-h2+ .. b7-c7 .. Bf14-g13 .. Bn6-m7
+6. e2-e3 .. Na10-c9 .. Ne14-f12 .. Bn9-m8
+7. Nj1-i3 .. b4-c4 .. Nf12-e10 .. O-O
+8. O-O .. Nc9xNe10 .. Bg13-b8+ .. Nl6-j5
+9. Qh2xc7 .. Ka9-a10 .. f13-f12 .. Nj5xNi3+
+10. j2xNi3 .. Qb6xQc7 .. Bb8xQc7 .. Bm7xi3
+11. g2-g4 .. Na5-c6 .. f12-f11 .. Qn8-j4+
+12. #

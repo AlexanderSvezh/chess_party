@@ -1,0 +1,24 @@
+[GameNr "559"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "ElPolloLocoMan"]
+[RedElo "1605"]
+[Blue "Don_Hector_Salamanca"]
+[BlueElo "1500"]
+[Yellow "rubiayyegua"]
+[YellowElo "1618"]
+[Green "KZ2008"]
+[GreenElo "1519"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:09:38 GMT+0000 (UTC)"]
+[CurrentMove "31"]
+
+1. h2-h3 .. b7-d7 .. h13-h12 .. m5-l5
+2. Qg1-k5 .. Ba6-b7 .. Nj14-i12 .. Bn6-m5
+3. k2-k3 .. Bb7-d9 .. Bi14xBd9 .. m4-l4
+4. Bi1-f4 .. d7-e7 .. Qh14-h13 .. l4xQk5
+5. Nj1-i3 .. b8-c8 .. Bd9xc8 .. Nn5-l6
+6. g2-g4 .. b9xBc8 .. Qh13xc8+ .. Nl6-k4
+7. Bf4xBa9 .. Ka8xBa9 .. e13-e12 .. Nk4xNi3+
+8. Kh1-i1 .. Qa7-b8+ .. R

@@ -1,0 +1,17 @@
+[GameNr "603"]
+[Result "Aborted"]
+[Variant "Teams"]
+[Red "Aveu"]
+[RedElo "1526"]
+[Blue "9099999999"]
+[BlueElo "1682"]
+[Yellow "ElPolloLocoMan"]
+[YellowElo "1595"]
+[Green "MammothCricket"]
+[GreenElo "1466"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:15:11 GMT+0000 (UTC)"]
+[CurrentMove "2"]
+
+1. f2-f4 .. R

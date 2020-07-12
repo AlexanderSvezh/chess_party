@@ -1,0 +1,23 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "338"]
+[Result "siluriun: 66 - Davguitar18: 9 - LarsYD: 9 - Ariethy: 2"]
+[Variant "FFA"]
+[Red "siluriun"]
+[RedElo "1673"]
+[Blue "Davguitar18"]
+[BlueElo "1576"]
+[Yellow "LarsYD"]
+[YellowElo "1494"]
+[Green "Ariethy"]
+[GreenElo "1505"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:07:30 GMT+0000 (UTC)"]
+[CurrentMove "22"]
+
+1. g2-g4 .. b8-d8 .. g13-g11 .. m5-l5
+2. g4-g5 .. b10-c10 .. Qh14xQa7+ .. Bn6-m5
+3. h2-h3 .. Ka8xQa7 .. Bf14-g13+ .. Bm5xg11
+4. Bi1xBa9 .. Ka7-a8 .. f13-f12 .. Bg11xi13
+5. Ba9xe13 .. Na10-c9 .. T .. R
+6. Be13-b10 .. T

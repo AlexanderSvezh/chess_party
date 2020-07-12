@@ -1,0 +1,43 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "42"]
+[Result "herculesfranco: 5 - bileams: 51 - romanabrams: 45 - Indipendenza: 32"]
+[Variant "FFA"]
+[Red "herculesfranco"]
+[RedElo "1481"]
+[Blue "bileams"]
+[BlueElo "1689"]
+[Yellow "romanabrams"]
+[YellowElo "1500"]
+[Green "Indipendenza"]
+[GreenElo "1692"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 16:48:09 GMT+0000 (UTC)"]
+[CurrentMove "85"]
+
+1. g2-g4 .. b5-c5 .. h13-h12 .. m5-l5
+2. g4-g5 .. Ba6-b5 .. e13-e12 .. Bn6-m5
+3. g5-g6 .. b11-c11 .. Ne14-f12 .. m7-l7
+4. g6-g7 .. Na5-c6 .. Bf14-e13 .. Nn5-m7
+5. g7-g8=D .. b8-c8 .. O-O .. O-O
+6. Qg8-g2 .. b10-c10 .. Nj14-i12 .. m8-k8
+7. Nj1-i3 .. Ba9-b10 .. g13-g11 .. l7-k7
+8. k2-k3 .. Na10-b8 .. Nf12-e10 .. Bn9xQg2+
+9. Qg1xBg2 .. b9-d9 .. Ne10xc11 .. k8-j8
+10. T .. Bb5xe2 .. Nc11xd9 .. Qn8-m8
+11. Nb8xNd9 .. Be13xBb10 .. Qm8xQg2
+12. Nd9xBb10 .. Qh14xQa7+ .. Qg2xKh1
+13. Ka8xQa7 .. Rf14-g14 .. Qh1-e4
+14. Be2xm10 .. g11-g10 .. Nn10-l11
+15. Bm10xNl11 .. g10-g9 .. Qe4xBl11
+16. Ra11xQl11 .. g9-g8 .. Rn6-n10
+17. b4-d4 .. g8-g7=D .. Rn10xc10
+18. Nb10-a8 .. j13-j12 .. Bm5-l4
+19. d4-e4 .. Bi14xRl11 .. Bl4-e11+
+20. Ka7-a6 .. Qg7xk7 .. Nm7-k6
+21. e4-f4 .. Ni12-k11 .. Rc10-a10
+22. Ka6-b5 .. Rg14-g7 .. Be11-i7
+23. f4-g4 .. Bl11-i8 .. Rn11-n6
+24. g4-h4=D .. Bi8xNk6 .. l5xBk6
+25. Qh4xm4+# .. Qk7xBi7
+26. R

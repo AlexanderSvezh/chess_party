@@ -1,0 +1,23 @@
+[GameNr "536"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Chessplayernewmember"]
+[RedElo "1888"]
+[Blue "alyeasin93"]
+[BlueElo "2624"]
+[Yellow "ermis8992"]
+[YellowElo "2029"]
+[Green "bp165"]
+[GreenElo "1662"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:04:59 GMT+0000 (UTC)"]
+[CurrentMove "26"]
+
+1. h2-h3 .. b6-d6 .. g13-g12 .. m9-k9
+2. d2-d4 .. Qa7-b6 .. k13-k11 .. Nn10-l9
+3. Qg1-i3 .. Na10-c9 .. Qh14-d10 .. Nl9xk11
+4. Qi3-i9 .. b11-c11 .. Qd10-i5 .. m10-l10
+5. Qi9-i6 .. Qb6-f10 .. Nj14-i12 .. Nk11-l9
+6. Qi6xd6 .. Na5-c6 .. Ne14-f12 .. m5-l5
+7. Qd6xm6+ .. R

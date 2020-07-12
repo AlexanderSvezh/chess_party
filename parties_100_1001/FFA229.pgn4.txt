@@ -1,0 +1,65 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "229"]
+[Result "noobINdoom32: 43 - 01220798469: 36 - SirCas: 89 - GreatIsa: 6"]
+[Variant "FFA"]
+[Red "noobINdoom32"]
+[RedElo "1462"]
+[Blue "01220798469"]
+[BlueElo "1500"]
+[Yellow "SirCas"]
+[YellowElo "1722"]
+[Green "GreatIsa"]
+[GreenElo "1478"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:52:19 GMT+0000 (UTC)"]
+[CurrentMove "149"]
+
+1. g2-g4 .. b8-d8 .. g13-g11 .. m8-k8
+2. g4-g5 .. Qa7xQh14+ .. Kg14xQh14 .. m9-l9
+3. g5-g6 .. b7-d7 .. Bf14-g13 .. Bn9xBf1
+4. Qg1xBf1 .. Ba9-b8 .. f13-f12 .. k8-j8
+5. g6-g7 .. Na5-c6 .. j13-j11 .. j8-i8
+6. g7-g8=D .. d7-e7 .. Bi14xm10 .. i8-h8
+7. Qf1-j5 .. b9-d9 .. k13-k12 .. Nn10-m8
+8. Qg8-g6 .. d8-e8 .. Bm10xl9 .. Rn11-n10
+9. Qj5-j3 .. e7-f7 .. Bl9xe2 .. Rn10xb10
+10. Qg6xm6+# .. e8-f8 .. Be2xRd1
+11. f2-f3 .. f7-g7 .. Bd1-e2
+12. Ne1-g2 .. g7xh8=D .. Be2-d3
+13. Qj3xd9 .. f8-g8 .. k12-k11
+14. Qd9xBd3 .. Qh8-d4 .. k11-k10
+15. Qd3-e4 .. Qd4xQe4 .. e13-e11
+16. f3xQe4 .. g8-h8=D .. k10-k9
+17. Qm6-f13+ .. Ka8-a7 .. k9-k8
+18. Ng2-f4 .. Bb8-c9 .. k8-k7=D+
+19. Qf13-a8+ .. Ka7xQa8 .. Qk7-e1+
+20. Kh1-g2 .. Bc9xRb10 .. d13-d12
+21. Nj1-i3 .. Bb10xNi3 .. Qe1-i5
+22. h2xBi3 .. Nc6-d8 .. Qi5-i4+
+23. Nf4-h3 .. Nd8-e10 .. Qi4-g4+
+24. Kg2-f2 .. Na10-c11 .. Rk14-k8
+25. Kf2-e3 .. Qh8xRk8 .. Qg4xQk8+
+26. Bi1-d6 .. Ka8-a7 .. d12xNc11
+27. Bd6-b8+ .. Ka7-b7 .. Qk8-j8+
+28. Nh3-f4 .. Ra11-a8 .. Qj8-h10
+29. Bb8-e5 .. Ra8-b8 .. Qh10xNe10+
+30. Rk1-g1 .. Rb8-c8 .. Qe10xBe5
+31. Rg1-g7+ .. Rc8-c7 .. Qe5-d6
+32. i3-i4 .. b5-c5 .. Qd6xd2+
+33. Ke3-f3 .. Rc7xRg7 .. Qd2xi2
+34. i4-i5 .. Ba6-c4 .. Qi2xi5
+35. e4-e5 .. Rg7-h7 .. Qi5-i6+
+36. Kf3-e4 .. Rh7-h9 .. Qi6-e10+
+37. e5-e6 .. Kb7-c6 .. Qe10-e8+
+38. j2-j4 .. Kc6-c7 .. Qe8xRa4
+39. Nf4-d5+ .. Bc4xNd5+ .. Qa4-g10
+40. Ke4-e5 .. Bd5xe6 .. e11-e10
+41. Ke5xBe6 .. Rh9-h6+ .. Qg10-f10+
+42. Ke6-e5 .. Kc7-c6 .. Qf10-f9+
+43. j4-j5 .. Kc6-c7 .. Qf9-e9++
+44. Ke5-f5 .. Kc7-c8 .. Qe9xRh6
+45. k2-k3 .. T .. Qh6xk3
+46. j5-j6 .. Qk3-i5+
+47. Kf5-f6 .. Qi5xj6+
+48. R

@@ -1,0 +1,66 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1035"]
+[Result "AlexandruTanas: 44 - Tvoia_mama_dura: 1 - Juangalvez70: 50 - Ulra1: 6"]
+[Variant "FFA"]
+[Red "AlexandruTanas"]
+[RedElo "1631"]
+[Blue "Tvoia_mama_dura"]
+[BlueElo "1500"]
+[Yellow "Juangalvez70"]
+[YellowElo "1722"]
+[Green "Ulra1"]
+[GreenElo "1446"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:26:21 GMT+0000 (UTC)"]
+[CurrentMove "129"]
+
+1. h2-h3 .. b7-d7 .. h13-h11 .. m8-k8
+2. Qg1-j4 .. b5-c5 .. h11-h10 .. m9-l9
+3. k2-k4 .. b10-c10 .. h10-h9 .. m7-l7
+4. Qj4-i3 .. Ba6-b7 .. h9-h8 .. Bn6-m7
+5. Qi3xRa11 .. Na10-c9 .. h8-h7=D .. Qn8-l10
+6. j2-j3 .. Bb7-d9 .. g13-g12 .. m4-l4
+7. d2-d4 .. c5xd4 .. d13-d12 .. Bm7-l6
+8. Rd1xd4 .. Na5-c6 .. Ne14-f12 .. Nn10-l11
+9. Rd4-c4 .. Nc6-e5 .. e13-e12 .. Bn9-m8
+10. Bi1xNe5 .. R .. Nj14-i12 .. O-O-O
+11. Qa11xBa9 .. Qh7-e4 .. Kn9-n10
+12. Rc4-c5 .. Qe4xKa8 .. m5-k5
+13. Qa9xQa8 .. Bf14-e13 .. k5-j5
+14. k4xj5 .. O-O .. k8-j8
+15. Qa8-f3 .. Rf14-g14 .. j8-i8
+16. j5-j6 .. g12-g11 .. Ql10-d2
+17. Ne1-d3 .. g11-g10 .. Qd2-h6
+18. j6-j7 .. g10-g9 .. Qh6-i7
+19. g2-g4 .. k13-k12 .. Qi7xj7
+20. Qf3-g3+ .. k12xNl11 .. l7-k7
+21. Rk1xk7 .. Qh14-h10 .. Bl6xRk7
+22. g4-g5 .. Qh10xm10+#
+23. g5-g6 .. Qm10-h10
+24. g6-g7 .. g9-g8
+25. f2-f4 .. j13-j11
+26. f4-f5 .. j11-j10
+27. f5-f6 .. Nf12-e10
+28. j3-j4 .. Rk14xBk7
+29. i2-i4 .. Rk7-k1
+30. Kh1-i2 .. Bi14-k12
+31. Ki2-j2 .. Rk1-k4
+32. Nj1-i3 .. Rk4xj4+
+33. Kj2-k3 .. Rj4xQj7
+34. Ni3-j5 .. j10-j9
+35. Qg3-g4 .. Qh10-k10+
+36. Kk3-j4 .. Rj7-j8
+37. Qg4-i6 .. j9xi8
+38. Qi6-i7 .. Ni12-h10
+39. Qi7xRj8 .. Nh10-j9
+40. Qj8xi8 .. i13-i11
+41. Nj5-i7 .. i11-i10
+42. Rc5-c8 .. Be13-l6+
+43. Kj4-j3 .. Qk10-k5
+44. Rc8xg8 .. Qk5-j4+
+45. Kj3-i2 .. Qj4-i3+
+46. Ki2-j1 .. Qi3-g1+
+47. Kj1-i2 .. Qg1xBf1
+48. Rg8xRg14+ .. Ke14-e13
+49. g7-g8=D .. R

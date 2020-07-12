@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1173"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "Eric89rtms"]
+[RedElo "1528"]
+[Blue "pabloMarinozi"]
+[BlueElo "1503"]
+[Yellow "JoseReinoso1962"]
+[YellowElo "1766"]
+[Green "Lucca2156"]
+[GreenElo "1507"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:55:02 GMT+0000 (UTC)"]
+[CurrentMove "4"]
+
+1. Nj1-i3 .. b7-d7 .. h13-h11 .. T

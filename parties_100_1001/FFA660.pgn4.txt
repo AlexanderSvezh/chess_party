@@ -1,0 +1,57 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "660"]
+[Result "akuakuka: 36 - Sanpeita: 10 - BRACUNATASS: 54 - nolocrick: 5"]
+[Variant "FFA"]
+[Red "akuakuka"]
+[RedElo "1734"]
+[Blue "Sanpeita"]
+[BlueElo "1503"]
+[Yellow "BRACUNATASS"]
+[YellowElo "1500"]
+[Green "nolocrick"]
+[GreenElo "1561"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:43:21 GMT+0000 (UTC)"]
+[CurrentMove "114"]
+
+1. j2-j3 .. b7-d7 .. j13-j12 .. m8-k8
+2. Bi1-j2 .. d7-e7 .. i13-i11 .. k8-j8
+3. Nj1-i3 .. e7-f7 .. d13-d12 .. j8-i8
+4. O-O .. f7-g7 .. e13-e11 .. Nn5-l6
+5. g2-g4 .. b10-c10 .. Bi14-j13 .. Bn9xBf1
+6. Qg1xBf1 .. b6-c6 .. h13-h11 .. m7-k7
+7. h2-h4 .. Na10-c9 .. h11-h10 .. k7-j7
+8. h4-h5 .. Ba9-b10 .. g13-g11 .. j7-i7
+9. g4-g5 .. O-O .. Ne14-g13 .. i8-h8
+10. g5-g6 .. g7xh8=D .. f13-f11 .. i7-h7
+11. g6xh7 .. Qa7xh7+ .. Bj13xm10 .. Qn8-m7
+12. Qf1-n9+# .. b5-c5 .. Bm10xQn9
+13. k2-k4 .. Ba6xe2 .. Bn9-j13
+14. Ne1-g2 .. b8-d8 .. g11-g10
+15. Rd1-e1 .. Be2-f3 .. f11-f10
+16. Ng2-h4 .. c6-d6 .. Nj14-i12
+17. Nh4xBf3 .. Qh8-f6 .. g10-g9
+18. Nf3-g1 .. Qf6xf2 .. i11-i10
+19. Ng1-h3 .. Qf2xd2 .. h10-h9
+20. k4-k5 .. Ra9-a7 .. j12-j11
+21. k5xNl6 .. Ra7-e7 .. i10-i9
+22. Nh3-i5 .. Qh7-f5 .. h9-h8
+23. Re1xRe7 .. d8xRe7 .. j11-j10
+24. l6-l7 .. R .. Qh14-l10
+25. Ri1-g1 .. Ql10xl7
+26. Rg1-g8 .. Ql7-f1+
+27. Bj2-i1 .. Qf1-a6
+28. h5-h6 .. Qa6xKa10
+29. h6-h7 .. Bj13-k12
+30. Rg8-g4 .. Ng13-h11
+31. Rg4-k4 .. Bk12-i10
+32. Bi1xm5 .. k13-k11
+33. j3-j4 .. Qa10-a9
+34. j4-j5 .. k11-k10
+35. j5-j6 .. k10-k9
+36. j6-j7 .. Rk14-k13
+37. Ni3-j5 .. Qa9xd6
+38. Kj1-k2 .. Qd6-i6
+39. Rk4-k6 .. Qi6xNj5
+40. R

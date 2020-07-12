@@ -1,0 +1,65 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "789"]
+[Result "Horsemanplay: 74 - ImnotaStark: 44 - nikolazivanovic98: 14 - Davidbloom001: 19"]
+[Variant "FFA"]
+[Red "Horsemanplay"]
+[RedElo "1895"]
+[Blue "ImnotaStark"]
+[BlueElo "1471"]
+[Yellow "nikolazivanovic98"]
+[YellowElo "1454"]
+[Green "Davidbloom001"]
+[GreenElo "1556"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:14:46 GMT+0000 (UTC)"]
+[CurrentMove "119"]
+
+1. j2-j3 .. b8-d8 .. g13-g11 .. Nn5-l6
+2. e2-e3 .. Qa7xQh14+ .. Kg14xQh14 .. m10-l10
+3. g2-g4 .. Ba9-b8+ .. Ne14-g13 .. Bn9-m10
+4. Bf1-e2 .. Bb8xNg13+ .. Bf14xBg13 .. m8-l8
+5. Bi1-j2 .. Na10-c9 .. T .. Qn8-m8
+6. g4-g5 .. b7-c7 .. Bm10xBe2
+7. Ne1-g2 .. Nc9-d11 .. Be2-m10
+8. g5-g6 .. Nd11xe13 .. Qm8xh13
+9. g6-g7 .. Ba6xQh13+ .. Nn10-l9
+10. g7-g8=D .. Ne13-g12 .. m7-l7
+11. Nj1-i3 .. Ng12xKh14 .. m4-l4
+12. k2-k4 .. Bh13xNl9+ .. Bm10xBl9
+13. Rd1-e1 .. Nh14-g12 .. Bn6-m7
+14. f2-f4 .. Na5-c4 .. O-O-O
+15. d2-d4 .. Nc4-d2 .. Kn9-n10
+16. Qg8-d5+ .. Ka8-a7 .. Bl9-h13
+17. Qg1-f2 .. b6-c6 .. Bh13xNg12
+18. Qd5xb5 .. Ka7-a8 .. l8-k8
+19. Qb5xRa4+ .. Ka8-b8 .. Bm7xBg13+
+20. Qa4-a7+# .. Bg13-l8
+21. Qf2-f3 .. Rn4-n7
+22. d4-d5 .. k8-j8
+23. f4-f5 .. Bg12-k8
+24. Qf3-f4 .. j8-i8
+25. f5-f6 .. Bl8-k9
+26. Qf4-f5 .. i8-h8
+27. f6-f7 .. Bk9-l8
+28. f7-f8=D .. Bl8xRe1
+29. Ng2xBe1 .. Bk8-m10
+30. Qf8-g8 .. l7-k7
+31. Qf5xm5 .. k7-j7
+32. Qm5xNl6 .. j7-i7
+33. Ql6-f6 .. i7-h7
+34. Qg8xh8 .. Rn8xQh8
+35. Qf6xRh8 .. h7-g7=D
+36. Qh8xl4 .. Qg7-k7
+37. O-O .. Qk7-k9
+38. d5-d6 .. Qk9-j8
+39. Qa7-c5 .. Rn7-i7
+40. Ne1-g2 .. m6-k6
+41. Qc5-b6 .. k6-j6
+42. d6xc7 .. Qj8xd8
+43. c7xQd8=D .. Ri7-c7
+44. Qb6xRc7 .. Bm10-l9
+45. Ql4xBl9 .. j6-i6
+46. Ql9xi6 .. m9-k9
+47. Qc7-m7 .. m11-l11
+48. Qd8-n8+#

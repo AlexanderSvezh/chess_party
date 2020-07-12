@@ -1,0 +1,23 @@
+[GameNr "1099"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Riba"]
+[RedElo "2779"]
+[Blue "johanlundberg"]
+[BlueElo "1828"]
+[Yellow "mikemanuver"]
+[YellowElo "2523"]
+[Green "andrews810"]
+[GreenElo "2297"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:32:15 GMT+0000 (UTC)"]
+[CurrentMove "28"]
+
+1. h2-h3 .. b7-c7 .. g13-g12 .. m9-l9
+2. Qg1-j4 .. Qa7-b7 .. k13-k11 .. Qn8-m9
+3. Bi1-g3 .. b8-c8 .. Qh14-e11 .. m8-l8
+4. Bg3xl8 .. Ba9-b8 .. Qe11-h11 .. Bn9-l7
+5. Bl8xQm9 .. b11-d11 .. Qh11-h8 .. Bl7-k8
+6. Qj4-j5 .. c7-d7 .. Qh8xBk8 .. m7-l7
+7. Qj5xl7+ .. Qb7xg2+ .. Qk8-n8+ .. #

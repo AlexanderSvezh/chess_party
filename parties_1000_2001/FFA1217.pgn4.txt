@@ -1,0 +1,50 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1217"]
+[Result "AlexanderRamirez1993: 0 - grabovskii: 33 - C40S: 11 - Akagami18: 55"]
+[Variant "FFA"]
+[Red "AlexanderRamirez1993"]
+[RedElo "1488"]
+[Blue "grabovskii"]
+[BlueElo "1799"]
+[Yellow "C40S"]
+[YellowElo "1749"]
+[Green "Akagami18"]
+[GreenElo "1690"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:23:26 GMT+0000 (UTC)"]
+[CurrentMove "104"]
+
+1. g2-g4 .. b10-c10 .. Ne14-f12 .. m5-l5
+2. k2-k3 .. Na10-c9 .. d13-d12 .. m10-l10
+3. g4-g5 .. b5-c5 .. e13-e12 .. Bn9-m10
+4. d2-d3 .. Ba6-b5 .. Bf14-e13 .. Nn5-l6
+5. Qg1-g4 .. Bb5xj13 .. Bi14xBj13 .. Bm10xQg4
+6. R .. Na5-c6 .. O-O .. Bg4-f3
+7. Ba9-b10 .. h13-h11 .. m11-l11
+8. O-O .. h11-h10 .. Bf3xKh1
+9. b4-d4 .. g13-g11 .. Bh1-g2
+10. d4-e4 .. h10-h9 .. m8-k8
+11. e4-f4 .. h9-h8 .. Bn6-m5
+12. f4-g4 .. h8-h7=D .. O-O
+13. c5-d5 .. Qh7-h11 .. Bg2xd5
+14. Ra4-d4 .. g11-g10 .. Bd5-g8
+15. Nc6-e7 .. g10-g9 .. Bg8-i6
+16. Ne7-f5 .. Qh11-h8 .. m9-k9
+17. g4-h4=D .. Nf12-g10 .. k8-j8
+18. Qh4-i4 .. g9-g8 .. Bi6-m10
+19. b6-d6 .. Ng10-f12 .. l10-k10
+20. d6-e6 .. Qh8-f6 .. Bm10-n9
+21. Qi4-e4 .. Rf14-g14 .. k9-j9
+22. b7-d7 .. Qh14-h11 .. j8-i8
+23. Qe4-d5 .. Bj13-i14 .. Qn8-l8
+24. d7-e7 .. Qf6-f11 .. k10-j10
+25. Bb10xd12 .. Be13xBd12 .. j9-i9
+26. Qd5xBd12 .. Qf11xb11+ .. i8-h8
+27. Nc9xQb11 .. Nf12-d11 .. Bn9-m8
+28. e6-f6 .. Bi14-d9 .. Bm8xRg14
+29. Rd4xBd9 .. Qh11-g11 .. Bg14-k10
+30. Nf5-d6 .. f13-f11 .. l11-k11
+31. Nd6-c8 .. Ke14-f13 .. Bk10-j9+
+32. Qd12-f10 .. R .. Bj9xKf13
+33. Qf10xf11 .. R

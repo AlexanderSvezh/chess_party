@@ -1,0 +1,19 @@
+[GameNr "760"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "antonicimar"]
+[RedElo "1515"]
+[Blue "Dewan122157"]
+[BlueElo "957"]
+[Yellow "juliendecarufel"]
+[YellowElo "1515"]
+[Green "alyeasin93"]
+[GreenElo "2632"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:54:31 GMT+0000 (UTC)"]
+[CurrentMove "11"]
+
+1. h2-h3 .. b7-c7 .. g13-g12 .. m8-l8
+2. Bi1-h2 .. Qa7-b7 .. h13-h11 .. Qn8-m8+
+3. Nj1-i3 .. Qb7xg12+ .. #

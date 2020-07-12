@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "15"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "FrauVomSepp"]
+[RedElo "1593"]
+[Blue "Tarsmick"]
+[BlueElo "1750"]
+[Yellow "mbgm2006"]
+[YellowElo "1686"]
+[Green "jintomd"]
+[GreenElo "1775"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 16:26:42 GMT+0000 (UTC)"]
+[CurrentMove "4"]
+
+1. h2-h4 .. b7-d7 .. h13-h11 .. T

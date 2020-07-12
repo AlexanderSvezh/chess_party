@@ -1,0 +1,17 @@
+[GameNr "776"]
+[Result "Aborted"]
+[Variant "Teams"]
+[Red "SheikMex"]
+[RedElo "1743"]
+[Blue "davrongar"]
+[BlueElo "1485"]
+[Yellow "Snooby123"]
+[YellowElo "1870"]
+[Green "ermis8992"]
+[GreenElo "2065"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:57:07 GMT+0000 (UTC)"]
+[CurrentMove "4"]
+
+1. h2-h3 .. b7-d7 .. g13-g12 .. R

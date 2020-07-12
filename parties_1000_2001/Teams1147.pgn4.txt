@@ -1,0 +1,30 @@
+[GameNr "1147"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "nebukdanezar"]
+[RedElo "1495"]
+[Blue "leorastelli"]
+[BlueElo "2191"]
+[Yellow "CarolXu135"]
+[YellowElo "1566"]
+[Green "Akusu"]
+[GreenElo "1814"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:55:23 GMT+0000 (UTC)"]
+[CurrentMove "55"]
+
+1. Nj1-i3 .. b8-c8 .. Ne14-f12 .. m7-l7
+2. Ne1-f3 .. Na10-c9 .. g13-g11 .. Bn6xBf14
+3. g2-g4 .. b10-c10 .. Rd14xBf14 .. Qn8-m7
+4. Qg1-g2 .. Ba9xe13 .. Rf14-e14 .. Nn5-l6
+5. h2-h3 .. Be13-c11 .. h13-h12 .. Nn10-l9
+6. d2-d4 .. Bc11-d10 .. Re14-e7 .. Nl9-k11
+7. Nf3-h4 .. Na5-c6 .. Re7-f7 .. m10-l10
+8. g4-g5 .. Nc9-d11 .. Nj14-h13 .. Rn11-n10
+9. d4-d5 .. Nc6-d8 .. Rf7-e7 .. Nk11xj13
+10. e2-e3 .. Nd11-e13+ .. Kg14-f14 .. Nj13xQh14
+11. Bf1-e2 .. Ne13-g12+ .. Kf14-g13 .. Nh14xf13
+12. Qg2-e4 .. Ng12xi13 .. Rk14-j14 .. Qm7xh12+
+13. Qe4-i8 .. Bd10xNf12+ .. Kg13xNf13 .. Qh12-g13+
+14. Qi8xNi13 .. Qa7-e11 .. #

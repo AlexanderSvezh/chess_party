@@ -1,0 +1,49 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "94"]
+[Result "EvilDenis: 22 - Dzibanche: 7 - rakkymann: 30 - martinviselka: 69"]
+[Variant "FFA"]
+[Red "EvilDenis"]
+[RedElo "1713"]
+[Blue "Dzibanche"]
+[BlueElo "1532"]
+[Yellow "rakkymann"]
+[YellowElo "1499"]
+[Green "martinviselka"]
+[GreenElo "1539"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:07:35 GMT+0000 (UTC)"]
+[CurrentMove "108"]
+
+1. g2-g4 .. b7-d7 .. h13-h11 .. m9-k9
+2. f2-f3 .. b8-d8 .. h11-h10 .. k9-j9
+3. j2-j3 .. d7-e7 .. h10-h9 .. m10-l10
+4. Bi1-j2 .. d8-e8 .. h9-h8 .. j9-i9
+5. g4-g5 .. e7-f7 .. h8-h7=D .. Bn9-l11
+6. Bf1-h3 .. e8-f8 .. Qh7-h12 .. Qn8-n9
+7. Qg1-g4 .. Qa7-b8 .. Bi14xBa6 .. Nn10-l9
+8. g5-g6 .. Qb8xh2+ .. Qh12-d8+ .. Nl9-k7
+9. Nj1xQh2 .. Na10-b8 .. Qh14-h13 .. i9-h9
+10. g6xf7 .. b9-c9 .. Qd8xBj2 .. Bl11-m10
+11. Rk1-j1 .. b11-d11 .. Qj2xk2 .. Bm10xQg4
+12. Bh3xBg4 .. b10-d10 .. Qk2xNk7 .. Rn11-n10
+13. Ne1-g2 .. Na5-c4 .. Qk7xf7 .. m5-l5
+14. Ng2-i3 .. Ra4xBa6 .. Qf7xf8 .. m4-k4
+15. j3xk4 .. Ra6-a7 .. j13-j11 .. l5xk4
+16. Bg4-h3 .. b6-c6 .. Qf8-f12 .. h9-g9=D
+17. Ni3xk4 .. Nc4-e5 .. Qf12xd10 .. Rn4xNk4
+18. d2-d4 .. Ne5-d7 .. j11-j10 .. m7-l7
+19. Rd1-g1 .. c9xQd10 .. e13-e12 .. Qg9-b9+#
+20. d4-d5 .. e12xd11 .. Qn9-n8
+21. d5xc6 .. i13-i11 .. Qb9xNb8
+22. Rg1-g2 .. i11-i10 .. Qb8xKa8
+23. c6xNd7 .. i10-i9 .. Qa8-d8
+24. e2-e4 .. Bf14xBa9 .. Bn6xj10
+25. Rj1xBj10 .. i9-i8 .. Rk4-k1+
+26. Rj10-j1 .. Ba9xNh2 .. Rk1xRj1+#
+27. i8-i7=D .. Qd8-c7
+28. Qi7-h7 .. Qc7-d8
+29. Qh7-g7 .. Qd8-c7
+30. Qg7-h7 .. Qc7-d8
+31. Qh7-g7 .. Qd8-c7
+32. Qg7-h7

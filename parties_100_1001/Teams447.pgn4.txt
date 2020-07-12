@@ -1,0 +1,24 @@
+[GameNr "447"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Antruni"]
+[RedElo "1823"]
+[Blue "Chessplayernewmember"]
+[BlueElo "1874"]
+[Yellow "Arielgue21"]
+[YellowElo "1954"]
+[Green "Svante10"]
+[GreenElo "1988"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:37:46 GMT+0000 (UTC)"]
+[CurrentMove "31"]
+
+1. h2-h3 .. b7-c7 .. h13-h12 .. m8-l8
+2. e2-e3 .. Na5-b7 .. Ne14-f12 .. Nn5-l6
+3. Qg1-k5 .. b4-c4 .. Bi14xNb7+ .. Qn8-m8+
+4. Bi1xc7 .. Qa7xBb7 .. Qh14-h13 .. Qm8xQh13+
+5. Bc7-f4 .. Na10-c9 .. Nj14xQh13 .. Bn9-m8
+6. d2-d3 .. Nc9-e10 .. Nf12xNe10 .. Bm8xNh13+
+7. Qk5-k6 .. Qb7xNe10 .. Kg14-h14 .. Bh13-m8
+8. Qk6xBm8+ .. Qe10-h13+ .. #

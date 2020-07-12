@@ -1,0 +1,20 @@
+[GameNr "1288"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "zackg123456"]
+[RedElo "1500"]
+[Blue "gnojham2"]
+[BlueElo "520"]
+[Yellow "jeffjoff1"]
+[YellowElo "1500"]
+[Green "Paddy_9999"]
+[GreenElo "1632"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:30:52 GMT+0000 (UTC)"]
+[CurrentMove "13"]
+
+1. i2-i4 .. b8-c8 .. h13-h11 .. m7-l7
+2. i4-i5 .. Qa7-d10 .. i13-i12 .. Qn8-k5
+3. j2-j4 .. Qd10xg13+ .. Qh14xQg13 .. Qk5-k4+
+4. #

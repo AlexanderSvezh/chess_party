@@ -1,0 +1,41 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1049"]
+[Result "Balsa66: 50 - Darkl1853: 57 - LYM9: 3 - niko0779: 2"]
+[Variant "FFA"]
+[Red "Balsa66"]
+[RedElo "1800"]
+[Blue "Darkl1853"]
+[BlueElo "1500"]
+[Yellow "LYM9"]
+[YellowElo "1666"]
+[Green "niko0779"]
+[GreenElo "1502"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:26:44 GMT+0000 (UTC)"]
+[CurrentMove "75"]
+
+1. j2-j3 .. b10-c10 .. h13-h11 .. m7-k7
+2. Bi1-j2 .. Na10-c9 .. h11-h10 .. Nn10-l9
+3. g2-g4 .. Ba9-b10 .. h10-h9 .. m6-l6
+4. g4-g5 .. Nc9-d7 .. h9-h8 .. Bn6-k9
+5. g5-g6 .. Bb10xBj2 .. Ne14-f12 .. Nn5-l4
+6. g6-g7 .. Bj2xRk1 .. h8-h7=D .. Nl9-j8
+7. g7-g8=D .. Bk1-b10 .. Qh7xNd7 .. Nl4xk2
+8. Qg8-k4+ .. O-O .. T .. m5-l5
+9. Qk4xNk2 .. b8-c8 .. Nj8-h9
+10. j3-j4 .. Qa7xNf12 .. l5-k5
+11. j4xk5 .. Qf12xf13 .. l6xk5
+12. Qk2-k4+ .. Qf13xKg14 .. Kn7-n6
+13. Qk4-i6+ .. b6-c6 .. Kn6-n5
+14. Qi6-k8+ .. Qg14-e12 .. Kn5-m5
+15. Qk8xBk9 .. c6xQd7 .. m10-l10
+16. Qk9xk7+ .. Qe12xNh9 .. Km5-m6
+17. Qg1-g6+ .. d7-e7 .. Km6-n5
+18. Ne1-g2 .. Ra9-a7 .. Qn8-n6
+19. Qk7-k8+ .. e7-f7 .. Qn6-m6
+20. Qg6xQm6+# .. f7-g7
+21. Qm6-b6 .. g7-h7=D
+22. Qb6xRa7+ .. Bb10-a9
+23. Qa7xBa6 .. Qh7xh2+
+24. Nj1xQh2 .. Qh9xNh2+#

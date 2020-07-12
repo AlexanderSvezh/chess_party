@@ -1,0 +1,34 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "532"]
+[Result "1314nenon: 27 - mistermustachio42: 6 - Myvecinotottoro: 74 - ruffus123: 20"]
+[Variant "FFA"]
+[Red "1314nenon"]
+[RedElo "1487"]
+[Blue "mistermustachio42"]
+[BlueElo "1492"]
+[Yellow "Myvecinotottoro"]
+[YellowElo "1764"]
+[Green "ruffus123"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:05:56 GMT+0000 (UTC)"]
+[CurrentMove "55"]
+
+1. h2-h4 .. b8-d8 .. e13-e12 .. m7-k7
+2. Bi1xBa9 .. Ka8xBa9 .. Ne14-f12 .. Qn8xQg1+
+3. Kh1xQg1 .. Qa7-c9 .. Nf12-d11 .. Bn6-m7+
+4. i2-i3 .. Qc9xm9 .. Bf14xb10+ .. Nn10-l11
+5. Ne1-f3 .. Ka9-b8 .. Bb10xd8 .. Nl11xQm9
+6. e2-e3 .. Na5-c6 .. Bd8xRa11 .. Nn5-l6
+7. Bf1-e2 .. T .. Ba11-c9 .. Nl6-j7
+8. Nf3-e5 .. Bc9xKb8 .. Nj7-h8
+9. Ne5xNc6 .. Bb8-f12 .. Nh8-f7
+10. Kg1-f1 .. Bf12xk7 .. m8-l8
+11. Nj1-h2 .. Bk7xm5 .. Bn9xg2+
+12. Kf1xBg2 .. Bm5xRn4 .. Bm7xi3
+13. j2xBi3 .. Bn4-l6 .. Nm9-k10
+14. Rk1-i1 .. i13-i12 .. Nk10-i11
+15. Be2-h5 .. Qh14-m9 .. Ni11-g10
+16. Bh5xNf7 .. Qm9-m7+#
+17. R

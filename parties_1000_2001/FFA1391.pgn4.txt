@@ -1,0 +1,48 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1391"]
+[Result "J_Randolph: 2 - 3littefonzies: 2 - Sesteronekue: 67 - Lt_Jilli: 16"]
+[Variant "FFA"]
+[Red "J_Randolph"]
+[RedElo "1654"]
+[Blue "3littefonzies"]
+[BlueElo "1739"]
+[Yellow "Sesteronekue"]
+[YellowElo "1575"]
+[Green "Lt_Jilli"]
+[GreenElo "1793"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:19:53 GMT+0000 (UTC)"]
+[CurrentMove "103"]
+
+1. g2-g4 .. Na10-c9 .. h13-h11 .. m5-k5
+2. g4-g5 .. b8-c8 .. h11-h10 .. m4-k4
+3. g5-g6 .. Ba9-b8 .. h10-h9 .. k5-j5
+4. g6-g7 .. O-O .. e13-e12 .. Bn6-m5
+5. k2-k3 .. b7-d7 .. Ne14-f12 .. m10-l10
+6. Nj1-i3 .. b6-d6 .. Bf14-e13 .. m6-k6
+7. h2-h3 .. Na5-c6 .. O-O .. m8-l8
+8. Bi1-h2 .. Ba6-b7 .. g13-g11 .. Bn9-m8
+9. O-O .. b4-c4 .. g11-g10 .. Nn5-l6
+10. e2-e3 .. Nc6-d8 .. g10-g9 .. Bm8-l9
+11. d2-d4 .. Nd8-c10 .. h9-h8 .. Bl9xRd1
+12. g7-g8=D .. d7-e7 .. Rf14-g14 .. Bd1-m10
+13. f2-f3 .. Bb7-c6 .. h8-h7=D .. Nn10-m8
+14. e3-e4 .. Qa7-d7 .. k13-k12 .. m7-k7
+15. d4-d5 .. c4xd5 .. Nj14-i12 .. Qn8-m7
+16. e4xd5 .. Bc6-b7 .. Qh7xQg8 .. k6-j6
+17. Qg1xQg8 .. e7-f7 .. Bi14-h13 .. O-O-O
+18. Qg8-g2 .. Bb7xd5 .. Rg14-g11 .. Kn9-n10
+19. Qg2-d2 .. Bd5-c6 .. Bh13-g14 .. j6-i6
+20. Ne1-d3 .. T .. Rg11xb11 .. k7-j7
+21. T .. Qh14-h11 .. m11-k11
+22. j13-j12 .. k11xj12
+23. Qh11-m11+ .. Kn10-n9
+24. i13xj12 .. Nl6-k8
+25. k12-k11 .. Nm8-n10
+26. j12-j11 .. Nn10-l9
+27. k11xl10 .. Nl9xQm11
+28. l10xm9 .. Nk8xm9
+29. j11-j10 .. l8-k8
+30. Rb11xNm11 .. Qm7xNi3
+31. Ni12-k11 .. T

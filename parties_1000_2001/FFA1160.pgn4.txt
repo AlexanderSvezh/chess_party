@@ -1,0 +1,44 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1160"]
+[Result "horsemanbro2: 30 - Mubarakjaradat61: 39 - Thjhs: 13 - ingjhon777: 52"]
+[Variant "FFA"]
+[Red "horsemanbro2"]
+[RedElo "1949"]
+[Blue "Mubarakjaradat61"]
+[BlueElo "1643"]
+[Yellow "Thjhs"]
+[YellowElo "1525"]
+[Green "ingjhon777"]
+[GreenElo "1839"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:00:30 GMT+0000 (UTC)"]
+[CurrentMove "93"]
+
+1. g2-g4 .. b7-d7 .. Ne14-f12 .. m8-k8
+2. Ne1-f3 .. d7-e7 .. h13-h12 .. k8-j8
+3. Bf1xBn9 .. e7-f7 .. g13-g11 .. Qn8xBn9
+4. g4-g5 .. f7-g7 .. Bi14xBa6 .. j8-i8
+5. g5-g6 .. Qa7xBa6 .. Bf14-g13 .. Nn5-l6
+6. Nj1-i3 .. b5-c5 .. O-O .. m5-l5
+7. d2-d3 .. b10-c10 .. Qh14-i14 .. m4-k4
+8. k2-k3 .. b8-c8 .. Nf12-e10 .. Bn6-m5
+9. j2-j4 .. Qa6-a7 .. Ne10-c9+ .. i8-h8
+10. Bi1-j2 .. Na10xNc9 .. Qi14-h14 .. h8-g8=D
+11. Kh1-i1 .. g7-h7=D .. Bg13xNc9 .. Qg8-m8
+12. g6xQh7 .. Qa7xh7 .. Bc9xRa11 .. m9-l9
+13. Ki1-j1 .. Qh7-e10 .. Ba11-c9 .. l9-k9
+14. Rd1-e1 .. Qe10xe13+# .. k9-j9
+15. h2-h4 .. Qe13xg11 .. j9-i9
+16. Qg1xQg11 .. b11-d11 .. i9-h9
+17. Qg11xb6 .. Na5-b7 .. h9-g9=D
+18. Qb6-b5 .. Ra4-a7 .. Qg9-i9
+19. Qb5xb4 .. Ba9-b8 .. Nl6-m4
+20. Re1-h1 .. Nb7-d6 .. Bm5xk3
+21. Bj2xBk3 .. Ra7-b7 .. Nm4xBk3+
+22. Rk1xNk3 .. Rb7xQb4 .. Qi9-m5
+23. Rk3-k2 .. Nd6-f5 .. Qm8-i8
+24. Ni3-h5 .. Rb4-f4 .. Qi8-i4
+25. Nh5xRf4 .. Nf5-d6 .. Qi4xj4+
+26. Kj1-k1 .. Nd6-b5 .. Qj4-i3+
+27. R .. R

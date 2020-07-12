@@ -1,0 +1,27 @@
+[GameNr "726"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Xchess69xxx"]
+[RedElo "2142"]
+[Blue "Sergiotrillo"]
+[BlueElo "1500"]
+[Yellow "Streetham"]
+[YellowElo "1529"]
+[Green "8943GHWRGW34IH89H"]
+[GreenElo "1460"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:50:17 GMT+0000 (UTC)"]
+[CurrentMove "41"]
+
+1. h2-h3 .. b8-c8 .. h13-h12 .. m9-k9
+2. Bi1xBa9 .. Ka8xBa9 .. e13-e12 .. Nn5-l6
+3. Qg1-h2+ .. Ka9-a8 .. Bf14xb10 .. m5-l5
+4. k2-k3 .. b7-d7 .. Bb10xRa11 .. Bn6-m5
+5. e2-e3 .. Na5-b7 .. Ne14-d12 .. Nl6-k4
+6. Bf1-e2 .. Na10-c9 .. g13-g12 .. Bm5xRd14
+7. Be2-f3 .. b6-c6 .. Ba11xNc9 .. Nk4xj2+
+8. Kh1-i1 .. Nb7xBc9 .. f13-f12 .. Nj2-k4
+9. Ne1-d3 .. b4-c4 .. Kg14-f13 .. m11-l11
+10. Nd3-c5 .. Qa7xNc5 .. j13-j12 .. Bd14xf12
+11. R

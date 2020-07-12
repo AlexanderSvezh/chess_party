@@ -1,0 +1,20 @@
+[GameNr "721"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Nigillus"]
+[RedElo "1500"]
+[Blue "antonicimar"]
+[BlueElo "1529"]
+[Yellow "S_Mistik"]
+[YellowElo "1476"]
+[Green "juliendecarufel"]
+[GreenElo "1529"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:47:13 GMT+0000 (UTC)"]
+[CurrentMove "13"]
+
+1. h2-h4 .. b7-d7 .. h13-h11 .. m8-k8
+2. g2-g4 .. Ba6xBi14 .. Qh14xBi14 .. Bn9-m8+
+3. Qg1-g3 .. b8-d8 .. i13-i12 .. Bm8xBf1
+4. T

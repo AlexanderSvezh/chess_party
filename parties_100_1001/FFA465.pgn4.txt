@@ -1,0 +1,57 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "465"]
+[Result "dankillerchessen: 17 - comradical: 30 - KINGPavelDatsyuk: 63 - owljay: 24"]
+[Variant "FFA"]
+[Red "dankillerchessen"]
+[RedElo "1517"]
+[Blue "comradical"]
+[BlueElo "1720"]
+[Yellow "KINGPavelDatsyuk"]
+[YellowElo "1584"]
+[Green "owljay"]
+[GreenElo "1648"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:00:02 GMT+0000 (UTC)"]
+[CurrentMove "149"]
+
+1. h2-h3 .. b10-c10 .. h13-h11 .. m9-k9
+2. g2-g4 .. Ba9-b10 .. h11-h10 .. Qn8-l10
+3. Ne1-f3 .. Na10-c9 .. h10-h9 .. m4-k4
+4. Bi1-h2 .. O-O .. h9-h8 .. Nn5-l6
+5. Bh2xNl6 .. Ra9-a8 .. h8-h7=D .. m5xBl6
+6. Nj1-i3 .. b8-d8 .. d13-d12 .. Bn6xj2
+7. Rk1-j1 .. d8-e8 .. Qh7-h10 .. Ql10-l9+
+8. Rj1xBj2 .. e8-f8 .. i13-i12 .. m8-l8
+9. Rj2-j7 .. b7-d7 .. j13-j12 .. Ql9xRj7
+10. Bf1-g2 .. d7-e7 .. Bi14-j13 .. Nn10-l9
+11. Qg1-h2 .. e7-f7 .. Bj13xm10 .. Bn9xBm10
+12. Kh1-g1 .. f7-g7 .. Qh10xBm10 .. Rn11-n8
+13. Ni3-h5 .. Na5-c6 .. Qm10-k10 .. Qj7-k8
+14. h3-h4 .. g7-h7=D .. Qk10xQh7 .. Rn8-n10
+15. Nh5-j6 .. Ba6-b7 .. Qh7-h11 .. Qk8-j8
+16. Nj6-h5 .. Nc6-e7 .. Nj14-k12 .. O-O
+17. Bg2-h3 .. b6-d6 .. g13-g12 .. Nl9-k7
+18. Kg1-g2 .. b5-c5 .. Nk12xm11 .. Nk7-l5
+19. Rd1-i1 .. Qa7-b6 .. Nm11-l9 .. Qj8-j7
+20. Kg2-f1 .. Ra8-b8 .. Nl9xRn10 .. Rn6xNn10
+21. Kf1-e1 .. Ra4-a8 .. Qh11-m11 .. Rn10-n7
+22. i2-i4 .. f8-g8 .. Qh14-h13 .. l6-k6
+23. i4-i5 .. g8-h8=D .. Bf14-h12 .. m6-l6
+24. i5-i6 .. Qh8-e8 .. Rk14-h14 .. Qj7-j9
+25. Bh3-f1 .. Qb6-a6 .. i12-i11 .. Qj9-m6
+26. i6-i7 .. Ne7-c6 .. Qm11-m8 .. Rn7-n6
+27. e2-e3 .. Nc6-d8 .. Bh12xNd8 .. Kn5-n4
+28. Bf1xQa6 .. Bb7xBa6 .. Bd8xNc9 .. Nl5-k7
+29. Qh2-j4 .. Bb10xBc9 .. Qm8xk6 .. Rn6-n5
+30. Nh5-g3 .. Qe8-b5 .. f13-f12 .. Nk7-l5
+31. Qj4-i4 .. Bc9-b10 .. Qk6-h9 .. Nl5-k3
+32. Qi4-h3 .. Rb8-c8 .. Qh9-h11 .. Qm6-m5
+33. g4-g5 .. Bb10-a9 .. Qh11-e11 .. Nk3-l5
+34. Qh3-g4 .. d6-e6 .. Qh13-h11 .. Qm5xRi1+
+35. Ng3-f1 .. Qb5-e2+# .. Qe11xb11+# .. l6-k6
+36. Qb11-d11 .. Kn4-m4
+37. Qd11xk4+ .. Km4-m5
+38. Qh11-h10+ .. Km5-n6
+39. Qk4xk6+ .. Kn6-n7
+40. Qh10-n10+#

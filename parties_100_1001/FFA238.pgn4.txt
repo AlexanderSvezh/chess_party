@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "238"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "Alvaro_Ayala"]
+[RedElo "1843"]
+[Blue "anmargue"]
+[BlueElo "1568"]
+[Yellow "684P"]
+[YellowElo "1846"]
+[Green "Pablo2323"]
+[GreenElo "1694"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:34:35 GMT+0000 (UTC)"]
+[CurrentMove "3"]
+
+1. j2-j3 .. b7-d7 .. T

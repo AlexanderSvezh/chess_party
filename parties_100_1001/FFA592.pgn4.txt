@@ -1,0 +1,45 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "592"]
+[Result "Oic222: 53 - 04common_user: 0 - plumatica: 49 - Tom21112006: 1"]
+[Variant "FFA"]
+[Red "Oic222"]
+[RedElo "1500"]
+[Blue "04common_user"]
+[BlueElo "1472"]
+[Yellow "plumatica"]
+[YellowElo "1644"]
+[Green "Tom21112006"]
+[GreenElo "1461"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:21:41 GMT+0000 (UTC)"]
+[CurrentMove "74"]
+
+1. g2-g4 .. b7-d7 .. h13-h11 .. m10-l10
+2. e2-e3 .. d7-e7 .. Bi14-g12 .. Bn9-m10
+3. f2-f3 .. e7-f7 .. k13-k12 .. Nn5-l6
+4. g4-g5 .. f7-g7 .. Qh14-h13 .. m5-l5
+5. g5-g6 .. b10-c10 .. Bg12xBa6 .. Bm10-h5
+6. Nj1-i3 .. b8-c8 .. Ba6xb5 .. Bh5-l9
+7. Bf1xBb5 .. Na5-c6 .. i13-i12 .. Bl9xf3+
+8. Ne1xBf3 .. Ra4-a5 .. g13-g11 .. Bn6-m5
+9. Bb5xNc6+ .. Ka8-b8 .. Bf14-g13+ .. Nn10-l9
+10. Qg1-g3+# .. g11-g10 .. R
+11. Qg3xm9 .. i12-i11
+12. Qm9xQn8 .. j13-j11
+13. Qn8xKn7 .. i11-i10
+14. Qn7xm8 .. h11-h10
+15. h2-h4 .. f13-f11
+16. h4-h5 .. h10-h9
+17. h5-h6 .. h9-h8
+18. Bc6-e4 .. h8xg7=D
+19. O-O-O .. Qg7-d7
+20. d2-d4 .. Qd7xi2
+21. Ni3-g2 .. Qh13xh6
+22. Qm8xc8 .. Qi2xQc8
+23. Nf3-e5 .. Qc8-m8
+24. k2-k4 .. Qh6xe3
+25. Ne5-f3 .. Qe3xBe4
+26. Nf3-d2 .. Qe4xd4
+27. Bi1-f4 .. Qd4xBf4+
+28. R

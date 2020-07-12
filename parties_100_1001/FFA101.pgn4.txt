@@ -1,0 +1,38 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "101"]
+[Result "jrock024: 9 - adamg2156: 5 - Duofy: 62 - and_2018: 25"]
+[Variant "FFA"]
+[Red "jrock024"]
+[RedElo "1500"]
+[Blue "adamg2156"]
+[BlueElo "1441"]
+[Yellow "Duofy"]
+[YellowElo "1599"]
+[Green "and_2018"]
+[GreenElo "1652"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:05:29 GMT+0000 (UTC)"]
+[CurrentMove "74"]
+
+1. g2-g4 .. b5-d5 .. h13-h11 .. m8-k8
+2. h2-h4 .. Ba6-b5 .. h11-h10 .. m6-l6
+3. Ne1-f3 .. Bb5-f9 .. h10-h9 .. Nn10-m8
+4. Bf1-i4 .. Bf9-i6 .. h9-h8 .. m9-l9
+5. Bi1-f4 .. Na5-c6 .. h8-h7=D .. m7-k7
+6. Nj1-i3 .. Ra4-a5 .. Qh7xBi6 .. k8-j8
+7. Qg1-g2 .. Ra5-c5 .. Nj14-i12 .. Bn6-l8
+8. h4-h5 .. Rc5-c4 .. Qi6-i10 .. Nn5-m7
+9. e2-e3 .. Rc4xBf4 .. Ne14-f12 .. Nm7-k8
+10. e3xRf4 .. b10-d10 .. Qi10xd10 .. O-O
+11. Rd1-e1 .. Nc6-e7 .. e13-e12 .. l9-k9
+12. Re1xNe7 .. Ba9-b10 .. Qd10xBb10 .. k9-j9
+13. Re7-e5 .. T .. Qb10-a9 .. j9-i9
+14. Ni3-k4 .. Qa9xKa8 .. Qn8-m7
+15. h5-h6 .. Qa8xb8 .. m11-l11
+16. Re5xd5 .. Qb8xf4 .. m10-k10
+17. Rd5-h5 .. Qf4xd2 .. Nm8-l10
+18. Nf3xQd2 .. Bf14-e13 .. j8-i8
+19. Qg2xb7 .. Bi14xQb7+ .. Bn9xBi4
+20. T .. Bb7xKh1 .. i8-h8
+21. R

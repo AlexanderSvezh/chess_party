@@ -1,0 +1,51 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1361"]
+[Result "mrfaria: 21 - sammatataan: 96 - J-B-A-N: 17 - Bourbon_Jones: 11"]
+[Variant "FFA"]
+[Red "mrfaria"]
+[RedElo "1500"]
+[Blue "sammatataan"]
+[BlueElo "1622"]
+[Yellow "J-B-A-N"]
+[YellowElo "1572"]
+[Green "Bourbon_Jones"]
+[GreenElo "1575"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:09:12 GMT+0000 (UTC)"]
+[CurrentMove "111"]
+
+1. h2-h3 .. b7-d7 .. g13-g11 .. m8-k8
+2. g2-g4 .. b10-c10 .. Nj14-i12 .. m7-k7
+3. j2-j3 .. Ba9-b10 .. h13-h11 .. Nn10-l9
+4. i2-i3 .. b8-d8 .. Bf14xBn6 .. Kn7xBn6
+5. Bi1-j2 .. Na10-b8 .. Ne14-f12 .. Bn9-m8
+6. Bf1-g2+ .. Na5-c6 .. Bi14xBa6 .. Nn5-m7
+7. Ne1-d3 .. Qa7xBa6 .. O-O .. k8-j8
+8. f2-f4 .. O-O .. g11-g10 .. j8-i8
+9. Nd3-e5 .. d7-e7 .. h11-h10 .. i8-h8
+10. Ne5-f7 .. b4-d4 .. h10-h9 .. Bm8-l7
+11. e2-e4 .. Nb8-d9 .. Ni12-h10 .. m6-l6
+12. f4-f5 .. b5-c5 .. i13-i11 .. Kn6-m6
+13. Bj2-i1 .. d8-e8 .. j13-j12 .. m11-k11
+14. Nf7-e5 .. Nc6xNe5 .. Nh10-i8 .. k7-j7
+15. Bi1xNe5 .. d4xBe5 .. Ni8-j6 .. j7-i7
+16. Nj1-h2 .. e7-f7 .. Nj6xBl7 .. Km6xNl7
+17. O-O .. Qa6-a7 .. Qh14-h11+ .. Qn8-k8
+18. h3-h4+ .. Qa7-e7 .. Qh11xb11+ .. l6-k6
+19. Nh2-i4 .. Ka10xQb11 .. d13-d11 .. Qk8-j7
+20. Ni4-k5+ .. e8-f8 .. d11xc10 .. Kl7-k7
+21. Nk5xQj7 .. Qe7xe13+# .. Kk7xNj7
+22. k2-k4 .. f8-g8 .. k6-j6
+23. Bg2-f3 .. g8xh9=D+ .. R
+24. g4-g5 .. f7-g7
+25. Bf3-g4 .. g7-h7=D
+26. g5-g6 .. Qh7-h6
+27. j3-j4 .. Ra4xe4
+28. Qg1-h1 .. Re4xBg4
+29. Qh1-b7 .. Qh9xKj7
+30. Qb7xNd9 .. Qe13-e11
+31. Qd9-d13 .. Rg4xh4
+32. i3xRh4 .. Qj7xRd1
+33. Ri1xQd1 .. Qh6xh4
+34. Qd13xg10 .. Qh4-j2+#

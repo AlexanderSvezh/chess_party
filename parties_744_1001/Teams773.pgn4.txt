@@ -1,0 +1,21 @@
+[GameNr "773"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Marc2912"]
+[RedElo "1515"]
+[Blue "felipon123"]
+[BlueElo "1531"]
+[Yellow "Don_Hector_Salamanca"]
+[YellowElo "1549"]
+[Green "GamidGod"]
+[GreenElo "1527"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:58:30 GMT+0000 (UTC)"]
+[CurrentMove "18"]
+
+1. h2-h3 .. b7-c7 .. g13-g12 .. m5-l5
+2. Qg1-k5 .. Qa7-b7 .. j13-j12 .. Nn5-l6
+3. e2-e3 .. b4-c4 .. Bi14-j13 .. m11-l11
+4. Bf1-e2 .. Ra4-b4 .. Bf14-i11 .. Nn10-l9
+5. Be2-f3 .. R

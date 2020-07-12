@@ -1,0 +1,62 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1381"]
+[Result "Keller1811: 131 - audreymanley123: 21 - 71legend: 23 - YisusVazquez: 13"]
+[Variant "FFA"]
+[Red "Keller1811"]
+[RedElo "1540"]
+[Blue "audreymanley123"]
+[BlueElo "1500"]
+[Yellow "71legend"]
+[YellowElo "1500"]
+[Green "YisusVazquez"]
+[GreenElo "1513"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:18:11 GMT+0000 (UTC)"]
+[CurrentMove "141"]
+
+1. g2-g4 .. b7-d7 .. Ne14-d12 .. m8-k8
+2. g4-g5 .. b11-c11 .. h13-h11 .. k8-j8
+3. g5-g6 .. c11xNd12 .. e13xd12 .. j8-i8
+4. g6-g7 .. Ba6xBi14 .. Qh14xBi14 .. Bn9-m8+
+5. g7-g8=D .. Qa7-b7+ .. Kg14-h14 .. Bm8-j5
+6. Ne1-f3 .. Qb7xQi14+ .. Kh14xQi14 .. Bj5xQg8
+7. Qg1xBg8 .. b5-d5 .. Bf14-e13 .. i8-h8
+8. Qg8-e10+ .. b9-d9 .. Nj14-h13 .. h8-g8=D
+9. Qe10xBe13 .. b4-d4 .. Rd14-g14 .. Nn10-l11
+10. Qe13-h10 .. d4-e4 .. k13-k12 .. Nl11-j12+
+11. Qh10xm10 .. e4xNf3 .. i13xNj12 .. Rn11-n10
+12. Qm10xf3 .. Na5-c6 .. g13-g11 .. m6-k6
+13. Bf1xk6 .. Nc6-e7 .. h11-h10 .. m5-l5
+14. Bk6xd13 .. Ne7xQg8 .. Rg14-d14 .. m9-l9
+15. Qf3-i6+ .. Ng8-e9 .. Nh13-i11 .. Qn8xj12
+16. Qi6xl9+ .. d7-e7 .. Rd14xBd13 .. Kn7-n8
+17. Ql9xNe9 .. b10-d10 .. Ni11-g10 .. Qj12-h12
+18. Qe9-e14+# .. e7-f7 .. m11-k11
+19. Qe14-e7 .. Ba9-b10 .. k11-j11
+20. Qe7xBb10 .. Ra11-f11 .. Qh12-g12
+21. Qb10xNa10+ .. Ka8-b7 .. Qg12xRf11
+22. Qa10xRa4 .. f7-g7 .. Qf11-f7+
+23. Qa4-h4 .. Kb7-c6 .. Qf7xg7
+24. Qh4xRn10+ .. Kc6-d6 .. Kn8-m8
+25. Rd1-g1 .. d5-e5 .. Qg7-l7
+26. Qn10xBn6+ .. Kd6-d5 .. Ql7-l6
+27. Qn6-n11 .. Kd5-e4 .. Ql6-l9
+28. Qn11-m11+ .. e5-f5 .. Ql9-m9
+29. Qm11xj11+ .. Ke4-f4 .. Qm9-l9
+30. Qj11-j8++ .. Kf4-e5 .. Ql9-l8
+31. Qj8xRn4 .. Ke5-f6 .. m7-k7
+32. Qn4xNn5 .. f5-g5 .. k7-j7
+33. Qn5-m6++ .. Kf6-f5 .. Ql8-m7
+34. Qm6-j9+ .. Kf5-f4 .. j7-i7
+35. Qj9-h7 .. g5-h5=D .. Qm7-k5
+36. h2-h3+# .. m4-k4
+37. Bi1-h2 .. k4-j4
+38. Rg1-g8+ .. Km8-l7
+39. Qh7-l11+ .. Kl7-k6
+40. Rg8-k8+ .. Kk6-j5
+41. Rk8xQk5+ .. Kj5xRk5
+42. k2-k3 .. i7-h7
+43. k3xj4+ .. Kk5-j5
+44. Ql11xh7+ .. Kj5-j6
+45. Bh2-g3+#

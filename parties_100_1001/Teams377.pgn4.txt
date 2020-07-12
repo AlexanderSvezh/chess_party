@@ -1,0 +1,24 @@
+[GameNr "377"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Akusu"]
+[RedElo "1838"]
+[Blue "ermis8992"]
+[BlueElo "1981"]
+[Yellow "maui2015"]
+[YellowElo "2553"]
+[Green "leorastelli"]
+[GreenElo "2166"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:16:55 GMT+0000 (UTC)"]
+[CurrentMove "31"]
+
+1. h2-h3 .. b6-d6 .. h13-h12 .. m9-l9
+2. d2-d4 .. b8-c8 .. Qh14-h13 .. Nn5-l6
+3. Nj1-i3 .. Na10-c9 .. d13-d11 .. Qn8-k11
+4. Ne1-f3 .. Nc9xd11 .. Kg14-h14 .. m4-k4
+5. j2-j4 .. b10-c10 .. Ne14-d12 .. Nn10-l11
+6. k2-k3 .. Ba9xNd12 .. Rd14xBd12 .. Qk11-h8
+7. Bi1-j2 .. Nd11xe13 .. Bf14xNe13 .. Qh8xh12
+8. Ni3-g4 .. Qa7xg13+ .. #

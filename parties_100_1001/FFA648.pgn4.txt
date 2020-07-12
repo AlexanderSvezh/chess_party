@@ -1,0 +1,43 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "648"]
+[Result "DieguitoCosmico: 76 - 0624570924: 2 - Bryanbeg: 21 - critickal: 43"]
+[Variant "FFA"]
+[Red "DieguitoCosmico"]
+[RedElo "1575"]
+[Blue "0624570924"]
+[BlueElo "1500"]
+[Yellow "Bryanbeg"]
+[YellowElo "1760"]
+[Green "critickal"]
+[GreenElo "1391"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:37:22 GMT+0000 (UTC)"]
+[CurrentMove "89"]
+
+1. g2-g4 .. b8-d8 .. j13-j12 .. m7-k7
+2. g4-g5 .. b6-c6 .. Bi14-j13 .. k7-j7
+3. g5-g6 .. d8-e8 .. Ne14-f12 .. j7-i7
+4. g6-g7 .. Ba9-b8 .. Nj14-i12 .. m8-k8
+5. g7-g8=D .. e8-f8 .. h13-h12 .. i7-h7
+6. Qg8xf8 .. Na10-c9 .. Qh14-h13 .. Bn9-j5
+7. f2-f3 .. O-O .. O-O-O .. h7-g7=D
+8. h2-h3 .. b5-d5 .. g13-g12 .. Qg7-d4
+9. Qf8xBb8 .. Qa7xQb8 .. Ni12-k11+ .. m9-l9
+10. Bi1xQb8 .. Ra9-a8 .. Bj13xm10 .. Nn10-l11
+11. Bb8xNc9 .. c6-d6 .. Bm10xl9+ .. Qn8-m8
+12. Qg1-g6 .. Ra8xk8 .. Bl9xQm8+ .. Kn7-n8
+13. Qg6xNl11+ .. b7-c7 .. Ki14-j14 .. Rn11-n10
+14. Bc9-h4 .. d5-e5 .. Bm8xBj5+ .. Kn8-m7
+15. Ql11-l5 .. Ba6-b7 .. h12-h11+ .. Rn10-j10
+16. Ql5xBj5 .. Bb7-c8 .. Bf14xRj10+ .. Km7-l6
+17. Qj5xBj10 .. Rk8-i8 .. Qh13-l9+ .. Kl6-k5
+18. Qj10xb10+# .. Ql9-j9 .. Bn6-g13
+19. Qb10xe13 .. Rd14-e14 .. Bg13xRh14
+20. Qe13xNf12 .. Qj9-h9 .. Bh14xi13+
+21. Qf12-g13 .. Kj14-i14 .. Bi13-j14
+22. Qg13-i13+# .. Bj14xQi13
+23. Bh4-f2 .. Qd4xBf2
+24. d2-d3 .. Qf2xNe1
+25. Rd1-d2 .. Qe1-d1
+26. R

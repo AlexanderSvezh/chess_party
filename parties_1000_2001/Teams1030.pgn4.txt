@@ -1,0 +1,22 @@
+[GameNr "1030"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "oscarbacca"]
+[RedElo "1682"]
+[Blue "roachesst"]
+[BlueElo "2174"]
+[Yellow "Akusu"]
+[YellowElo "1819"]
+[Green "ElPolloLocoMan"]
+[GreenElo "1616"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:14:05 GMT+0000 (UTC)"]
+[CurrentMove "22"]
+
+1. h2-h3 .. b7-c7 .. g13-g12 .. m9-l9
+2. Qg1-k5 .. Qa7-b7 .. k13-k11 .. Qn8-m9
+3. Qk5-h8 .. Na10-c9 .. Qh14-e11 .. Nn10-l11
+4. Ne1-f3 .. b4-d4 .. Qe11-i11 .. m8-l8
+5. Bi1-g3 .. Nc9-e10 .. Qi11-e11 .. Bn9-l7
+6. Qh8-i9 .. T

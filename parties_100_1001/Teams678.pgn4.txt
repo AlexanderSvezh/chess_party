@@ -1,0 +1,24 @@
+[GameNr "678"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "ermis8992"]
+[RedElo "2076"]
+[Blue "kopashtar"]
+[BlueElo "2013"]
+[Yellow "glutenfree55"]
+[YellowElo "1836"]
+[Green "gluddukat"]
+[GreenElo "2685"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:39:54 GMT+0000 (UTC)"]
+[CurrentMove "29"]
+
+1. h2-h3 .. b6-d6 .. g13-g12 .. m9-k9
+2. d2-d4 .. Qa7-b6 .. k13-k11 .. Qn8-m9
+3. Ne1-f3 .. Qb6-e9 .. e13-e12 .. Qm9-k7
+4. Qg1-i3 .. Na10-c9 .. f13-f12 .. Qk7-d7
+5. Qi3-i12 .. b11-d11 .. e12-e11 .. Qd7-j7
+6. Nj1-i3 .. Nc9-e10 .. f12-f11 .. Qj7-j8
+7. k2-k3 .. b7-c7 .. Qh14-g13 .. Qj8xRd14
+8. T

@@ -1,0 +1,19 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1180"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "urchallengeaccepted"]
+[RedElo "1716"]
+[Blue "Regan1979"]
+[BlueElo "1774"]
+[Yellow "JoseReinoso1962"]
+[YellowElo "1766"]
+[Green "lexa_elka"]
+[GreenElo "1718"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:58:41 GMT+0000 (UTC)"]
+[CurrentMove "8"]
+
+1. h2-h4 .. b7-d7 .. h13-h11 .. m10-l10
+2. h4-h5 .. b8-c8 .. Ne14-f12 .. T

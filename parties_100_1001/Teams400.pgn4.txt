@@ -1,0 +1,22 @@
+[GameNr "400"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Chessplayernewmember"]
+[RedElo "1870"]
+[Blue "ermis8992"]
+[BlueElo "2007"]
+[Yellow "maui2015"]
+[YellowElo "2526"]
+[Green "Kujtimi"]
+[GreenElo "2803"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:22:07 GMT+0000 (UTC)"]
+[CurrentMove "23"]
+
+1. h2-h3 .. b6-d6 .. h13-h12 .. m9-l9
+2. Qg1-j4 .. b8-c8 .. Qh14-h13 .. Qn8-k11
+3. d2-d4 .. Qa7-e11 .. Ne14-f12 .. Nn5-l6
+4. Nj1-i3 .. Na10-c9 .. Nj14-i12 .. Qk11-k8
+5. Ne1-f3 .. Nc9-d11 .. Ni12-g11 .. m4-k4
+6. Qj4-f4 .. Nd11xe13+ .. R

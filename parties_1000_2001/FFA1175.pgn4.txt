@@ -1,0 +1,61 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1175"]
+[Result "just4xChess: 10 - JCSorinano: 8 - houseofham: 90 - CrazyhouseChess2: 22"]
+[Variant "FFA"]
+[Red "just4xChess"]
+[RedElo "1624"]
+[Blue "JCSorinano"]
+[BlueElo "1459"]
+[Yellow "houseofham"]
+[YellowElo "1855"]
+[Green "CrazyhouseChess2"]
+[GreenElo "1953"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:17:41 GMT+0000 (UTC)"]
+[CurrentMove "165"]
+
+1. g2-g4 .. b4-d4 .. i13-i11 .. m7-k7
+2. h2-h4 .. b10-c10 .. g13-g12 .. Bn6-m7
+3. i2-i3 .. Na10-c9 .. f13-f11 .. m8-k8
+4. e2-e4 .. Ba9-b10 .. Ne14-f12 .. k8-j8
+5. g4-g5 .. O-O .. d13-d11 .. j8-i8
+6. Bf1-e2 .. Ra9-a8 .. d11xc10 .. i8-h8
+7. Bi1-h2 .. b9xc10 .. Nj14-i12 .. h8-g8=D
+8. Nj1-k3 .. b8-c8 .. h13-h11 .. Nn10-l9
+9. d2-d3 .. b5-c5 .. Qh14-i13 .. Nn5-l6
+10. j2-j3 .. b7-d7 .. Bf14-h12 .. m4-k4
+11. j3-j4 .. Ba6-b7 .. Nf12-g10 .. Bn9-h3
+12. Nk3-i2 .. Nc9-e8 .. Bh12xb6 .. Qg8-m8
+13. O-O .. Qa7-a6 .. Bb6-g11 .. Nl6-m4
+14. Kj1-j2 .. Na5-c6 .. Bi14-h13 .. Bm7-n6
+15. Ri1-k1 .. Ra8-a9 .. e13-e11 .. Qm8-i4
+16. Be2xNl9+ .. Bb7-a8 .. O-O-O .. m10xBl9
+17. g5-g6 .. Ra9xl9 .. Ni12-k11 .. Qi4-m8
+18. Qg1-g3 .. Rl9-a9 .. Nk11-l9 .. Qn8-l6
+19. g6-g7 .. Qa6-b7 .. Nl9-j10 .. m5-l5+
+20. k2-k3 .. Ra9-b9 .. Rd14-d13 .. Bn6xNj10
+21. g7-g8=D .. Ra4-a7 .. i11xBj10 .. Bh3-l7
+22. Qg8xQm8+ .. Ne8-g9 .. Bg11xk7 .. Bl7xQm8
+23. f2-f4 .. d7-e7 .. Bk7xQl6 .. Nm4xBl6
+24. Qg3-g7+ .. e7-f7 .. f11-f10 .. Kn7-n8
+25. Qg7-g3 .. Ng9-e10 .. Ki14-j14 .. Rn11-n10
+26. Ne1-f3 .. f7-g7 .. k13-k11 .. Rn4-n7
+27. Nf3-g5 .. Rb9-g9 .. Bh13-i14 .. Rn10-k10
+28. i3-i4 .. g7-h7=D .. j13-j12 .. Rn7-l7
+29. Bh2-i3 .. Qh7-d7 .. Rd13-g13 .. Nl6-n7
+30. j4-j5+ .. Qd7-d9 .. Ng10-i11 .. m6-l6
+31. h4-h5 .. Ne10-d12 .. f10xRg9 .. Rk10-k7
+32. Ni2-j4 .. Qb7-b8 .. g9-g8 .. k4xj5
+33. Nj4xl5 .. Qb8xe11 .. j10-j9 .. Rk7-i7
+34. Nl5-j6 .. Nd12-e14 .. Rg13-g14 .. Ri7xNi11
+35. Nj6xRl7+ .. Ne14-g13 .. Qi13xRi11 .. Bm8xNl7
+36. Rd1-h1 .. Ng13xBi14 .. Rh14xNi14 .. Bl7-m8
+37. Qg3-g4 .. Bb10-a9 .. Rg14-g13 .. j5xi4
+38. h5-h6 .. Nc6-e7 .. g8-g7=D .. Nn7-l8
+39. Qg4-n11+ .. c5-d5 .. Qg7-n7+#
+40. T .. Qe11-j6 .. Qn7-i2
+41. c10-d10 .. k11-k10
+42. Qd9-e9+ .. g12-g11
+43. Ba8-e12 .. Ri14-e14
+44. T

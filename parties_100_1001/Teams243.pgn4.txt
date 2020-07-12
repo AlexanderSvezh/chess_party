@@ -1,0 +1,27 @@
+[GameNr "243"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Hamsel2017"]
+[RedElo "1621"]
+[Blue "LinuxKernell"]
+[BlueElo "2153"]
+[Yellow "nahuelsandoval"]
+[YellowElo "1667"]
+[Green "senofcarl"]
+[GreenElo "1954"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:43:01 GMT+0000 (UTC)"]
+[CurrentMove "41"]
+
+1. h2-h3 .. b6-d6 .. g13-g12 .. m9-k9
+2. Bi1xd6 .. Qa7-d4 .. Bf14-g13 .. Qn8-m9
+3. Bd6-g3 .. Qd4xf2 .. Ne14-f12 .. Qm9xBg3
+4. Qg1xQf2 .. b4-d4 .. O-O .. Qg3xQf2
+5. Ne1-d3 .. b8-c8 .. Nf12-d11 .. Qf2-g3
+6. Kh1-g1 .. b10-c10 .. Nd11-c9+ .. Qg3-i1+
+7. Kg1-f2 .. Na10xNc9 .. Bg13xNc9 .. m7-l7
+8. Nd3-c5 .. d4-e4 .. Bc9xRa11 .. Qi1-g3+
+9. Kf2-g1 .. Ba9-e5 .. f13-f11 .. Bn6-l8
+10. Nc5xBa6 .. Be5-d4+ .. Qh14-b8+ .. Qg3xQb8
+11. R

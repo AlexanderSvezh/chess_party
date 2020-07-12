@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "161"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "aaak39356"]
+[RedElo "1500"]
+[Blue "JulFunkyFresh"]
+[BlueElo "1500"]
+[Yellow "Myvecinotottoro"]
+[YellowElo "1746"]
+[Green "lynxshogun"]
+[GreenElo "1497"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:15:04 GMT+0000 (UTC)"]
+[CurrentMove "4"]
+
+1. h2-h4 .. b8-d8 .. i13-i12 .. T

@@ -1,0 +1,60 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "114"]
+[Result "tnsarkar: 24 - B3thel: 38 - Kelby060: 45 - eggsylopez: 11"]
+[Variant "FFA"]
+[Red "tnsarkar"]
+[RedElo "1716"]
+[Blue "B3thel"]
+[BlueElo "1728"]
+[Yellow "Kelby060"]
+[YellowElo "1772"]
+[Green "eggsylopez"]
+[GreenElo "1780"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:22:16 GMT+0000 (UTC)"]
+[CurrentMove "152"]
+
+1. g2-g4 .. b7-d7 .. g13-g11 .. m8-k8
+2. f2-f3 .. b5-c5 .. g11-g10 .. k8-j8
+3. h2-h3 .. d7-e7 .. g10-g9 .. j8-i8
+4. g4-g5 .. e7-f7 .. Ne14-f12 .. m5-l5
+5. d2-d3 .. b10-c10 .. Bf14-g13 .. Bn6-m5
+6. Nj1-i3 .. Ba9xe13 .. Nj14-i12 .. Nn5-l6
+7. g5-g6 .. f7-g7 .. g9-g8 .. O-O
+8. Ne1-g2 .. Be13xRd14 .. h13-h12 .. m11-k11
+9. j2-j3 .. Bd14-e13 .. Bi14-h13 .. Bm5xBi1
+10. Ng2xBi1 .. Be13-b10 .. Ni12-g11 .. Bn9-m8
+11. Ni1-g2 .. Na10-c9 .. i13-i12 .. m10-k10
+12. O-O .. O-O .. Qh14-i13 .. k11-j11
+13. Ri1-h1 .. Na5-c6 .. O-O-O .. j11xi12
+14. h3-h4 .. Nc6-e7 .. Bh13-g12 .. Nn10-l11
+15. Ng2-f4 .. Ne7xg8 .. k13-k12 .. Nl11-k9
+16. h4-h5 .. b4-d4 .. Qi13xi12 .. m9-l9
+17. e2-e4 .. Ra4-a5 .. h12-h11 .. Bm8xBf1
+18. Qg1xBf1 .. Qa7-c7 .. Nf12-h13 .. Nl6-j7
+19. Nf4-d5 .. Qc7-a7 .. f13-f11 .. m7-l7
+20. Qf1-g1 .. b6-c6 .. Bg13-j10 .. Rn6-n7
+21. Nd5-f4 .. Ra9-a8 .. Ki14-j14 .. Qn8-j8
+22. Nf4-h3 .. b8-d8 .. Qi12-h12 .. Nk9-m8
+23. k2-k4 .. d8-e8 .. Ng11-i10 .. Qj8-l6
+24. Nh3-i1 .. Ba6-b5 .. Ni10-g9 .. Nj7-k5
+25. Ni1-k2 .. e8-f8 .. Ng9xi8 .. Ql6-m5
+26. Ni3-j5 .. Ng8-f6 .. Ni8-j6 .. Qm5-n4
+27. Nk2-l4+ .. f8-g8 .. Nj6xl7#
+28. Nl4-k2 .. g8-h8=D .. Bj10xQh8
+29. e4-e5 .. g7xBh8=D .. Rh14-i14
+30. e5xNf6 .. Qh8xf6 .. Nl7-k9
+31. h5-h6 .. Nc9-d11 .. Qh12-i12
+32. Nk2-i3 .. Qf6xf3 .. Nh13-g11
+33. g6-g7 .. Qa7-b6 .. Nk9-i10
+34. h6-h7 .. Qf3-f10 .. Qi12-h12
+35. g7-g8=D .. Qf10-d8 .. Kj14-k14
+36. Qg8xQd8 .. Bb10xQd8 .. Qh12-k9
+37. h7-h8=D .. Bd8xNi3 .. Ni10xQh8
+38. Nj5xBi3 .. c5-d5 .. Ng11-i10
+39. Qg1xBg12 .. Qb6-a6 .. Ri14-h14
+40. T .. Qa6-c8 .. Qk9-f4
+41. d4-e4 .. Qf4-i1
+42. e4-f4 .. Qi1xKj1
+43. f4-g4 .. R

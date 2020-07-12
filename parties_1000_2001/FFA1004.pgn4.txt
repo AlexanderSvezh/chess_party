@@ -1,0 +1,54 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1004"]
+[Result "Tarsmick: 24 - JOJOCHABADA: 36 - juninhovascaino: 71 - OAGP: 20"]
+[Variant "FFA"]
+[Red "Tarsmick"]
+[RedElo "1732"]
+[Blue "JOJOCHABADA"]
+[BlueElo "1489"]
+[Yellow "juninhovascaino"]
+[YellowElo "1666"]
+[Green "OAGP"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:15:11 GMT+0000 (UTC)"]
+[CurrentMove "118"]
+
+1. g2-g4 .. b8-d8 .. h13-h11 .. m8-k8
+2. h2-h3 .. d8-e8 .. h11-h10 .. k8-j8
+3. j2-j3 .. e8-f8 .. h10-h9 .. j8-i8
+4. Nj1-i3 .. b7-c7 .. h9-h8 .. Bn9-m8+
+5. Bi1-j2 .. Na10-c9 .. i13-i12 .. Bm8-l9
+6. O-O .. b10-c10 .. h8-h7=D .. i8-h8
+7. f2-f3 .. Ba9-b8 .. Qh7-g8 .. m7-k7
+8. Ne1-g2 .. Nc9-e10 .. Bi14xNe10 .. k7-j7
+9. Ni3-k4 .. Ba6xBe10 .. Qg8xBe10 .. h8-g8=D
+10. Bj2xRa11 .. c7-d7 .. Qe10-f11 .. Qg8xf8
+11. Ba11-j2 .. b11-d11 .. Qf11-h11 .. Nn5-l6
+12. Ng2-i3 .. b6-c6 .. Ne14-f12 .. m5-l5
+13. Bj2xBn6 .. Na5-c4 .. g13-g12 .. l5xNk4
+14. j3xk4 .. d7-e7 .. Bf14-g13 .. Qf8-j4+
+15. Bn6-j2 .. Qa7-c7 .. O-O .. Nl6xk4
+16. Ni3xNk4 .. e7-f7 .. k13-k11 .. Qj4xQg1
+17. Ri1xQg1 .. f7-g7 .. k11-k10 .. Qn8xRg1+
+18. Bj2-i1 .. Qc7-e7 .. k10xBl9 .. Nn10xl9
+19. Nk4-m5+ .. Bb8-c9 .. Qh11xm11 .. Kn7-m8
+20. g4-g5 .. g7-h7=D .. Qm11xm10 .. Rn11-n5
+21. h3-h4+ .. Qh7xj7+ .. Qm10xm9+#
+22. Bi1-j2 .. Qe7-e6 .. Qm9-l8+
+23. Bf1-h3 .. Ka8-a9 .. Ql8xh4
+24. Bh3xQe6 .. Qj7xBj2+# .. Qh4-f4+
+25. Ka9-b10 .. e13-e12
+26. d11xe12 .. f13xe12
+27. Qj2xj13 .. Rk14-k12
+28. Ra4-a11 .. Qf4-f10
+29. Nc4-b6 .. Nf12-d11+
+30. Kb10-a9 .. Bg13xBc9
+31. Ra11xNd11 .. e12xRd11
+32. Nb6-a8 .. Qf10-d12+
+33. Na8-b10 .. Qd12xNb10+
+34. Ka9-a8 .. Qb10-a10+
+35. Ka8-b7 .. Qa10-a7+
+36. Kb7-c8 .. Qh14-h8+
+37. Kc8-d9 .. Rf14-f9+#

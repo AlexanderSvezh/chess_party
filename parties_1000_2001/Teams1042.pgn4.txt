@@ -1,0 +1,17 @@
+[GameNr "1042"]
+[Result "Aborted"]
+[Variant "Teams"]
+[Red "GDII"]
+[RedElo "2344"]
+[Blue "Chess_LostSyle"]
+[BlueElo "2452"]
+[Yellow "andrews810"]
+[YellowElo "2293"]
+[Green "rezacz"]
+[GreenElo "3340"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:13:25 GMT+0000 (UTC)"]
+[CurrentMove "4"]
+
+1. h2-h3 .. b6-d6 .. h13-h12 .. T

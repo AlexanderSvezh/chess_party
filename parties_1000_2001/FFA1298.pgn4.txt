@@ -1,0 +1,39 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1298"]
+[Result "mary589: 25 - joseroman67: 11 - houseofham: 70 - yutai007: 15"]
+[Variant "FFA"]
+[Red "mary589"]
+[RedElo "1674"]
+[Blue "joseroman67"]
+[BlueElo "1720"]
+[Yellow "houseofham"]
+[YellowElo "1847"]
+[Green "yutai007"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:40:23 GMT+0000 (UTC)"]
+[CurrentMove "70"]
+
+1. g2-g4 .. b7-d7 .. g13-g12 .. m8-k8
+2. f2-f3 .. d7-e7 .. f13-f11 .. Nn5-l6
+3. d2-d3 .. e7-f7 .. Ne14-f12 .. Bn9xBf1
+4. Qg1xBf1 .. f7-g7 .. i13-i11 .. Qn8-m8
+5. Qf1xQm8+ .. g7-h7=D .. Qh14xm9 .. Nn10xQm8
+6. h2-h3 .. b8-d8 .. h13-h11 .. k8-j8
+7. Bi1xBa9 .. Ka8xBa9 .. Nj14-i12 .. Nl6-k8
+8. Ne1-g2 .. Qh7-g7 .. Qm9-i13 .. m7-k7
+9. Nj1-i3 .. Ba6xf11 .. Ni12-h10 .. Nk8-i9
+10. Ni3-h5 .. Qg7xk7+ .. Nh10xBf11 .. Nm8xQk7
+11. O-O .. Qa7xNk7+ .. Bi14-h13+#
+12. Ng2-f4 .. Na5-c6 .. k13-k11
+13. Nf4-d5 .. Qk7-b7 .. k11-k10
+14. Nh5-f6 .. b4-c4 .. k10-k9
+15. d3xc4 .. b5xc4 .. Bf14-h12
+16. Nd5-e3 .. Nc6-e5 .. Bh12xd8
+17. Nf6-e4 .. T .. k9-k8
+18. Ne4-d6 .. Bd8-c7
+19. Nd6xQb7 .. Bc7xKa9
+20. Nb7xBa9 .. Qi13xb6
+21. Na9-c8 .. Qb6xNe3
+22. R

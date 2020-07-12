@@ -1,0 +1,22 @@
+[GameNr "1069"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "GamidGod"]
+[RedElo "1520"]
+[Blue "Amogh211"]
+[BlueElo "1464"]
+[Yellow "SHREY90"]
+[YellowElo "1500"]
+[Green "RainbowStar27"]
+[GreenElo "1617"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:21:39 GMT+0000 (UTC)"]
+[CurrentMove "23"]
+
+1. j2-j3 .. Na5-c6 .. g13-g11 .. m7-k7
+2. Nj1-i3 .. Nc6-d4 .. g11-g10 .. m8-l8
+3. h2-h3 .. Nd4-e6 .. g10-g9 .. m9-k9
+4. Bi1-j2 .. Ne6-g7 .. g9-g8 .. Nn10-l9
+5. O-O .. Ng7-e8 .. Qh14xb8+ .. Qn8xi13
+6. f2-f4 .. Na10xQb8 .. T

@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1270"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "ramon_vb"]
+[RedElo "1706"]
+[Blue "divinhssit"]
+[BlueElo "1737"]
+[Yellow "siluriun"]
+[YellowElo "1683"]
+[Green "tdj2018"]
+[GreenElo "1783"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:23:02 GMT+0000 (UTC)"]
+[CurrentMove "4"]
+
+1. g2-g4 .. b10-c10 .. h13-h11 .. R

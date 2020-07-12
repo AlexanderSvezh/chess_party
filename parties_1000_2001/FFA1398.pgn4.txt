@@ -1,0 +1,31 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1398"]
+[Result "RhyeArpad: 41 - ramon_vb: 6 - Zaphkiel312: 0 - timgara: 26"]
+[Variant "FFA"]
+[Red "RhyeArpad"]
+[RedElo "1760"]
+[Blue "ramon_vb"]
+[BlueElo "1704"]
+[Yellow "Zaphkiel312"]
+[YellowElo "1714"]
+[Green "timgara"]
+[GreenElo "1738"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:10:42 GMT+0000 (UTC)"]
+[CurrentMove "45"]
+
+1. f2-f4 .. b7-d7 .. h13-h11 .. m5-l5
+2. Qg1-f2 .. Na10-c9 .. g13-g12 .. m10-l10
+3. f4-f5 .. b10-c10 .. h11-h10 .. Bn9-m10
+4. f5-f6 .. Ba9-b10 .. h10-h9 .. Bm10-l9+
+5. f6-f7 .. Bb10xe13 .. Nj14-i12 .. Bl9-m10
+6. f7-f8=D .. Be13xRd14 .. h9-h8 .. Nn5-l6
+7. Qf8xf13+# .. O-O .. Bn6-m5
+8. Qf13xNe14 .. Bd14-g11 .. O-O
+9. Qe14-e11 .. Bg11-c7 .. m9-k9
+10. k2-k3 .. b6-d6 .. k9-j9
+11. Qf2xBf14 .. b11-d11 .. j9-i9
+12. Qe11-e13 .. d6-e6 .. Bm10xe2
+13. Qe13-b10+# .. Be2xRd1
+14. R

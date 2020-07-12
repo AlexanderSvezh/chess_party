@@ -1,0 +1,44 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "144"]
+[Result "yassinetn: 7 - creatjor: 18 - Thjhs: 39 - durnkoff: 78"]
+[Variant "FFA"]
+[Red "yassinetn"]
+[RedElo "1569"]
+[Blue "creatjor"]
+[BlueElo "1558"]
+[Yellow "Thjhs"]
+[YellowElo "1521"]
+[Green "durnkoff"]
+[GreenElo "1513"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:23:03 GMT+0000 (UTC)"]
+[CurrentMove "86"]
+
+1. g2-g4 .. b8-d8 .. Ne14-f12 .. m7-k7
+2. g4-g5 .. b7-d7 .. h13-h12 .. k7-j7
+3. g5-g6 .. Ba6xBi14 .. Qh14xBi14 .. j7-i7
+4. g6-g7 .. b6-c6 .. Qi14-h14 .. i7-h7
+5. g7-g8=D .. Qa7-c7 .. g13-g11 .. h7xQg8=D
+6. Qg1xQg8 .. d8-e8 .. g11-g10 .. m8-k8
+7. Bf1xBn9 .. b4-d4 .. h12-h11 .. Qn8xBn9
+8. Qg8xk8 .. d4-e4 .. Bf14xBn6 .. Qn9-f1+#
+9. Qc7-g11+ .. Bn6-g13 .. Qf1-m8+
+10. Qg11-k7+ .. Nj14-h13 .. Nn5-m7
+11. Qk7xm5 .. Nf12-d11 .. Rn4-n5
+12. Qm5xm4 .. Bg13-f12 .. Rn5xb5
+13. e4-f4 .. O-O .. Nn10-l9
+14. f4-g4 .. Rf14-g14 .. Nm7-l5
+15. g4-h4=D .. Bf12-g11 .. O-O-O
+16. Qh4xh11 .. Bg11xNa5 .. Rn8-n4
+17. Qm4xRn4+ .. Ba5-g11 .. Nl5xQn4
+18. Ra4xNn4+ .. Bg11xRn4 .. Rb5-a5+
+19. Ka8-b7 .. Rg14-g11 .. Ra5xBa9
+20. Qh11xj13 .. Rk14-j14 .. Qm8-i4
+21. Qj13xi13 .. Qh14xQi13 .. Qi4xBn4
+22. Kb7-b8 .. Qi13-h14+ .. Ra9xNa10
+23. Kb8-c8 .. Nd11-e9+ .. Ra10xRa11
+24. R .. Rg11-j11 .. Ra11-a8
+25. Ne9xKc8 .. Ra8xNc8
+26. Rj14-j12 .. Rc8xe8
+27. Rj11-j10 .. Qn4xe13+#

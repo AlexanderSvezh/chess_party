@@ -1,0 +1,53 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "142"]
+[Result "kamilmistrz1: 39 - zalikwinnen: 22 - mikejardine: 93 - ilyar044: 5"]
+[Variant "FFA"]
+[Red "kamilmistrz1"]
+[RedElo "1509"]
+[Blue "zalikwinnen"]
+[BlueElo "1570"]
+[Yellow "mikejardine"]
+[YellowElo "1629"]
+[Green "ilyar044"]
+[GreenElo "1536"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:23:59 GMT+0000 (UTC)"]
+[CurrentMove "118"]
+
+1. g2-g4 .. b10-c10 .. i13-i11 .. m7-k7
+2. g4-g5 .. b9-d9 .. i11-i10 .. m8-k8
+3. g5-g6 .. b6-d6 .. i10-i9 .. k7-j7
+4. g6-g7 .. b7-d7 .. h13-h11 .. m6-k6
+5. g7-g8=D .. Na5-b7 .. h11-h10 .. k6-j6
+6. Qg8-h9 .. b8-d8 .. g13-g11 .. j7-i7
+7. Qg1xg11+ .. Ba9-b8 .. Ne14-g13 .. j6-i6
+8. Bf1xBn9 .. Na10-c9 .. f13-f12 .. Qn8xBn9
+9. Qg11-g1 .. Bb8-c7 .. Bi14-f11 .. i6-h6
+10. Qh9-j11++ .. b5-c5 .. Nj14-i12 .. m9-l9
+11. Qj11xj13 .. Ba6xe2 .. Rk14-i14 .. i7-h7
+12. Qj13-j3+ .. Be2xRd1 .. i9-i8 .. m4-k4
+13. Qj3-h3 .. Bd1-e2 .. i8xh7=D+ .. Bn6-m7
+14. Qh3xQn9+ .. Be2-b5 .. Qh7xk4+#
+15. Nj1-i3 .. d8-e8 .. Qk4-i6
+16. h2-h3 .. Bc7-d8 .. h10-h9
+17. Bi1-h2 .. d7-e7 .. h9-h8
+18. O-O .. e7-f7 .. h8-h7=D
+19. k2-k3 .. Bd8-e7 .. Ri14-j14
+20. Qn9xKn7 .. Nb7-d8 .. Qi6-j7
+21. j2-j3 .. Bb5-c4 .. Qh7-j9
+22. Kj1-j2 .. d6-e6 .. e13-e12
+23. Qg1-g3 .. Be7-d6 .. Bf14-b10
+24. Qg3-g2+ .. Ka8-b9 .. Bb10xRa11
+25. Bh2xBd6 .. c5xBd6 .. Ba11xNc9
+26. d2-d3 .. Qa7xBc9 .. e12-e11
+27. d3xBc4 .. e6-f6 .. d13-d11
+28. Qn7-k4 .. Nd8-f9 .. d11xc10+
+29. Qg2-d5 .. Qc9xc10+ .. Bf11-e12
+30. Kj2-k2 .. Qc10xBe12+ .. Ng13xQe12
+31. Ri1-j1 .. f7-g7 .. Rd14xd9+
+32. Qd5-b7+ .. Kb9-c10 .. Rd9xd6
+33. c4-c5 .. g7xh6=D .. Qh14xQh6
+34. Qk4xNf9 .. R .. Qj7xQb7
+35. c5xRd6 .. Qj9xQf9
+36. T

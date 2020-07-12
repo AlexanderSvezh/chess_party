@@ -1,0 +1,19 @@
+[GameNr "258"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "tydudyjfykgyk"]
+[RedElo "2169"]
+[Blue "simpleguy09102"]
+[BlueElo "1531"]
+[Yellow "ImnotaStark"]
+[YellowElo "1500"]
+[Green "Antruni"]
+[GreenElo "1831"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:41:56 GMT+0000 (UTC)"]
+[CurrentMove "9"]
+
+1. h2-h3 .. b8-c8 .. i13-i11 .. m5-l5
+2. Bi1xBa9 .. Ka8xBa9 .. i11-i10 .. Bn6xj2
+3. R

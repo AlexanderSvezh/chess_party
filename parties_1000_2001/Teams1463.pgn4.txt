@@ -1,0 +1,30 @@
+[GameNr "1463"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "MateoUchiha"]
+[RedElo "1323"]
+[Blue "morphysrevenge"]
+[BlueElo "1373"]
+[Yellow "NNDivine"]
+[YellowElo "1627"]
+[Green "charles46975"]
+[GreenElo "1542"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:38:44 GMT+0000 (UTC)"]
+[CurrentMove "53"]
+
+1. h2-h3 .. b7-c7 .. g13-g12 .. Nn5-l6
+2. j2-j3 .. b6-d6 .. Nj14-i12 .. m4-l4
+3. f2-f3 .. Na10-c9 .. Qh14-e11 .. m5-k5
+4. g2-g4 .. b8-d8 .. Qe11-i7 .. Nn10-l9
+5. Bf1-g2 .. Qa7-d4 .. Bf14-i11 .. m8-l8
+6. Qg1xQd4 .. b5-c5 .. Ne14-f12 .. Bn9-l7
+7. Qd4-f2 .. Ba9-b8 .. Ni12-j10 .. Nl9xNj10
+8. f3-f4+ .. Na5-b7 .. Bi11xNj10 .. m9-k9
+9. Qf2-f3 .. O-O .. Bj10-g13 .. Nl6-k8
+10. Bi1-g3 .. b4-d4 .. Qi7-f7 .. Qn8xi13
+11. d2-d3 .. c7-d7 .. O-O .. m10-k10
+12. Qf3-c6 .. Ra4-a5 .. h13-h11 .. Qi13xBg13
+13. Qc6-e4 .. d8-e8 .. Qf7-f11 .. Qg13-i11
+14. T

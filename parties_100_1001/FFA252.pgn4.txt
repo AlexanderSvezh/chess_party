@@ -1,0 +1,61 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "252"]
+[Result "Propagandasteak: 1 - Stonedalien7: 66 - MarcG69: 21 - leeannneylans: 55"]
+[Variant "FFA"]
+[Red "Propagandasteak"]
+[RedElo "1588"]
+[Blue "Stonedalien7"]
+[BlueElo "1508"]
+[Yellow "MarcG69"]
+[YellowElo "1604"]
+[Green "leeannneylans"]
+[GreenElo "1747"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:53:55 GMT+0000 (UTC)"]
+[CurrentMove "120"]
+
+1. g2-g4 .. b6-d6 .. h13-h11 .. m9-k9
+2. g4-g5 .. b5-d5 .. h11-h10 .. k9-j9
+3. g5-g6 .. b4-c4 .. h10-h9 .. Qn8-m9
+4. g6-g7 .. d6-e6 .. k13-k11 .. m10-k10
+5. g7-g8=D .. Ba6-b5 .. h9xQg8 .. j9-i9
+6. Qg1xg8 .. Bb5-c6 .. Nj14-i12 .. i9-h9
+7. Qg8-g9 .. d5-e5+ .. Ni12-h10 .. Qm9-j6
+8. R .. Bc6xKh1 .. Bi14-h13 .. m11-l11
+9. e6-f6 .. Nh10-f11 .. m4-k4
+10. Qa7-a6 .. j13-j11 .. k10-j10
+11. f6-g6 .. k11xj10 .. Qj6xj10
+12. g6-h6=D .. g13-g11 .. Nn5-l6
+13. Qh6xh9 .. Bf14xQj10 .. Nn10-l9
+14. Bh1-f3 .. Bj10xe5 .. Bn9-m10
+15. Bf3xNl9 .. Nf11-h10 .. Bm10xBl9
+16. Qh9-e6 .. Bh13-i12 .. k4-j4
+17. Qe6xBe5 .. Bi12xRa4 .. j4-i4
+18. Qe5xe13 .. Qh14-f12 .. i4-h4
+19. b10-c10 .. O-O-O .. h4-g4=D
+20. Qe13xQf12 .. Ne14xQf12 .. Qg4-k8
+21. Na5-c6 .. Ba4xNc6 .. Qk8xf13
+22. Qa6xBc6 .. Nf12-h13 .. Qf13-k8
+23. Ba9-e13 .. Rd14-e14 .. m5-k5
+24. Qc6-e6 .. Ki14-j13 .. Qk8-k12+
+25. Qe6xj11+# .. Qk12xQj11
+26. Na10-c9 .. Qj11xc4
+27. O-O .. k5-j5
+28. b7-d7 .. j5-i5
+29. d7-e7 .. i5-h5
+30. Ra9-a5 .. Rn4-n5
+31. e7-f7 .. Qc4xf7
+32. Ra5xh5 .. Rn5xRh5
+33. b8-d8 .. Bn6xj2
+34. Ka10-b10 .. Bj2xd8
+35. Be13-f12 .. Qf7xBf12
+36. b11-d11 .. Qf12xNc9+
+37. Kb10-c11 .. Qc9-b10+
+38. Kc11-d10 .. Qb10xb9
+39. d11-e11 .. Rh5xNh10+
+40. Kd10-d11 .. Qb9xc10+
+41. Kd11-d12 .. Bd8-c9
+42. Kd12-e13 .. Qc10-c11+
+43. Ke13-f12 .. Qc11xe11+
+44. Kf12-g12 .. Qe11-f12+#

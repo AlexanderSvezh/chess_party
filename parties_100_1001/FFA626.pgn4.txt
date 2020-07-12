@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "626"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "LABB10MIL"]
+[RedElo "1488"]
+[Blue "zalikwinnen"]
+[BlueElo "1587"]
+[Yellow "Torin504576"]
+[YellowElo "1845"]
+[Green "FENSZI"]
+[GreenElo "1657"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:20:06 GMT+0000 (UTC)"]
+[CurrentMove "4"]
+
+1. g2-g4 .. b7-d7 .. e13-e12 .. T

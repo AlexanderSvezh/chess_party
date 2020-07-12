@@ -1,0 +1,61 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "692"]
+[Result "Horsemanplay: 45 - FIV06: 27 - misquoted: 15 - Bryanbeg: 69"]
+[Variant "FFA"]
+[Red "Horsemanplay"]
+[RedElo "1896"]
+[Blue "FIV06"]
+[BlueElo "1752"]
+[Yellow "misquoted"]
+[YellowElo "1763"]
+[Green "Bryanbeg"]
+[GreenElo "1760"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:59:33 GMT+0000 (UTC)"]
+[CurrentMove "168"]
+
+1. j2-j3 .. b10-c10 .. h13-h11 .. m10-l10
+2. Bi1-j2 .. Na10-c9 .. d13-d12 .. Bn9-m10
+3. k2-k4 .. Ba9-b10 .. h11-h10 .. m4-l4
+4. Nj1-i3 .. O-O .. Nj14-i12 .. Nn10-l9
+5. O-O .. Na5-c6 .. h10-h9 .. m7-l7
+6. g2-g4 .. b5-c5 .. h9-h8 .. m8-k8
+7. Ne1-g2 .. Ba6-b5 .. h8-h7=D .. Qn8-m8
+8. Ri1-h1 .. b8-c8 .. Qh7-h10 .. O-O-O
+9. h2-h3 .. Ra9-a8 .. Ne14-f12 .. k8-j8
+10. f2-f4 .. b7-d7 .. k13-k12 .. j8-i8
+11. e2-e3 .. b4-d4 .. Bi14-f11 .. Nn5-l6
+12. Bf1xBb5 .. Qa7-b7 .. Nf12-g10 .. l7-k7
+13. e3-e4 .. Ra8-a5 .. Qh10-h11 .. k7-j7
+14. Bb5-e2 .. Nc6-b4 .. Qh14-h13 .. j7-i7
+15. d2-d3 .. b6-d6 .. O-O-O .. i7-h7
+16. f4-f5 .. c5-d5 .. e13-e12 .. h7-g7=D
+17. Qg1-f1 .. d5xe4 .. Bf14-e13 .. Nl6-j7
+18. d3xe4 .. Nb4-c6 .. Be13-f12 .. i8-h8
+19. Be2-f3 .. Nc6-e5 .. d12-d11 .. h8-g8=D
+20. Bf3-e2 .. Qb7-b6 .. Bf12-g11 .. Qg8-k8
+21. Rd1xd4 .. Qb6xRd4 .. Qh11-h10 .. Nj7-l6
+22. Kj1-i1 .. Nc9-e8 .. d11xc10 .. Qg7-j7
+23. Ng2-h4 .. b11xc10 .. Ng10-i11 .. Qj7-m7
+24. Rh1-h2 .. Qd4xe4 .. g13-g12 .. m11-l11
+25. Nh4-f3 .. Qe4-f4 .. Qh13-h12 .. l11xk12
+26. Nf3xNe5 .. Qf4xQf1+ .. j13xk12 .. Bm10xk12+
+27. Be2xQf1 .. d6xNe5 .. Ki14-h13 .. Bk12-m10
+28. Rh2-e2 .. Ra5-d5 .. Rh14-j14 .. Nl9-k11
+29. Re2-e1 .. Bb10-c9 .. Bf11-g10 .. Bm10-l9
+30. Bf1-g2 .. Rd5-b5 .. Rj14-j12 .. Nk11-i10
+31. Bg2-c6 .. Rb5-b4 .. Qh10xNi10 .. Qk8xQi10
+32. Re1xe5 .. Rb4-c4 .. Rd14-j14 .. Qi10xNi11
+33. Bc6xRa4 .. Rc4xBa4 .. Bg11xNl6 .. Bl9xNi12+
+34. Re5-e1 .. Bc9-b8+ .. Rj12xBi12 .. Qi11xQh12+
+35. Ki1-j1 .. Ka10-a9 .. i13xQh12 .. Qm7xh12+
+36. g4-g5 .. Ka9-a10 .. Kh13-i14 .. Qh12xRi12+
+37. g5-g6 .. Ra4-a5 .. Bg10xQi12 .. Qm8xBi12+#
+38. Re1-f1 .. Bb8-c9 .. Rn8-i8
+39. Rf1-h1 .. Ra5xf5 .. Bn6-f14
+40. g6-g7 .. Ne8xg7 .. Qi12-h12
+41. Kj1-k2 .. Ng7-e8 .. Ri8-i11
+42. h3-h4 .. Ne8-d10 .. Qh12-c7
+43. h4-h5 .. Rf5-b5 .. Qc7-a9+#
+44. h5-h6 .. R

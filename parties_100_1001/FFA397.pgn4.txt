@@ -1,0 +1,47 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "397"]
+[Result "Maritooo: 11 - Kevchuxd: 31 - Gregoreo2008: 75 - santhoshsunny: 24"]
+[Variant "FFA"]
+[Red "Maritooo"]
+[RedElo "1489"]
+[Blue "Kevchuxd"]
+[BlueElo "1500"]
+[Yellow "Gregoreo2008"]
+[YellowElo "1457"]
+[Green "santhoshsunny"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:29:58 GMT+0000 (UTC)"]
+[CurrentMove "88"]
+
+1. g2-g4 .. b7-d7 .. h13-h11 .. m7-k7
+2. g4-g5 .. d7-e7 .. Bi14xBa6 .. Nn10-l9
+3. Qg1-g2+ .. b6-c6 .. Ba6xb5 .. Nl9-k11
+4. e2-e3 .. b8-c8 .. Qh14-i14 .. m10-l10
+5. Bf1xBb5 .. Na10-c9 .. h11-h10 .. m8-k8
+6. Bb5xc6+ .. Na5xBc6 .. g13-g11 .. Bn9xQg2+
+7. Ne1xBg2 .. Ba9-c7 .. Bf14xBn6 .. Kn7xBn6
+8. j2-j3 .. O-O .. Qi14-h14 .. Nk11xj13
+9. R .. e7-f7 .. Qh14-g13+ .. Nn5-m7
+10. Nc6-d8 .. Qg13-j10 .. Nj13-k11
+11. Qa7-b7 .. h10-h9 .. m4-k4
+12. Qb7xNg2 .. h9-h8 .. k4xj3
+13. Qg2xKh1 .. h8-h7=D .. j3xi2
+14. Qh1-b7 .. Qh7-h10 .. m9-k9
+15. b10-c10 .. Qj10-k10 .. Rn4-e4
+16. Bc7-e5 .. d13-d11 .. Re4xBe5
+17. Ra9-a6 .. d11xc10 .. Re5xe13
+18. b9xc10 .. Qh10-f10 .. Nm7-l9
+19. Ra6-d6 .. Rd14xNd8 .. Re13xNe14+
+20. Rd6xRd8 .. Kg14-h13 .. T
+21. Qb7-e4 .. Qf10xc10+
+22. Ka10-a9 .. Qc10xNc9+
+23. Ka9-a8 .. Qk10xQe4+
+24. Rd8-d5 .. Qe4-n4
+25. Rd5-d9 .. Qc9xc8+
+26. Ka8-a9 .. Qc8xRd9+
+27. Ka9-a8 .. Qd9-d11+
+28. Ka8-b7 .. Qd11xb11+
+29. Kb7-c6 .. Qb11-c10+
+30. R

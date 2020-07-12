@@ -1,0 +1,47 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "364"]
+[Result "AitortxoXD: 3 - RodrigoCabrera: 82 - GermainGaeta: 32 - jeromeweinhonig: 0"]
+[Variant "FFA"]
+[Red "AitortxoXD"]
+[RedElo "1507"]
+[Blue "RodrigoCabrera"]
+[BlueElo "1659"]
+[Yellow "GermainGaeta"]
+[YellowElo "1714"]
+[Green "jeromeweinhonig"]
+[GreenElo "1556"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:24:19 GMT+0000 (UTC)"]
+[CurrentMove "97"]
+
+1. h2-h4 .. b5-c5 .. i13-i11 .. m7-k7
+2. h4-h5 .. Ba6-b5 .. Qh14-i13 .. m8-k8
+3. h5-h6 .. b6-d6 .. i11-i10 .. Nn10-l9
+4. h6-h7 .. b10-c10 .. i10-i9 .. Bn9-l7
+5. e2-e3 .. Bb5xBf1 .. i9-i8 .. Qn8-m7
+6. h7-h8=D .. Ba9-b10 .. i8-i7=D .. O-O-O
+7. Qh8xQi7 .. Bf1-b5 .. Qi13xQi7 .. Qm7-m8
+8. Ne1-f3 .. b7-d7 .. Nj14-i12 .. Bn6-l8
+9. Bi1-f4 .. d7-e7 .. Qi7-h7+ .. Nn5-m7
+10. Nj1-h2 .. b8-d8 .. j13-j12 .. Rn4-n5
+11. O-O .. d8-e8 .. Qh7-e10 .. m5-k5
+12. g2-g4 .. Na10-c9 .. Qe10xm10+#
+13. Ri1-h1 .. O-O .. Ne14-f12
+14. Nh2-i4 .. e8-f8 .. e13-e12
+15. Qg1xk5 .. Bb10xBf14 .. Rd14xBf14
+16. Rd1-g1 .. e7-f7 .. h13-h11
+17. Nf3-h4 .. f7-g7 .. Bi14-h13
+18. Nh4-i6 .. g7-h7=D .. g13-g11
+19. Bf4-k9 .. Qh7xNi6 .. Rf14-d14
+20. j2-j3 .. f8-g8 .. d13-d11
+21. Rh1-h8 .. Na5-b7 .. Rk14-i14
+22. Rg1-h1 .. Qi6-f6 .. Qm10-f10
+23. f2-f4 .. Qf6xQf10 .. g11xQf10
+24. Ni4-g5 .. Ra9-a8 .. d11xc10
+25. Qk5xk7 .. b9xc10 .. h11-h10
+26. Bk9-j8 .. Nc9-e8 .. Bh13xNb7
+27. Rh8xg8+ .. Qa7xBb7 .. Ni12-g13
+28. Bj8xh10 .. Qb7xRi14+#
+29. Qk7-b7 .. Qi14xQb7
+30. R

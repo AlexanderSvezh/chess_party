@@ -1,0 +1,50 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "741"]
+[Result "Armanuly: 9 - LordTBlack: 62 - krylayi: 23 - BattleChex: 29"]
+[Variant "FFA"]
+[Red "Armanuly"]
+[RedElo "1574"]
+[Blue "LordTBlack"]
+[BlueElo "1552"]
+[Yellow "krylayi"]
+[YellowElo "1506"]
+[Green "BattleChex"]
+[GreenElo "1522"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:03:25 GMT+0000 (UTC)"]
+[CurrentMove "104"]
+
+1. j2-j3 .. b7-d7 .. g13-g11 .. m4-l4
+2. Bi1-j2 .. Na10-c9 .. g11-g10 .. m11-k11
+3. Nj1-i3 .. Na5-c6 .. j13-j12 .. k11xj12
+4. g2-g3 .. b8-d8 .. k13xj12 .. Rn11-g11+
+5. Bf1-g2 .. Ba9-b8 .. Bf14-g13 .. Rg11xg10
+6. Ne1-f3 .. Nc9-d11 .. Rk14-k11 .. Nn10-l11
+7. Nf3-d4 .. Bb8xBg13 .. Ne14xBg13 .. Rg10xb10
+8. Nd4xNc6 .. Qa7-c7 .. Rk11xNd11 .. Rb10-e10
+9. Nc6xb4+ .. b6-c6 .. O-O .. Re10xe2
+10. Nb4-d3 .. Ba6-c8 .. h13-h11 .. Nl11-k13
+11. Nd3-f4 .. Bc8xBi14 .. Ng13xBi14 .. Re2-e7
+12. d2-d4 .. d8xRe7 .. Ni14xNk13 .. m8-l8
+13. O-O .. e7-f7 .. Qh14-g13 .. Bn9xBg2
+14. Nf4xBg2 .. b9-c9 .. Qg13-e11 .. Nn5-l6
+15. Ng2-h4 .. f7-g7 .. Rd11xb11 .. Qn8-n9
+16. Nh4-g6 .. Ra11xRb11 .. Qe11xRb11 .. m9-l9
+17. Ng6-h4 .. g7-h7=D .. i13-i12 .. l9-k9
+18. f2-f4 .. Qh7-e10 .. e13-e12 .. m10-l10
+19. T .. Qc7-a9 .. i12-i11 .. Nl6-k4
+20. Qe10-b10 .. Qb11xj3 .. Qn9-j13
+21. Qb10-e13+# .. Nk4xNi3
+22. Qa9-b10 .. Ni3xKj1
+23. Qe13-i9 .. Qj13xj12
+24. Qb10-k10+ .. Kn7-n8
+25. Qi9-i4 .. m7-l7
+26. Qi4-i10 .. Qj12-f12
+27. Qk10xl10+ .. Kn8-m7
+28. Ql10-m9+ .. Km7-l6
+29. Qi10-i6+ .. Kl6-l5
+30. Qm9xm6+ .. Kl5-k5
+31. Qm6-j6+ .. Kk5-l5
+32. Qi6-j7+ .. Kl5-k4
+33. Qj6-j4+#

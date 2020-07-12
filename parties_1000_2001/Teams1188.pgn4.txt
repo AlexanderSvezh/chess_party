@@ -1,0 +1,17 @@
+[GameNr "1188"]
+[Result "Aborted"]
+[Variant "Teams"]
+[Red "Butnskala"]
+[RedElo "2137"]
+[Blue "leorastelli"]
+[BlueElo "2192"]
+[Yellow "Chess_LostSyle"]
+[YellowElo "2452"]
+[Green "zserbo0314"]
+[GreenElo "2385"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:00:14 GMT+0000 (UTC)"]
+[CurrentMove "3"]
+
+1. h2-h3 .. b6-c6 .. T

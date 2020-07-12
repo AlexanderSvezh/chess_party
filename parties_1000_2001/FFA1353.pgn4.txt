@@ -1,0 +1,59 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1353"]
+[Result "LYM9: 96 - ExequieLAbregu: 26 - Alvaro_Ayala: 29 - YisusVazquez: 9"]
+[Variant "FFA"]
+[Red "LYM9"]
+[RedElo "1646"]
+[Blue "ExequieLAbregu"]
+[BlueElo "1513"]
+[Yellow "Alvaro_Ayala"]
+[YellowElo "1818"]
+[Green "YisusVazquez"]
+[GreenElo "1513"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:06:43 GMT+0000 (UTC)"]
+[CurrentMove "125"]
+
+1. g2-g4 .. b7-d7 .. g13-g12 .. m8-k8
+2. Ne1-f3 .. d7-e7 .. Qh14-g13 .. k8-j8
+3. g4-g5 .. e7-f7 .. Ne14-f12 .. j8-i8
+4. Nj1-i3 .. f7-g7 .. Nj14-i12 .. m7-l7
+5. h2-h4 .. b8-c8 .. Qg13xBn6+ .. Kn7-m8
+6. g5-g6 .. Ba9xBi1 .. Qn6xm5 .. Nn5-m7
+7. Rk1xBi1 .. b5-c5 .. Qm5xm6 .. Qn8-n6
+8. Bf1-h3 .. Qa7xNf12 .. e13xQf12 .. Qn6xQm6
+9. Qg1-g2 .. Ba6-b5 .. Bf14xb10 .. m9-k9
+10. d2-d3 .. Na5-b7 .. Bb10xRa11 .. k9-j9
+11. O-O-O .. O-O-O .. Ni12-j10 .. m11-k11
+12. Ni3-j5 .. c8-d8 .. Nj10-h11 .. Nn10-l11
+13. h4-h5 .. d8-e8 .. Ba11-b10 .. Qm6-l6
+14. Nj5xQl6+ .. b11-c11 .. k13-k12 .. R
+15. Nl6xKm8 .. e8-f8 .. Nh11-i9
+16. Nm8-k9 .. b9-c9 .. j13-j12
+17. k2-k4 .. Bb5xRk14 .. Rd14-e14
+18. k4-k5 .. Ra7-a8 .. Re14-e11
+19. k5-k6 .. Bk14-b5 .. Ni9-g8
+20. Nf3-e1 .. Ra8-b8 .. Bb10xc11
+21. Bh3xNa10 .. Ka6-a5 .. Re11-f11
+22. Ba10-g4 .. c9-d9 .. Bc11xf8
+23. k6-k7 .. Rb8xBf8 .. Rf11xRf8
+24. k7-k8=D .. Nb7-c9 .. Rf8-c8
+25. Qk8xi8 .. Nc9-e8 .. Ng8-f10
+26. Qi8xd13 .. Ne8xNf10 .. Kg14-g13
+27. Bg4xRc8 .. d9-e9 .. g12-g11
+28. Nk9-i10 .. Nf10-h11+ .. Kg13-g14
+29. Qd13-e14+# .. e9-f9
+30. Qe14-e7 .. Bb5-a6
+31. Qe7xg7 .. Ba6xBc8
+32. Qg7-a7+ .. Bc8-a6
+33. Qa7-d7 .. Ba6-b5
+34. Qd7-a7+ .. Bb5-a6
+35. Qg2-c6 .. b4-c4
+36. Qc6xf9 .. c4-d4
+37. Qf9xNh11 .. c5-d5
+38. Qh11-c6 .. Ka5-b4
+39. Qc6xd5 .. Ba6-b5
+40. Qd5xd4+ .. Bb5-c4
+41. Qa7xb6+ .. Kb4-a4
+42. Qd4xBc4+#

@@ -1,0 +1,20 @@
+[GameNr "512"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "rubiayyegua"]
+[RedElo "1637"]
+[Blue "GaffelSchack"]
+[BlueElo "1643"]
+[Yellow "ThunderInc"]
+[YellowElo "1677"]
+[Green "Tid123"]
+[GreenElo "1633"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:55:05 GMT+0000 (UTC)"]
+[CurrentMove "13"]
+
+1. h2-h3 .. b7-c7 .. g13-g12 .. m11-k11
+2. Qg1-k5 .. b10-c10 .. Qh14-e11 .. m5-l5
+3. Qk5-d5+ .. Qa7-b7 .. Bf14-g13 .. k11-j11
+4. R

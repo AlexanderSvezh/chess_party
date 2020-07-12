@@ -1,0 +1,20 @@
+[GameNr "585"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "rubiayyegua"]
+[RedElo "1596"]
+[Blue "ermis8992"]
+[BlueElo "2050"]
+[Yellow "lipisis"]
+[YellowElo "1717"]
+[Green "roachesst"]
+[GreenElo "2206"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:11:46 GMT+0000 (UTC)"]
+[CurrentMove "15"]
+
+1. h2-h3 .. b6-d6 .. g13-g12 .. m9-l9
+2. e2-e3 .. Qa7-b6 .. Bf14-h12 .. Qn8xi13
+3. Qg1-i3 .. Qb6xBh12 .. Qh14xQi13 .. m7-l7
+4. Qi3-n8+ .. Qh12-f14+ .. #

@@ -1,0 +1,60 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1282"]
+[Result "custodio3: 24 - yassinetn: 64 - sergiobari: 10 - joandeno: 20"]
+[Variant "FFA"]
+[Red "custodio3"]
+[RedElo "1662"]
+[Blue "yassinetn"]
+[BlueElo "1550"]
+[Yellow "sergiobari"]
+[YellowElo "1793"]
+[Green "joandeno"]
+[GreenElo "1759"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:46:49 GMT+0000 (UTC)"]
+[CurrentMove "148"]
+
+1. g2-g4 .. b7-d7 .. Ne14-f12 .. m8-k8
+2. g4-g5 .. d7-e7 .. e13-e12 .. m7-l7
+3. g5-g6 .. e7-f7 .. Nj14-i12 .. k8-j8
+4. g6-g7 .. b11-c11 .. h13-h11 .. m10-l10
+5. g7-g8=D .. f7xQg8 .. g13-g12 .. l7-k7
+6. Bf1xBn9 .. g8-h8=D .. Bf14xBn6 .. Kn7xBn6
+7. Nj1-i3 .. b10-d10 .. Qh14-g13+ .. Nn5-m7
+8. Bn9-g2+ .. b6-c6 .. Bi14-h13 .. Nn10-l9
+9. j2-j3 .. Ba9-b10 .. Ni12-g11 .. m11-k11
+10. Bi1-j2 .. Na10-c9 .. Bh13xNl9 .. Rn11-n10
+11. O-O .. O-O .. O-O-O .. Kn6-n5
+12. f2-f3 .. b5-d5 .. Bl9-i12 .. Nm7-l5
+13. h2-h3 .. b4-d4 .. d13-d11 .. m4-l4
+14. f3-f4 .. b8-d8 .. h11-h10 .. m9-k9
+15. Bg2-f3 .. d8-e8 .. h10-h9 .. Qn8-m7
+16. e2-e3 .. d4-e4 .. Qg13-g14 .. k7-j7
+17. Bf3-g4 .. e8-f8 .. Ng11-i10 .. Rn10-n11
+18. Ne1-g2 .. Qh8-f10 .. Bi12xc6 .. k11-j11
+19. Qg1-f2 .. Na5xBc6 .. h9-h8 .. j11xNi10
+20. Ni3-k4 .. Qf10xi10 .. h8-h7=D .. Rn11-n10
+21. Qf2xRn10+ .. Qa7-b6 .. Qh7xj7 .. Qm7-n6
+22. Qn10-g3 .. Qi10xi13+# .. Nl5-k3+
+23. Kj1-k1 .. f8-g8 .. l10-k10
+24. Qg3-k7 .. g8-h8=D .. m5-l5
+25. Nk4-l6+ .. Nc9-a8 .. Kn5-m5
+26. Nl6-m8+ .. Bb10xBj2+ .. Km5-m4
+27. Kk1xBj2 .. Qb6-d8+ .. Qn6-m7
+28. Qk7-h4 .. Qd8-f10 .. Qm7xNm8
+29. i2-i3 .. Qh8xl4+ .. Km4-n5
+30. i3-i4 .. Ql4-h8 .. Nk3xi4+
+31. Ri1xNi4 .. Ba6xg12 .. Rn4xRi4
+32. h3xRi4 .. Qi13-h12 .. k10-j10
+33. Rd1-h1 .. Qh8-d8 .. Qm8-m7
+34. Kj2-i2 .. Qh12-h11 .. Qm7-n6
+35. Qh4-i5 .. Qh11-j9 .. Qn6-m5
+36. Qi5-h5 .. Qf10-f6 .. Qm5-n6
+37. Qh5-c10+ .. Ka10-a11 .. Qn6-m5
+38. Qc10xc11+ .. Ka11-a10 .. Qm5-k3
+39. Qc11-c10+ .. Na8-b10 .. Qk3xk2+
+40. Ki2-h3 .. Ka10-a11 .. Qk2xj3+
+41. Kh3-h2 .. b9xQc10 .. Qj3xi4
+42. R .. Qj9xm6+ .. Kn5-n4
+43. Qf6-l6+#

@@ -1,0 +1,25 @@
+[GameNr "313"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "IvanKubanec"]
+[RedElo "1538"]
+[Blue "Kujtimi"]
+[BlueElo "2871"]
+[Yellow "ImnotaStark"]
+[YellowElo "1441"]
+[Green "caillou_yt"]
+[GreenElo "1453"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:00:15 GMT+0000 (UTC)"]
+[CurrentMove "34"]
+
+1. h2-h3 .. b6-d6 .. h13-h12 .. Nn5-l6
+2. e2-e3 .. b8-c8 .. g13-g11 .. m7-k7
+3. Ne1-f3 .. Qa7xQh14+ .. Kg14xQh14 .. Bn6-m7
+4. Bf1-e2 .. Na10-c9 .. h12-h11 .. O-O
+5. Qg1-h2 .. Na5-c6 .. Bf14xBm7 .. Qn8xBm7
+6. Nj1-k3 .. Ba9-b8 .. Ne14-d12 .. m8-k8
+7. Nk3-j5 .. Nc9-e10+ .. f13-f12 .. Nl6xNj5
+8. Qh2xQm7 .. Ne10xg11 .. Nj14-h13 .. Rn6-n7
+9. Qm7xRn7+ .. R

@@ -1,0 +1,20 @@
+[GameNr "1328"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "fcgarrido"]
+[RedElo "1936"]
+[Blue "ChessN00b777"]
+[BlueElo "2161"]
+[Yellow "audreymanley123"]
+[YellowElo "1500"]
+[Green "TowersK"]
+[GreenElo "2006"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:43:38 GMT+0000 (UTC)"]
+[CurrentMove "15"]
+
+1. h2-h3 .. b6-d6 .. g13-g11 .. m8-l8
+2. e2-e4 .. Qa7-b6 .. g11-g10 .. Qn8-m8
+3. d2-d4 .. Qb6-g11+ .. Ne14-g13 .. Qm8xh13+
+4. Bi1xd6 .. Qg11xNg13+ .. #

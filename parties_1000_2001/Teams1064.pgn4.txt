@@ -1,0 +1,39 @@
+[GameNr "1064"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Springbonnie950"]
+[RedElo "1480"]
+[Blue "oblivi"]
+[BlueElo "1471"]
+[Yellow "JOrellanaPeru"]
+[YellowElo "1500"]
+[Green "vonyass"]
+[GreenElo "1471"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:35:11 GMT+0000 (UTC)"]
+[CurrentMove "91"]
+
+1. i2-i4 .. b6-d6 .. g13-g11 .. m6-k6
+2. h2-h4 .. b7-d7 .. h13-h11 .. m7-k7
+3. Bi1xd6 .. Ba6xBi14 .. Qh14xBi14 .. Bn6xBf14
+4. Bd6xb8 .. Qa7xBb8 .. Kg14xBf14 .. Qn8-m7+
+5. f2-f4 .. Qb8xf4 .. Kf14-g14 .. Qm7-i11
+6. g2-g3 .. Qf4-f7 .. Qi14-a6+ .. Qi11xh11
+7. e2-e4 .. Ka8-b8 .. i13-i12 .. Qh11-i10
+8. Bf1xb5 .. Qf7xf13+ .. Kg14-h14 .. m10-k10
+9. Bb5xRa4 .. Na5-b7 .. Qa6xk6 .. Bn9xj13
+10. Ba4xd7 .. Qf13xe13 .. Qk6xk7+ .. Qi10-l7
+11. Bd7xb9 .. Qe13-f14+ .. Kh14-i13 .. Ql7xQk7
+12. Bb9xNa10 .. Ra11xBa10 .. Ki13xBj13 .. Qk7xg11
+13. Qg1-f1 .. Qf14-e13+ .. Nj14-h13 .. Qg11-h12
+14. Qf1-f5 .. Qe13xNh13+ .. Kj13-j12 .. m5-l5
+15. Qf5-i8+ .. Kb8-a7 .. Ne14-g13 .. Nn10-l11+
+16. Qi8-f8 .. Ba9-d6 .. Kj12-k12 .. Nl11-j10+
+17. Qf8-k8 .. Qh13xNg13 .. Kk12-k11 .. Nj10xQk8
+18. Kh1-g2 .. Qg13-i13+ .. Kk11xk10 .. Qh12xi12+
+19. Ne1-f3 .. Ra10-a9 .. Kk10-l11 .. Qi12-i10
+20. e4-e5 .. Qi13-i11+ .. k13-k11 .. Rn11-n10
+21. e5xBd6 .. Nb7xd6 .. Rd14-i14 .. Nk8-j10+
+22. g3-g4 .. Qi11-g11 .. Kl11xm11 .. Nj10-l9+
+23. g4-g5 .. Qg11-g6 .. #

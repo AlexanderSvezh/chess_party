@@ -1,0 +1,55 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1326"]
+[Result "scottsmack: 31 - Anderson-Council: 57 - Aslion95: 6 - Paddy_9999: 30"]
+[Variant "FFA"]
+[Red "scottsmack"]
+[RedElo "1707"]
+[Blue "Anderson-Council"]
+[BlueElo "1713"]
+[Yellow "Aslion95"]
+[YellowElo "1523"]
+[Green "Paddy_9999"]
+[GreenElo "1582"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:54:31 GMT+0000 (UTC)"]
+[CurrentMove "109"]
+
+1. g2-g4 .. b7-d7 .. g13-g12 .. m10-l10
+2. Ne1-f3 .. d7-e7 .. h13-h11 .. m5-l5
+3. k2-k3 .. e7-f7 .. h11-h10 .. m7-l7
+4. g4-g5 .. f7-g7 .. g12-g11 .. m8-l8
+5. g5-g6 .. b9-c9 .. k13-k12 .. m11-l11
+6. Nj1-i3 .. b8-d8 .. j13-j11 .. l11xk12
+7. e2-e3 .. d8-e8 .. Nj14xk12 .. Rn11xj11
+8. Bf1-e2 .. e8-f8 .. Bi14-h13 .. l10-k10
+9. Ni3-h5 .. f8-g8 .. Bh13xRj11 .. k10xBj11
+10. h2-h3 .. g8-h8=D .. i13-i11 .. l8-k8
+11. Nf3-d4 .. b4-c4 .. Nk12-m11 .. Bn9-m10
+12. Bi1xBa9 .. Ka8xBa9 .. Ne14-d12 .. Bn6-m7
+13. Qg1-g3+ .. Na10-b8 .. Nm11-k10 .. m9-l9
+14. i2-i3 .. b5-c5 .. Bf14-g13 .. l9xNk10
+15. Nd4-f5 .. g7-h7=D .. T .. Qn8xQh14
+16. g6-g7 .. Qh8-d8 .. Qh14xKg14
+17. g7-g8=D .. Qh7xQg8 .. Qg14xf13
+18. Qg3xNn10+ .. Qg8-f9 .. Bm7-n8
+19. Be2-g4 .. Qf9xQf13 .. R
+20. Qn10xBn8 .. Ba6-b7+
+21. f2-f3 .. c4-d4
+22. Qn8xKn7 .. d4-e4
+23. f3-f4 .. e4xNf5+
+24. Kh1-i2 .. f5xBg4
+25. h3xg4 .. Qd8-d3
+26. Qn7xm6 .. Qd3-e2+
+27. Ki2-j3 .. Qe2xg4
+28. Qm6-i6 .. Bb7-d9
+29. Rk1-h1 .. Qf13-f7
+30. i3-i4 .. Qg4-f3+
+31. Kj3-k2 .. Qf7-j7
+32. Nh5-j4 .. Qf3xQi6
+33. Nj4xQi6 .. Qj7xNi6
+34. j2-j3 .. Qi6-e2+
+35. Kk2-k1 .. b10-d10
+36. d2-d4 .. c5xd4
+37. e3xd4 .. Qa7-e7+
+38. R

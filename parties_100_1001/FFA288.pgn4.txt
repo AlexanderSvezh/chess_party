@@ -1,0 +1,72 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "288"]
+[Result "EvilDenis: 27 - Sesteronekue: 5 - RodrigoCabrera: 30 - jeromeweinhonig: 76"]
+[Variant "FFA"]
+[Red "EvilDenis"]
+[RedElo "1713"]
+[Blue "Sesteronekue"]
+[BlueElo "1566"]
+[Yellow "RodrigoCabrera"]
+[YellowElo "1656"]
+[Green "jeromeweinhonig"]
+[GreenElo "1536"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:08:14 GMT+0000 (UTC)"]
+[CurrentMove "144"]
+
+1. g2-g4 .. b10-c10 .. j13-j12 .. m7-k7
+2. g4-g5 .. Ba9-b10 .. Bi14-j13 .. m8-k8
+3. j2-j3 .. b7-d7 .. i13-i11 .. Nn10-l9
+4. Bf1xBn9 .. Na5-c6 .. Nj14-i12 .. Qn8xBn9
+5. g5-g6 .. Bb10xRk1 .. e13-e12 .. Qn9-l7
+6. g6-g7 .. Bk1-b10 .. Bf14xBb10 .. O-O-O
+7. g7-g8=D .. T .. g13-g12 .. Bn6-l8
+8. Ne1-f3 .. Ni12-h10 .. Nn5-m7
+9. Qg8-c8 .. Ne14-f12 .. Rn4-n5
+10. Qc8xb9 .. Bb10-e13 .. m6-k6
+11. Qb9xKa8 .. O-O .. m5-l5
+12. Qg1-g4 .. h13-h11 .. Rn5-n4
+13. O-O-O .. Nh10-i12 .. l5-k5
+14. Kf1-e1 .. h11-h10 .. k5-j5
+15. Qa8xNc6 .. h10-h9 .. j5-i5
+16. i2-i4 .. h9-h8 .. k6-j6
+17. Nf3-g5 .. g12-g11 .. k7-j7
+18. Bi1-l4 .. g11-g10 .. Nm7-l5
+19. Bl4-j2 .. g10-g9 .. Nl9-k7
+20. Qc6-g6 .. Rf14-g14 .. j6-i6
+21. Qg6-g8 .. Ni12-h10 .. i5-h5
+22. Qg4-g2 .. Nh10xQg8 .. Nl5-j6
+23. i4xh5 .. Ng8-h10 .. i6xh5
+24. Qg2-h1 .. g9-g8 .. Nk7-i8
+25. Ke1-d1 .. Nh10xNi8 .. Nj6xNi8
+26. Nj1-i3 .. h8-h7=D .. Bl8-k9
+27. Ng5xQh7 .. g8xNh7=D .. h5-g5=D
+28. Rg1-e1 .. Qh14-i14 .. Qg5xd2+#
+29. Bj13xm10+ .. Kn9-m8
+30. Qi14-i12+ .. Km8-m7
+31. Nf12-g10 .. Qd2-j8
+32. Be13xQj8 .. Bk9xBj8
+33. k13-k11 .. m4-k4
+34. Qh7-h4 .. Bj8-k7
+35. Qh4-j4+ .. Bk7-l6
+36. Qj4-f8 .. k4-j4
+37. Qi12-h11 .. Rn8-n10
+38. Bm10xk8 .. Ql7-k7
+39. Qh11-j9 .. Rn10-n8
+40. Bk8xj7 .. Ni8-k9
+41. Qf8xRn8+ .. Km7xQn8
+42. f13-f12 .. Nk9xBj7
+43. k11-k10 .. j4-i4
+44. Rg14-h14 .. Bl6xNi3
+45. Rk14-k11 .. i4-h4
+46. Rk11xm11 .. h4-g4=D
+47. Rm11-n11+ .. Kn8-m8
+48. Qj9-l9+ .. Km8-m7
+49. Rn11xRn4 .. Qg4xRn4
+50. Ke14-f13 .. Nj7-h8
+51. Rh14xNh8 .. Bi3-l6
+52. Rh8-m8+ .. Km7-n6
+53. Ql9-f9 .. Qk7xk10
+54. Qf9-k4 .. Qn4xQk4
+55. R

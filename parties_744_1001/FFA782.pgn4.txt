@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "782"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "Davidbloom001"]
+[RedElo "1560"]
+[Blue "KiwiM8"]
+[BlueElo "1731"]
+[Yellow "kiarant"]
+[YellowElo "1522"]
+[Green "moyassin14"]
+[GreenElo "1547"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:59:42 GMT+0000 (UTC)"]
+[CurrentMove "4"]
+
+1. g2-g4 .. b4-d4 .. Nj14-i12 .. T

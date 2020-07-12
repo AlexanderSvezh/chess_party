@@ -1,0 +1,48 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1416"]
+[Result "lgmagna: 51 - Gonzulker: 0 - mrfaria: 45 - DAVIZFR: 1"]
+[Variant "FFA"]
+[Red "lgmagna"]
+[RedElo "1803"]
+[Blue "Gonzulker"]
+[BlueElo "1500"]
+[Yellow "mrfaria"]
+[YellowElo "1509"]
+[Green "DAVIZFR"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:22:48 GMT+0000 (UTC)"]
+[CurrentMove "83"]
+
+1. g2-g4 .. b7-d7 .. g13-g12 .. m10-k10
+2. Ne1-f3 .. d7-e7 .. h13-h11 .. Bn9-m10
+3. Nj1-i3 .. e7-f7 .. j13-j12 .. Bm10xg4
+4. Qg1xBg4 .. f7-g7 .. Nj14-i12 .. m9-l9
+5. Bf1-h3 .. g7-h7=D .. Bi14-m10 .. Qn8-m9
+6. Qg4xb9+ .. Ka8-b7 .. Bm10xRn11 .. R
+7. Qb9-c8+ .. Kb7-a8 .. Bf14-g13
+8. Qc8-b9+ .. Ka8-b7 .. h11-h10
+9. Bh3-c8+ .. Kb7-c6 .. g12-g11
+10. Nf3-e5+ .. Kc6-d5 .. g11-g10
+11. Bc8-e6+ .. Kd5-d6 .. h10-h9
+12. h2-h3 .. Qh7-c7 .. Ni12-j10
+13. Bi1-g3 .. Ba6-b7+ .. Bg13-i11+
+14. Kh1-i1 .. Qc7-e7 .. Qh14-d10+
+15. Ne5-f3+ .. Kd6-c6 .. Bi11xQe7
+16. Be6-g4 .. Qa7-a8 .. Qd10-d6+#
+17. Qb9-e6 .. Qd6-d8
+18. Qe6xm6 .. Be7xNi3
+19. j2xBi3 .. Qd8xi3
+20. Rk1-j1 .. Bn11xl9
+21. Qm6xKn7 .. Bl9xBg4
+22. h3xBg4 .. Qi3-k3+
+23. Rj1-j2 .. Nj10-i8
+24. Qn7-j3 .. Qk3-h6
+25. Qj3-j11+ .. Kg14-h14
+26. Qj11-h11+ .. Kh14-i14
+27. Qh11xRk14+ .. Ki14-h13
+28. Qk14-h11+ .. Kh13-i14
+29. Qh11-k14+ .. Ki14-h13
+30. Qk14-h11+ .. Kh13-i14
+31. Qh11-k14+

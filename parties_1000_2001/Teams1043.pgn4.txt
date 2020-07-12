@@ -1,0 +1,17 @@
+[GameNr "1043"]
+[Result "Aborted"]
+[Variant "Teams"]
+[Red "rtydthrdtydytdyjttr"]
+[RedElo "1516"]
+[Blue "RuijieXiao"]
+[BlueElo "1840"]
+[Yellow "rightegg"]
+[YellowElo "1467"]
+[Green "paloniaalmonia"]
+[GreenElo "1546"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:13:20 GMT+0000 (UTC)"]
+[CurrentMove "1"]
+
+1. T

@@ -1,0 +1,71 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1340"]
+[Result "rownakehsan: 5 - heliocneto: 90 - audreymanley123: 6 - josh9874: 51"]
+[Variant "FFA"]
+[Red "rownakehsan"]
+[RedElo "1688"]
+[Blue "heliocneto"]
+[BlueElo "1500"]
+[Yellow "audreymanley123"]
+[YellowElo "1500"]
+[Green "josh9874"]
+[GreenElo "1543"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:03:56 GMT+0000 (UTC)"]
+[CurrentMove "145"]
+
+1. h2-h4 .. b7-d7 .. g13-g11 .. m8-k8
+2. Ne1-f3 .. d7-e7 .. g11-g10 .. m10-l10
+3. h4-h5 .. e7-f7 .. g10-g9 .. m5-l5
+4. g2-g4 .. f7-g7 .. g9-g8 .. Bn9-m10
+5. Qg1-i3 .. g7-h7=D .. g8xQh7=D .. Bn6-m5
+6. Bi1-g3 .. Qa7xQh7 .. h13-h11 .. k8-j8
+7. Bf1-h3 .. Na10-c9 .. e13-e12 .. j8-i8
+8. Nj1-h2 .. Qh7-e4 .. d13-d11 .. i8-h8
+9. e2-e3 .. b8-c8 .. e12-e11 .. h8-g8=D+
+10. O-O .. b11-c11 .. Bi14-g12 .. Nn5-l4
+11. d2-d3 .. Qe4-k10++ .. i13-i12 .. m9-l9
+12. Bg3xBa9 .. Qk10xk2+# .. d11-d10 .. Qg8-d5+
+13. b6-c6 .. d10xNc9 .. Qd5xRd14
+14. Qk2xh5 .. Bf14xc11 .. Nn10-l11
+15. Ra11xBc11 .. k13-k12 .. Nl11-j10
+16. Na5-b7 .. j13-j12 .. O-O
+17. Nb7xc9 .. i12-i11 .. Qd14xNe14+
+18. Ka8xBa9 .. Kg14-g13 .. Qe14xQh14+
+19. Rc11-d11 .. Kg13xQh14 .. Nj10-i8
+20. Rd11-d12 .. Bg12-f11 .. m7-k7
+21. Qh5xh11+ .. Kh14-i13 .. Ni8-g9
+22. Qh11-h12+ .. Ki13-j13 .. Ng9xBf11
+23. Qh12xj12+ .. Kj13-i14 .. Qn8xQi3
+24. Rd12-d14+ .. Ki14-h13 .. Nf11-e13
+25. Rd14-h14+ .. Kh13-g13 .. Ne13-f11+#
+26. Rh14-i14 .. Qi3xNh2+
+27. Ka9-a10 .. Rn11-n7
+28. Ri14xi11 .. Nf11-h10
+29. Ri11xm11 .. Rn7-n11
+30. Rm11xBm10 .. Nh10-f9
+31. Qj12-j9 .. Nf9-h8
+32. Qj9xl9 .. Rn11xe11
+33. Ql9xl10 .. Qh2-l6
+34. Ql10-f10 .. Re11-h11
+35. b5-c5 .. k7-j7
+36. Ba6-b5 .. Ql6-g11
+37. Qf10xQg11 .. Rh11xQg11
+38. Ra4-a7 .. Rn6-n7
+39. c6-d6 .. j7-i7
+40. d6-e6 .. Nl4-j5
+41. e6-f6 .. Nj5-h4
+42. Bb5-i12 .. Rn7-k7
+43. Nc9-e10 .. Rg11-g12
+44. Rm10-n10+ .. Bm5-n6
+45. Bi12-h11 .. Rg12-g11
+46. Ne10xRg11 .. i7-h7
+47. Rn10-m10 .. h7-g7=D
+48. f6xQg7 .. Nh8-j9
+49. Bh11xNj9 .. Nh4-g6
+50. Rm10xm6 .. Ng6-i7
+51. Bj9-g12 .. Bn6-h12
+52. Rm6-m7+ .. Ni7-k8
+53. Rm7xRk7 .. Kn5-m6
+54. Bg12xNk8+ .. R

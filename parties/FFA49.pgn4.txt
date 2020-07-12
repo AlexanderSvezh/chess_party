@@ -1,0 +1,49 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "49"]
+[Result "rownakehsan: 41 - nataliabella: 58 - HelicoBoy: 6 - ARDINALGIANCARLO: 11"]
+[Variant "FFA"]
+[Red "rownakehsan"]
+[RedElo "1676"]
+[Blue "nataliabella"]
+[BlueElo "1502"]
+[Yellow "HelicoBoy"]
+[YellowElo "1500"]
+[Green "ARDINALGIANCARLO"]
+[GreenElo "1769"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 16:52:10 GMT+0000 (UTC)"]
+[CurrentMove "104"]
+
+1. g2-g4 .. b7-d7 .. g13-g11 .. m7-k7
+2. Ne1-f3 .. d7-e7 .. Bf14xBn6 .. Kn7xBn6
+3. h2-h4 .. e7-f7 .. Ne14-f12 .. m6-l6
+4. h4-h5 .. f7-g7 .. O-O .. m4-k4
+5. Bi1-g3 .. g7-h7=D .. h13-h11 .. m8-k8
+6. Nj1-h2 .. b8-c8 .. Bi14xc8 .. m10-l10
+7. O-O .. b9xBc8 .. h11-h10 .. Bn9-m10
+8. Ri1-h1 .. Qh7-e4 .. k13-k12 .. k8-j8
+9. g4-g5 .. Ba6-b7 .. h10-h9 .. m9-k9
+10. h5-h6 .. b10-c10 .. h9-h8 .. k4-j4
+11. d2-d3 .. Qe4xe13+# .. Rn4-k4
+12. Nf3-h4 .. Ba9-b10 .. Nn5-l4
+13. f2-f4 .. Na10-c9 .. Nl4xk2
+14. g5-g6 .. O-O .. Nn10-l11
+15. g6-g7 .. Qe13-e10 .. Rk4-k5
+16. g7xh8=D .. b5-c5 .. Nk2-l4
+17. Nh2-j3 .. Bb7-a8 .. Nl4xNj3
+18. Nh4xNj3 .. Ba8-b9 .. Rk5-l5
+19. Qg1xj4 .. b6-d6 .. Kn6-n5
+20. h6-h7 .. Na5-c6 .. Nl11-j10
+21. Qh8-g8 .. Qe10-d9 .. m11-k11
+22. h7-h8=D .. c8-d8 .. k11-j11
+23. Qg8-k4 .. Ra4-a6 .. Kn5-m6
+24. Bf1-k6 .. d6-e6 .. Km6-m7
+25. Qk4xRl5 .. Nc6-e7 .. Km7-l8
+26. Ql5xm5 .. e6-f6 .. Bm10xe2
+27. Qm5xl6+ .. Qd9-c8 .. Qn8xQl6
+28. Qj4xQl6+ .. Qc8xi2+ .. Kl8-k8
+29. Kj1-k2 .. Qi2xBe2+ .. Kk8-j9
+30. Bk6-l7+ .. Qe2xRn11 .. Nj10-k8
+31. Ql6xk7 .. Qn11xj11+#
+32. Rh1-h7 .. R

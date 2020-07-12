@@ -1,0 +1,47 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "312"]
+[Result "64hartza: 65 - ElF4bbro: 52 - Ogoraf: 12 - Blaz4r: 5"]
+[Variant "FFA"]
+[Red "64hartza"]
+[RedElo "1757"]
+[Blue "ElF4bbro"]
+[BlueElo "1524"]
+[Yellow "Ogoraf"]
+[YellowElo "1600"]
+[Green "Blaz4r"]
+[GreenElo "1506"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:08:33 GMT+0000 (UTC)"]
+[CurrentMove "96"]
+
+1. g2-g4 .. b7-d7 .. h13-h11 .. m7-k7
+2. Ne1-f3 .. Ba6-b7 .. h11-h10 .. k7-j7
+3. g4-g5 .. b8-d8 .. h10-h9 .. j7-i7
+4. g5-g6 .. Na10-c9 .. g13-g11 .. i7-h7
+5. g6xh7 .. b6-d6 .. h9-h8 .. Bn6-i11
+6. Nj1-i3 .. d6-e6 .. Nj14-h13 .. Bi11-l8
+7. h2-h3 .. Ba9xBi1 .. g11-g10 .. Qn8-k5
+8. Rk1xBi1 .. Qa7-c5 .. Bf14xBl8 .. m9xBl8
+9. Qg1xg10+ .. Qc5xQk5 .. Ne14-g13 .. m11-l11
+10. Qg10-g8 .. Na5-c6 .. O-O .. Nn5-l6
+11. Bf1-g2 .. Qk5xm5 .. Rf14-g14 .. Nl6-n5
+12. Qg8xh8 .. Qm5xRn4 .. Ng13-f11 .. R
+13. Qh8-i7 .. Qn4xNn5 .. Nh13-f12
+14. h7-h8=D .. Qn5xKn7 .. Bi14-h13
+15. Qi7xQn7 .. O-O .. Nf11-d10
+16. Qh8-k11 .. b11-c11 .. Nd10-f9
+17. Qn7-l7 .. d8-e8 .. Rg14-g7
+18. Ql7-i4 .. Bb7xBh13 .. Qh14xBh13
+19. Rd1-g1 .. e8xNf9 .. Rk14-g14
+20. Ni3-g4 .. Nc9-e8 .. Rg7xd7
+21. Qk11-k4 .. f9-g9 .. Nf12-e10
+22. Qk4-j3 .. b9-d9 .. d13-d12
+23. Nf3-e5 .. d9xNe10 .. Rd7-b7
+24. Qi4xNe8 .. c11xd12 .. e13-e12
+25. Qe8-b11+# .. Rg14xg9
+26. Qj3-h5 .. Rg9-h9
+27. Qh5-d9 .. Rh9xQd9
+28. Qb11xRd9 .. Rb7-h7
+29. Bg2-e4 .. Rh7-g7
+30. Kh1-h2 .. R

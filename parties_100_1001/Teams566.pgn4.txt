@@ -1,0 +1,21 @@
+[GameNr "566"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "tommerrall949"]
+[RedElo "2462"]
+[Blue "leorastelli"]
+[BlueElo "2219"]
+[Yellow "Nitojua93"]
+[YellowElo "2319"]
+[Green "Great-Gazoo"]
+[GreenElo "1345"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:09:32 GMT+0000 (UTC)"]
+[CurrentMove "20"]
+
+1. h2-h3 .. b6-c6 .. h13-h12 .. m9-l9
+2. Qg1-h2 .. b7-c7 .. k13-k11 .. Qn8-m9
+3. d2-d4 .. Ba6xBi14 .. Qh14xBi14 .. Qm9xf2
+4. Ne1-f3 .. Na10-c9 .. Qi14-g12 .. Qf2-j6
+5. Qh2xm7+ .. Qa7-b7 .. Qg12xm6+ .. #

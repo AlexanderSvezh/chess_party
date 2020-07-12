@@ -1,0 +1,50 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "251"]
+[Result "TheSidewinder: 0 - FgConrado: 47 - Rijangwachha: 40 - Haolk: 28"]
+[Variant "FFA"]
+[Red "TheSidewinder"]
+[RedElo "1949"]
+[Blue "FgConrado"]
+[BlueElo "1785"]
+[Yellow "Rijangwachha"]
+[YellowElo "1744"]
+[Green "Haolk"]
+[GreenElo "1743"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:49:27 GMT+0000 (UTC)"]
+[CurrentMove "95"]
+
+1. Nj1-i3 .. b5-c5 .. e13-e12 .. m8-k8
+2. j2-j3 .. Ba6-b5 .. Bf14-e13 .. m4-l4
+3. d2-d3 .. Na10-c9 .. Nj14-i12 .. Nn5-l6
+4. k2-k4 .. b11-c11 .. j13-j12 .. m11-l11
+5. Bi1-j2 .. b8-c8 .. Bi14-j13 .. Nn10-l9
+6. Ne1-f3 .. Ba9-b8 .. Ne14-f12 .. m7-k7
+7. Nf3-g5 .. Na5-c6 .. O-O .. Bn6-k9
+8. Ng5-h3 .. Nc6-d8 .. Rf14-g14 .. Bn9-l7
+9. Nh3-i5 .. Nd8-c10 .. Ke14-d14 .. Bk9-m11
+10. T .. Bb5-d7 .. g13-g11 .. Bl7xg2
+11. Bd7xi2 .. g11-g10 .. Bg2xKh1
+12. Bi2xBh1 .. g10-g9 .. Qn8-m8
+13. Bh1-c6 .. g9-g8 .. O-O-O
+14. b4-d4 .. g8-g7=D .. k7-j7
+15. d4-e4 .. Ni12-k11 .. Nl9xNk11
+16. e4-f4 .. Qg7xNk11 .. j7-i7
+17. Bc6xBj13 .. Rk14-j14 .. i7-h7
+18. Bj13xl11 .. k13-k12 .. m10xBl11
+19. f4-g4 .. Qk11xl11+ .. Kn9-n10
+20. g4-h4=D .. Rg14-g10+ .. Kn10-n11
+21. Ra4-d4 .. Ql11-m10+#
+22. c11-d11 .. Rg10xNc10
+23. d11xe12 .. Rc10xb10
+24. e12xf13 .. Nf12-d11
+25. Rd4xNd11 .. Rb10xb9
+26. Qh4-d8 .. Rb9xBb8+
+27. Qa7xRb8 .. Qm10-c10+
+28. Ka8-a7 .. d13-d12
+29. Rd11xd12+ .. Be13xRd12
+30. Qd8xBd12+ .. Kd14-e14
+31. Ra11-e11+ .. Ke14xf13
+32. Re11-e13+ .. Kf13-f14
+33. Qd12-d14+#

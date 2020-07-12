@@ -1,0 +1,51 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "118"]
+[Result "georgeramirez: 0 - jimmyboypalma12: 7 - RYAN112233: 0 - OlegNaz: 67"]
+[Variant "FFA"]
+[Red "georgeramirez"]
+[RedElo "1657"]
+[Blue "jimmyboypalma12"]
+[BlueElo "1500"]
+[Yellow "RYAN112233"]
+[YellowElo "1569"]
+[Green "OlegNaz"]
+[GreenElo "1643"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:14:47 GMT+0000 (UTC)"]
+[CurrentMove "89"]
+
+1. g2-g4 .. b8-c8 .. h13-h11 .. m7-k7
+2. g4-g5 .. b7-d7 .. h11-h10 .. k7-j7
+3. Ne1-f3 .. Ba6-b7 .. h10-h9 .. j7-i7
+4. g5-g6 .. Na10-c9 .. h9-h8 .. i7xh8
+5. g6-g7 .. Ba9-b8 .. T .. h8-g8=D
+6. Qg1-g4 .. O-O .. Qn8-m7
+7. e2-e3 .. Ra9-a8 .. Qg8xg7
+8. Qg4-f5 .. Qa7-a6 .. Qg7xg13
+9. Bf1-e2 .. Bb8-c7 .. Qg13xKg14
+10. Rd1-g1 .. b4-c4 .. Qg14-l9
+11. Nj1-i3 .. Bc7-b8 .. m8-k8
+12. j2-j3 .. Nc9-e8 .. Nn5-l6
+13. Qf5xf13 .. Bb8xQh14 .. Bn9-l7
+14. Qf13xe13 .. Bh14-c9 .. m4-k4
+15. Bi1-j2 .. Na5-c6 .. k4-j4
+16. Ni3-h5 .. Bc9xBj2 .. Nn10-l11
+17. R .. Nc6-d8 .. Bl7-g2
+18. Bj2xRk1 .. Bg2xKh1
+19. Bk1-g5 .. O-O-O
+20. Bb7-d5 .. Qm7-j10
+21. Bg5xm11 .. m5-k5
+22. Bm11xe3 .. k5-j5
+23. Qa6-b7 .. Ql9-k10
+24. b10-c10 .. Bn6-j2
+25. Nd8-c6 .. Qk10-k11
+26. Be3-d4 .. Qj10-j11
+27. Bd4xQk11 .. Qj11xBk11
+28. Ra4-a7 .. Qk11-c11
+29. b9-c9 .. Rn4-n7
+30. Nc6-d8 .. j4-i4
+31. Qb7-c6 .. Qc11-g11
+32. Nd8-e10 .. Qg11-h10
+33. Ne10-d8 .. i4-h4
+34. R

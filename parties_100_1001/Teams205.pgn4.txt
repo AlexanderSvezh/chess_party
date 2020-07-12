@@ -1,0 +1,38 @@
+[GameNr "205"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "oscarbacca"]
+[RedElo "1710"]
+[Blue "7Mana"]
+[BlueElo "1837"]
+[Yellow "glutenfree55"]
+[YellowElo "1811"]
+[Green "xarisole1994"]
+[GreenElo "2425"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:40:42 GMT+0000 (UTC)"]
+[CurrentMove "86"]
+
+1. h2-h3 .. b6-d6 .. g13-g12 .. m9-l9
+2. Bi1-g3 .. Qa7-c5 .. k13-k11 .. m8-k8
+3. Qg1-j4 .. Na10-c9 .. d13-d11 .. Qn8-m8
+4. Nj1-h2 .. Qc5-l5 .. d11-d10 .. Nn5-l6
+5. k2-k4 .. Ql5-i8 .. d10xNc9 .. m5-k5
+6. Qj4-i3 .. Qi8xQi3 .. Rd14xd6 .. Nl6xk4
+7. j2xQi3 .. Na5-c6 .. Qh14-f12 .. Nk4-l6
+8. Rk1xk5 .. b5-c5 .. Rd6xNc6 .. Qm8-l7
+9. Bg3xb8 .. b7xRc6 .. Qf12-f3 .. Ql7-i7
+10. Bb8xBa9 .. c5-d5 .. Qf3-g3 .. Qi7xRk5
+11. e2-e3 .. d5-e5 .. Qg3-g8+ .. Qk5-e11
+12. Bf1xBa6 .. Ka8-a7 .. Qg8-b8+ .. Qe11xc9
+13. Ba9xb10 .. Ka7xQb8 .. Bf14-g13 .. Nl6-k4
+14. Bb10xQc9+ .. Kb8-c7 .. Bg13-h12+ .. Nk4xi3+
+15. Bc9xNi3 .. Kc7-d7 .. j13-j11 .. Rn4-n5
+16. Ba6-f11 .. Ra11-a8 .. Bi14-j13+ .. Rn5-j5
+17. Bf11-h9 .. Kd7-c8 .. Ne14-f12 .. Rj5-j9
+18. Bh9-f11+ .. Kc8-b8 .. Bj13xc6 .. Rj9xj11
+19. d2-d4 .. Ra4-a7 .. Bh12-g13 .. Rj11xBf11
+20. d4xe5 .. Ra7-c7 .. g12xRf11 .. Bn9-j5
+21. Rd1-d8+ .. Rc7-c8 .. Nf12-g10+ .. m7-l7
+22. Ne1-f3 .. R

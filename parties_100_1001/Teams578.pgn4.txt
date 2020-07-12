@@ -1,0 +1,24 @@
+[GameNr "578"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "HighLordKrishna"]
+[RedElo "1724"]
+[Blue "Svante10"]
+[BlueElo "2003"]
+[Yellow "vlo1111"]
+[YellowElo "1602"]
+[Green "Skala22"]
+[GreenElo "2197"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:14:49 GMT+0000 (UTC)"]
+[CurrentMove "29"]
+
+1. h2-h3 .. b7-c7 .. g13-g12 .. m9-l9
+2. Qg1-j4 .. Qa7-b7 .. Nj14-i12 .. m8-k8
+3. Ne1-f3 .. Na10-c9 .. j13-j12 .. m11-l11
+4. d2-d4 .. b5-d5 .. e13-e12 .. Nn5-l6
+5. Nj1-i3 .. Na5-c6 .. Bi14-j13 .. m4-l4
+6. Qj4-g4 .. c7-d7 .. Bf14-e13 .. Nl6-j5
+7. Ni3xNj5 .. b11-c11 .. Qh14-g13 .. Bn9xNj5
+8. T

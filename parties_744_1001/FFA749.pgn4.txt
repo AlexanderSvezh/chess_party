@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "749"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "Ramonavz"]
+[RedElo "1738"]
+[Blue "thebest14023"]
+[BlueElo "1536"]
+[Yellow "elshamy52"]
+[YellowElo "1602"]
+[Green "intlextreme"]
+[GreenElo "1613"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:50:46 GMT+0000 (UTC)"]
+[CurrentMove "1"]
+
+1. R

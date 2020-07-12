@@ -1,0 +1,31 @@
+[GameNr "1275"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Deadlymophead69"]
+[RedElo "1500"]
+[Blue "MasterYGTLS"]
+[BlueElo "1500"]
+[Yellow "Partyman2200"]
+[YellowElo "1500"]
+[Green "drteddyshortears"]
+[GreenElo "1475"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:34:50 GMT+0000 (UTC)"]
+[CurrentMove "58"]
+
+1. h2-h3 .. b8-d8 .. g13-g11 .. m8-k8
+2. k2-k4 .. d8-e8 .. g11-g10 .. k8-j8
+3. Rk1-k3 .. e8-f8 .. h13-h11 .. j8-i8
+4. Bi1-h2 .. f8-g8 .. Bi14-e10 .. m6-l6
+5. Rk3-i3 .. Qa7-b8 .. g10-g9 .. Nn10-l9
+6. Nj1-k3 .. Na10-c9 .. f13-f11 .. Nl9-j8
+7. Ne1-d3 .. Qb8-c7 .. Be10xg8 .. Nn5-l4
+8. Ri3-i4 .. Nc9-e8 .. h11-h10 .. Nl4-k2
+9. Nd3xb4 .. b5-d5 .. Bf14-h12 .. Bn9xRi4
+10. h3xBi4 .. Qc7-i7 .. Bh12xb6 .. m9-k9
+11. Nb4xBa6 .. Na5-c4 .. Bb6-d8 .. l6-k6
+12. e2-e3 .. Ne8-g7 .. Bd8-f6 .. m7-k7
+13. Bf1-e2 .. Ng7-i6 .. d13-d11 .. k6-j6
+14. j2-j4 .. Qi7-g5 .. Bf6xQg5 .. k7-j7
+15. Be2-h5 .. R

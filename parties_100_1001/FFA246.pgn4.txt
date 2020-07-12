@@ -1,0 +1,35 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "246"]
+[Result "marcosdelyra: 46 - carlosbravop: 49 - 2ezman: 9 - SacOnTopFFAPlayers: 7"]
+[Variant "FFA"]
+[Red "marcosdelyra"]
+[RedElo "1853"]
+[Blue "carlosbravop"]
+[BlueElo "1760"]
+[Yellow "2ezman"]
+[YellowElo "1605"]
+[Green "SacOnTopFFAPlayers"]
+[GreenElo "1566"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:43:55 GMT+0000 (UTC)"]
+[CurrentMove "62"]
+
+1. g2-g4 .. b7-d7 .. h13-h11 .. m9-l9
+2. g4-g5 .. b8-c8 .. h11-h10 .. Qn8-k11
+3. Ne1-f3 .. b5-c5 .. j13-j12 .. Qk11-d11
+4. d2-d3 .. Na10-c9 .. h10-h9 .. Qd11xb9+
+5. Qg1-g3 .. Ka8xQb9 .. h9-h8 .. Nn10-l11
+6. Qg3-g1 .. Ba9-b8 .. h8-h7=D .. m7-l7
+7. Nj1-i3 .. Ba6-b7 .. Qh7xNl11 .. m10xQl11
+8. g5-g6 .. Ra11-a9 .. e13-e12 .. Rn11-n10
+9. g6-g7 .. b10-c10 .. Bf14xRa9 .. Rn10xc10
+10. g7-g8=D .. Qa7xBa9 .. Ne14-d12 .. Rc10xNc9+
+11. Qg8-j8 .. Bb8xRc9 .. Nd12xb11 .. Nn5-l6
+12. Qj8xRd14+ .. c8-d8# .. Bn6-h12
+13. Qd14-j8 .. Na5-c6 .. O-O
+14. j2-j3 .. Qa9-b10 .. Bh12xd8
+15. Ni3-k4 .. Nc6xBd8 .. Nl6-j5
+16. Qj8xm5+# .. Nd8-e6
+17. Qm5xNj5 .. Bc9xRk1
+18. Qg1-g9+ .. R

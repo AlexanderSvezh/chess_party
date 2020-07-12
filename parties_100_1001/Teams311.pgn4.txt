@@ -1,0 +1,30 @@
+[GameNr "311"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "javicabezon"]
+[RedElo "2028"]
+[Blue "GDII"]
+[BlueElo "2344"]
+[Yellow "glutenfree55"]
+[YellowElo "1845"]
+[Green "bazukas"]
+[GreenElo "2411"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:06:39 GMT+0000 (UTC)"]
+[CurrentMove "55"]
+
+1. h2-h3 .. b6-d6 .. g13-g12 .. m9-k9
+2. d2-d4 .. Qa7-b6 .. k13-k11 .. Qn8-m9
+3. f2-f3 .. Qb6-f10 .. Ne14-f12 .. Qm9-i5
+4. Nj1-i3 .. b11-d11 .. Nj14-i12 .. Qi5-g7
+5. e2-e4 .. d11-e11 .. Bf14-h12 .. Nn5-l6
+6. k2-k4 .. Qf10-h8 .. Nf12-e10 .. Nl6xk4
+7. Ni3-g4 .. Qh8-c8 .. Ne10-g11 .. m5-l5
+8. Rk1xNk4 .. Na5-c4 .. O-O .. l5xRk4
+9. Bf1xNc4 .. b5xBc4 .. Ng11-f9 .. Qg7-i7
+10. i2-i4 .. b10-c10 .. Ni12-h10 .. Qi7-d7
+11. Qg1-k5 .. Qc8-d9 .. d13-d12 .. Qd7-l7
+12. Qk5xk9 .. Ba9xd12 .. e13xBd12 .. Nn10-l9
+13. Qk9-g5 .. Qd9xd12 .. Qh14xe11 .. Ql7-d7
+14. Qg5xRa11 .. Qd12-d13+ .. #

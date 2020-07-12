@@ -1,0 +1,49 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "661"]
+[Result "Rodrigojajaja1981: 43 - ubeticall: 25 - grajocorvo: 62 - enigmaG: 7"]
+[Variant "FFA"]
+[Red "Rodrigojajaja1981"]
+[RedElo "1597"]
+[Blue "ubeticall"]
+[BlueElo "1569"]
+[Yellow "grajocorvo"]
+[YellowElo "1849"]
+[Green "enigmaG"]
+[GreenElo "1537"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:43:03 GMT+0000 (UTC)"]
+[CurrentMove "105"]
+
+1. Nj1-i3 .. b7-d7 .. g13-g12 .. m5-k5
+2. k2-k3 .. b5-c5 .. h13-h11 .. m8-l8
+3. Ne1-f3 .. Ba6-b5 .. Nj14-i12 .. Bn9-m8
+4. d2-d3 .. b10-c10 .. Ne14-f12 .. Nn10-l9
+5. e2-e3 .. Ba9-b10 .. d13-d12 .. m7-k7
+6. h2-h3 .. Na10-c9 .. Bf14-g13 .. Qn8-m7
+7. Bf1-e2 .. Na5-c6 .. Bi14-h13 .. Bn6-m5
+8. Bi1-h2 .. O-O .. k13-k11 .. m6-k6
+9. Ni3-k4 .. b8-d8 .. Ni12-g11 .. Bm5-l4
+10. k3xBl4 .. Qa7-a8 .. Ng11-e12 .. Nn5xl4
+11. Bh2xk5 .. Nc6-e7 .. k11-k10 .. Qm7-m6
+12. Bk5xNl4 .. b4-c4 .. k10xNl9 .. m10xl9
+13. Nk4-l6+ .. c4xd3 .. Bh13xl9 .. Kn7-n8
+14. Be2xd3 .. Bb5xBd3 .. Bl9xBm8 .. Qm6xBm8+
+15. Rd1xBd3 .. Ra4xBl4 .. i13-i12 .. Qm8-m5
+16. Nl6-k4+ .. Rl4xm4 .. Bg13xl8 .. R
+17. Qg1xKn8 .. Rm4xNk4 .. Bl8xk7
+18. Rk1xRk4 .. b6-c6 .. Bk7xf2
+19. Qn8xRn4 .. Nc9-b7 .. Bf2-g3
+20. Rk4-a4 .. Qa8-c8 .. Bg3xRa9
+21. Qn4-e4 .. Nb7xBa9 .. Ne12-c11+
+22. Ra4xNa9+ .. Ka10xRa9 .. O-O
+23. Qe4-a4+ .. Ka9-b8 .. Nc11-e10
+24. Qa4-b4+ .. Qc8-b7 .. Nf12-d11+
+25. Qb4-f4+ .. Kb8-a8 .. Nd11xBb10+#
+26. g2-g4 .. j13-j11
+27. g4-g5 .. Rk14xk6
+28. Nf3-h4 .. Qh14-k11
+29. g5-g6 .. Ne10-g11
+30. g6-g7 .. Qk11xg7
+31. Rd3-d6 .. Rk6-k1+
+32. Kh1-h2 .. Qg7-g1+#

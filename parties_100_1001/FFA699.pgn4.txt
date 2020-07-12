@@ -1,0 +1,42 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "699"]
+[Result "GIANLUCA44: 14 - shreenuk: 44 - zavedhussainsikdar: 70 - AMIRHAN2003: 6"]
+[Variant "FFA"]
+[Red "GIANLUCA44"]
+[RedElo "1615"]
+[Blue "shreenuk"]
+[BlueElo "1593"]
+[Yellow "zavedhussainsikdar"]
+[YellowElo "1500"]
+[Green "AMIRHAN2003"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:49:04 GMT+0000 (UTC)"]
+[CurrentMove "72"]
+
+1. g2-g4 .. b7-d7 .. j13-j11 .. m8-k8
+2. g4-g5 .. b4-d4 .. i13-i11 .. Bn9xBf1
+3. Qg1xBf1 .. d7-e7 .. Bi14xm10 .. k8-j8
+4. g5-g6 .. d4-e4 .. Bm10xRn11 .. j8-i8
+5. g6-g7 .. e7-f7 .. Bn11-m10 .. m11-l11
+6. f2-f3 .. e4xf3 .. Bm10-i6 .. i8-h8
+7. g7xh8=D .. f7-g7 .. Bi6-f9 .. Qn8xQh8
+8. Qf1-n9+ .. g7xQh8=D# .. Bf9-i12
+9. Ne1xf3 .. b5-d5 .. j11-j10
+10. h2-h3 .. Ba6xe2 .. g13-g12
+11. Qn9-j5 .. Be2xNf3+ .. Bi12xRa4
+12. Kh1-h2 .. b8-d8+ .. Nj14-i12
+13. Kh2-i3 .. Bf3xRd1 .. i11-i10
+14. Qj5xd5+ .. b6-c6 .. i10-i9
+15. Qd5-h1 .. Qh8-h5 .. i9-i8
+16. Bi1xBa9 .. Ka8xBa9 .. Qh14xQa7+#
+17. j2-j3 .. i8-i7=D+
+18. Ki3-j2 .. Qa7-e7+
+19. Kj2-i1 .. Qi7-l4+
+20. k2-k3 .. Ql4-f4+
+21. Qh1-h2 .. Qe7-e1+
+22. Ki1-j2 .. Qf4xQh2
+23. Nj1xQh2 .. Qe1-h4+
+24. i2-i3 .. Qh4xh3
+25. R

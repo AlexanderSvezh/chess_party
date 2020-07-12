@@ -1,0 +1,19 @@
+[GameNr "268"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "tydudyjfykgyk"]
+[RedElo "2132"]
+[Blue "Cousin01"]
+[BlueElo "1384"]
+[Yellow "glutenfree55"]
+[YellowElo "1844"]
+[Green "angeles1234"]
+[GreenElo "1483"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:44:10 GMT+0000 (UTC)"]
+[CurrentMove "10"]
+
+1. h2-h3 .. b7-d7 .. g13-g12 .. m9-k9
+2. Qg1-k5 .. b8-c8 .. Qh14xQa7+ .. m6-l6
+3. Qk5-e11 .. #

@@ -1,0 +1,41 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "153"]
+[Result "gtzonos: 37 - luiser59427: 61 - horrifichess: 11 - J-B-A-N: 5"]
+[Variant "FFA"]
+[Red "gtzonos"]
+[RedElo "1508"]
+[Blue "luiser59427"]
+[BlueElo "1640"]
+[Yellow "horrifichess"]
+[YellowElo "1500"]
+[Green "J-B-A-N"]
+[GreenElo "1603"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:20:38 GMT+0000 (UTC)"]
+[CurrentMove "72"]
+
+1. g2-g4 .. b10-c10 .. h13-h11 .. m7-k7
+2. g4-g5 .. b7-d7 .. g13-g11 .. Nn5-l6
+3. g5-g6 .. d7-e7 .. Bi14-h13 .. Bn6-m7
+4. g6-g7 .. e7-f7 .. Bf14xBm7 .. Qn8xBm7
+5. d2-d4 .. Ba9xe13 .. Nj14-i12 .. O-O
+6. d4-d5 .. Be13xRd14 .. Ne14-d12 .. T
+7. d5-d6 .. b6-c6 .. Bh13-e10
+8. k2-k4 .. Bd14-e13 .. Qh14-h13
+9. k4-k5 .. Be13xNd12 .. Qh13-h12
+10. k5xNl6 .. Ba6xBe10 .. Qh12xBd12
+11. l6-l7 .. Qa7-c5 .. Rk14-h14
+12. l7-l8=D .. Na10-c9 .. Rh14-h13
+13. g7-g8=D .. b8-c8 .. j13-j11
+14. Qg8-f8 .. Be10-d9 .. f13-f11
+15. Qf8xf11 .. Qc5xm5 .. Rh13-f13
+16. Qf11-i14+ .. Qm5xKn5 .. Ni12-h14
+17. Ql8-j10 .. Qn5-f5 .. Qd12-h8
+18. Qj10xQh8 .. O-O .. Rf13-f9
+19. Qh8xh11 .. Na5-c4 .. Rf9xf7
+20. Qh11xNh14+ .. Qf5xRf7#
+21. Qh14xNc9 .. Bd9xQi14
+22. h2-h4 .. b5-c5
+23. Qg1-g5 .. c5xd6
+24. Qc9-b10+#

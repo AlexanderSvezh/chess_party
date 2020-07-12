@@ -1,0 +1,18 @@
+[GameNr "731"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Turboval"]
+[RedElo "1542"]
+[Blue "GamidGod"]
+[BlueElo "1528"]
+[Yellow "rubiayyegua"]
+[YellowElo "1585"]
+[Green "Don_Hector_Salamanca"]
+[GreenElo "1553"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:47:51 GMT+0000 (UTC)"]
+[CurrentMove "8"]
+
+1. g2-g4 .. b10-c10 .. g13-g12 .. m7-l7
+2. g4-g5 .. Na10-c9 .. g12-g11 .. R

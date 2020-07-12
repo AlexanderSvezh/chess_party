@@ -1,0 +1,21 @@
+[GameNr "627"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "PolarisMinor"]
+[RedElo "1606"]
+[Blue "rubiayyegua"]
+[BlueElo "1599"]
+[Yellow "Don_Hector_Salamanca"]
+[YellowElo "1539"]
+[Green "leorastelli"]
+[GreenElo "2219"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:21:14 GMT+0000 (UTC)"]
+[CurrentMove "19"]
+
+1. Ne1-f3 .. b6-d6 .. g13-g12 .. m9-l9
+2. Nj1-i3 .. Qa7-b6 .. Qh14-g13 .. Qn8xi13
+3. h2-h3 .. Na10-c11 .. Qg13xm7+ .. Bn6xQm7
+4. j2-j3 .. Nc11-e12 .. d13xNe12 .. Qi13xBi14+
+5. Bi1xm5 .. Qb6-h12 .. #

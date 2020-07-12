@@ -1,0 +1,49 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "619"]
+[Result "Tom21112006: 27 - NxPulgar: 14 - 04common_user: 42 - claual: 77"]
+[Variant "FFA"]
+[Red "Tom21112006"]
+[RedElo "1461"]
+[Blue "NxPulgar"]
+[BlueElo "1760"]
+[Yellow "04common_user"]
+[YellowElo "1472"]
+[Green "claual"]
+[GreenElo "1774"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:33:03 GMT+0000 (UTC)"]
+[CurrentMove "108"]
+
+1. j2-j3 .. b7-d7 .. h13-h11 .. Nn5-l6
+2. Bi1-j2 .. d7-e7 .. j13-j12 .. m4-l4
+3. Ne1-f3 .. e7-f7 .. e13-e12 .. m5-l5
+4. Bj2xb10 .. Ba9xBb10 .. Bf14xBb10 .. Bn6-m5
+5. e2-e3 .. b11-d11 .. Bb10xRa11 .. Nn10-l9
+6. Nj1-i3 .. d11xe12 .. d13xe12 .. m11-l11
+7. Nf3-g5 .. f7-g7 .. h11-h10 .. m10-l10
+8. O-O .. g7-h7=D .. Bi14-j13 .. Bn9-m10
+9. Ng5xQh7 .. Qa7xNh7 .. Bj13xb5 .. m7-l7
+10. Kj1-k1 .. Ba6xBb5 .. Qh14-h13 .. m8-l8
+11. Bf1xBb5 .. Na5-b7 .. Rd14-d5 .. l7-k7
+12. Bb5xRa4 .. b6-c6 .. e12-e11 .. O-O
+13. Ba4xc6 .. Na10-c9 .. Rd5-a5+# .. l8-k8
+14. Bc6-f3 .. Qh13-h12 .. Rn6-n7
+15. Ni3-h5 .. k13-k12 .. Bm5-n6
+16. Nh5-i7 .. k12xl11 .. Rn11xl11
+17. Bf3xk8 .. Qh12-b6 .. Rl11xe11
+18. Qg1-e1 .. Kg14-f14 .. Nl6xBk8
+19. Ni7xNk8 .. Qb6-i6 .. Bn6-m5
+20. Ri1-j1 .. Ra5-a6 .. m6-k6
+21. Qe1-g1 .. h10-h9 .. Nl9-j8
+22. Nk8-l6+ .. Qi6-i10+ .. Kn5-n4
+23. h2-h3 .. Qi10-n5+ .. Rn7xQn5
+24. Nl6xRn5 .. Ba11xNc9+ .. Re11xNe14+
+25. i2-i3 .. Kf14xRe14 .. Qn8xNn5
+26. Qg1-h2 .. Rk14xk7 .. Bm5xRk7
+27. Qh2-c7 .. Bc9-f12 .. Bm10xRd1
+28. Rj1xBd1 .. Bf12xNj8 .. Bk7xBj8
+29. Qc7xQh7 .. Ra6-j6 .. m9-k9
+30. k2-k4 .. j12-j11 .. Qn5-n9
+31. Qh7-h8 .. j11-j10 .. Qn9-i14+
+32. T .. T

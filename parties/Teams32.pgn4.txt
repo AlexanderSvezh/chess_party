@@ -1,0 +1,20 @@
+[GameNr "32"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "sanvik2018"]
+[RedElo "1500"]
+[Blue "GandaalfTheWhite"]
+[BlueElo "1719"]
+[Yellow "rithvik2018"]
+[YellowElo "1453"]
+[Green "ewweng"]
+[GreenElo "1515"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 16:35:22 GMT+0000 (UTC)"]
+[CurrentMove "15"]
+
+1. h2-h4 .. b7-c7 .. g13-g11 .. m8-l8
+2. Bi1-e5 .. Qa7-b7 .. Qh14-g13 .. Qn8-m8
+3. Nj1-h2 .. Na10-c9 .. Qg13-g12 .. Qm8xh13+
+4. O-O .. Qb7xQg12+ .. #

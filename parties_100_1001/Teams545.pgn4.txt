@@ -1,0 +1,31 @@
+[GameNr "545"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "White_Lycan"]
+[RedElo "1500"]
+[Blue "GaffelSchack"]
+[BlueElo "1641"]
+[Yellow "MarshmallowQueen2"]
+[YellowElo "1529"]
+[Green "Tid123"]
+[GreenElo "1631"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:12:14 GMT+0000 (UTC)"]
+[CurrentMove "59"]
+
+1. g2-g4 .. b7-c7 .. g13-g12 .. m11-k11
+2. h2-h3 .. b10-c10 .. Nj14-k12 .. k11-j11
+3. k2-k4 .. b11-d11 .. j13-j12 .. m10-k10
+4. j2-j3 .. d11-e11 .. Nk12-i11 .. Bn9xBi14
+5. d2-d4 .. e11-f11 .. Qh14xBi14 .. k10-j10
+6. f2-f3 .. f11xg12 .. h13xg12 .. j10xNi11
+7. Ne1-d3 .. Qa7-b7 .. Bf14xi11 .. m9-l9
+8. Bf1-g2 .. Ba9xe13 .. Ne14-g13 .. Qn8-l10
+9. f3-f4 .. b6-c6 .. Rd14-e14 .. Ql10-k10
+10. Nj1-i3 .. Be13-f12 .. Re14-e12 .. m7-l7
+11. k4-k5 .. Bf12xNg13 .. Bi11xBg13 .. j11-i11+
+12. j3-j4 .. Ra11-d11 .. Qi14-h13 .. Qk10-k12
+13. Ni3-k4 .. Rd11xd13 .. Bg13xi11 .. Qk12-j13
+14. Nk4xm5+ .. Rd13-d14+ .. Bi11-f14 .. Kn7-n8
+15. Nm5xl7+ .. Rd14xBf14+ .. #

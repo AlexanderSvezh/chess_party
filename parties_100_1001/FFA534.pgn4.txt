@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "534"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "EvilDenis"]
+[RedElo "1681"]
+[Blue "hic-limpbizkit"]
+[BlueElo "1644"]
+[Yellow "Reyfrances"]
+[YellowElo "1707"]
+[Green "deniscvetkov"]
+[GreenElo "1570"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:00:16 GMT+0000 (UTC)"]
+[CurrentMove "2"]
+
+1. g2-g4 .. T

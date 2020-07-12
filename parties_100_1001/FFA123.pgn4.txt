@@ -1,0 +1,55 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "123"]
+[Result "agressorS: 44 - ItalianAmericanGame: 63 - wiiner: 3 - Alvaro_Ayala: 41"]
+[Variant "FFA"]
+[Red "agressorS"]
+[RedElo "1850"]
+[Blue "ItalianAmericanGame"]
+[BlueElo "1887"]
+[Yellow "wiiner"]
+[YellowElo "1858"]
+[Green "Alvaro_Ayala"]
+[GreenElo "1847"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:15:09 GMT+0000 (UTC)"]
+[CurrentMove "110"]
+
+1. g2-g4 .. b10-c10 .. h13-h11 .. m10-l10
+2. g4-g5 .. Ba9-b10 .. h11-h10 .. Nn10-l9
+3. g5-g6 .. Na10-c9 .. h10-h9 .. Bn9-m10
+4. g6-g7 .. O-O .. h9-h8 .. Nl9-k11
+5. g7-g8=D .. Na5-c6 .. k13-k12 .. Nk11xj13
+6. Ne1-f3 .. Bb10xe13 .. Bi14xNj13 .. Bm10-l9+
+7. Qg8xg13+# .. Be13-b10 .. m11-k11
+8. Nj1-i3 .. Ra9-a8 .. m5-l5
+9. k2-k3 .. b7-d7 .. Bn6-m5
+10. j2-j3 .. d7-e7 .. k11-j11
+11. Bi1-j2 .. b8-d8 .. j11-i11
+12. O-O .. e7-f7 .. m7-l7
+13. d2-d3 .. d8-e8 .. i11-h11
+14. Qg13-g11 .. e8-f8 .. Bm5xQg11
+15. Qg1xBg11 .. f7-g7 .. Nn5-l6
+16. Ni3-j5 .. g7xh8=D .. m4-k4
+17. Nj5xNl6+ .. Qh8-g7 .. Kn7-n6
+18. Qg11-h10 .. f8-g8 .. h11-g11=D
+19. Nl6xm8+ .. g8-h8=D .. Bl9xNm8
+20. Qh10-j12 .. b5-c5 .. Kn6-n5
+21. j3-j4 .. Nc6-d4 .. Qg11-m5
+22. Nf3xNd4 .. Qg7xNd4 .. Qn8-n7
+23. Bf1-h3 .. Qd4xf2 .. l10-k10
+24. Qj12-e12 .. Qf2xh2 .. Bm8-l9
+25. Bh3xb9+ .. Ka10xBb9 .. Qn7-n6
+26. Qe12-e6+ .. Ba6-c8 .. Rn11-j11
+27. Qe6xBc8+ .. Ra8xQc8 .. Rj11xj4
+28. k3xRj4 .. Qh2xj4 .. Qm5xBj2+#
+29. Qh8-n8 .. Bl9-n7
+30. Qj4xQj2 .. Qn6xQj2
+31. Qn8xBn7+ .. Kn5-m4
+32. Qn7xk10 .. Rn4-n6
+33. Qa7-k7 .. Qj2-m5
+34. Qk7xQm5+ .. Km4xQm5
+35. Rc8-m8 .. Km5-n5
+36. Ra4-a7 .. Rn6-n7
+37. Rm8xm9 .. l7-k7
+38. Qk10xRn7+ .. R

@@ -1,0 +1,62 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "506"]
+[Result "DAVIDARAGONDIAZ: 10 - KRONOS115: 63 - Oleg_Ukraine: 0 - lexa_elka: 49"]
+[Variant "FFA"]
+[Red "DAVIDARAGONDIAZ"]
+[RedElo "1735"]
+[Blue "KRONOS115"]
+[BlueElo "1784"]
+[Yellow "Oleg_Ukraine"]
+[YellowElo "1737"]
+[Green "lexa_elka"]
+[GreenElo "1711"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:05:07 GMT+0000 (UTC)"]
+[CurrentMove "115"]
+
+1. g2-g4 .. b5-c5 .. g13-g12 .. m5-l5
+2. f2-f3 .. Ba6-b5 .. Ne14-f12 .. Bn6-m5
+3. g4-g5 .. b10-c10 .. Bf14-g13 .. m10-l10
+4. g5-g6 .. Ba9xe13 .. T .. m8-k8
+5. g6-g7 .. Bb5-i12+ .. Bn9-m8
+6. g7-g8=D .. Bi12-b5 .. Bm8xh13
+7. k2-k4 .. Be13-b10 .. Bh13xKg14
+8. k4xl5 .. b6-d6 .. m4xl5
+9. h2-h3 .. b11-d11 .. Nn10-l9
+10. Rk1xk8 .. Na5-c6 .. Qn8-n9
+11. i2-i4 .. d11-e11 .. Bm5-l6
+12. Bi1-h2 .. e11-f11 .. Qn9-l7
+13. Bh2xBl6 .. Bb10xj2 .. Nn5xBl6
+14. Rk8-h8 .. Bj2-b10 .. Nl6-m8
+15. Rh8xNm8 .. Nc6-e7 .. l5-k5
+16. Qg8-k8 .. f11-g11 .. Ql7-l5+
+17. Kh1-i1 .. g11-h11=D .. Ql5-m5+
+18. Ki1-h2 .. Qh11-b11 .. Qm5-j2+
+19. Kh2-g3 .. Qb11-g11+ .. Qj2-g2+
+20. Kg3-h4 .. Qg11-h10+ .. Qg2xQg1
+21. R .. Qh10xKh4 .. O-O-O
+22. Qh4-h11 .. m6-k6
+23. Qh11xm11 .. Nl9xQm11
+24. Ra11xNm11 .. k5-j5
+25. Rm11-n11+ .. Kn9-m10
+26. Rn11xRn8 .. Rn4xRn8
+27. Bb5xj13+ .. Km10-n10
+28. Qa7-b6 .. j5xi4
+29. Qb6-d8 .. Bg14-l9
+30. Ne7-f9 .. i4-h4
+31. Qd8xh4 .. Rn8-n6
+32. Nf9-h8 .. k6-j6
+33. Qh4-l4 .. Qg1-l6
+34. Ql4-e4 .. j6-i6
+35. Nh8xi6 .. Ql6xNi6
+36. Qe4-j9 .. Bl9-m10
+37. Bj13xBm10 .. Kn10xBm10
+38. Bb10-i3 .. m7-k7
+39. Bi3-m7 .. Rn6-n11
+40. Qj9-k10 .. Qi6-i7
+41. Qk10xQk8+ .. Km10-n9
+42. Qk8xRn11+ .. Kn9xRm8
+43. Bm7xBg13 .. Qi7xi13
+44. Qn11-k8+ .. Km8-n9
+45. Bg13-m7 .. R

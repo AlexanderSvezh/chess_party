@@ -1,0 +1,24 @@
+[GameNr "428"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Requin0x"]
+[RedElo "1491"]
+[Blue "Patrick_chess8"]
+[BlueElo "1500"]
+[Yellow "Willbill88"]
+[YellowElo "1500"]
+[Green "1314nenon"]
+[GreenElo "1502"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:29:32 GMT+0000 (UTC)"]
+[CurrentMove "30"]
+
+1. g2-g4 .. b7-d7 .. Ne14-f12 .. m7-k7
+2. Ne1-f3 .. d7-e7 .. Nf12-e14 .. m8-k8
+3. e2-e3 .. e7-f7 .. g13-g11 .. Bn9xBf1
+4. Qg1xBf1 .. f7-g7 .. f13-f12 .. Bn6xBf14
+5. Nf3-d4 .. g7-h7 .. h13-h12 .. Bf14xe13
+6. Nd4xb5 .. Ba6xNb5 .. Ne14-d12 .. Be13xRd14
+7. Qf1xBb5 .. h7-i7 .. Bi14-d9 .. Qn8-m8+
+8. Qb5xRa4 .. T

@@ -1,0 +1,56 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "149"]
+[Result "georgeramirez: 45 - guess1964: 48 - Aelpro10: 0 - luciano09876543210: 28"]
+[Variant "FFA"]
+[Red "georgeramirez"]
+[RedElo "1654"]
+[Blue "guess1964"]
+[BlueElo "1761"]
+[Yellow "Aelpro10"]
+[YellowElo "1487"]
+[Green "luciano09876543210"]
+[GreenElo "1482"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:24:44 GMT+0000 (UTC)"]
+[CurrentMove "114"]
+
+1. g2-g4 .. b7-d7 .. h13-h11 .. m8-k8
+2. Ne1-f3 .. b8-c8 .. h11-h10 .. m7-l7
+3. j2-j3 .. Na5-c6 .. Qh14-h13+ .. Nn10-l9
+4. Bi1-j2 .. Na10-c9 .. h10-h9 .. Bn9-m8
+5. h2-h3 .. c8-d8 .. Qh13-h11 .. Nl9-j10+
+6. Nj1-h2 .. Ba6xBi14 .. R .. Bm8xKg14
+7. O-O .. Bi14-a6 .. k8-j8
+8. e2-e3 .. Ba9-b8 .. j8-i8
+9. Nf3-d4 .. Nc6xNd4 .. i8-h8
+10. e3xNd4 .. b4-c4 .. h8-g8=D
+11. Bf1-e2 .. O-O .. Qn8-k8
+12. Rd1-e1 .. Bb8-c7 .. O-O-O
+13. g4-g5 .. Ra9-a8 .. Bg14-l9
+14. Be2xQk8 .. d8-e8 .. Qg8xBk8
+15. Nh2-i4 .. Bc7-a9 .. Rn8-n7
+16. Ri1-h1 .. b5-d5 .. l7-k7
+17. g5-g6 .. Ba6-b5 .. Nj10xh9
+18. Qg1-g5 .. b6-d6 .. k7-j7
+19. Qg5xm11 .. d7-e7 .. Kn9-m8
+20. Qm11-h6 .. e8-f8 .. j7-i7
+21. Qh6-g5 .. Bb5-c6 .. Bn6-k9
+22. Qg5-i5 .. Qa7xd4 .. i7-h7
+23. g6-g7 .. Qd4-b6 .. Bk9-j10
+24. Qi5xm5 .. Ra8-c8 .. Nn5-m7
+25. Qm5-j5+ .. Ra4-a8 .. Nm7-k6
+26. Bj2-m5 .. e7-f7 .. Rn4-n5
+27. Ni4-j6 .. f8-g8 .. Qk8-l7
+28. Nj6xQl7 .. g8xNh9=D+ .. Km8xNl7
+29. Qj5-k5 .. Bc6xQh11+ .. Bl9-k8
+30. Qk5-l6+ .. Bh11xBk8+ .. Kl7-m8
+31. Ql6xe13 .. Bk8xm6+ .. Km8-m7
+32. Qe13-l6+# .. Bm6-i10
+33. Ql6-k5 .. Rc8-i8
+34. Re1-g1 .. Qh9-g8
+35. Qk5xNk6 .. Bi10-h9
+36. Qk6-l5 .. Ri8xi2
+37. Ql5xBh9 .. Qg8xQh9
+38. Kj1xRi2 .. Qh9-i8+
+39. R

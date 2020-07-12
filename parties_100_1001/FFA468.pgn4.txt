@@ -1,0 +1,43 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "468"]
+[Result "MarshmallowQueen2: 38 - Vlad_Vel: 12 - alba3610: 3 - SylvieR80: 54"]
+[Variant "FFA"]
+[Red "MarshmallowQueen2"]
+[RedElo "1528"]
+[Blue "Vlad_Vel"]
+[BlueElo "1488"]
+[Yellow "alba3610"]
+[YellowElo "1500"]
+[Green "SylvieR80"]
+[GreenElo "1691"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:50:40 GMT+0000 (UTC)"]
+[CurrentMove "85"]
+
+1. g2-g4 .. b7-d7 .. g13-g11 .. m8-k8
+2. Bf1-g2+ .. Ba6-b7 .. Bf14-g13 .. k8-j8
+3. Ne1-f3 .. Bb7xNf3 .. Ne14-f12 .. j8-i8
+4. Bg2xBf3+ .. b6-c6 .. h13-h12 .. i8-h8
+5. h2-h3 .. d7-e7 .. Bi14-h13+ .. Nn10-l9
+6. Bi1-g3 .. b8-d8 .. Nj14-i12 .. h8-g8=D
+7. Nj1-i3 .. b9-c9 .. g11-g10 .. m5-l5
+8. k2-k3 .. Ba9xBg3 .. Ni12-h10 .. Qg8-m8
+9. Qg1xBg3 .. Qa7-b8 .. g10-g9 .. Bn6-m5
+10. Qg3-j6 .. e7-f7 .. g9-g8 .. Bm5xNh10
+11. Qj6xj13 .. f7xg8 .. Bh13xNl9 .. m10xBl9
+12. Qj13-f9 .. g8-h8=D .. i13-i11 .. Bh10-m5
+13. Qf9-f5 .. Qh8-e8 .. Nf12-g10 .. Nn5-l6
+14. Qf5-g5 .. Qe8xNg10 .. T .. l9-k9
+15. Qg5xQg10 .. c9-d9 .. Qm8xKg14
+16. Qg10-g5 .. d8-e8 .. Qg14-k10
+17. Qg5-h5 .. e8-f8 .. Bn9-m10
+18. Qh5xd9 .. f8-g8 .. O-O
+19. g4-g5 .. g8-h8=D .. Qn8-n9
+20. Bf3-g4 .. Qh8xh12 .. Rn6-n8
+21. Qd9-a6+# .. Bm10xBg4
+22. h3xBg4 .. Qk10-j10
+23. O-O .. Qj10-j8
+24. Kj1-k1 .. Qj8xg5
+25. Qa6-a7 .. m7-l7
+26. R

@@ -1,0 +1,19 @@
+[GameNr "1323"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "cakerules310"]
+[RedElo "1471"]
+[Blue "gnojham2"]
+[BlueElo "555"]
+[Yellow "Darkl1853"]
+[YellowElo "1501"]
+[Green "Chess1228michelle"]
+[GreenElo "1484"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:41:45 GMT+0000 (UTC)"]
+[CurrentMove "9"]
+
+1. h2-h3 .. b6-c6 .. e13-e12 .. m10-l10
+2. f2-f3 .. Qa7xQg1+ .. g13-g12 .. m7-l7
+3. #

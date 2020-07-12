@@ -1,0 +1,51 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "64"]
+[Result "EDUARD0117: 13 - HelicoBoy: 0 - SirCas: 96 - gatomon7w7: 3"]
+[Variant "FFA"]
+[Red "EDUARD0117"]
+[RedElo "1465"]
+[Blue "HelicoBoy"]
+[BlueElo "1500"]
+[Yellow "SirCas"]
+[YellowElo "1758"]
+[Green "gatomon7w7"]
+[GreenElo "1457"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 16:57:56 GMT+0000 (UTC)"]
+[CurrentMove "97"]
+
+1. h2-h4 .. b7-d7 .. Nj14-i12 .. m8-k8
+2. Nj1-i3 .. Na5-c6 .. g13-g11 .. k8-j8
+3. Bi1-f4 .. Na10-c9 .. Qh14-f12 .. Nn10-l9
+4. h4-h5 .. Ba6-d9 .. Qf12xBf4 .. m11-l11
+5. e2-e3 .. b8-d8 .. Qf4-f9 .. Nn5-l6
+6. g2-g4 .. Qa7-b7 .. g11-g10 .. Bn9-l7
+7. Bf1xb5 .. Nc6-e7+ .. Qf9-f12 .. m5-k5
+8. f2-f3 .. Ra4-a5 .. e13-e11 .. Qn8-k8
+9. Bb5-c4 .. Ba9-b8 .. Ni12-g11 .. Bn6-l4
+10. j2-j3 .. O-O .. Qf12-d12 .. Bl4-j2
+11. Rk1-j1 .. Ra5-c5 .. Qd12xb10+# .. Bj2xNi3
+12. Qg1xBi3 .. g10-g9 .. Rn4-n5
+13. Ne1-g2 .. Qb10xm10 .. Bl7-n9
+14. Ng2-h4 .. Qm10xRn11 .. Qk8-m8
+15. Qi3xi13 .. j13-j12 .. Nl6-k8
+16. i2-i4 .. Bi14xl11 .. Rn5-l5
+17. Qi13xNg11+ .. Ne14-g13 .. Nl9-n10
+18. Qg11xj8 .. Qn11xNn10 .. m7-k7
+19. Qj8xk7+ .. Qn10xBn9+#
+20. Bc4-k12 .. Bl11xBk12
+21. O-O-O .. Rd14-e14
+22. k2-k4 .. Bf14-e13
+23. Qk7xNe7 .. Be13-h10
+24. Nh4-g6 .. Qn9-m10
+25. Qe7-i7 .. g9-g8
+26. Qi7xKn7 .. Bh10-i9
+27. Qn7-i7 .. g8-g7=D
+28. h5-h6 .. Qg7xQi7
+29. h6xQi7 .. Bk12-l11
+30. Ng6-f8 .. Qm10-f10
+31. Nf8xBd9 .. Qf10xi7
+32. Rg1-h1 .. Bi9-k7
+33. f3-f4 .. Qi7-i5
+34. Rj1-i1 .. Qi5-f2+#

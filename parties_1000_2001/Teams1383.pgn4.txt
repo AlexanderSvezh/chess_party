@@ -1,0 +1,21 @@
+[GameNr "1383"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "7Mana"]
+[RedElo "1824"]
+[Blue "Cris06_MC"]
+[BlueElo "1942"]
+[Yellow "AC61"]
+[YellowElo "1842"]
+[Green "morphysrevenge"]
+[GreenElo "1386"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:01:25 GMT+0000 (UTC)"]
+[CurrentMove "18"]
+
+1. h2-h3 .. b7-c7 .. h13-h12 .. m6-l6
+2. e2-e3 .. b4-c4 .. Bi14xBa6 .. m5-k5
+3. Bf1-e2 .. Qa7xBa6 .. Qh14-h13 .. Nn10-l9
+4. Be2-f3+ .. Ka8-a7 .. Qh13xQa6+ .. m7-k7
+5. Bf3-b7 .. #

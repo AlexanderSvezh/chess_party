@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "477"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "chessboxer81"]
+[RedElo "1632"]
+[Blue "gavigoldin"]
+[BlueElo "1496"]
+[Yellow "HANUMAN-1"]
+[YellowElo "1662"]
+[Green "ivanbernal"]
+[GreenElo "1566"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:43:19 GMT+0000 (UTC)"]
+[CurrentMove "4"]
+
+1. g2-g4 .. b7-d7 .. g13-g12 .. T

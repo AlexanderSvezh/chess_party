@@ -1,0 +1,19 @@
+[GameNr "1339"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "mikemanuver"]
+[RedElo "2500"]
+[Blue "ChessN00b777"]
+[BlueElo "2166"]
+[Yellow "SheikMex"]
+[YellowElo "1720"]
+[Green "Great-Gazoo"]
+[GreenElo "1288"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:48:23 GMT+0000 (UTC)"]
+[CurrentMove "12"]
+
+1. h2-h3 .. b6-d6 .. h13-h11 .. m9-l9
+2. Bi1-g3 .. Qa7-d4 .. Bi14xb7+ .. Qn8-k11
+3. e2-e3 .. Ba6xBb7 .. Nj14-i12 .. T

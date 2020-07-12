@@ -1,0 +1,32 @@
+[GameNr "18"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "egeme"]
+[RedElo "1484"]
+[Blue "Sribasb"]
+[BlueElo "1500"]
+[Yellow "TheSidewinder"]
+[YellowElo "1460"]
+[Green "LATAGE"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 16:36:25 GMT+0000 (UTC)"]
+[CurrentMove "62"]
+
+1. h2-h4 .. b10-c10 .. Ne14-f12 .. Nn10-l9
+2. h4-h5 .. Ba9-b10 .. d13-d12 .. m10-k10
+3. h5-h6 .. Na10-c9 .. k13-k11 .. Bn9-l11
+4. h6-h7 .. b7-d7 .. Rk14-k13 .. Nn5-l6
+5. h7-h8 .. O-O .. Nj14-i12 .. m7-l7
+6. h8-h9 .. Na5-c6 .. e13-e12 .. k10-j10
+7. h9-h10 .. b8-d8 .. k11xj10 .. Rn11-n10
+8. Bi1xRa9 .. Qa7xBa9 .. Bf14-e13 .. Qn8-m7
+9. h10-h11=Q .. d8-e8 .. Kg14-f14 .. Nl9-j8
+10. Qh11-h4 .. Nc9-e10 .. Nf12xNe10 .. Bl11-h7
+11. Qh4xm9 .. Bb10xj2 .. Ne10-c11+ .. Nj8-l9
+12. Qm9-j6 .. Qa9xNc11 .. d12xQc11 .. l7-k7
+13. Qj6xBj2 .. e8-f8 .. Rk13xk7 .. Nl9xRk7
+14. Nj1-i3 .. f8-g8 .. g13-g12 .. Bh7-l11
+15. O-O .. g8-h8 .. Qh14-c9 .. m5-k5
+16. Qg1-h2 .. R

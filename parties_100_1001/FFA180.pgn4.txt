@@ -1,0 +1,39 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "180"]
+[Result "utkarsh4: 0 - yannleningrad: 24 - axelibarramartinez: 42 - Lalande21185: 53"]
+[Variant "FFA"]
+[Red "utkarsh4"]
+[RedElo "1500"]
+[Blue "yannleningrad"]
+[BlueElo "1505"]
+[Yellow "axelibarramartinez"]
+[YellowElo "1552"]
+[Green "Lalande21185"]
+[GreenElo "1749"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:27:48 GMT+0000 (UTC)"]
+[CurrentMove "70"]
+
+1. f2-f4 .. b7-d7 .. h13-h11 .. Nn5-l6
+2. Nj1-i3 .. Na10-c9 .. h11-h10 .. m5-l5
+3. Ni3-h5 .. Ba6-d9 .. h10-h9 .. Bn6-m5
+4. Nh5-f6 .. Bd9xBi14 .. Qh14xBi14 .. O-O
+5. Nf6-d5 .. b6-c6 .. h9-h8 .. m10-l10
+6. T .. b8-d8 .. h8-h7=D .. Nl6-k4
+7. Ba9-b8 .. Ne14-f12 .. Nk4xj2
+8. Qa7-f2 .. Qh7xh2 .. Nj2xKh1
+9. Qf2-f3 .. Qh2xNh1 .. Bn9-m10
+10. Qf3xBm10 .. e13-e12 .. Nn10-l9
+11. Qm10-l11 .. Bf14xb10 .. m8-l8
+12. Ra11-a10 .. Qh1-h11 .. Qn8-m8
+13. Ql11-g6 .. O-O .. m11-k11
+14. Ra10xBb10 .. Qi14-a6+ .. Qm8-k6
+15. Bb8-a7 .. Qh11-e11 .. Qk6xQg6
+16. b4-d4 .. Qe11xNc9 .. Qg6-d3
+17. Na5-b7 .. Qa6xBa7+ .. Qd3xb5
+18. Ra4xQa7 .. Qc9xRb10 .. Qb5xc6
+19. Ka8-b8 .. g13-g11 .. Bm5xg11
+20. d8-e8 .. Qb10-d10+ .. Qc6-c7+
+21. Kb8-a8 .. Qd10-b8+# .. Qc7xQb8
+22. R

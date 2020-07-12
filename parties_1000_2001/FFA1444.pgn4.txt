@@ -1,0 +1,70 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1444"]
+[Result "rainmachine7007: 25 - ShahUnchained: 12 - Digby1972: 51 - timgara: 58"]
+[Variant "FFA"]
+[Red "rainmachine7007"]
+[RedElo "1733"]
+[Blue "ShahUnchained"]
+[BlueElo "1726"]
+[Yellow "Digby1972"]
+[YellowElo "1690"]
+[Green "timgara"]
+[GreenElo "1742"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:38:36 GMT+0000 (UTC)"]
+[CurrentMove "145"]
+
+1. g2-g4 .. b5-c5 .. h13-h11 .. m5-l5
+2. g4-g5 .. Ba6-b5 .. h11-h10 .. m10-l10
+3. g5-g6 .. Qa7-a6 .. h10-h9 .. m9-k9
+4. g6-g7 .. Bb5xe2 .. h9-h8 .. Nn10-l9
+5. Bf1xBe2 .. Qa6xBe2 .. h8-h7=D .. Bn9-m10
+6. g7-g8=D .. Qe2xRd1 .. Qh7-h11 .. Nn5-l6
+7. k2-k3 .. Na5-c6 .. Nj14-i12 .. Bn6-m5
+8. Nj1-i3 .. Qd1xd2 .. g13-g11 .. m8-k8
+9. h2-h3 .. Qd2-d4 .. k13-k11 .. k9-j9
+10. Ne1-g2 .. Qd4-d3 .. Qh14-h13 .. l10-k10
+11. Bi1-g3 .. Qd3-a6 .. Qh11-h12 .. O-O
+12. O-O .. b10-c10 .. Ni12-j10 .. Nl9xNj10
+13. Ng2-e3 .. T .. Qh12xNj10 .. Rn6-n7
+14. Qg8xb8 .. Qj10xk10 .. Rn11-n10
+15. Qb8xKa8 .. Qk10-j11 .. m11-l11
+16. f2-f4 .. g11-g10 .. Bm5-n6
+17. f4-f5 .. g10-g9 .. Rn10-n9
+18. Qa8-g8 .. Qj11xQg8 .. Bm10-l9
+19. f5-f6 .. i13-i12 .. k8-j8
+20. Qg1-h2 .. Qg8-f7 .. j8-i8
+21. Ri1-f1 .. g9-g8 .. j9-i9
+22. Ni3-g4 .. Qh13-d9 .. i9-h9
+23. Ng4-h6 .. Qf7-k2+ .. h9xg8=D+
+24. Kj1-i1 .. Ne14-g13 .. Qg8-h9
+25. Qh2-i3 .. Qd9-d2 .. Qh9xNh6
+26. Bg3-f2 .. Qd2-d6+ .. Qh6xh3
+27. Bf2-g3 .. Qk2-k1+# .. i8-h8
+28. Qk1xj2 .. h8-g8=D
+29. Qd6-j12 .. Qn8-m8
+30. Bi14-h13 .. m7-k7
+31. Qj2-j4 .. Nl6-k4
+32. Qj12xc5 .. Qh3xBg3
+33. Qj4-d10 .. k7-j7
+34. Qc5-h10 .. Bn6xNg13
+35. Bf14xBg13 .. Qg8xBg13+
+36. Qd10xQg13 .. Qg3xQg13+
+37. Kg14xQg13 .. j7-i7
+38. j13-j11 .. i7-h7
+39. k11-k10 .. Bl9-k8
+40. Rd14-g14 .. h7-g7=D+
+41. Kg13-f14 .. Qm8-m7+
+42. i12-i11 .. Qg7-f7
+43. Rg14-g13 .. Rn9-h9
+44. Qh10-j10 .. Rh9xBh13
+45. Qj10xQm7 .. Rn7xQm7
+46. Rg13xRh13 .. Rm7-h7
+47. Rk14-k13 .. l11xk10
+48. j11-j10 .. Bk8-j9
+49. i11-i10 .. Bj9-i8
+50. Rh13xRh7 .. Bi8xRh7
+51. Rk13-k11 .. Qf7xi10
+52. Rk11-n11+ .. Kn5-m5
+53. R

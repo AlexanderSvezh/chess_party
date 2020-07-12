@@ -1,0 +1,40 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "165"]
+[Result "anmargue: 46 - XxMynorxX: 11 - Ocvx: 36 - Rolling_rooks: 0"]
+[Variant "FFA"]
+[Red "anmargue"]
+[RedElo "1547"]
+[Blue "XxMynorxX"]
+[BlueElo "1477"]
+[Yellow "Ocvx"]
+[YellowElo "1823"]
+[Green "Rolling_rooks"]
+[GreenElo "1767"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:24:09 GMT+0000 (UTC)"]
+[CurrentMove "70"]
+
+1. g2-g4 .. b7-d7 .. h13-h11 .. m7-l7
+2. g4-g5 .. d7-e7 .. h11-h10 .. Nn10-l9
+3. j2-j3 .. e7-f7 .. h10-h9 .. m4-l4
+4. g5-g6 .. f7-g7 .. h9-h8 .. m8-k8
+5. Bf1-j5 .. Ba6-b7+ .. h8xg7=D .. Bn6-m7
+6. f2-f3 .. Na5-c6 .. i13-i12 .. Nn5-l6
+7. Bj5-i4 .. Bb7xBi14 .. Qg7xQa7+ .. Bm7-l8
+8. g6-g7 .. Nc6xQa7 .. Qh14xBi14 .. T
+9. Bi4xl7 .. Na7-c6 .. Ne14-f12
+10. Bl7-m8 .. b8-c8 .. e13-e12
+11. Bm8xKn7 .. O-O-O .. Bf14-e13
+12. g7-g8=D .. Ra7xBn7 .. g13-g12
+13. Bi1-j2 .. b11-c11 .. O-O
+14. f3-f4 .. Nc6-e7 .. k13-k11
+15. Qg8-g5 .. Na10-c9 .. k11-k10
+16. Nj1-i3 .. b10-c10 .. Rk14-k11
+17. Qg5-f6 .. Ne7-d9 .. j13-j12
+18. Qf6xb6+# .. k10-k9
+19. O-O .. k9xBl8
+20. f4-f5 .. Rk11xk8
+21. Qb6-b7 .. Rk8-k7
+22. Qb7xRk7 .. l8xQk7=D
+23. R

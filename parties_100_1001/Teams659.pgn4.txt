@@ -1,0 +1,27 @@
+[GameNr "659"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Marc2912"]
+[RedElo "1490"]
+[Blue "Akusu"]
+[BlueElo "1800"]
+[Yellow "Aveu"]
+[YellowElo "1549"]
+[Green "22kevin2007"]
+[GreenElo "1836"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:36:22 GMT+0000 (UTC)"]
+[CurrentMove "43"]
+
+1. f2-f4 .. b8-c8 .. i13-i11 .. m8-l8
+2. Qg1-d4 .. b5-c5 .. Ne14-f12 .. Bn9xg2+
+3. Bf1xBg2 .. c5xQd4 .. j13-j12 .. m11-l11
+4. Bg2-f3 .. Na10-c9 .. Bi14-j13 .. m9-l9
+5. j2-j3 .. Na5-c6 .. Qh14-i13 .. Qn8-l10
+6. Ne1-g2 .. Ba6-b5 .. Qi13-g11 .. Ql10-h6
+7. Bi1xm5 .. Ba9-c7 .. Qg11-i9 .. Bn6xBm5
+8. Bf3xNc6 .. Bb5xBc6 .. Qi9xBm5 .. Qh6-l6
+9. O-O-O .. Bc6xBj13 .. Qm5-j5 .. Nn10-m8
+10. Nj1-k3 .. Bj13xRk14 .. Nj14-i12 .. Nm8-k9
+11. Ng2-i3 .. Ra4-a5 .. T

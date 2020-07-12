@@ -1,0 +1,35 @@
+[GameNr "1078"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Sourenb11"]
+[RedElo "1649"]
+[Blue "nebukdanezar"]
+[BlueElo "1493"]
+[Yellow "GamidGod"]
+[YellowElo "1507"]
+[Green "Irshad_Guliyev"]
+[GreenElo "1544"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:33:14 GMT+0000 (UTC)"]
+[CurrentMove "76"]
+
+1. g2-g4 .. b7-c7 .. e13-e12 .. m8-l8
+2. h2-h3 .. b8-c8 .. Ne14-f12 .. m5-l5
+3. f2-f3 .. Ba9-b8 .. Bf14-e13 .. Bn6-m5
+4. k2-k3 .. Na5-c6 .. O-O .. Nn10-l9
+5. g4-g5 .. Na10-c9 .. Be13xb10 .. Nn5-l6
+6. g5-g6 .. Ra11-a10 .. Bb10-e13 .. Bn9-l7
+7. g6-g7 .. c8-d8 .. j13-j12 .. m11-l11
+8. g7-g8 .. Ba6-b7 .. Bi14-j13 .. Rn11-n10
+9. Qg1-g4 .. Nc9-e8 .. Bj13xNe8 .. Nl6-k8
+10. Ne1-d3 .. b4-c4 .. Be8xb11 .. Bm5xNf12
+11. Nd3-f4 .. Ra10-a11 .. Be13xBf12 .. m10-k10
+12. Bi1-h2 .. Ra11xBb11 .. Bf12xRn4 .. m6-l6
+13. Qg4-g6 .. Qa7-a6 .. g13-g12 .. Kn7-m8
+14. Qg6xRb11 .. Bb8xQh14 .. Rf14xBh14 .. Qn8xBn4
+15. Nj1-i3 .. Qa6-a7 .. Rh14-g14 .. l6-k6
+16. h3-h4 .. Qa7-b8 .. h13-h11 .. l11-k11
+17. Bf1-h3 .. Qb8-a9 .. g12-g11 .. k11xj12
+18. Rd1-g1 .. O-O-O .. k13xj12 .. Rn10-n11
+19. Bh3xb9 .. Qa9-a11 .. i13-i11 .. T

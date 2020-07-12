@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1365"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "alohasurf"]
+[RedElo "1655"]
+[Blue "intlextreme"]
+[BlueElo "1637"]
+[Yellow "urchallengeaccepted"]
+[YellowElo "1704"]
+[Green "ImOsscar"]
+[GreenElo "1461"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:56:30 GMT+0000 (UTC)"]
+[CurrentMove "3"]
+
+1. j2-j3 .. b7-d7 .. R

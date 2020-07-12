@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "163"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "OrestesCaraballo"]
+[RedElo "1500"]
+[Blue "V7adimir"]
+[BlueElo "1522"]
+[Yellow "Joselete123"]
+[YellowElo "1536"]
+[Green "SheikMex"]
+[GreenElo "1576"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:15:04 GMT+0000 (UTC)"]
+[CurrentMove "1"]
+
+1. T

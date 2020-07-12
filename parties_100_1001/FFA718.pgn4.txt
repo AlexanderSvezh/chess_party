@@ -1,0 +1,50 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "718"]
+[Result "joandeno: 86 - AMIRHAN2003: 39 - TekuDruida: 13 - KIRA10DN: 0"]
+[Variant "FFA"]
+[Red "joandeno"]
+[RedElo "1753"]
+[Blue "AMIRHAN2003"]
+[BlueElo "1500"]
+[Yellow "TekuDruida"]
+[YellowElo "1498"]
+[Green "KIRA10DN"]
+[GreenElo "1536"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:56:53 GMT+0000 (UTC)"]
+[CurrentMove "96"]
+
+1. g2-g4 .. b8-d8 .. h13-h11 .. m8-k8
+2. g4-g5 .. b10-c10 .. h11-h10 .. Nn5-l6
+3. h2-h3 .. Ba9-b10 .. h10-h9 .. m7-k7
+4. g5-g6 .. b7-c7 .. h9-h8 .. Nn10-l9
+5. Ne1-f3 .. Na5-b7 .. h8-h7=D .. Bn6-l8
+6. g6-g7 .. Na10-c9 .. Qh7-h10 .. O-O
+7. g7-g8=D .. b5-c5 .. j13-j11 .. k8-j8
+8. Qg8-g5 .. O-O .. e13-e12 .. Qn8-m7
+9. j2-j3 .. Ba6-b5 .. Ne14-f12 .. k7-j7
+10. Qg5xm5+# .. Bb5xRk14 .. Nf12-h11
+11. k2-k4 .. Qa7-a5 .. Nh11-j12
+12. k4-k5 .. Bk14-c6 .. Qh14-h11
+13. Qg1-g2 .. Bc6xQh11 .. Nj12xBh11
+14. k5xNl6 .. b6-d6 .. Bf14xBb10
+15. l6xQm7 .. Ka10xBb10 .. Bi14xNb7
+16. m7xBl8=D .. Nc9xBb7 .. Qh10-g11
+17. Qg2xQg11 .. b9-c9 .. Nj14-i12
+18. Qg11xNh11 .. b4-d4 .. Ni12-h14
+19. d2-d3 .. d4-e4 .. Rd14-f14
+20. d3xe4 .. Ra4xe4 .. g13-g12
+21. Qh11xj11+ .. Qa5-b5 .. Nh14-i12
+22. Qj11xNi12+ .. Qb5xQi12+ .. Kg14-h14
+23. Ql8xRf14++# .. Kb10-a10
+24. Qm5-d5 .. Re4-b4
+25. Rk1-k4 .. Rb4xRk4
+26. j3xRk4 .. Ra9-a7
+27. e2-e3 .. d8-e8
+28. Bf1-b5 .. Qi12-i8
+29. Bb5-d7+ .. Ka10-a11
+30. Qd5-c6 .. e8-f8
+31. Qc6xc7 .. f8-g8
+32. Qc7-b8 .. Qi8-i7
+33. Qf14-b10+#

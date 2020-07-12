@@ -1,0 +1,44 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "438"]
+[Result "gooldan: 8 - Arbalest62: 35 - MarshmallowQueen2: 43 - nahlagafer: 31"]
+[Variant "FFA"]
+[Red "gooldan"]
+[RedElo "1500"]
+[Blue "Arbalest62"]
+[BlueElo "1544"]
+[Yellow "MarshmallowQueen2"]
+[YellowElo "1528"]
+[Green "nahlagafer"]
+[GreenElo "1504"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:40:35 GMT+0000 (UTC)"]
+[CurrentMove "88"]
+
+1. h2-h3 .. b7-d7 .. h13-h11 .. m8-k8
+2. g2-g4 .. d7-e7 .. Nj14-i12 .. k8-j8
+3. Bf1-g2+ .. Na5-c6 .. Ne14-f12 .. j8-i8
+4. Bi1-h2 .. b8-c8 .. g13-g12 .. i8-h8
+5. Bg2xNc6+ .. b5xBc6 .. Qh14-h12 .. h8-g8=D
+6. Bh2xBa9 .. Ka8xBa9 .. Qh12-j10 .. Qg8-k8
+7. g4-g5 .. b10-c10 .. Qj10xj2 .. m5-l5
+8. Qg1-i3 .. Qa7-a8 .. Qj2-j11+ .. m9-l9
+9. g5-g6 .. Ba6-b7 .. Qj11-i11 .. Bn6-m5
+10. g6-g7 .. c6-d6+ .. Qi11xQi3 .. Nn5-l6
+11. f2-f3 .. e7-f7 .. Qi3xRk1 .. O-O
+12. Ne1-g2 .. d6-e6 .. Qk1xNj1+ .. m11-k11
+13. Kh1-h2 .. e6-f6 .. Qj1xRd1 .. k11-j11
+14. Ng2-f4 .. f6xg7 .. Ni12-g13 .. m10-k10
+15. R .. g7-h7=D .. Qd1-h1 .. j11-i11
+16. f7-g7 .. Qh1-g2 .. l9-k9
+17. b11-c11 .. Qg2xKh2 .. k10-j10
+18. Qh7-g6 .. Qh2xNf4+ .. Qn8xi13
+19. Na10-b8 .. Qf4-h4 .. Bn9-m8+
+20. g7-h7=D .. R .. Qi13-h13
+21. Ra4-a5 .. Qh13xKg14
+22. Ra5-h5 .. m7-k7
+23. Rh5xQh4 .. k7-j7
+24. Qg6-g4 .. Bm5-j2
+25. Rh4xm4 .. Nl6xRm4
+26. Qh7-e4 .. Bj2xRa11
+27. Qg4xNm4+#

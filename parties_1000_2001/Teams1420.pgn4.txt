@@ -1,0 +1,21 @@
+[GameNr "1420"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "TowersK"]
+[RedElo "2020"]
+[Blue "fcgarrido"]
+[BlueElo "1964"]
+[Yellow "Chess_LostSyle"]
+[YellowElo "2417"]
+[Green "Nitojua93"]
+[GreenElo "2337"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:14:28 GMT+0000 (UTC)"]
+[CurrentMove "20"]
+
+1. h2-h3 .. b7-c7 .. h13-h12 .. Nn5-l6
+2. Qg1-j4 .. b8-c8 .. Bi14-g12 .. m7-l7
+3. Qj4-e4+ .. Ba6-b7 .. Qh14-h13 .. Nl6-j5
+4. Qe4-j9 .. Ba9-b8 .. Ne14-f12 .. m4-k4
+5. Qj9xl7+ .. Bb7xg2+ .. Qh13xm8+ .. #

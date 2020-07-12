@@ -1,0 +1,29 @@
+[GameNr "1345"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "WazaXEone"]
+[RedElo "1486"]
+[Blue "GongGong0607"]
+[BlueElo "1955"]
+[Yellow "Henkeeman"]
+[YellowElo "1486"]
+[Green "jtovarramos"]
+[GreenElo "1884"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:54:30 GMT+0000 (UTC)"]
+[CurrentMove "51"]
+
+1. f2-f4 .. b8-c8 .. h13-h12 .. m7-l7
+2. e2-e4 .. Ba9xf4 .. e13-e12 .. Qn8-l6
+3. d2-d3 .. Bf4-l10 .. d13-d12 .. Ql6xRd14
+4. Ne1-f3 .. b11-d11 .. Ne14-f12 .. Nn10-l9
+5. d3-d4 .. d11xe12 .. f13xe12 .. m8-k8
+6. h2-h3 .. b5-c5 .. k13-k12 .. Bn6-m7
+7. Rd1-d2 .. Ba6xBf1 .. Rk14-k13 .. Bm7xQg1
+8. Kh1xBg1 .. Bf1-b5 .. Rk13-k14 .. Nl9-k7
+9. Kg1-h1 .. Qa7-c9 .. Qh14-h13+ .. Bn9-m8
+10. Nj1-h2 .. Qc9-e7 .. j13-j11 .. Bm8xj11
+11. d4xc5 .. Qe7xe12+ .. Kg14-h14 .. Qd14xBf14+
+12. c5xb6 .. Qe12xNf12 .. Qh13-g14 .. Qf14xQg14+
+13. Nf3-e5 .. Qf12xg13+ .. #

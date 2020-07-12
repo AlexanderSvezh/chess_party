@@ -1,0 +1,40 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "255"]
+[Result "jsddjk: 5 - 4players: 22 - WtfIsLosingLol: 16 - 684P: 95"]
+[Variant "FFA"]
+[Red "jsddjk"]
+[RedElo "1500"]
+[Blue "4players"]
+[BlueElo "1466"]
+[Yellow "WtfIsLosingLol"]
+[YellowElo "1483"]
+[Green "684P"]
+[GreenElo "1824"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:52:28 GMT+0000 (UTC)"]
+[CurrentMove "83"]
+
+1. i2-i3 .. b7-d7 .. h13-h11 .. m8-k8
+2. h2-h3 .. d7-e7 .. h11-h10 .. Nn10-l9
+3. h3-h4 .. e7-f7 .. Bi14-g12 .. Bn9-l7
+4. g2-g3 .. f7-g7 .. Qh14-h11 .. m11-l11
+5. f2-f3 .. g7-h7=D .. Qh11-f11 .. Qn8-m8
+6. Bf1-g2 .. Ba6xQf11 .. Bg12xBf11 .. k8-j8
+7. Bg2-h3 .. Qh7xh10 .. Nj14-i12 .. Rn11-n10
+8. f3-f4 .. Qh10-f10 .. Ne14-d12 .. Qm8-k8
+9. Ne1-d3 .. Qf10xi13 .. Rk14-i14 .. m10-k10
+10. Nd3-c5 .. b6xNc5 .. Ri14xQi13 .. Bl7xBh3
+11. Qg1-h2 .. b8-d8 .. g13-g11 .. Bh3-g4
+12. Qh2-g2+ .. Na5-c6 .. Bf14-g13 .. Bg4xe2
+13. Qg2xBe2 .. b4-d4 .. Bg13xQa7 .. Qk8xQe2
+14. Kh1-g1 .. Ka8xBa7 .. g11-g10 .. Qe2xRd1+
+15. Kg1-f2 .. d8-e8 .. g10-g9 .. Qd1xBi1
+16. Nj1-k3 .. Nc6-e7 .. Bf11-g10 .. Qi1xRk1
+17. T .. b9-d9 .. Ni12-h10 .. Qk1-f1
+18. Ba9-d6 .. Nh10-g8 .. Qf1xKf2
+19. Ne7xNg8 .. Bg10xe8 .. Qf2xg3
+20. T .. Ri13-g13 .. Qg3-g7
+21. Be8-f9 .. Qg7xKa7
+22. Bf9xNg8 .. m7-k7
+23. Bg8-e10 .. Qa7xRg13+#

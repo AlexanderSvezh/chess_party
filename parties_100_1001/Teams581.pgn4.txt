@@ -1,0 +1,22 @@
+[GameNr "581"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "ImnotaStark"]
+[RedElo "1461"]
+[Blue "Aveu"]
+[BlueElo "1513"]
+[Yellow "ilyar044"]
+[YellowElo "1463"]
+[Green "ElPolloLocoMan"]
+[GreenElo "1583"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:14:53 GMT+0000 (UTC)"]
+[CurrentMove "21"]
+
+1. g2-g4 .. b6-d6 .. i13-i11 .. m11-k11
+2. k2-k4 .. Na5-c6 .. g13-g11 .. m5-k5
+3. Qg1-g3 .. Na10-c9 .. i11-i10 .. Bn6-m5
+4. Qg3xd6 .. Qa7xf2 .. Qh14-d10 .. m8-l8
+5. Ne1-d3 .. Qf2xBf1+ .. Qd10-h6 .. Bn9-g2+
+6. #

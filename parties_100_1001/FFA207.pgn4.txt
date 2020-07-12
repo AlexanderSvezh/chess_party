@@ -1,0 +1,49 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "207"]
+[Result "tnsarkar: 15 - Tarsmick: 38 - FgConrado: 61 - Haolk: 22"]
+[Variant "FFA"]
+[Red "tnsarkar"]
+[RedElo "1713"]
+[Blue "Tarsmick"]
+[BlueElo "1741"]
+[Yellow "FgConrado"]
+[YellowElo "1771"]
+[Green "Haolk"]
+[GreenElo "1749"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:37:17 GMT+0000 (UTC)"]
+[CurrentMove "113"]
+
+1. g2-g4 .. b7-d7 .. e13-e12 .. m8-k8
+2. f2-f3 .. d7-e7 .. j13-j12 .. m11-l11
+3. g4-g5 .. e7-f7 .. Bf14-e13 .. Nn5-l6
+4. g5-g6 .. b6-c6 .. Bi14-j13 .. m4-l4
+5. g6-g7 .. Na5-c4 .. Ne14-f12 .. m7-k7
+6. Qg1xQa7+ .. Ka8xQa7 .. k13-k11 .. Bn9xBf1
+7. Ne1-g2 .. Ba6-c8 .. O-O .. Bf1xe2
+8. Rd1-e1 .. Na10-c9 .. i13-i11 .. Be2xf3
+9. Re1-e7+ .. Bc8-d7 .. h13-h11 .. Nn10-m8
+10. Re7xf7 .. Nc4xd2 .. g13-g11 .. Bf3xNg2+
+11. Kh1xBg2 .. Ka7-b6 .. g11-g10 .. Bn6-l8
+12. g7-g8=D .. b8-c8 .. h11-h10 .. O-O
+13. Qg8-g5 .. Nd2-e4 .. h10-h9 .. k7-j7
+14. Qg5-h5 .. Ne4-c5 .. Rf14-g14 .. Rn6-n7
+15. j2-j3 .. Bd7xi2 .. g10-g9 .. Kn5-n4
+16. Qh5-i4 .. Bi2-e6 .. g9-g8 .. Nm8-k7
+17. Rf7-f3 .. b11-c11 .. g8-g7=D+ .. Nk7-i6
+18. Kg2-f1 .. Nc9-d7 .. Qg7-g1+ .. j7-i7
+19. Kf1-e2 .. Be6-c4+ .. Rg14-g2+# .. i7-h7
+20. Ba9-b8 .. h9-h8 .. Nl6-j7
+21. Bb8-e11 .. Qg1xh2 .. Nj7xh8
+22. Ra11-a8 .. Qh2xQn8 .. Rn11xQn8
+23. Be11xNh8 .. Nj14-i12 .. Ni6xBh8
+24. b10-c10 .. Qh14xNh8 .. m9-l9
+25. Ra4-a7 .. Ni12-j10 .. m6-k6
+26. c11-d11 .. Nf12xd11 .. k6-j6
+27. c10xNd11 .. Rg2-g5 .. Rn8-m8
+28. d11xe12 .. d13xe12 .. j6-i6
+29. Nd7-e9 .. Qh8xl4+ .. Kn4-n5
+30. Ne9-f7 .. Rg5xm5+ .. Rm8xRm5
+31. Nc5-d7 .. Ql4xRm5+#
+32. Nf7-e9 .. R

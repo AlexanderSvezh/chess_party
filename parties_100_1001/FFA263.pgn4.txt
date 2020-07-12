@@ -1,0 +1,55 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "263"]
+[Result "ivan_usev: 56 - Nagato_Zetsu: 59 - Propagandasteak: 13 - Vlad_Vel: 8"]
+[Variant "FFA"]
+[Red "ivan_usev"]
+[RedElo "1854"]
+[Blue "Nagato_Zetsu"]
+[BlueElo "1761"]
+[Yellow "Propagandasteak"]
+[YellowElo "1588"]
+[Green "Vlad_Vel"]
+[GreenElo "1489"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:59:32 GMT+0000 (UTC)"]
+[CurrentMove "131"]
+
+1. g2-g4 .. b10-c10 .. Nj14-i12 .. Nn10-l9
+2. g4-g5 .. Ba9-b10 .. Ne14-f12 .. m8-k8
+3. g5-g6 .. Na10-c9 .. j13-j12 .. k8-j8
+4. g6-g7 .. O-O .. Bi14-j13 .. j8-i8
+5. h2-h3 .. b7-d7 .. g13-g12 .. i8-h8
+6. g7-g8=D .. d7-e7 .. d13-d12 .. Nn5-l6
+7. f2-f3 .. Na5-c6 .. Bf14-g13 .. Bn9-j5
+8. Qg8-g2 .. e7-f7 .. h13-h11 .. h8-g8=D
+9. Bi1-g3 .. Ra9-a8 .. Ni12-j14 .. Qg8-m8
+10. Nj1-i3 .. f7-g7 .. i13-i11 .. m7-l7
+11. O-O .. g7-h7=D .. Qh14-h13 .. Bn6-k9
+12. Qg2-h2 .. Qh7-d7 .. Nj14-i12 .. O-O
+13. Ni3xBj5 .. b8-d8 .. i11-i10 .. Nl6xNj5
+14. Qh2xQn8 .. Qd7xh3 .. Bg13xBk9 .. Rn11xQn8
+15. Bf1xQh3 .. d8-e8 .. Bk9-g13 .. Nj5-k7
+16. Ri1-h1 .. b5-d5 .. j12-j11 .. m11-k11
+17. d2-d3 .. e8-f8 .. k13-k12 .. Nl9-j10
+18. e2-e4 .. d5xe4 .. Ni12xk11 .. Nk7-l9
+19. f3xe4 .. b4-d4 .. Nk11xNl9 .. m10xNl9
+20. Ne1-f3 .. f8-g8 .. Bg13xNj10 .. Rn6-n7
+21. e4-e5 .. d4xe5 .. Bj10-h12 .. m5-l5
+22. Nf3xe5 .. Nc6xNe5 .. O-O .. l7-k7
+23. Bg3xNe5 .. Ba6-b5 .. k12-k11 .. Qm8xg8
+24. Qg1-e3 .. Ra8-a9 .. Bh12xb6 .. k7-j7
+25. Qe3-e2 .. Qa7xBb6 .. j11-j10 .. j7-i7
+26. Be5-i1 .. Nc9-b7 .. R .. i7-h7
+27. Qe2xe13 .. Nb7-a5 .. h7-g7=D
+28. Qe13xKe14 .. Na5-c6 .. Qg8xg12
+29. j2-j3 .. Qb6-d4 .. Qg12xQh13
+30. Qe14-e13 .. Qd4xm4+#
+31. Bi1xRa9 .. Bb10xBa9
+32. Qe13xNf12 .. Qm4-l4
+33. Qf12-f5 .. Ba9-b10
+34. Qf5xb9+ .. Ka10-a11
+35. i2-i3 .. Ra4-j4
+36. Qb9xBb5 .. Rj4xj3+
+37. k2xRj3 .. Bb10xi3
+38. Qb5-b6 .. Ql4-j2+#

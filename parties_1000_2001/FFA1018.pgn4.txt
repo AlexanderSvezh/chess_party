@@ -1,0 +1,65 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1018"]
+[Result "SMARTandHANDSOME2018: 6 - VictorBarndog: 3 - Davidbloom001: 44 - urchallengeaccepted: 82"]
+[Variant "FFA"]
+[Red "SMARTandHANDSOME2018"]
+[RedElo "1543"]
+[Blue "VictorBarndog"]
+[BlueElo "1607"]
+[Yellow "Davidbloom001"]
+[YellowElo "1548"]
+[Green "urchallengeaccepted"]
+[GreenElo "1696"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:23:14 GMT+0000 (UTC)"]
+[CurrentMove "121"]
+
+1. e2-e4 .. b7-d7 .. h13-h11 .. m7-k7
+2. g2-g4 .. d7-e7 .. Ne14-f12 .. k7-j7
+3. Bf1xm8++ .. e7-f7 .. Nj14-h13 .. Bn9xBm8
+4. h2-h3 .. f7-g7 .. j13-j12 .. Nn5-l6
+5. Bi1-h2 .. b8-d8 .. Bi14xm10 .. Bm8-l9
+6. T .. g7-h7=D .. Bm10-j13 .. Qn8-m8
+7. Na5-c6 .. e13-e12 .. Nl6-j5
+8. Ba6-b7 .. Bf14-e13 .. Nj5-i3
+9. Nc6-e5 .. O-O .. Ni3xKh1
+10. Qa7-b8 .. g13-g11 .. Bn6-l8
+11. d8-e8 .. i13-i11 .. O-O
+12. e8-f8 .. h11-h10 .. m6-l6
+13. f8-g8 .. Bj13-h11+ .. Kn5-n4
+14. O-O-O .. Qh14-i13 .. l6-k6
+15. Bb7xNh13 .. Nf12xBh13 .. k6-j6
+16. g8-h8=D .. Nh13-f12 .. j6-i6
+17. Qh7-g8 .. Rf14-g14 .. Nn10-l11
+18. Qh8-i7 .. Qi13-h13+ .. i6-h6
+19. T .. Qh13xKa6 .. h6-g6=D
+20. Qa6-g12 .. Bl9xRg14
+21. Rk14xBg14 .. m5-k5
+22. k13-k12 .. Nl11-k9
+23. j12-j11 .. k5-j5
+24. i11-i10 .. j5-i5
+25. h10-h9 .. i5-h5
+26. h9-h8 .. h5-g5=D
+27. h8xQi7=D .. Qg5xQi7
+28. g11-g10 .. Qi7-g5
+29. g10-g9 .. Bl8-k7
+30. Qg12-g10 .. j7-i7
+31. j11-j10 .. Nk9-l7
+32. i10-i9 .. i7-h7
+33. j10-j9 .. h7-g7=D
+34. j9-j8 .. Nl7xj8
+35. i9xNj8 .. Qg5xj8
+36. Bh11-i12 .. Qm8-m5
+37. Qg10-m10 .. Qj8xNf12
+38. Be13xQf12 .. Bk7xBf12
+39. Qm10-f10 .. Bf12-e13
+40. f13-f12 .. Qm5xf12
+41. Qf10xQf12+ .. Be13xQf12
+42. Bi12-l9 .. Rn11-n10
+43. Bl9xg4 .. Qg6xBg4
+44. Rg14-g10 .. Rn10xRg10
+45. Ke14-f14 .. Rg10xg9
+46. Kf14-e14 .. Qg7xQg8
+47. Ke14-f14 .. Rg9-g14+
+48. Kf14-f13 .. Qg8-g13+#

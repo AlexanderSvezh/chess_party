@@ -1,0 +1,19 @@
+[GameNr "67"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "adamg2156"]
+[RedElo "1438"]
+[Blue "panMiodek"]
+[BlueElo "1516"]
+[Yellow "192829"]
+[YellowElo "1811"]
+[Green "P_Kowalczyk"]
+[GreenElo "1748"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 16:46:48 GMT+0000 (UTC)"]
+[CurrentMove "11"]
+
+1. Nj1-i3 .. b8-d8 .. h13-h12 .. m8-k8
+2. Ni3-h5 .. Qa7-b8 .. Bi14-h13+ .. Nn10-l9
+3. Nh5-g7 .. Na5-c6 .. R

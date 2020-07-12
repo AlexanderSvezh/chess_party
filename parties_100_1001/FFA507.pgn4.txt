@@ -1,0 +1,48 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "507"]
+[Result "MaxOrt24: 24 - Don_Hector_Salamanca: 42 - goliat11: 99 - me-pik-el-pn: 10"]
+[Variant "FFA"]
+[Red "MaxOrt24"]
+[RedElo "1572"]
+[Blue "Don_Hector_Salamanca"]
+[BlueElo "1500"]
+[Yellow "goliat11"]
+[YellowElo "1632"]
+[Green "me-pik-el-pn"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:05:23 GMT+0000 (UTC)"]
+[CurrentMove "108"]
+
+1. j2-j3 .. b7-d7 .. h13-h11 .. m7-l7
+2. Bi1-j2 .. d7-e7 .. Bi14xBa6 .. m8-l8
+3. e2-e3 .. Qa7xBa6 .. Nj14-i12 .. Qn8-m8
+4. Bj2xe7 .. b8-c8 .. e13-e12 .. Nn10-l11
+5. Bf1-e2 .. Ba9-b8 .. h11-h10 .. Bn6-m7
+6. Be7xb10 .. Bb8-c9 .. d13-d12 .. m10-l10
+7. Be2-f3+ .. b6-c6 .. h10-h9 .. Rn11-n10
+8. Bb10xRa11 .. Bc9xBa11 .. h9-h8 .. m4-l4
+9. g2-g3 .. Ba11xRk1 .. h8-h7=D .. Nn5-l6
+10. Bf3xc6+ .. b5xBc6 .. Qh7-d11 .. Nl6-n5
+11. Ne1-f3 .. Na10-c9 .. Qd11-e11 .. Qm8xNi12+
+12. Qg1-f1 .. Qa6-b7 .. j13xQi12 .. Nl11-j10
+13. Nf3-d4 .. b4-c4 .. Qe11xm11 .. Bn9-m10
+14. Qf1-g2 .. c8-d8 .. Qm11xRn10+ .. Bm10-n9
+15. Nd4xc6 .. Qb7xNc6 .. Qh14-h12 .. Bm7-n8
+16. Qg2xQc6+ .. Na5xQc6 .. Qn10xBn9 .. m9-k9
+17. d2-d4 .. Ra4-a5 .. i12-i11 .. l10-k10
+18. d4-d5 .. c4xd5 .. i11xNj10 .. k9xj10
+19. Rd1xd5 .. Ra5xRd5 .. Qh12xj10 .. Nn5-m7
+20. e3-e4 .. Rd5xm5 .. Qn9xNc9 .. Nm7-n5
+21. Nj1-i3 .. Bk1xNi3 .. Qc9xNc6+ .. Kn7-n6
+22. h2xBi3 .. Ka8-a7 .. Qj10-d10+ .. Kn6xRm5
+23. f2-f3 .. R .. Qd10xKa7 .. Bn8xi13
+24. R .. Qa7-g1 .. Bi13-g11
+25. Rd14-d13 .. Bg11xd8
+26. Qg1xKh1 .. Bd8-g11
+27. Qc6-d5+ .. Km5-n6
+28. Qh1-h13 .. Nn5-l6
+29. Qh13xk10 .. Nl6-m8
+30. Qk10xNm8 .. Rn4-n5
+31. Qm8-n8+#

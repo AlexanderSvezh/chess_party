@@ -1,0 +1,23 @@
+[GameNr "39"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "panMiodek"]
+[RedElo "1500"]
+[Blue "ThunderInc"]
+[BlueElo "1693"]
+[Yellow "P_Kowalczyk"]
+[YellowElo "1732"]
+[Green "joecharaja"]
+[GreenElo "1501"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 16:41:21 GMT+0000 (UTC)"]
+[CurrentMove "28"]
+
+1. h2-h4 .. b7-c7 .. g13-g11 .. m6-l6
+2. Nj1-i3 .. Qa7-b7 .. Nj14-i12 .. m7-l7
+3. Bi1-f4 .. b10-c10 .. h13-h12 .. Nn5-l4
+4. O-O .. b5-c5 .. Bi14xQb7+ .. Bn6xh12
+5. g2-g4 .. Ba6xBb7 .. Qh14xBh12 .. Nn10-l9
+6. Ni3-k4 .. b6-d6 .. Ne14-f12 .. m5-l5
+7. Nk4xl6+ .. b8-c8 .. Qh12-m7+ .. #

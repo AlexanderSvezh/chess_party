@@ -1,0 +1,17 @@
+[GameNr "52"]
+[Result "Aborted"]
+[Variant "Teams"]
+[Red "adamg2156"]
+[RedElo "1438"]
+[Blue "GandaalfTheWhite"]
+[BlueElo "1729"]
+[Yellow "7Mana"]
+[YellowElo "1825"]
+[Green "oscarbacca"]
+[GreenElo "1734"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 16:39:30 GMT+0000 (UTC)"]
+[CurrentMove "3"]
+
+1. Nj1-k3 .. b8-c8 .. R

@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "705"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "Attila76"]
+[RedElo "1571"]
+[Blue "Zaphkiel312"]
+[BlueElo "1695"]
+[Yellow "KiwiM8"]
+[YellowElo "1729"]
+[Green "gilad9085"]
+[GreenElo "1684"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:42:17 GMT+0000 (UTC)"]
+[CurrentMove "4"]
+
+1. k2-k4 .. b7-d7 .. d13-d11 .. T

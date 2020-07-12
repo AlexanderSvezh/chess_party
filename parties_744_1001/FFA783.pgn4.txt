@@ -1,0 +1,54 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "783"]
+[Result "zcrack7912: 14 - Skull2046: 1 - LuwerPVP: 7 - 684P: 100"]
+[Variant "FFA"]
+[Red "zcrack7912"]
+[RedElo "1496"]
+[Blue "Skull2046"]
+[BlueElo "1500"]
+[Yellow "LuwerPVP"]
+[YellowElo "1500"]
+[Green "684P"]
+[GreenElo "1837"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:13:54 GMT+0000 (UTC)"]
+[CurrentMove "105"]
+
+1. i2-i4 .. b7-d7 .. g13-g12 .. m8-k8
+2. h2-h4 .. d7-e7 .. Qh14-f12 .. Nn10-l9
+3. f2-f4 .. Na10-c9 .. Bf14-k9 .. Bn9-l7
+4. j2-j3 .. b10-c10 .. Bk9xf4 .. k8-j8
+5. e2-e4 .. Na5-c6 .. d13-d11 .. j8-i8
+6. Bi1xBf4 .. Nc9xd11 .. Qf12xBf4 .. i8-h8
+7. g2-g3 .. b8-d8 .. Qf4xe4+ .. h8-g8=D
+8. Bf1-g2 .. b9-c9 .. Qe4-e2 .. Qg8-i8
+9. Ne1-f3 .. Ba9-b10 .. e13-e12 .. Qi8xi13
+10. Rd1-e1 .. Nd11-e9 .. Ne14-g13 .. Qi13-i9
+11. Re1xQe2 .. O-O .. Nj14-i12 .. Qi9xRd14+
+12. h4-h5 .. e7-f7 .. T .. Qd14xKg14
+13. Bg2-h3+ .. Ka10-a11 .. Qg14xh13
+14. k2-k4 .. f7-g7 .. Bl7-j9
+15. i4-i5 .. d8-e8 .. m11-k11
+16. i5-i6 .. c9-d9 .. k11-j11
+17. Nf3-g5 .. Nc6-d4 .. Qh13-h11
+18. Re2-f2 .. b6-d6 .. j11xNi12
+19. i6-i7 .. e8-f8 .. Qh11xb11+#
+20. h5-h6 .. Qb11-h11
+21. Bh3-j5 .. Qh11xh6+
+22. Nj1-h2 .. Qh6xNg5
+23. g3-g4 .. Qg5xRk1+
+24. Nh2-j1 .. Qk1xNj1+
+25. Kh1-h2 .. m7-l7+
+26. Kh2-g2 .. Qj1xQg1+
+27. Kg2-f3 .. Qg1-h1+
+28. Kf3-g3 .. Qh1xj3+
+29. Kg3-g2 .. Qj3-i2+
+30. Kg2-f3 .. Qi2-h1+
+31. Kf3-e2 .. Qh1-e4+
+32. Ke2-f1 .. Qe4-h1+
+33. Kf1-e2 .. Qh1-e4+
+34. Ke2-d1 .. Qn8-g1+
+35. Bj5-f1 .. Qg1xRf2
+36. d2-d3 .. Qf2xBf1+
+37. Kd1-d2 .. Qe4xd3+#

@@ -1,0 +1,56 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1073"]
+[Result "invant: 53 - Baronesss: 77 - sinanhugo: 11 - Pablocrew: 0"]
+[Variant "FFA"]
+[Red "invant"]
+[RedElo "1760"]
+[Blue "Baronesss"]
+[BlueElo "1771"]
+[Yellow "sinanhugo"]
+[YellowElo "1762"]
+[Green "Pablocrew"]
+[GreenElo "1783"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:35:43 GMT+0000 (UTC)"]
+[CurrentMove "120"]
+
+1. h2-h3 .. b10-c10 .. d13-d12 .. m5-l5
+2. k2-k3 .. Na10-c9 .. g13-g11 .. Bn6-m5
+3. Nj1-i3 .. Ba9-b10 .. g11-g10 .. Nn10-l9
+4. g2-g4 .. O-O .. g10-g9 .. m11-k11
+5. f2-f4 .. Na5-c6 .. g9-g8 .. m10-k10
+6. Ne1-f3 .. b7-c7 .. k13-k12 .. Nn5-l6
+7. Bf1-g2 .. Ba6-d9 .. g8-g7=D .. O-O
+8. d2-d3 .. b8-d8 .. Ne14-f12 .. Rn6-n7
+9. e2-e4 .. c7-d7 .. Qg7-g13 .. m8-k8
+10. f4-f5 .. d8-e8 .. e13-e12 .. Nl9-j10
+11. Rd1-e1 .. d7-e7 .. Bf14-e13 .. T
+12. Ni3-k4 .. e7-f7 .. Nf12-h11
+13. Nk4xNl6 .. f7-g7 .. i13-i11
+14. Nl6xKn5 .. g7-h7=D .. Nh11xNj10
+15. Nn5-l4 .. Qh7xm7 .. Nj10xk8
+16. Bi1xRa9 .. Qm7xQg1+ .. Qg13xg4
+17. Re1xQg1 .. Qa7xBa9 .. Qg4-g5
+18. Nf3xQg5 .. Qa9-f4 .. O-O
+19. Ng5-i4 .. Nc9-a8 .. i11-i10
+20. Nl4-j3 .. e8-f8 .. i10-i9
+21. Nj3-h2 .. Bd9xNi4 .. Rf14-g14
+22. Nh2xBi4 .. Qf4-c7 .. i9-i8
+23. i2-i3 .. Na8-c9 .. i8-i7=D
+24. Kh1-i2 .. Qc7-b8 .. h13-h11
+25. Bg2-f3 .. Ra4-a7 .. Qi7-i10
+26. Rg1xRg14+ .. Ra7-g7 .. Qh14xRg14
+27. Bf3xNk8 .. Rg7xQg14+ .. Ke14-d13
+28. Bk8xQi10 .. Rg14xBi14 .. h11xBi10
+29. k3-k4 .. Ri14xi10 .. Nj14-i12
+30. k4-k5 .. f8-g8 .. Rk14-g14
+31. k5-k6 .. g8-h8=D .. Ni12xk11
+32. k6-k7 .. Qh8xNk11 .. R
+33. k7-k8=D .. Qb8xQk8
+34. Rk1xQk8 .. Qk11-d11
+35. f5-f6 .. Qd11xd12
+36. f6-f7 .. Nc9-e10
+37. f7-f8=D .. Ne10xQf8
+38. Rk8xNf8 .. Qd12xKd13
+39. R

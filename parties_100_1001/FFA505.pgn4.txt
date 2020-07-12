@@ -1,0 +1,54 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "505"]
+[Result "Xolani1: 26 - ilyar044: 82 - PotterSquad: 41 - waitna: 7"]
+[Variant "FFA"]
+[Red "Xolani1"]
+[RedElo "1467"]
+[Blue "ilyar044"]
+[BlueElo "1523"]
+[Yellow "PotterSquad"]
+[YellowElo "1519"]
+[Green "waitna"]
+[GreenElo "1518"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:07:04 GMT+0000 (UTC)"]
+[CurrentMove "115"]
+
+1. g2-g4 .. b7-d7 .. h13-h11 .. m8-k8
+2. g4-g5 .. b8-c8 .. h11-h10 .. Bn9xBf1
+3. Qg1xBf1 .. Ba6-b7+ .. e13-e12 .. k8-j8
+4. f2-f3 .. d7-e7 .. g13-g11 .. j8-i8
+5. g5-g6 .. b4-d4 .. Bf14-g13 .. i8-h8
+6. h2-h4 .. b9-c9 .. Ne14-f12 .. h8-g8=D
+7. h4-h5 .. d4-e4 .. Nj14-i12 .. Qg8xg6
+8. h5xQg6 .. e4xf3 .. g11-g10 .. Qn8-h8+
+9. Nj1-h2 .. f3-g3+ .. g10-g9 .. Qh8xg9
+10. Kh1-g1 .. e7-f7 .. h10xQg9 .. m7-l7
+11. g6xf7 .. g3xNh2=D+ .. Ni12-j10 .. Nn10-l9
+12. Bi1xQh2 .. b6-d6+ .. k13-k11 .. T
+13. Qf1-f2 .. Ra4-g4+ .. Bi14-h13
+14. Kg1-f1 .. Qa7xQf2+ .. Bh13xNl9
+15. Kf1xQf2 .. Rg4-f4+ .. Qh14xBh2+
+16. Kf2-e3 .. Rf4xf7 .. Qh2-h3+
+17. i2xQh3 .. Rf7xl7 .. Bl9xKn7
+18. Rk1-g1 .. Rl7xBn7 .. O-O
+19. Ne1-g2 .. b11-d11 .. Nf12xd11
+20. Rd1-f1 .. Ra11xNd11 .. Ke14-d14
+21. h3-h4 .. Rd11-d9 .. g9-g8
+22. Rg1-h1 .. Rd9-g9 .. i13-i11
+23. Ng2-i3 .. Rg9xg8 .. Rk14-h14
+24. h4-h5 .. Rn7-e7+ .. Rh14xh5
+25. Ke3-d3 .. Rg8xBg13 .. Rh5-h14
+26. Rh1-g1 .. Rg13xj13 .. i11-i10
+27. j2-j4 .. d6-e6 .. i10-i9
+28. j4-j5 .. Re7-d7+ .. i9-i8
+29. Kd3-e3 .. c8-d8 .. Nj10-h11
+30. T .. Na5-c4 .. Rh14-j14
+31. Rj13xRj14 .. Rf14xRj14
+32. Nc4xKe3 .. Rj14-i14
+33. Ba9-f4 .. Nh11-g9
+34. Bb7xRi14 .. Ng9-h7
+35. Rd7-g7 .. Nh7-j8
+36. Bf4xNj8+ .. Kd14-e14
+37. Rg7-g14+#

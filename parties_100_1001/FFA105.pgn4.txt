@@ -1,0 +1,47 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "105"]
+[Result "nataliabella: 34 - AngelofHELL-ABADDON: 55 - Mgrabman: 17 - oneagent: 24"]
+[Variant "FFA"]
+[Red "nataliabella"]
+[RedElo "1524"]
+[Blue "AngelofHELL-ABADDON"]
+[BlueElo "1722"]
+[Yellow "Mgrabman"]
+[YellowElo "1771"]
+[Green "oneagent"]
+[GreenElo "1601"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:11:25 GMT+0000 (UTC)"]
+[CurrentMove "109"]
+
+1. g2-g4 .. b7-d7 .. e13-e12 .. m9-k9
+2. g4-g5 .. d7-e7 .. Bf14-e13 .. k9-j9
+3. g5-g6 .. Na10-c9 .. j13-j12 .. Qn8-l10
+4. g6-g7 .. e7-f7 .. Bi14-j13 .. Ql10-i7
+5. g7-g8=D .. Qa7-b7+ .. Ne14-f12 .. Qi7xd2
+6. Bf1-g2 .. b6-c6 .. O-O .. Qd2xRd1
+7. Qg8-g3 .. b11-c11 .. h13-h11 .. Qd1xe2
+8. Nj1-i3 .. f7-g7 .. h11-h10 .. Nn5-l4
+9. j2-j3 .. g7-h7=D .. h10-h9 .. Nl4-k6
+10. Bi1-j2 .. Qh7xj9 .. h9-h8 .. Nk6-l8
+11. O-O .. Qj9-h7 .. g13-g11 .. m7-l7
+12. Bg2-f3 .. b8-c8 .. g11-g10 .. Qe2-e6
+13. Qg3-g2 .. Ba9-b8 .. Nj14-i12 .. Bn6-m7
+14. Bf3-g4 .. O-O .. g10-g9 .. Qe6-l6
+15. Ne1-f3 .. b4-d4 .. Rf14-g14 .. O-O
+16. Ni3-k4 .. Qh7-g8 .. Ni12-h10 .. Ql6-i9
+17. Nf3-h4 .. Qg8-d5 .. Nh10-i12 .. m11-l11
+18. Qg2-i4 .. Nc9-b11 .. h8-h7=D .. Qi9xNf12
+19. Qi4-h3 .. Nb11-d12+ .. Be13xNd12 .. Qf12xQh14
+20. Qg1-e1 .. Qd5xBd12 .. Rk14xQh14 .. m10-k10
+21. Qe1-e9 .. Bb8-c7 .. g9-g8 .. Nn10-l9
+22. Qe9-i5 .. Qb7-b8 .. g8-g7=D .. m5-k5
+23. Bj2xRn6 .. Qb8-f12 .. Qg7xBc7 .. l7-k7
+24. Bn6xBm7 .. Qd12-e13+# .. Nl9xBm7
+25. Qi5xk5+ .. Qf12xf2 .. Nm7-l5
+26. Qk5-n8+ .. Qe13xe12 .. Nl5-n6
+27. Qh3-j5+ .. Qf2xNh4 .. Kn5-n4
+28. Qn8xNn6+# .. Qh4xBg4
+29. Qn6-k3 .. Qe12-e7
+30. R

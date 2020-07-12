@@ -1,0 +1,23 @@
+[GameNr "95"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "firedragon098"]
+[RedElo "1493"]
+[Blue "lencho92"]
+[BlueElo "1500"]
+[Yellow "Aelpro10"]
+[YellowElo "1500"]
+[Green "thur1er"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 16:54:48 GMT+0000 (UTC)"]
+[CurrentMove "25"]
+
+1. h2-h4 .. b8-d8 .. h13-h11 .. m7-k7
+2. Bi1-h2 .. Na10-c9 .. Nj14-i12 .. m6-l6
+3. h4-h5 .. Ba9xBh2 .. h11-h10 .. k7-j7
+4. Qg1xBh2 .. Na5-c6 .. g13-g12 .. j7-i7
+5. Nj1-i3 .. Qa7-b8 .. Bf14-g13 .. i7-h7
+6. Ni3-j5 .. Qb8xQh2+ .. Bg13xBn6 .. l6-k6
+7. #

@@ -1,0 +1,34 @@
+[GameNr "502"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Chessplayernewmember"]
+[RedElo "1889"]
+[Blue "malaybasak"]
+[BlueElo "2644"]
+[Yellow "Antruni"]
+[YellowElo "1832"]
+[Green "ermis8992"]
+[GreenElo "2028"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:58:55 GMT+0000 (UTC)"]
+[CurrentMove "69"]
+
+1. h2-h3 .. b6-d6 .. g13-g12 .. m9-k9
+2. Qg1-j4 .. Qa7xf2 .. j13-j12 .. m7-l7
+3. Qj4xQn8+ .. Qf2xBf1+ .. Qh14-f12 .. Kn7xQn8
+4. Kh1-h2 .. Qf1xe2 .. Qf12-f3 .. Bn6-m7+
+5. i2-i3 .. Qe2xQf3 .. Bi14xm10 .. Bm7xi3+
+6. Nj1xBi3 .. Qf3xBm10 .. Nj14-i12 .. Nn5-l6
+7. Ne1-f3 .. Qm10-i6 .. Bf14xk9 .. Bn9-j13
+8. Rd1-e1 .. Qi6-i9 .. Bk9-l10+ .. Kn8-n7
+9. Re1-e10 .. Na10-c9 .. Rk14-h14 .. m11xBl10
+10. Re10xl10 .. Qi9xe13 .. Ni12-k11 .. Nn10-l9
+11. Rl10xNl9 .. Qe13xRd14 .. Kg14-g13 .. m8xRl9
+12. j2-j3 .. Nc9-d11 .. Nk11xBj13 .. Rn11-e11
+13. Bi1xm5 .. Qd14-i9 .. Nj13-i11 .. Rn4-n5
+14. Bm5xNl6 .. Qi9xBl6 .. Ni11-g10 .. Re11xNe14
+15. Rk1-i1 .. Ql6-m7+ .. h13-h12 .. Re14xRh14
+16. Kh2-h1 .. Qm7-j10 .. Kg13xRh14 .. Rn5-i5
+17. Nf3-h4 .. Qj10xNg10 .. k13-k11 .. Ri5-e5
+18. R

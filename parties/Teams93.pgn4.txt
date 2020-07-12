@@ -1,0 +1,32 @@
+[GameNr "93"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "vlo1111"]
+[RedElo "1571"]
+[Blue "P_Kowalczyk"]
+[BlueElo "1762"]
+[Yellow "hiyoooo"]
+[YellowElo "2302"]
+[Green "panMiodek"]
+[GreenElo "1530"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:04:34 GMT+0000 (UTC)"]
+[CurrentMove "63"]
+
+1. h2-h3 .. b8-d8 .. h13-h12 .. m8-k8
+2. Bi1xBa9 .. Ka8xBa9 .. Bi14-h13+ .. Bn9-m8
+3. Qg1-h2+ .. b7-c7 .. Nj14-i12 .. m7-l7
+4. Nj1-i3 .. Ba6xBh13+ .. Qh14xBh13 .. Nn10-l11
+5. k2-k3 .. Na5-c6 .. Kg14-h14 .. Nl11-j10
+6. O-O .. Na10-c9 .. j13-j11 .. Bm8xj11
+7. e2-e3 .. Nc9-d11 .. Ni12-k11 .. Bj11xQh13
+8. Bf1xb5 .. Ra4-a5 .. Nk11xm10 .. Qn8-n10
+9. Bb5xNc6 .. Nd11-f10 .. Kh14xBh13 .. Qn10xNm10
+10. Qh2-g3 .. Qa7-a6+ .. g13-g12 .. Qm10-n9
+11. Bc6-i12+ .. Nf10xg12 .. f13xNg12 .. Nj10xBi12
+12. Qg3-k7 .. Qa6-e2 .. e13-e12 .. Qn9-j13
+13. Ne1-f3 .. Qe2-a6 .. Rk14-g14 .. Ni12-j14+
+14. Ni3-k4 .. Qa6-e10 .. Rg14xNj14 .. Qj13xRj14
+15. i2-i4 .. Qe10-k10+ .. Kh13-g13 .. Qj14-g14+
+16. Nk4xm5+ .. Ra5-f5 .. #

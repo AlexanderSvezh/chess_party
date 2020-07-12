@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1077"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "TITAANNN"]
+[RedElo "1702"]
+[Blue "winnie_the_pooh99"]
+[BlueElo "1761"]
+[Yellow "Tz500"]
+[YellowElo "1410"]
+[Green "jpkoury"]
+[GreenElo "1933"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:23:11 GMT+0000 (UTC)"]
+[CurrentMove "3"]
+
+1. h2-h4 .. b7-d7 .. T

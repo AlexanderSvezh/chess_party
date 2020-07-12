@@ -1,0 +1,60 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "380"]
+[Result "Don_Hector_Salamanca: 21 - aranazizur: 41 - FerrousDragon: 9 - Myvecinotottoro: 109"]
+[Variant "FFA"]
+[Red "Don_Hector_Salamanca"]
+[RedElo "1497"]
+[Blue "aranazizur"]
+[BlueElo "1500"]
+[Yellow "FerrousDragon"]
+[YellowElo "1475"]
+[Green "Myvecinotottoro"]
+[GreenElo "1752"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:33:56 GMT+0000 (UTC)"]
+[CurrentMove "132"]
+
+1. g2-g4 .. b8-d8 .. e13-e11 .. m10-l10
+2. g4-g5 .. b7-d7 .. Bf14-e13 .. Bn9-m10
+3. g5-g6 .. Qa7xe11 .. Kg14-f14 .. Qn8-n9
+4. g6-g7 .. Ba6-b7+ .. k13-k12 .. Bm10xe2
+5. f2-f3 .. Bb7-e10 .. d13-d12 .. Be2xRd1
+6. g7-g8=D .. Qe11-d10 .. Ne14-f12 .. Bd1xf3++
+7. Qg1-g2 .. Be10-b7 .. Nj14-i12 .. Bf3xQg2+
+8. Bf1xBg2 .. Bb7xBg2+ .. h13-h12 .. Qn9-m10
+9. Ne1xBg2 .. b6-c6 .. Bi14-f11 .. Qm10-d1+
+10. Ng2-e1 .. Na10-c9 .. g13-g11 .. Qd1xNe1+
+11. Qg8-g1 .. Nc9-d11 .. Nf12xNd11 .. Qe1-l8
+12. Nj1-i3 .. Qd10xNd11 .. Bf11-e12 .. Nn10-l9
+13. j2-j3 .. Qd11-d9 .. Be13-f12 .. O-O-O
+14. Bi1-j2 .. b11-d11 .. Be12-g10 .. m5-l5
+15. Qg1xBg10 .. Ba9-b8 .. Ni12-g13 .. Bn6xBj2
+16. Rk1-j1 .. d11-e11 .. Bf12-e13 .. Bj2xNi3
+17. h2xBi3 .. e11-f11 .. i13-i11 .. m6-k6
+18. Qg10-g5 .. Na5-c4 .. Qh14-h13 .. Nn5-l6
+19. Qg5xb5 .. Qd9-a6 .. Ng13xf11 .. Ql8-e1+
+20. R .. Ra11xNf11 .. Rk14-g14 .. Qe1xKh1
+21. Rf11-f7 .. Qh13-i12 .. m7-k7
+22. Bb8-f12 .. Be13xBf12 .. k7-j7
+23. Rf7xBf12 .. g11-g10 .. j7-i7
+24. Qa6-d9 .. d12-d11 .. Kn9-m10
+25. b10-c10 .. g10-g9 .. Nl9-k11
+26. c10xd11 .. Qi12-h11 .. Qh1xQh11
+27. Qd9xg9 .. R .. Qh11xd11
+28. Qg9-g4+ .. m9-l9
+29. Qg4-g13 .. Qd11-a11+
+30. Ka8-b8 .. Qa11xRa4
+31. Qg13xKf14 .. Qa4xQb5+
+32. Kb8-c9 .. Qb5xNc4
+33. Rf12-f10 .. Qc4xc6+
+34. Kc9-d9 .. Qc6xd7
+35. Qf14xRg14 .. Qd7xb9+
+36. Kd9-e8 .. Qb9xb4
+37. Rf10xl10+ .. m11xRl10
+38. Qg14xl9+ .. m8xQl9+
+39. Ke8-f9 .. Qb4-f8+
+40. Kf9-e10 .. Qf8xd8
+41. Ke10-f9 .. i7-h7
+42. Kf9-g10 .. h7-g7=D+
+43. R

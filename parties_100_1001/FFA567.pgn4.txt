@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "567"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "KRONOS115"]
+[RedElo "1797"]
+[Blue "MasacreKiz"]
+[BlueElo "1675"]
+[Yellow "04common_user"]
+[YellowElo "1522"]
+[Green "hic-limpbizkit"]
+[GreenElo "1634"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:06:57 GMT+0000 (UTC)"]
+[CurrentMove "3"]
+
+1. g2-g4 .. b7-d7 .. R

@@ -1,0 +1,17 @@
+[GameNr "1375"]
+[Result "Aborted"]
+[Variant "Teams"]
+[Red "owljay"]
+[RedElo "1975"]
+[Blue "Chessplayernewmember"]
+[BlueElo "1909"]
+[Yellow "7Mana"]
+[YellowElo "1854"]
+[Green "Kujtimi"]
+[GreenElo "2781"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:58:43 GMT+0000 (UTC)"]
+[CurrentMove "3"]
+
+1. h2-h3 .. b7-c7 .. R

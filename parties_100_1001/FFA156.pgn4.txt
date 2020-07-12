@@ -1,0 +1,46 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "156"]
+[Result "marcellomattioli: 74 - Joselete123: 5 - Chessbron: 26 - om3gaRA: 11"]
+[Variant "FFA"]
+[Red "marcellomattioli"]
+[RedElo "1685"]
+[Blue "Joselete123"]
+[BlueElo "1536"]
+[Yellow "Chessbron"]
+[YellowElo "1570"]
+[Green "om3gaRA"]
+[GreenElo "1692"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:21:43 GMT+0000 (UTC)"]
+[CurrentMove "80"]
+
+1. g2-g4 .. b7-d7 .. h13-h11 .. Nn10-l9
+2. g4-g5 .. d7-e7 .. h11-h10 .. Nn5-l6
+3. h2-h4 .. b8-d8 .. h10-h9 .. m10-l10
+4. Bi1xBa9 .. Ka8xBa9 .. h9-h8 .. m5-l5
+5. k2-k3 .. R .. g13-g11 .. m4-l4
+6. Qg1-g3 .. Qh14xQa7 .. l4xk3
+7. Nj1xk3 .. Qa7xKa9 .. Rn4-k4
+8. Qg3xQa9 .. h8-h7=D .. Bn9-m10
+9. Ne1-f3 .. g11-g10 .. Nl6-m4
+10. Qa9xb10 .. g10-g9 .. Nm4xNk3
+11. j2xNk3 .. g9-g8 .. Rk4xk3
+12. Rk1-i1 .. g8-g7=D .. Rk3-k7
+13. Qb10-f10 .. Qh7xRk7 .. Nl9xQk7
+14. Qf10xi13 .. Nj14-k12 .. Nk7-l9
+15. Qi13-i4 .. e13-e12 .. m8-l8
+16. d2-d4 .. Bf14-e13 .. Bn6xRi1
+17. Kh1xBi1 .. Ne14-f12 .. Bm10-n9
+18. Qi4-n4+# .. O-O
+19. d4-d5 .. Bi14-c8
+20. d5-d6 .. Rk14-i14
+21. d6-d7 .. Bc8-d9
+22. Qn4-k4 .. Qg7-g6
+23. i2-i3 .. Ri14xi3+
+24. Ki1-h2 .. Rf14-h14
+25. Kh2xRi3 .. Nf12-d11
+26. Bf1-i4 .. Be13-l6+
+27. Ki3-h3 .. Qg6-f5+
+28. Kh3-g3 .. Qf5-e4
+29. Bi4xBd9 .. R

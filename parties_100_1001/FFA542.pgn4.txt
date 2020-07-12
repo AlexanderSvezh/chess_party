@@ -1,0 +1,44 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "542"]
+[Result "PrabhavPathak: 29 - M_Sabri_18: 40 - FKEM2018: 0 - Jolange287: 48"]
+[Variant "FFA"]
+[Red "PrabhavPathak"]
+[RedElo "1731"]
+[Blue "M_Sabri_18"]
+[BlueElo "1488"]
+[Yellow "FKEM2018"]
+[YellowElo "1500"]
+[Green "Jolange287"]
+[GreenElo "1734"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:11:29 GMT+0000 (UTC)"]
+[CurrentMove "88"]
+
+1. g2-g4 .. b8-d8 .. g13-g11 .. m5-l5
+2. g4-g5 .. Na10-c9 .. h13-h11 .. Bn6-m5
+3. g5-g6 .. Na5-c6 .. i13-i12 .. m8-k8
+4. g6-g7 .. b5-c5 .. f13-f12 .. Bn9xBf1
+5. Qg1xBf1 .. Nc6-e7 .. Bf14-i11 .. Qn8-m8
+6. h2-h3 .. Ne7-g8 .. Bi14-f11 .. Nn5-l6
+7. j2-j3 .. Nc9-e8 .. Ne14-g13 .. Bm5xBi1
+8. k2-k3 .. Ba9-b8 .. e13-e11 .. Nn10-l9
+9. Ne1-g2 .. Ne8xg7 .. T .. Bi1xk3
+10. Rk1xBk3 .. Ng8-e9 .. Nl9-k11
+11. h3-h4 .. Ba6-b5 .. Nk11xj13
+12. Ng2-e3 .. b7-c7 .. Qm8-n8
+13. Qf1-i4 .. Qa7-b7+ .. Nl6-j5
+14. f2-f3 .. Bb5xe2 .. Nj5xRk3
+15. Nj1xNk3 .. Qb7xf3+ .. m4-l4
+16. Qi4-g2 .. Be2xRd1 .. l4xNk3
+17. Qg2xQf3+ .. Bd1xQf3+ .. k8-j8
+18. Kh1-h2 .. O-O-O .. j8-i8
+19. Ne3-c4 .. b9-c9 .. i8-h8
+20. Nc4xb6 .. Ka6-b5 .. h8xNg7=D
+21. Nb6-d7 .. Bf3-a8 .. Qg7-j4+
+22. i2-i3 .. Ba8xKg14 .. Qj4xj3
+23. Nd7xBb8 .. Bg14xi12+ .. m9-l9
+24. Nb8-d9 .. Bi12xNj13 .. Qj3xBj13
+25. Nd9xb10 .. R .. Qj13-j2+
+26. Kh2-h3 .. Qn8-g8
+27. Nb10-c8 .. Qj2-g2+#

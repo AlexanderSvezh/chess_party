@@ -1,0 +1,50 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1112"]
+[Result "PrabhavPathak: 31 - benhleli: 11 - grabovskii: 47 - amagador: 28"]
+[Variant "FFA"]
+[Red "PrabhavPathak"]
+[RedElo "1720"]
+[Blue "benhleli"]
+[BlueElo "1583"]
+[Yellow "grabovskii"]
+[YellowElo "1785"]
+[Green "amagador"]
+[GreenElo "1510"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:48:37 GMT+0000 (UTC)"]
+[CurrentMove "106"]
+
+1. j2-j3 .. b7-d7 .. g13-g11 .. m8-k8
+2. Bi1-j2 .. d7-e7 .. e13-e12 .. k8-j8
+3. Nj1-i3 .. e7-f7 .. Ne14-f12 .. j8-i8
+4. O-O .. f7-g7 .. Bf14-e13 .. m9-k9
+5. h2-h4 .. g7-h7=D .. O-O .. i8xQh7
+6. h4-h5 .. Qa7xh7 .. j13-j12 .. m11-l11
+7. d2-d4 .. Qh7-d7 .. i13-i11 .. k9-j9
+8. e2-e4 .. Qd7xRk14 .. Nj14-i12 .. m10-k10
+9. Bf1-e2 .. b8-d8 .. Qh14-i13 .. Qn8xd8+
+10. Be2xb5 .. Ba6-c8 .. Bi14-j13 .. Qd8-k8
+11. Bb5xRa4 .. Qk14xRf14+ .. Be13xQf14 .. Nn5-l6
+12. Ri1-h1 .. b6-d6 .. g11-g10 .. m7-k7
+13. g2-g3 .. Ka8-a7 .. Qi13xNa5+ .. Qk8xBc8#
+14. Ba4xg10 .. Nf12xBg10 .. Qc8xh13
+15. e4-e5 .. Qa5-j14 .. Bn6-m7
+16. f2-f4 .. Ng10-f12 .. Qh13-h8
+17. Bj2xm5 .. Ni12-j10 .. Rn4-n5
+18. Bm5-j2 .. Bf14-e13 .. Nn10-l9
+19. g3-g4 .. Nj10xNl9 .. Bm7-l8
+20. f4-f5 .. Qj14-i13 .. Bn9-m10
+21. f5-f6 .. Nl9-j10 .. O-O-O
+22. g4-g5 .. Nj10xl11 .. Qh8-k8
+23. Rd1-d2 .. Nl11-j10 .. Qk8-h8
+24. g5-g6 .. Bj13xBm10+ .. Kn9-n10
+25. g6-g7 .. Qi13-j13 .. Qh8-g8
+26. h5-h6 .. Qj13-l11 .. Kn10-m9
+27. h6-h7 .. d13-d12 .. T
+28. h7-h8=D .. Nj10-k8
+29. Qh8xNk8 .. Bm10xQk8
+30. Rh1-h8 .. Ql11-m10
+31. Rh8xQg8 .. Bk8-l9
+32. Rg8xBl8 .. Qm10xKm9
+33. g7-g8=D .. R

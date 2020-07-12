@@ -1,0 +1,32 @@
+[GameNr "1191"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "andrews810"]
+[RedElo "2281"]
+[Blue "valger"]
+[BlueElo "3805"]
+[Yellow "GioserchGarcia"]
+[YellowElo "2028"]
+[Green "xarisole1994"]
+[GreenElo "2397"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:13:16 GMT+0000 (UTC)"]
+[CurrentMove "61"]
+
+1. h2-h3 .. b6-d6 .. h13-h12 .. m9-l9
+2. Bi1-g3 .. b8-c8 .. Qh14-h13 .. m8-k8
+3. Qg1-j4 .. Na5-c6 .. Ne14-f12 .. Qn8-m8
+4. Nj1-h2 .. Na10-c9 .. d13-d11 .. Nn5-l6
+5. k2-k4 .. Nc9-d7 .. Nj14-i12 .. Qm8-k6
+6. d2-d4 .. Qa7-e11 .. Ni12-g11 .. m10-k10
+7. Ne1-f3 .. Qe11-i7 .. Ng11-e10 .. m5-k5
+8. Qj4-j3 .. Ka8-a7 .. k13-k12 .. Qk6-j7
+9. Qj3xQj7 .. Qi7xQj7 .. e13-e12 .. Bn6xj2
+10. Rk1-j1 .. b9-d9 .. Bf14xb10 .. Nl6xk4
+11. Bg3-h4 .. Ba9xBb10 .. Ne10-g9 .. Bn9xh3
+12. Kh1-g1 .. Bb10xBh4 .. Qh13-i12 .. Bh3-m8
+13. Nf3xBh4 .. Qj7-k7 .. Qi12-g10 .. Bj2xNh4
+14. e2-e3 .. Nc6-b8 .. Bi14-h13 .. Bh4xf2+
+15. Kg1-h1 .. Qk7-m5 .. Qg10-i8 .. Nk4-i3+
+16. #

@@ -1,0 +1,19 @@
+[GameNr "1162"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "7Mana"]
+[RedElo "1819"]
+[Blue "mikemanuver"]
+[BlueElo "2525"]
+[Yellow "zserbo0314"]
+[YellowElo "2387"]
+[Green "Riba"]
+[GreenElo "2759"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:50:11 GMT+0000 (UTC)"]
+[CurrentMove "9"]
+
+1. h2-h3 .. b6-d6 .. g13-g12 .. m9-l9
+2. d2-d4 .. Qa7-b6 .. Bf14-h12 .. Qn8xi13
+3. R

@@ -1,0 +1,18 @@
+[GameNr "260"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "GolodniSneg"]
+[RedElo "1550"]
+[Blue "felipeaguirre"]
+[BlueElo "1530"]
+[Yellow "WIN_TOP_GOD"]
+[YellowElo "1565"]
+[Green "ChessN00b777"]
+[GreenElo "2285"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:42:18 GMT+0000 (UTC)"]
+[CurrentMove "8"]
+
+1. h2-h4 .. b8-d8 .. g13-g12 .. m8-l8
+2. Bi1xBa9 .. Ka8xBa9 .. Qh14xQa7+ .. R

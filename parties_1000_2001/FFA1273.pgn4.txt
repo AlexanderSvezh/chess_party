@@ -1,0 +1,68 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1273"]
+[Result "grabovskii: 69 - ramon_vb: 20 - C40S: 37 - VladyMampol: 1"]
+[Variant "FFA"]
+[Red "grabovskii"]
+[RedElo "1798"]
+[Blue "ramon_vb"]
+[BlueElo "1706"]
+[Yellow "C40S"]
+[YellowElo "1733"]
+[Green "VladyMampol"]
+[GreenElo "1668"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:40:15 GMT+0000 (UTC)"]
+[CurrentMove "123"]
+
+1. g2-g4 .. b7-d7 .. Ne14-f12 .. m8-k8
+2. Ne1-f3 .. d7-e7 .. e13-e12 .. m5-l5
+3. h2-h4 .. e7-f7 .. Bf14-e13 .. Bn6-m5
+4. g4-g5 .. f7-g7 .. O-O .. Nn5-l4
+5. Nj1-i3 .. g7-h7=D .. h13-h11 .. O-O
+6. Bf1-h3 .. Qh7xm7 .. h11-h10 .. Rn6-n7
+7. k2-k3 .. Qm7xRn7+ .. h10-h9 .. Qn8xQn7
+8. k3xNl4 .. Qa7xQn7+ .. h9-h8 .. Bm5-n6
+9. Rk1xk8 .. Qn7xBn9 .. h8-h7=D .. m10-l10
+10. Ni3-g4 .. Qn9-m10 .. Qh7-h13 .. R
+11. Rk8-n8 .. Qm10xm9 .. Qh13xBa6+#
+12. Rn8xBn6 .. Qa6-e10
+13. Ng4-e3 .. Qe10-i10
+14. Rn6xKn5 .. g13-g11
+15. Rn5xl5 .. g11-g10
+16. Qg1-g4 .. g10-g9
+17. Rl5-h5 .. Qh14-g13
+18. Ne3-f5 .. k13-k11
+19. l4-l5 .. k11-k10
+20. l5-l6 .. k10-k9
+21. l6-l7 .. k9-k8
+22. l7-l8=D .. Qg13xQl8
+23. O-O-O .. k8-k7=D
+24. Bi1-g3 .. Qk7-k2
+25. j2-j3 .. Qk2-k1
+26. Rh5-h6 .. Qk1-h1
+27. Rg1xQh1 .. g9-g8
+28. g5-g6 .. Bi14-c8
+29. g6-g7 .. Ql8-i8
+30. Qg4-g5 .. j13-j11
+31. Rh6-h8 .. Qi8-k10
+32. Nf5-e7 .. Bc8xBh3+
+33. Rh1xBh3 .. Nf12-g10
+34. Rh8-h6 .. Qi10xi2
+35. Rh3-h2 .. Qk10-k1+
+36. Nf3-g1 .. Qi2-i1
+37. Rh2-g2 .. Qi1-j1
+38. Ne7xg8 .. Rk14-k8
+39. Ng8-f6 .. Qj1-e6
+40. g7-g8=D .. Rk8xQg8
+41. Nf6xRg8 .. Be13-j8
+42. Qg5-i5 .. Qe6xNg8
+43. Rh6-d6 .. d13-d11
+44. Qi5xi13 .. Qg8-g9
+45. Rd6-d3 .. Qg9-e9
+46. Qi13-j13 .. Qk1-k3
+47. Qj13xNg10 .. Qk3xj3
+48. Qg10-j10 .. Qe9-e11
+49. Bg3-h2 .. Nj14-k12
+50. Qj10-k11 .. Rf14-k14
+51. Rd3xQj3 .. R

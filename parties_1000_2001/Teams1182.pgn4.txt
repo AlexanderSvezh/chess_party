@@ -1,0 +1,24 @@
+[GameNr "1182"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Pacados"]
+[RedElo "1828"]
+[Blue "true_Kotenka"]
+[BlueElo "1871"]
+[Yellow "Akusu"]
+[YellowElo "1816"]
+[Green "7Mana"]
+[GreenElo "1817"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:03:22 GMT+0000 (UTC)"]
+[CurrentMove "31"]
+
+1. h2-h3 .. b7-c7 .. g13-g12 .. m9-k9
+2. Qg1-j4 .. b6-d6 .. k13-k11 .. Qn8-m9
+3. e2-e3 .. Na5-c6 .. Qh14-e11 .. Nn5-l6
+4. Bi1-g3 .. Qa7-b7 .. Nj14-i12 .. Qm9-l9
+5. Ne1-f3 .. Na10-c9 .. Ne14-f12 .. Nn10-l11
+6. Bf1-e2 .. b4-d4 .. Qe11-h11 .. k9-j9
+7. Rd1-e1 .. Nc6-e5 .. d13-d12 .. Ql9-i6
+8. Nf3-h4 .. Qb7xg2+ .. T

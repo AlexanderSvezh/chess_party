@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "126"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "ilyar044"]
+[RedElo "1536"]
+[Blue "Dzibanche"]
+[BlueElo "1532"]
+[Yellow "0662486145"]
+[YellowElo "1529"]
+[Green "SacOnTopFFAPlayers"]
+[GreenElo "1577"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:03:50 GMT+0000 (UTC)"]
+[CurrentMove "4"]
+
+1. g2-g3 .. b7-d7 .. h13-h12 .. R

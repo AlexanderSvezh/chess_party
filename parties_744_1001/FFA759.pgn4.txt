@@ -1,0 +1,56 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "759"]
+[Result "DiegoAFlores: 75 - SchlegelAlex: 47 - moepsen: 5 - Jefinhooo: 15"]
+[Variant "FFA"]
+[Red "DiegoAFlores"]
+[RedElo "1647"]
+[Blue "SchlegelAlex"]
+[BlueElo "1670"]
+[Yellow "moepsen"]
+[YellowElo "1600"]
+[Green "Jefinhooo"]
+[GreenElo "1680"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:07:45 GMT+0000 (UTC)"]
+[CurrentMove "103"]
+
+1. g2-g4 .. b7-d7 .. h13-h11 .. m7-k7
+2. g4-g5 .. b10-c10 .. d13-d12 .. Qn8-k5
+3. g5-g6 .. Na10-c9 .. Nj14-i12 .. Qk5-d5++
+4. Bf1-g2 .. b6-c6 .. g13-g12 .. Qd5-k5
+5. g6-g7 .. Ba6-e10 .. j13-j12 .. Bn6xBf14
+6. Bg2-f3 .. b5-d5 .. Kg14xBf14 .. Qk5-m7+
+7. g7-g8=D .. Ba9xd12 .. Ne14-g13 .. k7-j7
+8. Qg8-g5 .. Bd12-b10 .. Qh14-h13 .. j7-i7
+9. Qg5xm5 .. Nc9-d11 .. Ni12-j14 .. Kn7-n8
+10. Qm5xRn4 .. Bb10xe13+ .. Kf14-g14 .. Qm7-n6
+11. Qn4xm4 .. Be13xRd14 .. Bi14-j13 .. Nn10-l9
+12. j2-j3 .. Nd11-f12+ .. T .. Qn6xBi1+
+13. Kh1xQi1 .. Nf12xKg14 .. Nl9-m7
+14. Qm4xm6 .. Bd14-e13 .. m10-k10
+15. Qm6-n6+# .. Be13-b10
+16. k2-k4 .. Bb10xRk1
+17. Nj1-i3 .. O-O
+18. h2-h4 .. b8-c8
+19. Ki1-j1 .. Bk1xNi3
+20. Qg1xBi3 .. Qa7xf2
+21. Ne1-g2 .. Ra9-a6
+22. Qn6-f6 .. Na5-b7
+23. h4-h5 .. c8-d8
+24. h5-h6 .. d7-e7
+25. Qf6-f10 .. Be10-d9
+26. h6-h7 .. b4-d4
+27. h7-h8=D .. d4-e4
+28. Qh8xh11 .. e4xBf3
+29. Ng2-h4 .. Qf2xe2
+30. Rd1-g1 .. Ng14-e13
+31. Rg1-g11 .. b11-d11
+32. Rg11xd11 .. Ne13xRd11
+33. Qh11xNd11 .. Nb7-c9
+34. Qd11xBd9 .. Qe2-f1+
+35. Kj1-j2 .. Ka10-b10
+36. Qf10-d12+ .. Kb10-b11
+37. Qd9xNc9 .. Ra6-a10
+38. Qc9xb9+ .. Kb11-a11
+39. Qd12-c11+#

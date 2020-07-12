@@ -1,0 +1,26 @@
+[GameNr "283"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "WIN_TOP_GOD"]
+[RedElo "1622"]
+[Blue "Cousin01"]
+[BlueElo "1383"]
+[Yellow "GolodniSneg"]
+[YellowElo "1611"]
+[Green "angeles1234"]
+[GreenElo "1482"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:51:13 GMT+0000 (UTC)"]
+[CurrentMove "38"]
+
+1. h2-h3 .. b8-d8 .. h13-h11 .. m8-k8
+2. Nj1-h2 .. b7-c7 .. g13-g12 .. k8-j8
+3. Nh2-g4 .. Na5-c6 .. Bi14-h13+ .. Nn10-l9
+4. d2-d3 .. b4-c4 .. Nj14-k12 .. m11-l11
+5. d3xc4 .. b5xc4 .. Nk12-j10 .. Bn9-m8
+6. g2-g3 .. c4-d4 .. Bh13-j11 .. Nl9xNj10
+7. Qg1-g2 .. Ba6-c4 .. Bj11xBm8+ .. Qn8xBm8+
+8. Qg2xNc6+ .. Qa7-b7 .. i13-i12 .. Nj10xi12
+9. Bf1-g2 .. Na10-b8 .. j13xNi12 .. Qm8xi12+
+10. Qc6xQb7+ .. #

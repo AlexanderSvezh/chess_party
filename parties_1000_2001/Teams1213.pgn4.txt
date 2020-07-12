@@ -1,0 +1,17 @@
+[GameNr "1213"]
+[Result "Aborted"]
+[Variant "Teams"]
+[Red "kingcon4848"]
+[RedElo "1440"]
+[Blue "johanlundberg"]
+[BlueElo "1867"]
+[Yellow "kilapride"]
+[YellowElo "1428"]
+[Green "rhorowitz"]
+[GreenElo "1486"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:08:16 GMT+0000 (UTC)"]
+[CurrentMove "3"]
+
+1. h2-h4 .. b7-c7 .. T

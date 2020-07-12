@@ -1,0 +1,55 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "503"]
+[Result "Hebert_Herrera: 18 - Picadat: 55 - nahlagafer: 0 - Ramonavz: 38"]
+[Variant "FFA"]
+[Red "Hebert_Herrera"]
+[RedElo "1601"]
+[Blue "Picadat"]
+[BlueElo "1715"]
+[Yellow "nahlagafer"]
+[YellowElo "1500"]
+[Green "Ramonavz"]
+[GreenElo "1719"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:06:12 GMT+0000 (UTC)"]
+[CurrentMove "130"]
+
+1. g2-g4 .. b5-c5 .. h13-h11 .. m5-l5
+2. g4-g5 .. Ba6-b5 .. h11-h10 .. m10-l10
+3. g5-g6 .. b10-c10 .. i13-i12 .. m11-k11
+4. g6-g7 .. Ba9-b10 .. h10-h9 .. Bn6-m5
+5. g7-g8=D .. Na10-c9 .. h9-h8 .. Nn5-l6
+6. Qg8-g2 .. O-O .. h8-h7=D .. O-O
+7. Nj1-i3 .. b7-c7 .. Qh7-h12 .. m9-k9
+8. k2-k3 .. b8-c8 .. e13-e12 .. Nl6-n7
+9. j2-j3 .. b6-d6 .. Ne14-f12 .. Nn7-l6
+10. Bi1-j2 .. b11-c11 .. Bf14-e13 .. m8-k8
+11. Qg2xBn9 .. Bb5-c6+ .. O-O .. Qn8xQn9
+12. Ne1-f3 .. b4-d4 .. j13-j11 .. Qn9-n8
+13. O-O .. c5-d5 .. Nj14-k12 .. Nn10-l9
+14. Ri1-h1 .. d4-e4 .. Rk14-j14 .. k8-j8
+15. Nf3-h4 .. d5-e5 .. i12-i11 .. m7-k7
+16. f2-f3 .. e4-f4 .. i11-i10 .. Rn11-n10
+17. Qg1xQa7 .. Ra9xQa7 .. Nk12-i11 .. k7-j7
+18. Nh4-g2 .. Nc9-b7 .. k13-k12 .. j7-i7
+19. h2-h4 .. b9-d9 .. g13-g11 .. j8-i8
+20. d2-d4 .. c7-d7 .. g11-g10 .. i8-h8
+21. h4-h5 .. Na5-c4 .. Ni11-j9 .. h8-g8=D
+22. h5-h6 .. c8-d8 .. T .. i7-h7
+23. Ng2-h4 .. Nb7-c9 .. Qg8xi10
+24. Nh4-j5 .. Nc9-e10 .. Nl6xNj5
+25. Ni3xNj5 .. Ne10-d12 .. Rn6-n7
+26. i2-i4 .. Nd12xKe14 .. l10-k10
+27. i4-i5 .. Nc4-e3 .. h7-g7=D
+28. h6xQg7 .. Ne3xRd1 .. Rn7xg7
+29. Rh1-i1 .. Nd1-e3 .. Rg7-j7
+30. Bf1-h3 .. Ra4xd4 .. Rj7-h7
+31. Bh3-i2 .. Bc6-d5 .. Qi10xNj9
+32. j3-j4 .. Ne14xNf12 .. Qj9xNj5
+33. R .. Bd5-e6 .. Qj5xi5
+34. Ne3-g2 .. k10xj11
+35. d8-e8 .. Qi5-f2
+36. Be6xBi2 .. Qf2xRd4
+37. Bi2xKj1 .. Qd4xRa7+
+38. R

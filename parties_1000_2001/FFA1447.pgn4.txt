@@ -1,0 +1,44 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1447"]
+[Result "psalm10: 32 - Gonzulker: 44 - vinclat: 48 - JRB2009: 19"]
+[Variant "FFA"]
+[Red "psalm10"]
+[RedElo "1459"]
+[Blue "Gonzulker"]
+[BlueElo "1500"]
+[Yellow "vinclat"]
+[YellowElo "1633"]
+[Green "JRB2009"]
+[GreenElo "1422"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:34:22 GMT+0000 (UTC)"]
+[CurrentMove "81"]
+
+1. f2-f4 .. b7-d7 .. h13-h11 .. m8-k8
+2. e2-e4 .. d7-e7 .. h11-h10 .. k8-j8
+3. e4-e5 .. b4-c4 .. h10-h9 .. j8-i8
+4. Bf1-d3 .. b5-c5 .. h9-h8 .. m10-l10
+5. Bd3-e4+ .. Ba6-b7 .. g13-g11 .. Bn9-m10
+6. d2-d3 .. c5-d5 .. g11-g10 .. Bm10xRd1
+7. Be4xi8 .. c4xd3 .. g10-g9 .. Qn8xBi8
+8. h2-h3 .. b10-c10 .. h8-h7=D .. Qi8-g10+
+9. Qg1-e3 .. Ba9xe13 .. Qh14-g13 .. Qg10xRa4
+10. Ne1xd3 .. Be13xRd14 .. Bi14xBb7+ .. Qa4xNa5
+11. Qe3-d2 .. Ka8xBb7 .. Qh7-e10+ .. Qa5xb6+
+12. Qd2xBd1 .. Kb7-a8 .. Ne14-d12 .. Qb6-l6
+13. Qd1xRn11 .. b9-d9 .. Qe10-i10 .. T
+14. Qn11xNn10 .. Bd14xQl6 .. Qi10-j11
+15. Qn10xKn7 .. Qa7-g1+# .. Qj11xQn7
+16. e7-f7 .. Qn7-j11
+17. f7-g7 .. g9-g8
+18. Na10-c9 .. Qj11-c11
+19. Qg1-j4 .. j13-j12
+20. Nc9-e10 .. Nd12xNe10
+21. d9xNe10 .. Qc11-b10
+22. Ra11-a9 .. Qb10xRa9+
+23. Ka8-b7 .. Qa9xb8+
+24. Kb7-c6 .. Nj14-i12
+25. Bl6xm7 .. Qg13xBm7
+26. Qj4xQm7 .. Bf14xQm7
+27. R

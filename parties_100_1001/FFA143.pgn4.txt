@@ -1,0 +1,58 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "143"]
+[Result "Attila76: 62 - devil_chekmet: 67 - SieurduLhut: 10 - akimkurman: 6"]
+[Variant "FFA"]
+[Red "Attila76"]
+[RedElo "1591"]
+[Blue "devil_chekmet"]
+[BlueElo "1440"]
+[Yellow "SieurduLhut"]
+[YellowElo "1500"]
+[Green "akimkurman"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:23:06 GMT+0000 (UTC)"]
+[CurrentMove "113"]
+
+1. k2-k4 .. b6-d6 .. g13-g12 .. m8-k8
+2. k4-k5 .. Qa7-d4 .. Bf14-g13 .. k8-j8
+3. k5-k6 .. b7-c7 .. Ne14-d12 .. j8-i8
+4. k6-k7 .. Ba6-c8 .. O-O .. i8-h8
+5. k7-k8=D .. Bc8xi2+ .. Nj14-i12 .. Qn8xQk8
+6. Kh1xBi2 .. Qd4-i4+ .. Ni12-j10 .. Qk8xRk1
+7. Nj1-i3 .. Qi4xBn9+# .. Nj10-h9
+8. h2-h4 .. Qn9xm9 .. i13-i12
+9. g2-g3 .. Qm9xNh9 .. Bg13-f12
+10. f2-f3 .. b5-c5 .. h13-h11
+11. Ne1-g2 .. b10-c10 .. g12-g11
+12. Ng2-e3 .. Ba9xNd12 .. e13xBd12
+13. j2-j4 .. Qh9-e9+ .. Ke14-d14
+14. j4-j5 .. c7-d7 .. Bi14-f11
+15. h4-h5 .. d7-e7 .. Bf11-l5+
+16. Ki2-h2 .. e7-f7 .. Bl5-j3
+17. g3-g4 .. f7-g7 .. Bf12xb8
+18. j5-j6 .. Na10xBb8 .. Qh14xNb8+
+19. j6-j7 .. Ka8xQb8 .. Rf14-e14
+20. j7-j8=D .. Qe9-c7 .. Re14-e8+
+21. Qj8xBj3 .. Kb8-a9 .. Rk14-e14
+22. Bf1-j5 .. b9-d9 .. Re8-e9
+23. Bj5-h7 .. g7xh8=D .. Re9xd9+
+24. Bh7-f5 .. c10xRd9 .. Re14-e13
+25. Qj3xj13 .. Qc7xg11 .. Kd14-e14
+26. Qj13xk13 .. Qh8xd12 .. Re13-e9
+27. Qk13-k14+# .. Qd12-b10
+28. Bi1-j2 .. Qb10-b8
+29. Qg1xQk1 .. d6-e6+
+30. Kh2-i2 .. e6xBf5
+31. Ne3xf5 .. Qb8-c8
+32. Qk14-k8 .. Qc8-c11
+33. Qk1-k7 .. Na5-c6
+34. Rd1-k1 .. Qg11xQk7
+35. Qk8xQk7 .. Qc11xRe9
+36. Ni3-g2 .. Qe9-i13
+37. Rk1-k6 .. Qi13xi12+
+38. Bj2-i3 .. Nc6-d4
+39. Qk7-c7+ .. Ka9-b9
+40. Qc7-c9+ .. Kb9-a10
+41. Qc9-b10+#

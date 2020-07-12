@@ -1,0 +1,38 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "610"]
+[Result "White_Lycan: 11 - nootdorp: 39 - rightegg: 16 - I_am_a_fat: 52"]
+[Variant "FFA"]
+[Red "White_Lycan"]
+[RedElo "1500"]
+[Blue "nootdorp"]
+[BlueElo "1517"]
+[Yellow "rightegg"]
+[YellowElo "1530"]
+[Green "I_am_a_fat"]
+[GreenElo "1674"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:26:34 GMT+0000 (UTC)"]
+[CurrentMove "79"]
+
+1. g2-g4 .. b7-d7 .. h13-h11 .. m8-k8
+2. g4-g5 .. b8-c8 .. h11-h10 .. k8-j8
+3. h2-h3 .. Ba6-b7+ .. h10-h9 .. Bn9-m8+
+4. f2-f3 .. Na5-c6 .. Bi14-h13 .. m9-l9
+5. Bi1xBa9 .. Ka8xBa9 .. h9-h8 .. j8-i8
+6. d2-d4 .. b5-d5 .. g13-g11 .. m10-k10
+7. Ne1-d3 .. Bb7-a6 .. Qh14xQa7+ .. m5-k5
+8. k2-k4 .. Nc6xQa7 .. g11-g10 .. Bn6xj2
+9. Rk1-k2 .. d7-e7 .. h8-h7=D .. i8xQh7
+10. Rk2xBj2 .. e7-f7 .. Bf14-j10 .. Qn8-n9
+11. e2-e3 .. Na7-c6 .. Nj14-k12 .. m11-l11
+12. i2-i4 .. b4-c4 .. Nk12-i11 .. l9-k9
+13. Nd3-f4 .. Nc6-e7 .. Bj10-k11 .. k10-j10
+14. Qg1xk5 .. f7-g7 .. O-O-O .. Kn7-n6
+15. Rj2-j5 .. Ne7-f5 .. Bh13xBm8 .. Qn9xBm8
+16. Rd1-e1 .. Nf5-g3+ .. Ni11-h9 .. Nn5-l4
+17. Kh1-h2 .. Ng3xBf1+ .. Nh9-i7 .. m6-l6
+18. R .. Nf1xKh2 .. Rh14xh7 .. Nn10-l9
+19. c8-d8+ .. Ki14-j14 .. Nl9xBk11
+20. Nh2-g4 .. Rh7xg7 .. Qm8-g14+#
+21. R

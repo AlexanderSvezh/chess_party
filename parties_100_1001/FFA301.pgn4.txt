@@ -1,0 +1,56 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "301"]
+[Result "skurtgang: 63 - Sen-24: 11 - Myvecinotottoro: 87 - noobINdoom32: 1"]
+[Variant "FFA"]
+[Red "skurtgang"]
+[RedElo "1472"]
+[Blue "Sen-24"]
+[BlueElo "1398"]
+[Yellow "Myvecinotottoro"]
+[YellowElo "1747"]
+[Green "noobINdoom32"]
+[GreenElo "1471"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:11:00 GMT+0000 (UTC)"]
+[CurrentMove "107"]
+
+1. j2-j4 .. b7-d7 .. g13-g12 .. m6-k6
+2. h2-h4 .. d7-e7 .. Qh14-g13 .. k6-j6
+3. h4-h5 .. e7-f7 .. h13-h11 .. Nn10-l9
+4. e2-e4 .. f7-g7 .. Bi14-h13 .. Nl9-j8
+5. g2-g4 .. g7-h7=D .. Ne14-f12 .. Nj8xQh7
+6. j4-j5 .. Qa7xNh7 .. Qg13-h12 .. Nn5-l6
+7. i2-i4 .. Qh7-i8 .. Qh12xb6 .. m7-l7
+8. Qg1-g2 .. Na5-c4 .. Qb6-g11 .. m9-l9
+9. Ne1-f3 .. Ba6-d9 .. Bf14-h12 .. Qn8-k11
+10. d2-d3 .. Bd9-c8 .. j13-j12 .. Qk11-j11
+11. d3xNc4 .. b5xc4 .. Bh13xQj11 .. Bn6-j10
+12. Rd1-d4 .. Qi8-e8 .. Bh12xBj10 .. R
+13. Qg2-i2 .. Qe8xe13 .. Rd14-e14
+14. Qi2xKn7 .. Qe13xRe14+ .. Nf12xQe14
+15. Rd4xc4 .. Bc8xg12 .. Qg11xBg12
+16. Nf3-e5 .. b8-d8 .. Bj10xNe5
+17. Bf1-d3 .. b9-c9 .. Be5xBi1
+18. e4-e5 .. T .. Bj11xRc4
+19. Bd3xBc4 .. Qg12xg4
+20. Nj1-i3 .. Qg4xBc4
+21. Qn7-i2 .. Bi1xe5
+22. Ni3-g4 .. Be5xBa9
+23. Ng4-e5 .. Qc4-a6
+24. Ne5-c6 .. Qa6xNc6+
+25. Kh1-g1 .. Qc6-b7
+26. Qi2-g2+ .. Qb7xQg2+
+27. Kg1xQg2 .. h11-h10
+28. Rk1-e1 .. Kg14-f14
+29. Re1-e8 .. Ba9-c7
+30. Re8-e7 .. h10-h9
+31. Re7xBc7 .. Nj14-i12
+32. Rc7-a7 .. h9-h8
+33. Ra7xKa8 .. h8-h7=D
+34. f2-f4 .. Qh7-e4+
+35. Kg2-g3 .. Qe4xRa8
+36. h5-h6 .. Rk14-h14
+37. h6-h7 .. Rh14xh7
+38. k2-k4 .. Qa8xd8
+39. T

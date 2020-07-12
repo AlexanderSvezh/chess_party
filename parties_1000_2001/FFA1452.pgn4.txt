@@ -1,0 +1,45 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1452"]
+[Result "eastbonded: 22 - M_Sabri_18: 6 - Sanpeita: 100 - FrauVomSepp: 16"]
+[Variant "FFA"]
+[Red "eastbonded"]
+[RedElo "1556"]
+[Blue "M_Sabri_18"]
+[BlueElo "1513"]
+[Yellow "Sanpeita"]
+[YellowElo "1498"]
+[Green "FrauVomSepp"]
+[GreenElo "1622"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:35:57 GMT+0000 (UTC)"]
+[CurrentMove "92"]
+
+1. Nj1-i3 .. b7-d7 .. h13-h11 .. m7-k7
+2. j2-j4 .. d7-e7 .. h11-h10 .. k7-j7
+3. j4-j5 .. e7-f7 .. h10-h9 .. j7-i7
+4. k2-k4 .. f7-g7 .. e13-e12 .. i7-h7
+5. Ni3-h5 .. Ba6xBi14 .. Qh14xBi14 .. m8-l8
+6. Nh5-j6 .. b4-c4 .. j13-j12 .. Qn8-m7
+7. k4-k5 .. Na5-c6 .. Ne14-f12 .. Bn9xj5
+8. Nj6-k8 .. Na10-c9 .. Qi14xm10 .. Qm7-m8+
+9. Nk8-l6+ .. Qa7-b7 .. Nj14-h13 .. m5xNl6
+10. k5xl6 .. Qb7-d7 .. Rk14-h14 .. Nn5xl6
+11. Bi1xBn6 .. Qd7-e6 .. Qm10xRn11 .. Rn4xBn6
+12. d2-d4 .. Qe6xh9 .. Qn11xNn10+ .. Kn7-m7
+13. h2-h3 .. b8-c8 .. Qn10xm11 .. m4-k4
+14. g2-g3 .. Qh9-d5+ .. Bf14-e13 .. Bj5xh3
+15. Bf1-g2 .. Qd5-g5 .. Qm11xQg5 .. Bh3-l7
+16. Bg2xBl7 .. R .. O-O .. Qm8xBl7
+17. Rk1xk4 .. Qg5-e7 .. Rn6-n5
+18. Rk4xk13 .. i13-i11 .. Rn5-j5
+19. Kh1-h2 .. Qe7xe2 .. Rj5-h5+
+20. Kh2-i3 .. Qe2xRd1 .. Ql7-h3+
+21. i2xQh3 .. Qd1xRh5 .. R
+22. Ki3-h2 .. Nf12-d11
+23. Rk13-k7 .. Be13xRk7
+24. Qg1-j1 .. Qh5-k5+
+25. Kh2-g2 .. Bk7xNl6
+26. Qj1-j2 .. Bl6xKm7
+27. Ne1-d3 .. i11-i10
+28. R

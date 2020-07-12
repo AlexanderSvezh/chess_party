@@ -1,0 +1,19 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "435"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "nahlagafer"]
+[RedElo "1514"]
+[Blue "Arbalest62"]
+[BlueElo "1544"]
+[Yellow "gavigoldin"]
+[YellowElo "1496"]
+[Green "MarshmallowQueen2"]
+[GreenElo "1528"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:28:41 GMT+0000 (UTC)"]
+[CurrentMove "5"]
+
+1. g2-g3 .. b7-d7 .. h13-h11 .. Nn5-l6
+2. R

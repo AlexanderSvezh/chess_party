@@ -1,0 +1,25 @@
+[GameNr "1453"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "TowersK"]
+[RedElo "2059"]
+[Blue "Martim-Pescador"]
+[BlueElo "1785"]
+[Yellow "king2315"]
+[YellowElo "1500"]
+[Green "owljay"]
+[GreenElo "1911"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:29:34 GMT+0000 (UTC)"]
+[CurrentMove "36"]
+
+1. h2-h3 .. b11-c11 .. g13-g11 .. m9-k9
+2. Bi1-g3 .. b7-c7 .. g11-g10 .. Qn8-l10
+3. Ne1-f3 .. Na10-c9 .. g10-g9 .. Ql10-g10+
+4. Qg1-j4 .. Ba6xh13+ .. Kg14xBh13 .. m5-k5
+5. Qj4-e4+ .. Na5-c6 .. Bf14xk9 .. Qg10-h11+
+6. Qe4-e12 .. Qa7-b7+ .. Kh13-g14 .. Qh11-j11+
+7. Qe12-h12 .. Qb7xBi14 .. Nj14-h13 .. Qj11xj2
+8. Qh12-j12 .. Qi14xQh14+ .. Kg14xQh14 .. Qj2xRk1
+9. Qj12-n8+ .. Nc9-d11 .. Bk9-l10 .. #

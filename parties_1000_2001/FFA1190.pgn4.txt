@@ -1,0 +1,54 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1190"]
+[Result "windarrow: 28 - FileDriver: 58 - AlexanderRamirez1993: 1 - CookA_rus: 32"]
+[Variant "FFA"]
+[Red "windarrow"]
+[RedElo "1795"]
+[Blue "FileDriver"]
+[BlueElo "1787"]
+[Yellow "AlexanderRamirez1993"]
+[YellowElo "1488"]
+[Green "CookA_rus"]
+[GreenElo "1521"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 22:15:15 GMT+0000 (UTC)"]
+[CurrentMove "113"]
+
+1. g2-g4 .. b7-d7 .. h13-h11 .. m8-k8
+2. Ne1-f3 .. b8-c8 .. Bi14-h13+ .. m9-l9
+3. Bf1-i4 .. Na10-c9 .. e13-e12 .. Bn9xBi4
+4. j2-j3 .. b11-c11 .. Nj14-k12 .. Bi4-n9
+5. i2-i4 .. b5-c5 .. h11-h10 .. k8-j8
+6. d2-d3 .. b6-d6 .. h10-h9 .. j8-i8
+7. Bi1-j2 .. Ba9-b8 .. Qh14-j14 .. i8-h8
+8. Qg1-g2 .. Ba6-b7 .. j13-j12 .. h8-g8=D
+9. O-O-O .. O-O .. h9xQg8 .. Qn8xg8
+10. g4-g5 .. Na5-c6 .. Qj14-j13 .. m4-l4
+11. h2-h4 .. d6-e6 .. Qj13-h11 .. Qg8xNk12
+12. Nj1-h2 .. Nc9-b11 .. Bh13-j11 .. Qk12-k7
+13. g5-g6 .. Nb11-d10 .. Ne14-f12 .. Nn5-l6
+14. g6-g7 .. Bb8-c7 .. Qh11-i12 .. m11-k11
+15. g7-g8=D .. Nc6-b8 .. Bf14-e13 .. k11xj12
+16. Qg8xg13+# .. b4-c4 .. Bn9-k6
+17. Qg2-g5 .. c4xd3 .. j12xi13
+18. e2xd3 .. b9-c9 .. Qk7-m9
+19. h4-h5 .. Nb8-d9 .. m7-l7
+20. Qg13-g11 .. Bc7xQg11 .. Rn11xBj11
+21. h5-h6 .. Bg11-d8 .. Bn6-l8
+22. Qg5xm5 .. Qa7-a6 .. Rn4-n5
+23. Qm5xRn5+ .. Qa6xd3+ .. Nl6xQn5
+24. Kf1-e1 .. Ra4-e4+# .. Nn5-l6
+25. Bd8xi13 .. Qm9xBi13
+26. c5-d5 .. Qi13-e9
+27. d5-e5 .. Bk6xe12
+28. e5-f5 .. Be12-c10
+29. f5-g5 .. Qe9-b6
+30. Qd3-d5 .. Nl6-j7
+31. g5-h5=D .. Nn10-m8
+32. Ra9-a6 .. Qb6-e9
+33. c8-d8 .. Qe9-h9
+34. e6-f6 .. Qh9-h11
+35. Re4-e11 .. Qh11xRe11
+36. Nd9xQe11 .. Rj11xNe11
+37. Qh5xBc10 .. R

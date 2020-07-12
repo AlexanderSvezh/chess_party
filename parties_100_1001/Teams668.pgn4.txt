@@ -1,0 +1,24 @@
+[GameNr "668"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Kujtimi"]
+[RedElo "2798"]
+[Blue "LinuxKernell"]
+[BlueElo "2158"]
+[Yellow "mcween"]
+[YellowElo "2587"]
+[Green "salata"]
+[GreenElo "2731"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:36:32 GMT+0000 (UTC)"]
+[CurrentMove "32"]
+
+1. h2-h3 .. b6-d6 .. h13-h12 .. m9-l9
+2. e2-e3 .. b8-c8 .. Qh14-h13 .. m10-k10
+3. Qg1-j4 .. b4-c4 .. Ne14-f12 .. Nn5-l6
+4. Bf1-e2 .. b11-d11 .. Qh13-g12 .. m7-l7
+5. Nj1-i3 .. Na10-c9 .. k13-k11 .. m4-k4
+6. Be2-f3 .. b5-d5 .. Qg12-g8 .. Bn6-m7
+7. Bi1-h2 .. Ba9-b8 .. Nj14-i12 .. Nl6-j5
+8. Qj4xBm7+ .. Nc9-e10 .. Qg8xm8+ .. #

@@ -1,0 +1,60 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "181"]
+[Result "Vlad_Vel: 16 - Nagato_Zetsu: 27 - SMARTandHANDSOME2018: 22 - Davidbloom001: 80"]
+[Variant "FFA"]
+[Red "Vlad_Vel"]
+[RedElo "1500"]
+[Blue "Nagato_Zetsu"]
+[BlueElo "1765"]
+[Yellow "SMARTandHANDSOME2018"]
+[YellowElo "1539"]
+[Green "Davidbloom001"]
+[GreenElo "1564"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:41:43 GMT+0000 (UTC)"]
+[CurrentMove "147"]
+
+1. Nj1-i3 .. Na10-c9 .. Ne14-f12 .. Nn10-l9
+2. Ne1-f3 .. b10-d10 .. Nj14-i12 .. m5-l5
+3. h2-h4 .. Ba9-b10 .. d13-d12 .. m10-l10
+4. Bi1-f4 .. O-O .. k13-k12 .. Bn6xj2
+5. Rk1-j1 .. Na5-c6 .. h13-h11 .. Bj2-m5
+6. g2-g4 .. Nc6-d8 .. h11-h10 .. Nn5-l4
+7. Bf4-i1 .. Nd8-c10 .. h10-h9 .. O-O
+8. Bi1xNl4 .. d10-e10 .. h9-h8 .. Bm5xBl4
+9. Ni3-j5 .. e10-f10 .. h8-h7=D .. Bl4-m5
+10. g4-g5 .. Nc9-e8 .. g13-g11 .. Bn9-m10
+11. g5-g6 .. f10xg11 .. Qh7-h11 .. m8-k8
+12. h4-h5 .. Bb10-d8 .. Qh11xNe8 .. k8-j8
+13. g6-g7 .. b7-d7 .. Qe8-g8 .. m4-k4
+14. Nj5-h4 .. Ba6xBi14 .. Qh14xBi14 .. Qn8-k8
+15. h5-h6 .. Qa7-a6 .. Qi14xQa6 .. m7-k7
+16. h6-h7 .. Ra4xQa6 .. Qg8xh7 .. Rn6-n7
+17. g7-g8=D .. Ra6-a7 .. Qh7-h11 .. Qk8-k10
+18. Qg8-g2 .. Ra7-c7 .. O-O-O .. m11-l11
+19. i2-i3 .. d7-e7 .. Ni12xg11 .. l11xk12
+20. Qg2-g3 .. e7-f7 .. Qh11xNh4+ .. k12xj13+
+21. i3xQh4 .. b5-d5 .. Ki14-j14 .. Rn11-k11
+22. Bf1-h3 .. b4-d4 .. Ng11-h9 .. Rk11-k14+#
+23. Qg1-g2 .. d4-e4 .. Qk10-k8
+24. Nf3-g5 .. f7-g7 .. j8-i8
+25. Qg3-g4 .. Bd8-b10 .. k7-j7
+26. Qg2-j2 .. b6-d6 .. m6-k6
+27. f2-f3 .. d6-e6 .. i8xNh9
+28. f3xe4 .. g7-h7=D .. h9-g9=D
+29. Ng5xQh7 .. Rc7xNh7 .. Qg9-l4
+30. Qj2-i2 .. d5xe4 .. Nl9-k7
+31. Qg4xe4 .. Nc10-d8 .. m9-l9
+32. Bh3xe6 .. Nd8xBe6 .. Rk14xKj14
+33. Qe4xNe6 .. Rh7xh4+ .. j7-i7
+34. Qe6-h3 .. Rh4xQh3+ .. Qk8xe2
+35. Qi2xRh3 .. b8-d8 .. Qe2xRd1+
+36. Kh1-i2 .. Ra9-a5 .. Qd1xd2+
+37. Qh3-h2 .. Ra5-i5+ .. Ql4-k3
+38. Ki2-h1 .. Ri5xi7 .. Qd2-d1+
+39. Qh2-g1 .. d8-e8 .. Qk3-h3+#
+40. Bb10-e7 .. Qh3-h6
+41. Ri7-f7 .. Qd1-d10+
+42. Be7-b10 .. Qh6-a6+
+43. Rf7-a7 .. Qa6xRa7+#

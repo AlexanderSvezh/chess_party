@@ -1,0 +1,64 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1316"]
+[Result "lionacho: 9 - amagador: 18 - Nickolaievich: 70 - Stonedalien7: 59"]
+[Variant "FFA"]
+[Red "lionacho"]
+[RedElo "1531"]
+[Blue "amagador"]
+[BlueElo "1512"]
+[Yellow "Nickolaievich"]
+[YellowElo "1851"]
+[Green "Stonedalien7"]
+[GreenElo "1535"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:00:16 GMT+0000 (UTC)"]
+[CurrentMove "144"]
+
+1. g2-g4 .. b7-d7 .. e13-e12 .. m9-k9
+2. g4-g5 .. d7-e7 .. Ne14-f12 .. m7-l7
+3. g5-g6 .. b6-d6 .. Bf14-e13 .. m5-k5
+4. g6-g7 .. e7-f7 .. O-O .. m11-k11
+5. j2-j3 .. Na5-c6 .. Rf14-g14 .. Bn6xBi1
+6. Kh1xBi1 .. Na10-c9 .. k13-k12 .. Qn8-m7
+7. i2-i4 .. b8-d8 .. j13-j11 .. m10-l10
+8. Nj1-i3 .. Qa7-d7 .. Nj14-i12 .. Qm7-n6+
+9. Ki1-h1 .. b11-c11 .. d13-d11 .. Nn5-l6
+10. h2-h3 .. Ba9-c7 .. Nf12-d13 .. Qn6-m7
+11. Ne1-f3 .. Ba6-c8 .. Bi14-j13 .. Nn10-l9
+12. e2-e3 .. O-O-O .. h13-h11 .. m4-k4
+13. j3xk4 .. d8-e8 .. f13-f11 .. Nl6xk4
+14. Ni3xNk4 .. Qd7-e7 .. Be13xRn4 .. m6-l6
+15. Rk1-j1 .. e8-f8 .. Ke14-f13 .. Qm7-m6
+16. Kh1-h2 .. f8-g8 .. Rg14-e14 .. Qm6xNk4
+17. Qg1-h1 .. Qe7-f6 .. Bn4xl6 .. k5-j5+
+18. Kh2-g2 .. Qf6xg7+ .. Bl6-g11 .. Qk4-i2+#
+19. Bc7xBg11 .. Ni12xBg11 .. Qi2xi4
+20. g8-h8=D .. Qh14-h12 .. Bn9-m10
+21. Qg7-g8 .. Nd13-f12 .. O-O-O
+22. Bc8-d7 .. g13-g12 .. j5-i5
+23. f7-g7 .. i13-i11 .. Rn8-n6
+24. g7-h7=D .. Re14-e13 .. Rn6xd6
+25. Qh8xm8+ .. Nf12-g10 .. Kn9-n10
+26. Qh7xl7 .. Ng10-e9 .. Rd6xNc6+
+27. Bd7xRc6 .. Ne9xQg8 .. Qi4-d9+
+28. Bc6-b7 .. Ng11-e10 .. Qd9-d6+
+29. Bb7-c6 .. Ne10xNc9 .. Qd6-d9+
+30. Bc6-b7 .. h11-h10 .. Qd9-g6+
+31. Bb7-c6 .. Bj13xBc6 .. Qg6-d9+
+32. Ra7-b7 .. Bc6xRb7+ .. Qd9-d4
+33. Ql7xBb7 .. Nc9xQb7 .. Qd4-b6+#
+34. Qh12xQb6 .. i5-h5
+35. Qb6-n6+ .. Kn10-m11
+36. Qn6-h6 .. Nl9-j8
+37. Nb7-c5 .. Bm10-i6
+38. Ng8-i7 .. Bi6-f9
+39. Rk14-h14 .. Bf9-e8
+40. Ni7xh5 .. Be8xNh5
+41. Qh6xBh5 .. l10-k10
+42. j11xk10 .. Nj8xk10
+43. h10-h9 .. Nk10xi11
+44. h9-h8 .. Ni11xk12
+45. h8-h7=D .. Nk12-i13
+46. Qh7-k10 .. Ni13-k12
+47. Qh5-m10+#

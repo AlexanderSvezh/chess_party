@@ -1,0 +1,25 @@
+[GameNr "1066"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "glutenfree55"]
+[RedElo "1839"]
+[Blue "pidgeymasters101"]
+[BlueElo "1484"]
+[Yellow "rightegg"]
+[YellowElo "1486"]
+[Green "juted"]
+[GreenElo "1522"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:23:42 GMT+0000 (UTC)"]
+[CurrentMove "36"]
+
+1. h2-h3 .. b7-c7 .. k13-k11 .. m5-l5
+2. Qg1-j4 .. Ba6-c8 .. k11-k10 .. m4-k4
+3. e2-e3 .. Na5-c6 .. e13-e12 .. Bn6-m5
+4. Bf1-e2 .. Qa7-b7 .. Ne14-f12 .. Nn5-l4
+5. Bi1-g3 .. O-O-O .. j13-j11 .. Nl4-k6
+6. Qj4-g7 .. Na10-c9 .. Bi14xm10 .. Bn9xBm10
+7. Be2xBm10 .. Nc9-e8 .. k10-k9 .. Bm5xj2
+8. Qg7-g11 .. c7-d7 .. k9-k8 .. Bj2xRk1
+9. Qg11xRn4+ .. Ne8-f6 .. k8-k7 .. #

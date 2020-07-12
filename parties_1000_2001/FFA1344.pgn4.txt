@@ -1,0 +1,49 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1344"]
+[Result "Yelbir: 25 - jhadiluweghdl: 45 - yoltzinfernandez: 6 - Tsunamisanto: 39"]
+[Variant "FFA"]
+[Red "Yelbir"]
+[RedElo "1530"]
+[Blue "jhadiluweghdl"]
+[BlueElo "1626"]
+[Yellow "yoltzinfernandez"]
+[YellowElo "1430"]
+[Green "Tsunamisanto"]
+[GreenElo "1650"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:02:09 GMT+0000 (UTC)"]
+[CurrentMove "99"]
+
+1. g2-g4 .. b5-c5 .. e13-e12 .. m10-l10
+2. Ne1-f3 .. b4-d4 .. j13-j12 .. m7-l7
+3. h2-h4 .. Ba6-b5 .. i13-i12 .. m8-k8
+4. g4-g5 .. b11-d11 .. Bf14-e13 .. Nn5-l6
+5. Bf1-h3 .. Na10-c9 .. Bi14xBn9 .. Qn8xBn9
+6. Qg1-g4 .. b8-c8 .. Ne14-f12 .. Bn6-m7
+7. Nj1-h2 .. d11-e11 .. Nf12-e14 .. Qn9-j13
+8. g5-g6 .. Bb5xe2 .. k13-k12 .. Qj13xRk14
+9. Rd1-e1 .. Be2-b5 .. f13-f12 .. m11-k11
+10. g6-g7 .. e11-f11 .. j12xk11 .. Rn11xk11
+11. g7-g8=D .. b10-c10 .. T .. Nn10-l11
+12. Qg8-h8 .. f11-g11 .. Nl11-j10
+13. Qh8xh13 .. Bb5-d7 .. Qk14xk12
+14. Qh13xKg14 .. Bd7xQg4 .. Rk11-h11
+15. Bh3xBg4 .. b7-d7 .. m9-k9
+16. Qg14xg13 .. Na5-b7 .. Qk12-j11
+17. Qg13xf12 .. b6-d6 .. k9-j9
+18. h4-h5 .. d6-e6 .. j9-i9
+19. Qf12-f6 .. c5-d5 .. i9-h9
+20. h5-h6 .. d5-e5 .. h9-g9=D
+21. Qf6-h4 .. Ba9-b10 .. O-O
+22. Nh2-i4 .. e5-f5 .. Nl6-j5
+23. h6-h7 .. d4-e4 .. Nj5xQh4
+24. Bg4-h5 .. e4-f4 .. Qg9-g2+#
+25. f4-g4 .. Bm7-k9
+26. g4xBh5=D .. Nh4-j3
+27. Qh5xNi4 .. Qg2xQi4
+28. Ra4xQi4 .. Rh11xg11
+29. Ra11xRg11 .. Qj11xRg11
+30. Qa7-d4 .. m4-l4
+31. Ri4-g4 .. m6-k6
+32. Rg4xQg11 .. R

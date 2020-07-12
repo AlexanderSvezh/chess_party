@@ -1,0 +1,52 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "724"]
+[Result "Roscodamus: 37 - tintined: 30 - BRACUNATASS: 0 - FENSZI: 40"]
+[Variant "FFA"]
+[Red "Roscodamus"]
+[RedElo "1501"]
+[Blue "tintined"]
+[BlueElo "1614"]
+[Yellow "BRACUNATASS"]
+[YellowElo "1520"]
+[Green "FENSZI"]
+[GreenElo "1649"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:01:00 GMT+0000 (UTC)"]
+[CurrentMove "105"]
+
+1. g2-g4 .. b8-d8 .. k13-k12 .. m7-k7
+2. g4-g5 .. d8-e8 .. j13-j11 .. k7-j7
+3. g5-g6 .. e8-f8 .. i13-i11 .. m8-k8
+4. g6-g7 .. f8-g8 .. i11-i10 .. j7-i7
+5. j2-j3 .. Na10-c9 .. d13-d12 .. k8-j8
+6. Bi1-j2 .. Ba9-b8 .. e13-e11 .. m5-l5
+7. Bj2-k3 .. O-O .. f13-f11 .. m4-l4
+8. Bk3-j2 .. b7-d7 .. f11-f10 .. l5-k5
+9. Nj1-i3 .. Ba6-f11 .. Bi14-j13 .. Bn6-m5
+10. O-O .. Bf11-e12+# .. m9-k9
+11. Bf1-i4 .. b6-d6 .. m10-k10
+12. f2-f4 .. d6-e6 .. Nn5-l6
+13. e2-e3 .. d7-e7 .. O-O
+14. d2-d4 .. Na5-c4 .. k10xj11
+15. d4-d5 .. Nc4xe3 .. m11-l11
+16. Rd1-d3 .. Ne3-f5 .. l11xk12
+17. d5xe6 .. Bb8xf4 .. k9-j9
+18. Qg1-g4 .. Bf4xh2 .. Rn11-k11
+19. Ri1-h1 .. Bh2-e5 .. j9xi10
+20. Qg4xNf5 .. Be5xg7 .. Bn9xBi4
+21. Qf5-f7 .. Bg7xRk11 .. Qn8xBk11
+22. Qf7xBi4 .. e7-f7 .. j11-i11
+23. e6xf7 .. Be12-c10 .. i11-h11
+24. Rh1-f1 .. Nc9-e10 .. k12-j12
+25. Qi4-h4 .. Bc10xf7 .. j12-i12
+26. Ni3-h5 .. Ne10-g11 .. Qk11-i11
+27. Qh4xb10+# .. i10-h10
+28. Rd3-d4 .. h10xNg11=D
+29. Qb10-h4 .. Nl6-j5
+30. Qh4-k4 .. m6-k6
+31. Bj2xl4 .. Nj5xBl4
+32. Qk4-l5 .. Qi11-l11
+33. Ql5xk5 .. i12-h12
+34. Rd4xNl4 .. Ql11xRl4
+35. Qk5xk6 .. Ql4-j2+#

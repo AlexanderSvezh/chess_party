@@ -1,0 +1,59 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1074"]
+[Result "Kelby060: 1 - andresktm1000: 54 - martoni: 27 - ryujade: 1"]
+[Variant "FFA"]
+[Red "Kelby060"]
+[RedElo "1775"]
+[Blue "andresktm1000"]
+[BlueElo "1588"]
+[Yellow "martoni"]
+[YellowElo "1633"]
+[Green "ryujade"]
+[GreenElo "1520"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:37:25 GMT+0000 (UTC)"]
+[CurrentMove "118"]
+
+1. g2-g4 .. b7-d7 .. h13-h11 .. m5-k5
+2. g4-g5 .. d7-e7 .. h11-h10 .. k5-j5
+3. Ne1-f3 .. e7-f7 .. h10-h9 .. j5-i5
+4. Nj1-i3 .. f7-g7 .. j13-j12 .. m7-k7
+5. k2-k3 .. g7-h7=D .. e13-e12 .. Nn5-l6
+6. Bf1-g2 .. Na10-c9 .. Bf14-e13 .. m8-l8
+7. h2-h3 .. Na5-c6 .. Bi14-j13 .. m11-l11
+8. Bi1-h2 .. Qh7-g6 .. h9-h8 .. m9-l9
+9. O-O .. b8-d8 .. Ne14-f12 .. m4-k4
+10. Ni3-g4 .. Ba6-d9 .. O-O .. m10-k10
+11. Ng4xi5 .. Qg6-k2+# .. h8-h7=D .. Bn9-j5
+12. Qk2-f7 .. Qh7-h11 .. Bn6-l4
+13. b11-c11 .. Qh11-k11 .. Qn8-m8
+14. Qf7-e8 .. Bj13xQe8 .. O-O
+15. Bd9xBe8 .. i13-i12 .. k4-j4
+16. b5-d5 .. Qk11-f11 .. j4-i4
+17. d5-e5 .. Nf12-h11 .. i4-h4
+18. Be8-d7 .. Qh14-h13 .. h4xg5=D
+19. Qa7-b8 .. Qh13-h12 .. l9-k9
+20. b4-d4 .. k13-k11 .. Nn10-l9
+21. d4-e4 .. Nj14-h13 .. Nl6-j7
+22. e4-f4 .. Qf11xNj7 .. Qg5-j8
+23. f4-g4 .. Qj7xQj8 .. k9xQj8
+24. g4-h4=D .. g13-g12 .. Bl4-k5
+25. Qh4-n4+# .. Nh13-f12
+26. Qn4xk7 .. g12-g11
+27. e5-f5 .. g11-g10
+28. f5-g5 .. Nh11-j10
+29. Qk7-f7 .. Nj10-i8
+30. g5-h5=D .. Qh12-g11
+31. Qf7-g8 .. Ni8-h10
+32. Qg8-g5 .. g10-g9
+33. Ra4-g4 .. g9-g8
+34. Qh5-h9 .. Rf14-g14
+35. c11-d11 .. Rg14-g12
+36. d11-e11 .. Nf12-h11
+37. Nc9-e10 .. Qg11-h12
+38. Qg5xg8 .. Nh10xQg8
+39. Qh9xNg8 .. Rg12xQg8
+40. Rg4xRg8 .. f13-f11
+41. Ne10-g11 .. Rk14-g14
+42. R

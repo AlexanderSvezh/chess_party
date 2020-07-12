@@ -1,0 +1,25 @@
+[GameNr "1430"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "SheikMex"]
+[RedElo "1745"]
+[Blue "Bonvil"]
+[BlueElo "1884"]
+[Yellow "charles46975"]
+[YellowElo "1506"]
+[Green "Jose129"]
+[GreenElo "1505"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 23:18:58 GMT+0000 (UTC)"]
+[CurrentMove "36"]
+
+1. h2-h3 .. b6-d6 .. Ne14-f12 .. m8-k8
+2. f2-f3 .. Qa7xQg1+ .. i13-i12 .. Qn8-l8
+3. Kh1xQg1 .. b8-c8 .. Qh14-i13 .. Ql8-l10
+4. Bi1-g3 .. Na5-c6 .. k13-k11 .. Ql10-l6+
+5. Bg3-h2 .. Na10-c9 .. k11-k10 .. Bn9-m8
+6. Bh2xQl6 .. b11-d11 .. Qi13xm9 .. m7xBl6
+7. Nj1-k3 .. d11-e11 .. Qm9xm10 .. Bm8-l9
+8. Nk3xm4 .. e11xNf12 .. k10xBl9 .. Nn10xl9
+9. Nm4xl6+ .. f12xg13 .. Qm10-m8+ .. #

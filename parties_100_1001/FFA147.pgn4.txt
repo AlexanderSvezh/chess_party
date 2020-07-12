@@ -1,0 +1,74 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "147"]
+[Result "krylayi: 34 - caballerocaballero: 5 - jaydenmcevoy: 47 - curtisad: 69"]
+[Variant "FFA"]
+[Red "krylayi"]
+[RedElo "1500"]
+[Blue "caballerocaballero"]
+[BlueElo "1500"]
+[Yellow "jaydenmcevoy"]
+[YellowElo "1443"]
+[Green "curtisad"]
+[GreenElo "1721"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:31:38 GMT+0000 (UTC)"]
+[CurrentMove "156"]
+
+1. g2-g4 .. b8-d8 .. h13-h11 .. m7-l7
+2. k2-k3 .. d8-e8 .. h11-h10 .. m9-l9
+3. g4-g5 .. e8-f8 .. h10-h9 .. m8-k8
+4. Bf1-j5 .. Qa7-b8 .. h9-h8 .. k8-j8
+5. Bj5-g8 .. b7-d7 .. Bi14xBa6 .. Bn9-m8
+6. h2-h3 .. Na5-b7 .. Ba6xb5 .. l9-k9+
+7. Bi1xQb8 .. Ba9xBb8 .. Nj14-h13 .. k9-j9
+8. Ne1-f3 .. Ra4-a5 .. Bb5xd7 .. Bn6-m7
+9. Nf3-e5 .. Ra5-d5 .. Bd7-c6 .. Bm7xQg1
+10. Ne5xBc6 .. Rd5-e5 .. e13-e12 .. Bg1-l6
+11. Nc6xRe5 .. R .. g13-g12 .. j9-i9
+12. Bg8-f9 .. Qh14xBb8 .. i9xh8
+13. Bf9xj13 .. Rk14-j14 .. m11-l11
+14. Ne5-d7 .. Qb8xKa8 .. h8-g8=D
+15. Nd7-e9 .. Rj14xBj13 .. Qg8xg5
+16. Nj1-i3 .. Qa8xNb7+ .. Bm8-i12
+17. f2-f3 .. Rj13-j12 .. Bi12xNh13+
+18. Ne9-c10 .. Kg14xBh13 .. Qn8-m8+
+19. Rd1-g1 .. Kh13-i14 .. Qg5-i7
+20. Ni3-j5 .. Qb7-e10 .. Qi7-c7
+21. Nj5xBl6+ .. Qe10xNc10 .. Nn5xNl6
+22. h3-h4 .. Qc10xQc7 .. Qm8-g14+
+23. Rg1-g7 .. Ki14-j13 .. Qg14xBf14
+24. Rg7xQc7 .. Ne14-f12 .. Qf14-l8
+25. Rc7-f7 .. Rj12-j10 .. m10-k10
+26. Rf7xf8 .. Rj10xj8 .. Ql8xh4+
+27. Kh1-i1 .. Rj8xRf8 .. O-O
+28. i2-i3 .. Rd14-h14 .. Qh4-j6+
+29. Ki1-j1 .. Kj13-i14 .. l7-k7
+30. Kj1-k2 .. Rf8-h8 .. k7-j7
+31. Rk1-g1 .. T .. Qj6-c6
+32. Rg1xg12 .. Qc6-k14
+33. Rg12xNf12 .. Qk14xKi14
+34. Rf12xf13 .. Qi14-d9+
+35. j2-j3 .. Nl6-k4
+36. Rf13-f4 .. Nk4xi3+
+37. Kk2-j2 .. Qd9-d8
+38. Kj2-i2 .. Ni3-g2
+39. Rf4-g4 .. Qd8-i3+
+40. Ki2-h1 .. Qi3-h3+
+41. Kh1-g1 .. Ng2-i3
+42. Rg4-g14 .. j7-i7
+43. Rg14-g7 .. Qh3-h1+
+44. Kg1-f2 .. i7xRh8
+45. Rg7-g1 .. Qh1-h4+
+46. Kf2-e3 .. Rn6-n8
+47. Rg1-g8 .. Qh4-e7+
+48. Ke3-f2 .. Ni3-h1+
+49. Kf2-e1 .. Qe7-f7
+50. Rg8-g1 .. Nh1-i3
+51. Rg1-g3 .. Ni3-j5
+52. d2-d3 .. h8-g8=D
+53. Rg3-h3 .. Qf7-i7
+54. Rh3-h1 .. Nj5-i3
+55. Rh1-i1 .. Ni3-g2+
+56. Ke1-f1 .. Ng2xRi1
+57. Kf1-e1 .. Qg8-g1+#

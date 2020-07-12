@@ -1,0 +1,21 @@
+[GameNr "232"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "V7adimir"]
+[RedElo "1527"]
+[Blue "vlo1111"]
+[BlueElo "1581"]
+[Yellow "AngelofHELL-ABADDON"]
+[YellowElo "1527"]
+[Green "WIN_TOP_GOD"]
+[GreenElo "1568"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:35:44 GMT+0000 (UTC)"]
+[CurrentMove "18"]
+
+1. h2-h3 .. b7-c7 .. h13-h12 .. Nn10-l9
+2. Qg1-k5 .. Na5-c6 .. Bi14xBa6 .. m8-k8
+3. Qk5xb5 .. b4-d4 .. Qh14-h13 .. Qn8-m8
+4. Qb5xNc6+ .. Qa7-b7 .. Ba6xQb7+ .. Nl9-k7
+5. Qc6xRa4+ .. #

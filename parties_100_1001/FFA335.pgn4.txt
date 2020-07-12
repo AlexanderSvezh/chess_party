@@ -1,0 +1,33 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "335"]
+[Result "AngelofHELL-ABADDON: 36 - Belka17six: 5 - V7adimir: 67 - Blaz4r: 6"]
+[Variant "FFA"]
+[Red "AngelofHELL-ABADDON"]
+[RedElo "1736"]
+[Blue "Belka17six"]
+[BlueElo "1542"]
+[Yellow "V7adimir"]
+[YellowElo "1546"]
+[Green "Blaz4r"]
+[GreenElo "1506"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:09:53 GMT+0000 (UTC)"]
+[CurrentMove "50"]
+
+1. g2-g4 .. b7-d7 .. h13-h11 .. m7-k7
+2. Ne1-f3 .. d7-e7 .. h11-h10 .. k7-j7
+3. g4-g5 .. e7-f7 .. h10-h9 .. Bn6-j10
+4. g5-g6 .. f7-g7 .. Bi14xBa6 .. Bj10xg7
+5. j2-j3 .. Qa7xBg7 .. Ba6xb5 .. m8-k8
+6. Bi1xm5 .. T .. Bb5-c6 .. m10-k10
+7. Bf1xBn9 .. Bc6xKa8 .. Qn8xBn9
+8. Bm5xRn4 .. k13-k12 .. m4-l4
+9. Nj1-i3 .. Ba8xNf3+ .. Qn9-l7
+10. e2xBf3 .. h9-h8 .. Ql7-l5
+11. Qg1-g2 .. h8xQg7=D .. Nn10-l9
+12. k2-k4 .. Qh14-h12 .. Ql5-e5
+13. O-O .. Qg7xQe5 .. R
+14. Qg2-m8 .. Qe5xNn5
+15. Qm8xKn7 .. Qn5xQn7
+16. R

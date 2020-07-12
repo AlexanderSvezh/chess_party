@@ -1,0 +1,21 @@
+[GameNr "145"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Besas"]
+[RedElo "2904"]
+[Blue "LinuxKernell"]
+[BlueElo "2155"]
+[Yellow "Nitojua93"]
+[YellowElo "2354"]
+[Green "spider-war"]
+[GreenElo "2457"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:13:59 GMT+0000 (UTC)"]
+[CurrentMove "20"]
+
+1. h2-h3 .. b6-d6 .. g13-g12 .. m9-l9
+2. d2-d4 .. Qa7-b6 .. k13-k11 .. m8-k8
+3. Qg1-j4 .. Qb6-f10 .. Bf14-h12 .. Qn8-m8
+4. Nj1-i3 .. Qf10xf2 .. Qh14-f12 .. m5-k5
+5. Qj4-i4 .. Qf2-e3 .. Qf12xRn4 .. R

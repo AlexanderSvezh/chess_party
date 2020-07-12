@@ -1,0 +1,21 @@
+[GameNr "227"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Antruni"]
+[RedElo "1812"]
+[Blue "noddler"]
+[BlueElo "1618"]
+[Yellow "tyuiopweij"]
+[YellowElo "1506"]
+[Green "GolodniSneg"]
+[GreenElo "1555"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:33:19 GMT+0000 (UTC)"]
+[CurrentMove "20"]
+
+1. h2-h3 .. b7-c7 .. g13-g11 .. Nn10-l9
+2. e2-e4 .. Na10-c9 .. Bf14-g13 .. m7-l7
+3. Bi1-h2 .. Qa7-b7 .. Bg13xBn6 .. Kn7xBn6
+4. Bh2xQn8 .. Qb7xe4 .. e13-e12 .. Nl9xBn8
+5. Qg1xNn8+ .. Qe4xg2+ .. h13-h12 .. #

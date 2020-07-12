@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "552"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "Don_Hector_Salamanca"]
+[RedElo "1500"]
+[Blue "vijayrawal"]
+[BlueElo "1703"]
+[Yellow "MAGTARavg"]
+[YellowElo "1500"]
+[Green "Tom21112006"]
+[GreenElo "1491"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:03:31 GMT+0000 (UTC)"]
+[CurrentMove "4"]
+
+1. g2-g4 .. b7-d7 .. g13-g12 .. R

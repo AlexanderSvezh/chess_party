@@ -1,0 +1,27 @@
+[GameNr "492"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "mimiansa"]
+[RedElo "1500"]
+[Blue "ImnotaStark"]
+[BlueElo "1483"]
+[Yellow "KZ2008"]
+[YellowElo "1500"]
+[Green "oscarbacca"]
+[GreenElo "1696"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 18:54:57 GMT+0000 (UTC)"]
+[CurrentMove "42"]
+
+1. g2-g4 .. b7-d7 .. g13-g11 .. m8-l8
+2. Bf1-g2+ .. Na5-b7 .. Nj14-i12 .. Nn10-l9
+3. h2-h4 .. b10-c10 .. h13-h11 .. Nn5-l6
+4. Nj1-i3 .. b8-d8 .. Bf14-g13 .. m4-k4
+5. Bi1xBa9 .. Ka8xBa9 .. Bg13xQa7 .. k4-j4
+6. Ni3-h5 .. Na10-b8 .. Qh14xNb8+ .. Bn9xBg2+
+7. Qg1xBg2 .. Ka9-b10 .. Qb8-d10 .. j4-i4
+8. O-O .. b11-c11 .. Qd10-f12 .. i4xNh5
+9. g4xh5 .. Kb10-a9 .. Ba7-b8+ .. Rn4xh4
+10. Ri1-h1 .. Ka9-a8 .. Bb8-e5 .. Rh4xRh1+
+11. Qg2xRh1 .. T

@@ -1,0 +1,20 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "1153"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "pabloMarinozi"]
+[RedElo "1513"]
+[Blue "mohamedyunis"]
+[BlueElo "1609"]
+[Yellow "miltonvaldameri"]
+[YellowElo "1608"]
+[Green "facupardo"]
+[GreenElo "1505"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:48:35 GMT+0000 (UTC)"]
+[CurrentMove "9"]
+
+1. g2-g4 .. b10-c10 .. e13-e12 .. m7-k7
+2. g4-g5 .. Na10-c9 .. d13-d12 .. k7-j7
+3. T

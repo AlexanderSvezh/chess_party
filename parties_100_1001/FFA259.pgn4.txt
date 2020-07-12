@@ -1,0 +1,32 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "259"]
+[Result "konaghost: 11 - luciano09876543210: 70 - lorens933: 3 - Myvecinotottoro: 15"]
+[Variant "FFA"]
+[Red "konaghost"]
+[RedElo "1500"]
+[Blue "luciano09876543210"]
+[BlueElo "1483"]
+[Yellow "lorens933"]
+[YellowElo "1496"]
+[Green "Myvecinotottoro"]
+[GreenElo "1752"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:52:17 GMT+0000 (UTC)"]
+[CurrentMove "58"]
+
+1. h2-h4 .. b7-d7 .. h13-h11 .. m10-l10
+2. Ne1-f3 .. d7-e7 .. h11-h10 .. Bn9-m10
+3. Nj1-i3 .. e7-f7 .. h10-h9 .. Qn8-n9
+4. Bi1-f4 .. f7-g7 .. h9-h8 .. Bm10xj13
+5. O-O .. g7-h7=D .. Qh14-h13 .. Bj13xBi14
+6. e2-e3 .. b10-c10 .. Qh13-h9 .. Bi14-j13
+7. g2-g3 .. Ba9-b10 .. Nj14-k12 .. Bj13xRk14
+8. Bf1-j5 .. Qh7-d7 .. h8-h7=D .. Bk14xQd7
+9. Bj5xQh7 .. Qa7xBd7 .. Nk12-j10 .. Qn9-m10
+10. Nf3-h2 .. Na10-c9 .. g13-g12 .. Nn10-l9
+11. Bh7-i6 .. O-O .. Bf14-h12 .. O-O-O
+12. Ni3-k4 .. Ba6-c8 .. Nj10xNl9 .. m8xNl9
+13. Bi6xl9+ .. Qd7-h7 .. Qh9-j11 .. Qm10-i14+
+14. Bl9xQj11+ .. Qh7xBh12# .. m5-l5
+15. T .. Bc8xi2 .. R

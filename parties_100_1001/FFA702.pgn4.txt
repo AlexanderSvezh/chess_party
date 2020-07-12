@@ -1,0 +1,54 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "702"]
+[Result "TheDios777: 0 - 684P: 59 - Bayames: 1 - Saaalocin: 40"]
+[Variant "FFA"]
+[Red "TheDios777"]
+[RedElo "1488"]
+[Blue "684P"]
+[BlueElo "1833"]
+[Yellow "Bayames"]
+[YellowElo "1500"]
+[Green "Saaalocin"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 19:55:10 GMT+0000 (UTC)"]
+[CurrentMove "99"]
+
+1. g2-g4 .. b7-d7 .. g13-g11 .. m7-k7
+2. g4-g5 .. d7-e7 .. h13-h11 .. m8-k8
+3. Ne1-g2 .. b9-d9 .. Bf14-i11 .. Bn6xBi11
+4. g5-g6 .. Na5-c6 .. Ne14-f12 .. Bi11-l8
+5. g6-g7 .. Ba6-c8 .. Bi14-g12 .. Bn9-l7
+6. g7-g8=D .. Qa7-d7 .. g11-g10 .. Nn5-l6
+7. Qg8-g4 .. Qd7xQg4 .. Nj14-i12 .. Qn8-m8
+8. Ng2-i3 .. Qg4xi2+# .. Bg12-h13 .. O-O
+9. Qi2-d7 .. Ni12-k11 .. Qm8-n8
+10. Bc8-b9 .. Nk11xm10 .. Qn8-n9
+11. Qd7-c8 .. Nm10-k11 .. Nn10-l9
+12. Qc8-c10 .. d13-d11 .. Nl9xNk11
+13. Qc10-c11 .. e13-e12 .. Nk11xj13
+14. b8-c8 .. Qh14-j14 .. m11-l11
+15. Qc11-d10 .. Nf12-d13 .. l11-k11
+16. Ba9-b8 .. e12-e11 .. Bl7-m8
+17. Qd10xd11 .. R .. Nj13-h12
+18. e7-f7 .. Bl8-j10
+19. b4-d4 .. Nh12xKg14
+20. Bb8xe11 .. Nl6-j7
+21. d4-e4 .. Ng14-e13
+22. Qd11-e12 .. Ne13-g14
+23. e4-f4 .. Bm8-h3
+24. Qe12xg10 .. Ng14-h12
+25. Qg10xh11 .. Qn9-i4
+26. Nc6-d8 .. Bj10-e5
+27. Qh11xk8 .. Be5xf4
+28. f7-g7 .. Nj7-i9
+29. Qk8xk7 .. Nh12-g10
+30. Be11-h8 .. Rn11-n7
+31. Qk7xm9 .. Qi4-g4
+32. Ra4-a7 .. Ng10xBh8
+33. g7xNh8=D .. Rn7xRa7+
+34. Ka8xRa7 .. Bf4-b8+
+35. Na10xBb8 .. Qg4-a4+
+36. Nb8-a6 .. Rn6-n7+
+37. Nd8-b7 .. T

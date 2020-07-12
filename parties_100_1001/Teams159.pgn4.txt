@@ -1,0 +1,25 @@
+[GameNr "159"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "WIN_TOP_GOD"]
+[RedElo "1540"]
+[Blue "oblivi"]
+[BlueElo "1499"]
+[Yellow "vlo1111"]
+[YellowElo "1554"]
+[Green "vonyass"]
+[GreenElo "1499"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 17:20:13 GMT+0000 (UTC)"]
+[CurrentMove "36"]
+
+1. g2-g3 .. b7-d7 .. g13-g12 .. m8-k8
+2. Bf1-g2+ .. Ba6-b7 .. e13-e12 .. k8-j8
+3. Ne1-f3 .. b11-c11 .. Qh14-e11 .. j8-i8
+4. Nj1-i3 .. b10-d10 .. Qe11-f10 .. i8-h8
+5. Bg2xBn9 .. Bb7xNf3+ .. Qf10-k10+ .. Nn10-l9
+6. e2xBf3 .. b6-d6 .. Qk10xm10 .. h8-g8
+7. Qg1-g2 .. d6-e6 .. Qm10xRn11 .. m7-k7
+8. j2-j3 .. Ba9-b10 .. Qn11xNl9+ .. Qn8-m8
+9. Qg2xQm8+ .. Qa7xf2 .. Bf14xc11 .. #
