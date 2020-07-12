@@ -1,0 +1,19 @@
+[GameNr "924"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "9099999999"]
+[RedElo "1730"]
+[Blue "onitsedazz"]
+[BlueElo "1475"]
+[Yellow "Metha_Chemista"]
+[YellowElo "1506"]
+[Green "Yolher"]
+[GreenElo "1472"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:37:38 GMT+0000 (UTC)"]
+[CurrentMove "12"]
+
+1. h2-h3 .. b7-c7 .. h13-h12 .. m6-k6
+2. Qg1-k5 .. b8-c8 .. g13-g12 .. m4-l4
+3. Qk5-l5+ .. Ba9-b8 .. f13-f12 .. #

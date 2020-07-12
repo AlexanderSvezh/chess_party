@@ -1,0 +1,19 @@
+[GameNr "888"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Dhdbvwhd"]
+[RedElo "1426"]
+[Blue "ghidzorz"]
+[BlueElo "1603"]
+[Yellow "kilapride"]
+[YellowElo "1463"]
+[Green "AgentOrangeJuice"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:28:22 GMT+0000 (UTC)"]
+[CurrentMove "11"]
+
+1. h2-h3 .. b7-d7 .. e13-e11 .. m7-k7
+2. Qg1xQn8+ .. b8-c8 .. i13-i11 .. Kn7xQn8
+3. Bi1-h2+ .. Ba9xBh2 .. R

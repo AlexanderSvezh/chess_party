@@ -1,0 +1,17 @@
+[GameNr "999"]
+[Result "Aborted"]
+[Variant "Teams"]
+[Red "chustgame"]
+[RedElo "1734"]
+[Blue "Akusu"]
+[BlueElo "1844"]
+[Yellow "Beginner122143"]
+[YellowElo "1894"]
+[Green "Great-Gazoo"]
+[GreenElo "1302"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:59:11 GMT+0000 (UTC)"]
+[CurrentMove "4"]
+
+1. h2-h3 .. b7-c7 .. g13-g12 .. T

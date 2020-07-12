@@ -1,0 +1,20 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "965"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "jhadiluweghdl"]
+[RedElo "1660"]
+[Blue "zserbo0314"]
+[BlueElo "1872"]
+[Yellow "KevK1314"]
+[YellowElo "1663"]
+[Green "samuelplayer"]
+[GreenElo "1731"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:49:16 GMT+0000 (UTC)"]
+[CurrentMove "9"]
+
+1. j2-j3 .. b6-d6 .. e13-e12 .. m4-l4
+2. k2-k4 .. d6-e6 .. Ne14-f12 .. m7-k7
+3. T

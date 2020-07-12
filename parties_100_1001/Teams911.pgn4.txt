@@ -1,0 +1,22 @@
+[GameNr "911"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "juliendecarufel"]
+[RedElo "1522"]
+[Blue "Amogh211"]
+[BlueElo "1500"]
+[Yellow "antonicimar"]
+[YellowElo "1522"]
+[Green "rubiayyegua"]
+[GreenElo "1663"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:38:40 GMT+0000 (UTC)"]
+[CurrentMove "24"]
+
+1. h2-h3 .. b7-d7 .. f13-f12 .. m8-l8
+2. e2-e3 .. Na5-c6 .. g13-g11 .. Bn9-l7
+3. Qg1-k5 .. Nc6-d8 .. e13-e11 .. Qn8-m8
+4. Qk5-d5+ .. b6-c6 .. i13-i12 .. Bl7xh3
+5. Qd5-h5 .. c6-d6 .. h13-h11 .. Qm8xi12+
+6. Qh5-f3+ .. Qa7-b7 .. Nj14xQi12 .. R

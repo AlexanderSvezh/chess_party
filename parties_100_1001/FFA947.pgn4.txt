@@ -1,0 +1,29 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "947"]
+[Result "torreXtorre: 30 - Nj314: 42 - macksikrio: 5 - janniely: 9"]
+[Variant "FFA"]
+[Red "torreXtorre"]
+[RedElo "1635"]
+[Blue "Nj314"]
+[BlueElo "1500"]
+[Yellow "macksikrio"]
+[YellowElo "1468"]
+[Green "janniely"]
+[GreenElo "1536"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:48:31 GMT+0000 (UTC)"]
+[CurrentMove "37"]
+
+1. j2-j3 .. b10-d10 .. g13-g11 .. m8-k8
+2. Bi1-j2 .. Ba9xe13 .. Bf14xBe13 .. k8-j8
+3. Bj2xRa11 .. b6-d6 .. g11-g10 .. j8-i8
+4. Ba11-j2 .. Qa7-d4 .. g10-g9 .. m7-k7
+5. e2-e3 .. Qd4-g7 .. Qh14-g13 .. Bn6xQg13
+6. Nj1-i3 .. Qg7xg9 .. T .. Bg13-n6
+7. O-O .. Qg9xKg14 .. Nn5-l6
+8. h2-h4 .. Qg14xh13+ .. T
+9. Qg1-h2 .. Qh13xKn7
+10. Qh2xd6 .. Na5-c4
+11. Qd6xd10 .. b11-c11
+12. Qd10xNa10+#

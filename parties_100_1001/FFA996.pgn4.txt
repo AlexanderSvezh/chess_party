@@ -1,0 +1,43 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "996"]
+[Result "intlextreme: 23 - Lt_Jilli: 49 - fereira977: 4 - tintined: 55"]
+[Variant "FFA"]
+[Red "intlextreme"]
+[RedElo "1631"]
+[Blue "Lt_Jilli"]
+[BlueElo "1787"]
+[Yellow "fereira977"]
+[YellowElo "1473"]
+[Green "tintined"]
+[GreenElo "1612"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:10:58 GMT+0000 (UTC)"]
+[CurrentMove "87"]
+
+1. g2-g4 .. b10-d10 .. j13-j11 .. m8-k8
+2. g4-g5 .. b11-d11 .. j11-j10 .. k8-j8
+3. g5-g6 .. d10-e10 .. j10-j9 .. j8-i8
+4. g6-g7 .. Na5-c6 .. h13-h11 .. Bn9xBf1
+5. Qg1xBf1 .. Nc6-e7 .. Bi14xe10 .. Nn10-l9
+6. Qf1-g2 .. d11xBe10 .. Ne14-f12 .. m7-l7
+7. g7-g8=D .. Ne7xQg8 .. Nf12xe10 .. Qn8-j8
+8. Qg2xNg8 .. b5-c5 .. Qh14-h13 .. i8-h8
+9. d2-d3 .. b7-c7 .. h11-h10 .. O-O-O
+10. Ne1-f3 .. Na10-c11 .. h10-h9 .. m5-l5
+11. Qg8-g6 .. Ba6xNe10 .. Qh13-h11 .. Bn6xj2
+12. O-O-O .. b9-c9 .. Qh11-i10 .. Bj2xRk1
+13. Qg6xm6 .. Be10-d11 .. Qi10xi2 .. Nn5-m7
+14. Bi1-m5 .. Bd11-b9 .. Qi2xk2 .. Qj8xj9
+15. Nj1-k3 .. Qa7-b7 .. Qk2-i4+ .. Bk1-j2
+16. Nk3xQi4 .. Qb7-i14+# .. Bj2xBm5
+17. Qm6xBm5 .. Qi14-b7 .. h8-g8=D
+18. Ni4-g3 .. Nc11-d9 .. Nm7-k6
+19. Qm5-k3 .. b8-d8 .. m4-l4
+20. Qk3-i5 .. Nd9-b8 .. Nk6xQi5
+21. R .. Qb7xNf3 .. Qj9-j5
+22. Qf3xf2 .. Ni5-g4
+23. Qf2xKf1 .. Qj5xQf1
+24. Bb9-c8 .. Qf1-f6
+25. Nb8-d7 .. Qf6-c6+
+26. R

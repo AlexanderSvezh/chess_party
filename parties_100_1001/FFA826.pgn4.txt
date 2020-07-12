@@ -1,0 +1,43 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "826"]
+[Result "Captain_Bruhh: 69 - shortlight: 7 - Noril4anin: 9 - pranavatchess: 34"]
+[Variant "FFA"]
+[Red "Captain_Bruhh"]
+[RedElo "1937"]
+[Blue "shortlight"]
+[BlueElo "1878"]
+[Yellow "Noril4anin"]
+[YellowElo "1819"]
+[Green "pranavatchess"]
+[GreenElo "1886"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:20:31 GMT+0000 (UTC)"]
+[CurrentMove "81"]
+
+1. d2-d4 .. b10-c10 .. h13-h11 .. m10-l10
+2. k2-k4 .. Ba9-b10 .. h11-h10 .. Bn9-m10
+3. Ne1-f3 .. b9-d9 .. h10-h9 .. Bm10-l9+
+4. g2-g4 .. Bb10xe13 .. i13-i12 .. m7-l7
+5. Qg1-g3 .. Be13-a9 .. d13-d11 .. Bn6-m7
+6. Qg3-h4 .. Na10-c9 .. Ne14-f12 .. m4-l4
+7. Nj1-i3 .. b4-c4 .. d11-d10 .. Nn5-l6
+8. h2-h3 .. Ba9xBf14 .. d10xNc9 .. Nn10-l11
+9. Qh4-h8 .. Bf14-b10 .. c9xb8 .. m8-k8
+10. e2-e3 .. Qa7xb8 .. k13-k12 .. Nl11-k9
+11. Qh8xQb8+# .. h9-h8 .. Bl9xi12+
+12. d4-d5 .. Nj14xBi12 .. O-O
+13. d5-d6 .. h8-h7=D .. Nk9-m8
+14. d6-d7 .. Bi14-g12 .. m9-k9
+15. d7-d8=D .. Qh14-h13 .. Rn6-n7
+16. Rd1-d5 .. O-O-O .. Bm7-n6
+17. Bf1-e2 .. Bg12-f11 .. Kn5-n4
+18. j2-j3 .. Qh13-h9 .. l10-k10
+19. Bi1-h2 .. Qh7-i8 .. Qn8-i13+#
+20. Qd8xQi13 .. m11-k11
+21. Ni3-j5 .. Nl6xNj5
+22. Rd5xNj5 .. Nm8-l6
+23. Bh2xNl6 .. m5xBl6
+24. Qi13xb6 .. Bn6-m5
+25. Rj5xBm5 .. Kn4xRm5
+26. Qb8-e5+ .. T

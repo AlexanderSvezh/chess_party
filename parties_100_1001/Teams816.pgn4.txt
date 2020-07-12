@@ -1,0 +1,24 @@
+[GameNr "816"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "leorastelli"]
+[RedElo "2221"]
+[Blue "9099999999"]
+[BlueElo "1690"]
+[Yellow "8943GHWRGW34IH89H"]
+[YellowElo "1508"]
+[Green "yamnik"]
+[GreenElo "2002"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:12:52 GMT+0000 (UTC)"]
+[CurrentMove "32"]
+
+1. h2-h3 .. b7-c7 .. g13-g12 .. m9-l9
+2. Qg1-j4 .. Qa7-b7 .. k13-k11 .. m8-k8
+3. Ne1-f3 .. Na5-c6 .. Qh14-g13 .. Nn5-l6
+4. k2-k4 .. b11-d11 .. Qg13-e11 .. m5-l5
+5. k4-k5 .. Na10-c9 .. Qe11-g11 .. Nl6-k4
+6. j2-j3 .. Nc9-e10 .. Qg11xRn4 .. Nn10-m8
+7. j3xNk4 .. Qb7-d9 .. d13-d12 .. Qn8xk11
+8. Qj4-j5 .. Qd9-d8 .. Rk14xQk11 .. R

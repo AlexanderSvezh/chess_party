@@ -1,0 +1,39 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "832"]
+[Result "Mubarakjaradat61: 42 - josh9874: 60 - gardeneer_do: 16 - krylayi: 7"]
+[Variant "FFA"]
+[Red "Mubarakjaradat61"]
+[RedElo "1656"]
+[Blue "josh9874"]
+[BlueElo "1500"]
+[Yellow "gardeneer_do"]
+[YellowElo "1511"]
+[Green "krylayi"]
+[GreenElo "1496"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:22:47 GMT+0000 (UTC)"]
+[CurrentMove "75"]
+
+1. g2-g4 .. b7-d7 .. g13-g12 .. m8-k8
+2. f2-f3 .. d7-e7 .. j13-j12 .. m7-l7
+3. g4-g5 .. e7-f7 .. Bf14xBn6 .. Kn7xBn6
+4. j2-j3 .. f7-g7 .. Bi14-j13 .. k8-j8
+5. Nj1-i3 .. g7-h7=D .. d13-d12 .. j8-i8
+6. Bi1-j2 .. Qh7-f5 .. Ne14-f12 .. i8-h8
+7. e2-e4 .. Qf5-h7 .. O-O .. h8-g8=D
+8. O-O .. Qh7-c7 .. h13-h11 .. Qg8xg5
+9. Qg1xQg5 .. Qc7xh2 .. Rf14-g14 .. Nn5-l6
+10. Qg5xm5+ .. Ba6-c8 .. g12-g11 .. Kn6-m7
+11. Ni3-g4 .. Qh2xNl6+ .. g11-g10 .. Km7-l8
+12. Qm5xb5 .. Ql6-k7+ .. g10-g9 .. Kl8-m7
+13. Qb5xRa4 .. Qk7-g3 .. g9-g8 .. Qn8xg8
+14. Qa4-b5 .. b10-c10 .. Rg14xQg8 .. R
+15. Bj2-i3 .. Bc8-a6 .. Rg8-g14
+16. Qb5xBa6 .. Qa7xQa6 .. h11-h10
+17. Bf1xQa6 .. b8-c8 .. Qh14-h12
+18. Bi3xKm7 .. Qg3xRi1+# .. Qh12xb6
+19. Qi1-e5 .. Qb6xb4
+20. b11-c11 .. h10-h9
+21. c11xd12 .. Ke14-d13
+22. Qe5xe13+#

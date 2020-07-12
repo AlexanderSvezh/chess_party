@@ -1,0 +1,65 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "964"]
+[Result "Hirolys: 28 - DFreya: 102 - JequiveChess: 0 - krylayi: 19"]
+[Variant "FFA"]
+[Red "Hirolys"]
+[RedElo "1500"]
+[Blue "DFreya"]
+[BlueElo "1521"]
+[Yellow "JequiveChess"]
+[YellowElo "1500"]
+[Green "krylayi"]
+[GreenElo "1485"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:09:50 GMT+0000 (UTC)"]
+[CurrentMove "127"]
+
+1. h2-h4 .. b7-d7 .. g13-g11 .. m7-l7
+2. g2-g4 .. d7-e7 .. Nj14-i12 .. Bn6xBf14
+3. Nj1-h2 .. e7-f7 .. j13-j12 .. Bf14xe13
+4. f2-f3 .. Na5-c6 .. Bi14-j13 .. Be13xRd14
+5. e2-e4 .. f7-g7 .. Qh14-g13 .. Nn5-l6
+6. d2-d3 .. g7-h7=D .. O-O-O .. Qn8-m7
+7. i2-i3 .. b10-c10 .. Qg13-e11 .. Nn10-l9
+8. Ne1-g2 .. Ba9-b10 .. Ne14-f12 .. m10-k10
+9. k2-k4 .. Na10-c11 .. T .. Nl9-j8
+10. j2-j3 .. Qh7xh13 .. m5-l5
+11. Bi1-k3 .. Qh13xKi14 .. Bn9-m10
+12. O-O .. Qi14xRh14 .. l5xk4
+13. j3xk4 .. Qh14xBd14 .. Nl6xk4
+14. Qg1-h1 .. Qd14xd13 .. m4-l4
+15. Qh1xNk4 .. b8-d8 .. Qm7-l6
+16. Bk3xl4 .. d8-e8 .. Rn4xBl4
+17. Qk4-k9 .. O-O .. Nj8-l9
+18. Qk9-i7 .. Qa7xQi7 .. Ql6-h10
+19. g4-g5 .. Qi7xRl4 .. Qh10-j8+
+20. Kj1-i2 .. Qd13-m4 .. Kn7-m7
+21. Nh2-j3 .. Ql4-k4 .. Rn11-n4
+22. Ri1-j1 .. Qm4xRn4 .. Qj8xe8
+23. i3-i4 .. Qk4-j4+ .. R
+24. Ng2-i3 .. Qj4-j8
+25. h4-h5 .. Ba6-c8+
+26. Ki2-h2 .. Qn4-n6
+27. Bf1-h3 .. Bc8xBh3
+28. Kh2xBh3 .. Qn6xKm7
+29. Rj1-k1 .. Qj8xNj3
+30. Rk1-j1 .. Qj3xRj1+
+31. Ni3xQj1 .. Nc6-e5
+32. f3-f4 .. Ne5-f3
+33. Rd1-f1 .. Nf3-d4
+34. Kh3-h4 .. b6-d6
+35. Nj1-h2 .. Qm7-l8+
+36. i4-i5 .. d6-e6
+37. h5-h6 .. Ql8-k7
+38. Kh4-g4 .. Ra4-a6
+39. i5-i6 .. Ra9-a7
+40. f4-f5 .. Nd4xf5
+41. e4xNf5 .. e6xf5+
+42. Kg4xf5 .. Qk7-f7+
+43. Kf5-g4 .. Ra6xh6
+44. g5xRh6 .. Qf7-g6+
+45. Kg4-h3 .. Qg6xh6+
+46. Kh3-g2 .. Ra7-g7+
+47. Kg2-h1 .. Qh6xi6
+48. T

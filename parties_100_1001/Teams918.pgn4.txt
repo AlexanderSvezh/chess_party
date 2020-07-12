@@ -1,0 +1,20 @@
+[GameNr "918"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "GSSD"]
+[RedElo "2128"]
+[Blue "Antruni"]
+[BlueElo "1856"]
+[Yellow "blondegirl1"]
+[YellowElo "2055"]
+[Green "Great-Gazoo"]
+[GreenElo "1327"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:36:15 GMT+0000 (UTC)"]
+[CurrentMove "14"]
+
+1. h2-h3 .. b7-c7 .. h13-h12 .. m9-l9
+2. Qg1-k5 .. b8-c8 .. Bi14xc8 .. Qn8-m9
+3. Qk5-d5+ .. b6-c6 .. Bc8xb9+ .. Qm9xf2
+4. Qd5xb5 .. #

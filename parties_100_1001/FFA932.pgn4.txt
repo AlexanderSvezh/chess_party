@@ -1,0 +1,46 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "932"]
+[Result "victorman12: 12 - 1993juanse: 10 - alpizar_sandova: 52 - andresktm1000: 35"]
+[Variant "FFA"]
+[Red "victorman12"]
+[RedElo "1683"]
+[Blue "1993juanse"]
+[BlueElo "1481"]
+[Yellow "alpizar_sandova"]
+[YellowElo "1605"]
+[Green "andresktm1000"]
+[GreenElo "1589"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:54:36 GMT+0000 (UTC)"]
+[CurrentMove "109"]
+
+1. g2-g4 .. b7-c7 .. j13-j12 .. m8-k8
+2. g4-g5 .. Ba6-b7+ .. Bi14-j13 .. Bn9xBf1
+3. Ne1-g2 .. b8-c8 .. Bj13xb5 .. Bf1xe2
+4. Rd1-e1 .. Ba9-b8 .. Bb5xRa4 .. Be2-j7
+5. g5-g6 .. Na5-c4 .. Ba4-j13 .. k8-j8
+6. g6-g7 .. Nc4-e5 .. e13-e12 .. Nn5-l6
+7. g7-g8=D .. b10-c10 .. Bf14-b10 .. j8-i8
+8. j2-j3 .. Ne5-f3 .. Bb10xRa11 .. m4-l4
+9. Qg1-f1 .. b9-c9 .. Ba11-b10 .. m11-l11
+10. Qg8-g3 .. Nf3xd2 .. Bb10-e13 .. i8-h8
+11. Qf1-g1 .. Nd2-e4 .. Ne14-f12 .. h8-g8=D
+12. Qg3-e3 .. Ne4-g5 .. Nj14-i12 .. m7-k7
+13. Qe3-d4 .. Bb7-c6 .. h13-h11 .. Bj7-k6
+14. Qd4xb4 .. Qa7-b7 .. Qh14-h13 .. m9-l9
+15. Bi1-j2 .. Bc6xNg2+ .. O-O .. m5-l5
+16. Kh1-i1 .. Bg2xBk6 .. g13-g11 .. Qg8xNg5
+17. Bj2xQg5 .. Bk6-g2 .. Rf14-g14 .. k7-j7
+18. f2-f4 .. c9-d9 .. h11-h10 .. Bn6-m7
+19. Qb4xb6 .. Qb7xQb6 .. h10-h9 .. Bm7-l8
+20. Qg1xQb6 .. Bg2-d5 .. h9-h8 .. Bl8xRe1
+21. Qb6-g1 .. Bd5-i10 .. h8-h7=D .. Be1-k7
+22. Bg5-j2 .. Bi10-d5 .. Qh7-h6 .. Nn10-m8
+23. Nj1-i3 .. Na10-c9 .. Qh6xf4 .. m10-k10
+24. T .. Bd5-i10 .. Qf4xh2 .. j7-i7
+25. d9-e9 .. Qh2xKi1 .. i7-h7
+26. c8-d8 .. Qi1-f4 .. h7-g7=D
+27. Nc9-e8 .. Qf4-a4+ .. Qg7xe9
+28. Bb8-a7 .. Qh13-c8+# .. Qe9-h9
+29. R

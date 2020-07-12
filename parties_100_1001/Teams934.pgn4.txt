@@ -1,0 +1,17 @@
+[GameNr "934"]
+[Result "Aborted"]
+[Variant "Teams"]
+[Red "ElPolloLocoMan"]
+[RedElo "1632"]
+[Blue "9099999999"]
+[BlueElo "1739"]
+[Yellow "leorastelli"]
+[YellowElo "2235"]
+[Green "salata"]
+[GreenElo "2700"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:38:17 GMT+0000 (UTC)"]
+[CurrentMove "1"]
+
+1. R

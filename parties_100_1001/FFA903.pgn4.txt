@@ -1,0 +1,48 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "903"]
+[Result "RuijieXiao: 9 - sammatataan: 40 - Boombeach1: 11 - axelibarramartinez: 33"]
+[Variant "FFA"]
+[Red "RuijieXiao"]
+[RedElo "1553"]
+[Blue "sammatataan"]
+[BlueElo "1604"]
+[Yellow "Boombeach1"]
+[YellowElo "1457"]
+[Green "axelibarramartinez"]
+[GreenElo "1578"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:46:20 GMT+0000 (UTC)"]
+[CurrentMove "113"]
+
+1. g2-g4 .. b10-c10 .. h13-h11 .. m8-k8
+2. g4-g5 .. Ba9-b10 .. h11-h10 .. k8-j8
+3. g5-g6 .. b8-d8 .. h10-h9 .. j8-i8
+4. g6-g7 .. Na10-b8 .. h9xi8 .. Qn8xi8
+5. Bf1xBn9 .. O-O .. g13-g11 .. Nn10-m8
+6. Bn9xm10 .. b7-d7 .. Ne14-f12 .. Rn11-n10
+7. Bm10-f3 .. Nb8-d9 .. g11-g10 .. Qi8-g8
+8. Nj1-i3 .. b11-c11 .. i13-i11 .. Nn5-l4
+9. k2-k3 .. d8-e8 .. Bi14-g12 .. Nl4-k6
+10. j2-j4 .. b5-c5 .. i11-i10 .. Nk6-j8
+11. Bi1-j2 .. Ba6-b5 .. i10-i9 .. Nj8-i6
+12. Bf3xNi6 .. b6-d6 .. Qh14-i14 .. Qg8xBi6
+13. g7-g8=D .. Bb5-c6+ .. i9-i8 .. Qi6xQg8
+14. Ne1-f3 .. b4-d4 .. i8-i7=D .. Qg8-f8
+15. d2-d3 .. d7-e7 .. Qi7-i11 .. Qf8-h6
+16. O-O .. e7-f7 .. Bf14-h12 .. Qh6-l6
+17. e2-e4 .. d6-e6 .. O-O .. m7-l7
+18. Qg1-g3 .. f7-g7 .. Qi14-g14 .. Rn10-n9
+19. h2-h3 .. g7-h7=D .. Qg14-g13 .. m9-k9
+20. Ri1-h1 .. Qh7-d7 .. g10-g9 .. k9-j9
+21. h3-h4 .. Na5-b7 .. Qi11-g11 .. j9-i9
+22. h4-h5 .. e6-f6 .. g9-g8 .. i9-h9
+23. h5-h6 .. e8-f8 .. Qg11xQl6 .. m5xQl6
+24. h6-h7 .. Nb7-d6 .. g8xh7=D .. Bn6xBh12
+25. Rh1-f1 .. f8-g8 .. T .. h9-g9=D
+26. R .. g8xQh7=D .. Qg9xBg12
+27. Qh7-e7 .. Qg12xf13
+28. Qd7-i12 .. Bh12-n6
+29. Qe7-f8 .. Rn9-n8
+30. Qi12xNi3 .. Qf13xKe14
+31. Qi3xi2 .. R

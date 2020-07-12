@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "860"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "CookA_rus"]
+[RedElo "1511"]
+[Blue "Armanuly"]
+[BlueElo "1551"]
+[Yellow "moreauvincent"]
+[YellowElo "1484"]
+[Green "magoelctrico"]
+[GreenElo "1514"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:20:30 GMT+0000 (UTC)"]
+[CurrentMove "3"]
+
+1. g2-g4 .. b10-c10 .. R

@@ -1,0 +1,24 @@
+[GameNr "871"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "roachesst"]
+[RedElo "2172"]
+[Blue "Great-Gazoo"]
+[BlueElo "1334"]
+[Yellow "SheikMex"]
+[YellowElo "1720"]
+[Green "ermis8992"]
+[GreenElo "2047"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:28:07 GMT+0000 (UTC)"]
+[CurrentMove "30"]
+
+1. h2-h3 .. b6-d6 .. g13-g12 .. Nn5-l6
+2. k2-k4 .. Qa7xf2 .. Bf14xm7 .. Qn8xBm7
+3. Qg1xQf2 .. b7-d7 .. Ne14-f12 .. Nn10-l9
+4. Bi1xd6 .. Ba6xg12 .. h13xBg12 .. Qm7-j7
+5. j2-j3 .. d7-e7 .. Nf12-g10 .. Bn6-m7
+6. Nj1-h2 .. e7-f7 .. Ng10-h8 .. Qj7-i8
+7. Qf2-b6 .. f7-g7 .. Nh8-f9 .. Qi8-c8
+8. Qb6-a6+ .. #

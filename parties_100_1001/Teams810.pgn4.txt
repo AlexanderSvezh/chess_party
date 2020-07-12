@@ -1,0 +1,22 @@
+[GameNr "810"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Akusu"]
+[RedElo "1818"]
+[Blue "kopashtar"]
+[BlueElo "2037"]
+[Yellow "RuijieXiao"]
+[YellowElo "1755"]
+[Green "tommerrall949"]
+[GreenElo "2418"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:10:11 GMT+0000 (UTC)"]
+[CurrentMove "24"]
+
+1. h2-h3 .. b6-d6 .. g13-g12 .. m9-l9
+2. d2-d4 .. b8-c8 .. Qh14xQa7+ .. Qn8xi13
+3. Bi1xd6 .. Ka8xQa7 .. Nj14-k12 .. Qi13-i5
+4. Bd6xBa9 .. Na10-b8 .. Bf14-g13 .. Qi5-j5
+5. Ba9xb10 .. Ra11-a8 .. Ne14-d12 .. Nn5-l6
+6. Nj1-k3 .. Na5-c6 .. Nk12xm11 .. R

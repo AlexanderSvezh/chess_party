@@ -1,0 +1,27 @@
+[GameNr "894"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "roachesst"]
+[RedElo "2179"]
+[Blue "Riba"]
+[BlueElo "2796"]
+[Yellow "Butnskala"]
+[YellowElo "2064"]
+[Green "ShiverMcTimber"]
+[GreenElo "1932"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:34:57 GMT+0000 (UTC)"]
+[CurrentMove "44"]
+
+1. h2-h3 .. b6-d6 .. g13-g12 .. m8-l8
+2. d2-d4 .. Qa7-b6 .. Qh14-e11 .. Bn9-m8
+3. Qg1-j4 .. Na10-c9 .. Nj14-k12 .. Bm8xh13+
+4. Bi1-h2 .. Qb6-f10 .. Bi14xBh13+ .. m9-l9
+5. Qj4xm7+ .. Qf10xf13+ .. Kg14xQf13 .. Bn6xQm7
+6. Bh2xBm7 .. b10-d10 .. Qe11-k5 .. Nn5-l6
+7. Bm7xQn8 .. b7-c7 .. Qk5xm5 .. Rn4-n5
+8. Bn8xNl6 .. Ba6xg12+ .. Bh13xBg12 .. Rn5xQm5
+9. Bl6xRm5 .. Na5-c6 .. Rk14-h14 .. Nn10-m8
+10. e2-e4 .. b4-c4 .. Bf14xl8 .. O-O-O
+11. Bm5-l6 .. b11-d11 .. Nk12xm11+ .. #

@@ -1,0 +1,47 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "847"]
+[Result "kilapride: 0 - macksikrio: 9 - houseofham: 67 - bogus13: 29"]
+[Variant "FFA"]
+[Red "kilapride"]
+[RedElo "1450"]
+[Blue "macksikrio"]
+[BlueElo "1472"]
+[Yellow "houseofham"]
+[YellowElo "1886"]
+[Green "bogus13"]
+[GreenElo "1449"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:25:23 GMT+0000 (UTC)"]
+[CurrentMove "77"]
+
+1. h2-h4 .. b10-d10 .. f13-f11 .. m8-k8
+2. h4-h5 .. b9-d9 .. Ne14-f12 .. k8-j8
+3. Qg1-h2 .. d9-e9 .. g13-g12 .. j8-i8
+4. h5-h6 .. e9-f9 .. i13-i11 .. i8-h8
+5. h6-h7 .. b4-d4 .. Nj14-i12 .. Nn10-l9
+6. Qh2-e5 .. d4xQe5 .. h13-h11 .. Nl9-k7
+7. R .. e5-f5 .. Qh14-i13 .. Qn8-i8
+8. f5-g5 .. Bf14-h12 .. Qi8xi2
+9. g5-h5=D .. Bh12xb6 .. Bn9xg2
+10. T .. Qi13-f13 .. Bg2xKh1
+11. Qf13xKa8 .. Qi2-i3
+12. Qa8xb8 .. Qi3xi11
+13. Qb8xh8 .. m7-l7
+14. Nf12-g10 .. Nk7-m8
+15. Ng10xQi11 .. O-O-O
+16. Ni11-g10 .. Nm8-l10
+17. Qh8-k11 .. Rn8-k8
+18. Qk11xm11 .. Nn5-l6
+19. Bb6-h12 .. Bn6xBh12
+20. Ng10xBh12 .. Bh1-l5
+21. Bi14-h13 .. m4-k4
+22. k13-k11 .. Nl10-m8
+23. Ni12-j10 .. Rk8-k10
+24. Bh13xRk10 .. m9-l9
+25. Nj10xl9 .. m10xNl9
+26. Bk10xl9 .. Nl6-k8
+27. Nh12-j11 .. Nm8-k7
+28. Qm11-m10+ .. Kn9-n8
+29. Qm10-n10+ .. Kn8-m7
+30. Qn10xNk7 .. R

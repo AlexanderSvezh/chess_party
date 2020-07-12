@@ -1,0 +1,53 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "949"]
+[Result "HANUMAN-1: 3 - Merlin-Pendragon: 45 - LeoWais: 3 - Mzimbaa: 58"]
+[Variant "FFA"]
+[Red "HANUMAN-1"]
+[RedElo "1682"]
+[Blue "Merlin-Pendragon"]
+[BlueElo "1688"]
+[Yellow "LeoWais"]
+[YellowElo "1536"]
+[Green "Mzimbaa"]
+[GreenElo "1699"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:57:13 GMT+0000 (UTC)"]
+[CurrentMove "119"]
+
+1. g2-g4 .. b4-d4 .. k13-k11 .. m8-k8
+2. h2-h3 .. b11-d11 .. j13-j11 .. k8-j8
+3. g4-g5 .. b7-c7 .. h13-h11 .. j8-i8
+4. Bf1-g2+ .. b6-c6 .. Bi14-h13 .. m9-l9
+5. g5-g6 .. b8-c8 .. j11-j10 .. i8-h8
+6. d2-d3 .. b5-d5 .. h11-h10 .. h8-g8=D
+7. Bg2-f1 .. Ba9-b8 .. f13-f12 .. m5-l5
+8. k2-k3 .. d5-e5 .. Bh13-i12 .. Bn6-m5
+9. e2-e4 .. Ba6-b7 .. Qh14-h11 .. Nn5-l6
+10. Bf1-e2 .. Ra4-b4 .. j10-j9 .. O-O
+11. h3-h4 .. c6-d6 .. Bi12-j11 .. Qg8-j8
+12. g6-g7 .. c7-d7 .. h10-h9 .. Bn9-l7
+13. h4-h5 .. e5-f5 .. Bj11-i10 .. Nn10-l11
+14. f2-f4 .. d6-e6 .. e13-e12 .. m10-k10
+15. Qg1-i3 .. Bb8-c9 .. g13-g11 .. k10xj9
+16. Qi3-g1 .. Na10-c11 .. Bi10-k12 .. Nl11-m9
+17. Nj1-i3 .. Nc11xe12 .. d13xNe12 .. j9-i9
+18. j2-j4 .. d11-e11 .. Nj14-i12 .. Bl7xQh11
+19. Qg1-h2 .. Bb7-c6 .. R .. Bh11xNi12
+20. Bi1-j2 .. e11xf12 .. Bi12xKg14
+21. h5-h6 .. d7-e7 .. Qj8-i8
+22. h6-h7 .. f12-g12 .. Qi8xh9
+23. g7-g8=D .. e6-f6 .. Qh9xQg8
+24. h7xQg8=D .. Rb4-b5 .. Qn8xQg8
+25. Be2xl9 .. f5-g5 .. Rn11-n9
+26. Ne1-f3 .. g5-h5=D .. i9-h9
+27. Bl9xQh5 .. g12-h12=D .. h9-g9=D
+28. Bh5-i4 .. Qh12xQh2+ .. Qg8-g1+#
+29. Qh2xQg1 .. Qg9xQg1
+30. Rb5-g5 .. Qg1xNi3
+31. Ra11xg11 .. Bg14-k10
+32. e7-f7 .. Nl6-j7
+33. Rg5-g6 .. Bm5xRg11
+34. Rg6xBg11 .. Nm9-k8
+35. f6-g6 .. Nk8-i9
+36. Bc9xQi3 .. R

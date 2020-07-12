@@ -1,0 +1,19 @@
+[GameNr "807"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Dewan122157"]
+[RedElo "960"]
+[Blue "Akusu"]
+[BlueElo "1822"]
+[Yellow "alyeasin93"]
+[YellowElo "2635"]
+[Green "nataliabella"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:05:52 GMT+0000 (UTC)"]
+[CurrentMove "10"]
+
+1. h2-h3 .. b7-c7 .. h13-h12 .. m8-k8
+2. Qg1-k5 .. Qa7-b7 .. Bi14xQb7+ .. Nn5-l6
+3. Qk5xb5 .. R

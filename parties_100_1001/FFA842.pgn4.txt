@@ -1,0 +1,51 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "842"]
+[Result "NathanSylvester: 5 - zcrack7912: 21 - ARDINALGIANCARLO: 33 - iCapablanca1: 78"]
+[Variant "FFA"]
+[Red "NathanSylvester"]
+[RedElo "1468"]
+[Blue "zcrack7912"]
+[BlueElo "1505"]
+[Yellow "ARDINALGIANCARLO"]
+[YellowElo "1743"]
+[Green "iCapablanca1"]
+[GreenElo "1517"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:31:14 GMT+0000 (UTC)"]
+[CurrentMove "110"]
+
+1. Nj1-k3 .. b8-d8 .. k13-k11 .. m8-k8
+2. j2-j3 .. b7-d7 .. e13-e12 .. k8-j8
+3. h2-h4 .. d7-e7 .. Bf14-e13 .. j8-i8
+4. h4-h5 .. e7-f7 .. Ne14-f12 .. i8-h8
+5. h5-h6 .. d8-e8 .. O-O .. Nn5-l6
+6. h6-h7 .. e8-f8 .. g13-g11 .. m5-l5
+7. Bi1xBa9 .. Ka8xBa9 .. g11-g10 .. Bn6xNk3
+8. j3-j4 .. b11-c11 .. h13-h11 .. O-O
+9. T .. f7-g7 .. j13-j11 .. Bn9xg2
+10. g7xh8=D .. j11-j10 .. Qn8xQh8
+11. b5-c5 .. i13-i11 .. Bg2xKh1
+12. Ba6-c4 .. i11-i10 .. Nn10-l11
+13. f8-g8 .. Nj14-h13 .. Bk3-i1+
+14. Na10-b8 .. Nh13-j12 .. Nl11xNj12
+15. Qa7xh7 .. Qh14xNj12 .. Bi1xNb8+
+16. Ka9xBb8 .. Nf12-d11 .. Rn6-n8
+17. Qh7xQh8 .. Nd11xb10 .. Rn8xQh8
+18. Na5-c6 .. h11-h10 .. Bh1xNc6
+19. Ra11-a10 .. Nb10-d9+ .. Bc6xRa4
+20. Kb8-c9 .. Nd9xc11 .. Ba4-c6
+21. Ra10xg10 .. Rk14-j14 .. Bc6xRg10
+22. Kc9-b8 .. i10-i9 .. Rh8-l8
+23. c5-d5 .. Bi14xm10 .. Rn11-n10
+24. d5-e5 .. Bm10-j13 .. m7-k7
+25. e5-f5 .. Bj13xBg10 .. k7-j7
+26. f5-g5 .. Qj12-f12+ .. j7-i7
+27. Kb8-c7 .. Nc11xb9+ .. i7-h7
+28. Kc7-b7 .. Nb9-d10 .. h7-g7=D+
+29. Kb7-b8 .. Nd10-f9+ .. Qg7xg8+
+30. Kb8-c7 .. h10-h9 .. Qg8xBg10
+31. g5-h5=D .. h9-h8 .. Rn10-n7+
+32. Kc7-d6 .. Nf9-e11 .. Qg10-d10+
+33. T .. Be13-a9 .. Qd10xKd6
+34. Ba9xQd6 .. R

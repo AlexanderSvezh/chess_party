@@ -1,0 +1,20 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "928"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "LYM9"]
+[RedElo "1665"]
+[Blue "MaxMIX5"]
+[BlueElo "1453"]
+[Yellow "themysterywalnut"]
+[YellowElo "1508"]
+[Green "felipon123"]
+[GreenElo "1654"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:39:33 GMT+0000 (UTC)"]
+[CurrentMove "11"]
+
+1. g2-g4 .. b7-d7 .. g13-g11 .. m5-l5
+2. Ne1-f3 .. b8-c8 .. Ne14-f12 .. m9-l9
+3. g4-g5 .. d7-e7 .. T

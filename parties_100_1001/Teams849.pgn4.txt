@@ -1,0 +1,23 @@
+[GameNr "849"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Xchess69xxx"]
+[RedElo "2131"]
+[Blue "ermis8992"]
+[BlueElo "2042"]
+[Yellow "Boombeach1"]
+[YellowElo "1474"]
+[Green "pradyumchitlu"]
+[GreenElo "1495"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:20:07 GMT+0000 (UTC)"]
+[CurrentMove "26"]
+
+1. h2-h3 .. b6-d6 .. d13-d11 .. Nn10-l9
+2. d2-d4 .. Na10-c11 .. Ne14-d12 .. m10-l10
+3. Qg1-j4 .. Qa7-b6 .. h13-h11 .. Bn9-l11
+4. Qj4-f8 .. b8-c8 .. g13-g11 .. Qn8-n10
+5. Bi1xd6 .. Ba9xBd6 .. Bf14-g13 .. Qn10-m10
+6. Qf8-d10 .. Bd6-e7 .. Bi14-f11 .. O-O-O
+7. Qd10-b8+ .. #

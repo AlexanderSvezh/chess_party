@@ -1,0 +1,37 @@
+[GameNr "834"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "blondegirl1"]
+[RedElo "2057"]
+[Blue "malaybasak"]
+[BlueElo "2653"]
+[Yellow "22kevin2007"]
+[YellowElo "1819"]
+[Green "Butnskala"]
+[GreenElo "2062"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:27:58 GMT+0000 (UTC)"]
+[CurrentMove "83"]
+
+1. h2-h3 .. b6-d6 .. g13-g12 .. m9-l9
+2. Bi1-g3 .. Qa7-d4 .. k13-k11 .. m8-k8
+3. Qg1-k5 .. Qd4-i9 .. Nj14-i12 .. Nn5-l6
+4. Nj1-i3 .. Na10-c9 .. Qh14-e11 .. Qn8-m8
+5. k2-k4 .. b11-d11 .. d13-d12 .. Nn10-l11
+6. e2-e3 .. Qi9-i6 .. Qe11-h8 .. Nl6-j7
+7. Qk5-h5 .. Qi6xQh5 .. Qh8xQh5 .. m5-k5
+8. Rk1-j1 .. Na5-c4 .. Bf14-i11 .. Qm8-k6
+9. Bf1-e2 .. Nc4-b6 .. Bi11-h12 .. Bn6-m5
+10. Be2xb5 .. Ba6xBb5 .. Qh5xBb5 .. Bm5xe13
+11. Ni3-j5 .. b7-c7 .. Rd14-d13 .. Be13-j8
+12. Ne1-d3 .. Nc9-d7 .. Qb5-c6+ .. Nj7-h6
+13. Nj5xNh6 .. Ka8-a7 .. f13-f11 .. Qk6xNh6
+14. Bg3-f4 .. Nd7-c9 .. Bh12-g11 .. Qh6-e6
+15. Bf4xBj8 .. b4-c4 .. Ni12-g13 .. m6-l6
+16. Nd3-c5 .. Ra4-a5 .. j13-j12 .. Qe6-i6
+17. Rd1-e1 .. Ra5xNc5 .. Qc6-e4 .. Bn9-k6
+18. d2-d4 .. Rc5-i5 .. Qe4-c6 .. l9-k9
+19. Bj8-f4 .. Ri5xi2 .. Bi14xNl11 .. m10xBl11
+20. g2-g4 .. Ri2xj2 .. Qc6-f3 .. Qi6-i2+
+21. Kh1-g1 .. Rj2xRj1+ .. R

@@ -1,0 +1,32 @@
+[GameNr "812"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Dewan122157"]
+[RedElo "964"]
+[Blue "juliendecarufel"]
+[BlueElo "1513"]
+[Yellow "alyeasin93"]
+[YellowElo "2639"]
+[Green "antonicimar"]
+[GreenElo "1513"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:17:03 GMT+0000 (UTC)"]
+[CurrentMove "62"]
+
+1. h2-h3 .. b8-c8 .. g13-g12 .. m7-l7
+2. Qg1xQn8+ .. Qa7xQh14+ .. Kg14xQh14 .. Kn7xQn8
+3. Bi1xBa9 .. Ka8xBa9 .. Bf14xBn6 .. Nn5-l6
+4. e2-e3 .. Na5-c6 .. Bn6xm5 .. Rn4-n5
+5. Bf1-e2 .. b5-d5 .. Bm5xNl6+ .. Kn8-n7
+6. Be2xBa6 .. Ra4xBa6 .. j13-j12 .. m8-k8
+7. k2-k4 .. d5-e5 .. h13-h11 .. m4-l4
+8. k4-k5 .. b4-d4 .. Bi14-h13+ .. m9-l9
+9. Rk1-k4 .. d4xe3 .. k13-k11 .. l4xk5
+10. d2xe3 .. e5-f5 .. k11-k10 .. l9-k9
+11. Rd1-d5 .. Nc6-e7 .. Rk14-k11 .. m10-l10
+12. Rd5-e5 .. b6-d6 .. Rk11-i11 .. k5-j5
+13. Re5-e4 .. f5-g5 .. Bl6-f12 .. j5-i5
+14. Re4-a4 .. Ra6-a8 .. Ri11-i6 .. Bn9-m10
+15. Ra4xRa8+ .. Ka9xRa8 .. Ri6xd6 .. k8-j8
+16. Rk4-a4+ .. #

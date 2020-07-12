@@ -1,0 +1,19 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "820"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "agaliareptor"]
+[RedElo "1757"]
+[Blue "hitsujyun"]
+[BlueElo "1565"]
+[Yellow "kristofferrander"]
+[YellowElo "1766"]
+[Green "jesuspacheheredia"]
+[GreenElo "1522"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:09:01 GMT+0000 (UTC)"]
+[CurrentMove "8"]
+
+1. g2-g4 .. b8-d8 .. e13-e12 .. m8-k8
+2. d2-d3 .. b11-c11 .. Bf14-e13 .. R

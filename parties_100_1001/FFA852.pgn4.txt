@@ -1,0 +1,64 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "852"]
+[Result "leesanghyeok: 0 - Persian_Army: 24 - georgeramirez: 40 - Tempering: 86"]
+[Variant "FFA"]
+[Red "leesanghyeok"]
+[RedElo "1500"]
+[Blue "Persian_Army"]
+[BlueElo "1725"]
+[Yellow "georgeramirez"]
+[YellowElo "1638"]
+[Green "Tempering"]
+[GreenElo "1742"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:38:17 GMT+0000 (UTC)"]
+[CurrentMove "145"]
+
+1. h2-h4 .. b8-d8 .. g13-g12 .. m5-l5
+2. Nj1-i3 .. d8-e8 .. Qh14xQa7+ .. Bn6-m5
+3. f2-f3 .. Ka8xQa7 .. j13-j12 .. Nn5-l6
+4. e2-e3 .. e8-f8 .. Bi14-k12 .. O-O
+5. e3-e4 .. Ba9-c7 .. Bf14-h12 .. m8-k8
+6. T .. b5-d5 .. Bh12xBc7 .. m11-l11
+7. b6xBc7 .. Bk12-j13 .. Bn9xg2
+8. f8-g8 .. Bj13xRa4 .. Bg2xKh1
+9. g8-h8=D .. Ne14-f12 .. m9-k9
+10. d5-e5 .. O-O .. k9-j9
+11. Qh8xh4 .. Ba4-h11 .. Bh1xi2
+12. b9-c9 .. Nf12-d11 .. Bi2-k4
+13. e5-f5 .. Nd11xb10 .. m10-k10
+14. f5-g5 .. Bh11-e8 .. Nl6-j5
+15. Qh4xe4 .. Be8xk2 .. j9-i9
+16. Na5-c6 .. Nb10-d9 .. k8-j8
+17. Na10-b8 .. Nd9xc7 .. i9-h9
+18. Ba6-c4 .. Nc7-b9+ .. j8-i8
+19. Ka7-b6 .. Nb9xRa11 .. Qn8-j8
+20. Bc4-b5 .. f13-f12 .. h9-g9=D
+21. c9-d9 .. Rf14-f13 .. i8-h8
+22. Nc6-e7 .. Nj14-i12 .. Qg9xNe7
+23. Qe4xQe7 .. Na11-b9 .. h8-g8=D
+24. Nb8-c6 .. Rk14-f14 .. Qg8xg5
+25. Qe7-d7 .. Nb9-d10 .. Nj5xNi3
+26. d9-e9 .. Bk2xb11 .. Nn10-l9
+27. Qd7xNd10 .. Ni12-g11 .. k10-j10
+28. Nc6-b8 .. Bb11-i4 .. l11-k11
+29. Bb5-g10 .. Ng11-e12 .. Bk4-j5
+30. Bg10xNe12 .. d13xBe12 .. Bj5xBi4
+31. Nb8-a10 .. e12-e11 .. j10-i10
+32. Qd10-d6 .. f12-f11 .. Qg5-h6
+33. Qd6-c6 .. Rf13-f12 .. Qh6xQc6+
+34. b7xQc6 .. f11-f10 .. k11xj12
+35. e9xf10 .. e11xf10 .. Rn11-e11
+36. Na10-c9 .. Ke14-d14 .. i10-h10
+37. b4-d4 .. h13-h11 .. j12xi13
+38. Nc9-d7 .. f10-f9 .. i13-h13
+39. d4-e4 .. Rf14-f13 .. h13xg12=D
+40. e4-f4 .. Rf12xQg12 .. Re11xh11
+41. Nd7-c9 .. f9-f8 .. Rh11-g11
+42. Nc9-e10 .. Rg12xRg11 .. h10xRg11=D+
+43. Kb6-b5 .. Rf13-f12 .. Qg11xRf12
+44. f4-g4 .. e13xQf12 .. Ni3xg4
+45. Ne10xf12 .. f8-f7=D .. Bi4xQf7
+46. Nf12-d11+ .. R .. Qj8xKd14
+47. R

@@ -1,0 +1,24 @@
+[GameNr "976"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Beginner122143"]
+[RedElo "1896"]
+[Blue "Riba"]
+[BlueElo "2773"]
+[Yellow "leorastelli"]
+[YellowElo "2216"]
+[Green "roachesst"]
+[GreenElo "2180"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:57:31 GMT+0000 (UTC)"]
+[CurrentMove "29"]
+
+1. h2-h3 .. b6-d6 .. g13-g12 .. m9-l9
+2. d2-d4 .. Qa7-b6 .. k13-k11 .. m8-k8
+3. Qg1-j4 .. Qb6-f10 .. Bf14-h12 .. Qn8-m8
+4. Ne1-f3 .. Qf10-e10 .. Qh14-f12 .. Nn5-l6
+5. Bi1xd6 .. Na10-c9 .. Ne14-d12 .. Qm8-k6
+6. Bd6xb8 .. Qe10-g8 .. Nj14-i12 .. m5-k5
+7. Qj4-i3 .. Qg8xBb8 .. Ni12-j10 .. Qk6xh3+
+8. R

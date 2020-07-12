@@ -1,0 +1,21 @@
+[GameNr "993"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "RuijieXiao"]
+[RedElo "1807"]
+[Blue "Kaiser-Kai"]
+[BlueElo "2187"]
+[Yellow "cdjohn24"]
+[YellowElo "1500"]
+[Green "ermis8992"]
+[GreenElo "2049"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:59:05 GMT+0000 (UTC)"]
+[CurrentMove "20"]
+
+1. h2-h3 .. b7-c7 .. h13-h12 .. m9-k9
+2. Qg1-k5 .. b6-c6 .. Bi14xBa6 .. Qn8-m9
+3. Qk5xb5 .. b9-c9 .. Ba6-c8 .. Qm9xf2
+4. Ne1-f3 .. Na5-c4 .. i13-i11 .. Nn10-l11
+5. Qb5xc6+ .. Qa7-b7 .. Bc8xQb7+ .. R

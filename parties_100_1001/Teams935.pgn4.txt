@@ -1,0 +1,22 @@
+[GameNr "935"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Metha_Chemista"]
+[RedElo "1514"]
+[Blue "Yolher"]
+[BlueElo "1463"]
+[Yellow "leorastelli"]
+[YellowElo "2235"]
+[Green "onitsedazz"]
+[GreenElo "1466"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:41:14 GMT+0000 (UTC)"]
+[CurrentMove "22"]
+
+1. h2-h3 .. b9-c9 .. g13-g12 .. m11-k11
+2. Qg1-j4 .. b5-d5 .. Qh14-e11 .. k11-j11
+3. e2-e3 .. b6-c6 .. Qe11-d11+ .. j11-i11
+4. Qj4-i5 .. b10-c10 .. Qd11-g8 .. i11-h11
+5. Qi5-e5 .. Ka8-b9 .. Qg8-g4+ .. h11-g11
+6. Qe5xb8+ .. #

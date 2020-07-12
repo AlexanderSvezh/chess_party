@@ -1,0 +1,82 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "802"]
+[Result "rubio7w7: 34 - Tarsmick: 79 - mudwork: 61 - DIARGOL: 0"]
+[Variant "FFA"]
+[Red "rubio7w7"]
+[RedElo "1508"]
+[Blue "Tarsmick"]
+[BlueElo "1722"]
+[Yellow "mudwork"]
+[YellowElo "1677"]
+[Green "DIARGOL"]
+[GreenElo "1696"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:22:02 GMT+0000 (UTC)"]
+[CurrentMove "161"]
+
+1. h2-h4 .. b7-d7 .. g13-g11 .. m7-k7
+2. Bi1-h2 .. d7-e7 .. Bf14xBn6 .. m6-l6
+3. Nj1-k3 .. e7-f7 .. Bn6xm5 .. T
+4. Nk3xm4 .. f7-g7 .. Bm5xj2
+5. Nm4xl6 .. g7-h7=D .. Bj2xRk1
+6. Nl6xKn7 .. Qh7xk7 .. Nj14-i12
+7. Nn7-l6 .. Qk7xg11+ .. Ni12xQg11
+8. Bh2-i3 .. Na10-c9 .. Bk1xBi3
+9. Qg1xBi3 .. b10-c10 .. h13-h11
+10. d2-d4 .. Ba9xe13 .. Ne14-f12
+11. Qi3-f3+ .. b6-c6 .. Rd14-e14
+12. d4-d5 .. Be13xNf12 .. Qh14-h12
+13. d5xc6 .. Na5xc6 .. h11-h10
+14. Rd1xd13 .. O-O .. h10-h9
+15. Nl6-j7 .. Nc6-a5 .. Ng11-e12
+16. Ne1-d3 .. Ba6-c8 .. Ne12-f10
+17. Qf3-f4 .. Bf12-m5 .. Bi14xBc8
+18. Qf4-h2 .. b9xBc8 .. O-O-O
+19. Nj7-i5 .. Na5-b7 .. Qh12-j10
+20. e2-e3 .. b4-c4 .. h9-h8
+21. Nd3-e5 .. Bm5-k7 .. Nf10-e12
+22. Rd13xf13 .. Qa7-a6 .. Ne12-d10
+23. Bf1-e2 .. Bk7-l6 .. h8-h7=D
+24. Qh2-h3 .. Bl6-j4 .. Qh7-h11
+25. k2-k3 .. Bj4xNi5 .. Nd10xc8
+26. h4xBi5 .. Ra9-b9 .. Qh11xQh3+
+27. i2xQh3 .. Qa6-m6+ .. Qj10xNe5
+28. R .. Qm6xKh1 .. Qe5xb5
+29. Ra4-a5 .. Qb5xc4
+30. Qh1-k4 .. Ki14-j14
+31. Qk4xQc4 .. Nc8-d10
+32. Ra5-d5 .. Nd10xRb9
+33. Ka10xNb9 .. k13-k11
+34. b11-d11 .. Rh14-h9
+35. Rd5-d9 .. Rh9xRd9
+36. c10xRd9 .. Re14-e9
+37. b8-c8 .. k11-k10
+38. Qc4-g8 .. k10-k9
+39. Qg8-g14+ .. Kj14-k13
+40. Qg14-k10+ .. Kk13-j14
+41. Qk10-f10 .. Re9-j9
+42. d11-e11 .. j13-j11
+43. Qf10-f5 .. Rj9-i9
+44. Qf5-f6 .. j11-j10
+45. e11-f11 .. k9-k8
+46. f11-g11 .. k8-k7=D
+47. g11-h11=D .. j10-j9
+48. Qh11-h14+ .. Kj14-j13
+49. Qf6-c6+ .. Ri9-i12
+50. Qh14-h13 .. Qk7-k10
+51. Nc9-e10 .. j9-j8
+52. Ne10-g11 .. j8-j7=D
+53. Qh13xRi12+ .. Qk10xQi12
+54. Ng11xQi12 .. Qj7-e12+
+55. Kb9-b8 .. Qe12xNi12
+56. Qc6xQi12+ .. Kj13xQi12
+57. d9-e9 .. Ki12-h11
+58. Nb7-d6 .. Kh11-g10
+59. Nd6-f7 .. Kg10-f9
+60. c8-d8 .. i13-i11
+61. Nf7-h8+ .. Kf9-e8
+62. Kb8-c8 .. i11-i10
+63. Nh8xi10 .. Ke8-f9
+64. Kc8-d9 .. Kf9-g10
+65. Ni10-h12+ .. R

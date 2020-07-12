@@ -1,0 +1,27 @@
+[GameNr "948"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Brighton12345"]
+[RedElo "1500"]
+[Blue "RoGo2576"]
+[BlueElo "1500"]
+[Yellow "roachesst"]
+[YellowElo "2209"]
+[Green "Patopg"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:47:36 GMT+0000 (UTC)"]
+[CurrentMove "43"]
+
+1. g2-g4 .. b8-d8 .. f13-f12 .. m9-l9
+2. g4-g5 .. Na5-c6 .. e13-e12 .. l9-k9
+3. g5-g6 .. b7-c7 .. g13-g12 .. k9-j9
+4. g6-g7 .. Nc6-e7 .. Qh14-g13 .. j9-i9
+5. g7-g8 .. Ba6-b7+ .. Nj14-i12 .. i9-h9
+6. f2-f3 .. Na10-c9 .. k13-k11 .. h9xg8
+7. j2-j3 .. b4-c4 .. d13-d11 .. g8-f8
+8. Bi1-j2 .. b6-d6 .. d11-d10 .. Nn10-l9
+9. Nj1-i3 .. Qa7xQg1+ .. d10xNc9 .. Nl9xk11
+10. Kh1xQg1 .. b10xc9 .. Ni12xNk11 .. m10-l10
+11. Ne1-g2 .. Ra11-a10 .. T

@@ -1,0 +1,19 @@
+[GameNr "925"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Dewan122157"]
+[RedElo "972"]
+[Blue "jusszy"]
+[BlueElo "1487"]
+[Yellow "alyeasin93"]
+[YellowElo "2647"]
+[Green "ElPolloLocoMan"]
+[GreenElo "1634"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:37:53 GMT+0000 (UTC)"]
+[CurrentMove "12"]
+
+1. h2-h3 .. b8-c8 .. g13-g12 .. m10-l10
+2. Bi1xBa9 .. Qa7xQh14+ .. Kg14xQh14 .. m7-l7
+3. Qg1xQn8+ .. Ka8xBa9 .. Bf14-m7 .. #

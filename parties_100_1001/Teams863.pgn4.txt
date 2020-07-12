@@ -1,0 +1,19 @@
+[GameNr "863"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "rubiayyegua"]
+[RedElo "1624"]
+[Blue "Watchet_JB"]
+[BlueElo "1500"]
+[Yellow "ermis8992"]
+[YellowElo "2029"]
+[Green "Skala22"]
+[GreenElo "2202"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:21:44 GMT+0000 (UTC)"]
+[CurrentMove "12"]
+
+1. h2-h3 .. b8-d8 .. i13-i11 .. Nn5-l6
+2. Bi1xBa9 .. Ka8xBa9 .. g13-g12 .. m9-l9
+3. Qg1-h2+ .. b7-c7 .. Qh14xQa7+ .. R

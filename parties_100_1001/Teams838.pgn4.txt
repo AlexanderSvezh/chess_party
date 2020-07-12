@@ -1,0 +1,20 @@
+[GameNr "838"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "roachesst"]
+[RedElo "2133"]
+[Blue "owljay"]
+[BlueElo "1951"]
+[Yellow "9099999999"]
+[YellowElo "1677"]
+[Green "8943GHWRGW34IH89H"]
+[GreenElo "1520"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:13:57 GMT+0000 (UTC)"]
+[CurrentMove "14"]
+
+1. h2-h3 .. b7-c7 .. h13-h12 .. m10-l10
+2. Qg1-k5 .. Ba6xBi14 .. Qh14xBi14 .. Bn9-m10
+3. Qk5xb5 .. Na5-b7 .. Qi14xNb7+ .. Bm10-l9+
+4. Qb5-a6 .. #

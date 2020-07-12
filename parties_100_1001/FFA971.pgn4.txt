@@ -1,0 +1,127 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "971"]
+[Result "Digibreaker: 78 - mcfmcf58: 33 - FLAT-EARTH: 36 - vbgbsdsf: 63"]
+[Variant "FFA"]
+[Red "Digibreaker"]
+[RedElo "1706"]
+[Blue "mcfmcf58"]
+[BlueElo "1712"]
+[Yellow "FLAT-EARTH"]
+[YellowElo "1558"]
+[Green "vbgbsdsf"]
+[GreenElo "1658"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:29:55 GMT+0000 (UTC)"]
+[CurrentMove "330"]
+
+1. g2-g4 .. b8-d8 .. f13-f11 .. m5-l5
+2. g4-g5 .. b7-c7 .. g13-g12 .. Bn6-m5
+3. g5-g6 .. Ba9-b8 .. Ne14-f12 .. Nn5-l6
+4. g6-g7 .. Na5-b7 .. e13-e12 .. O-O
+5. g7-g8=D .. Bb8xNf12 .. Qh14xBf12 .. m10-l10
+6. Qg8-g4 .. Qa7xQf12 .. Rd14-e14 .. m9-l9
+7. j2-j3 .. Nb7-c5 .. d13-d12 .. Bm5xBi1
+8. Kh1xBi1 .. Na10-c9 .. Bf14-e13 .. m8-k8
+9. Bf1-g2+ .. Ba6-b7 .. Be13xQf12 .. m7-l7
+10. k2-k4 .. O-O .. Bf12xNl6 .. Qn8xBl6
+11. f2-f3 .. d8-e8 .. Nj14-i12 .. Ql6-m5+
+12. Nj1-k3 .. Bb7-c8 .. e12-e11 .. m4-l4
+13. Qg4-j4 .. Ra9-a8 .. Rk14-j14 .. l5-k5
+14. Qj4-i5 .. c7-d7 .. e11-e10 .. m6-l6
+15. i2-i4 .. Nc9-d11 .. Re14-e12 .. Rn6-n7
+16. Ki1-h1 .. b9-c9 .. h13-h11 .. Bn9-m8
+17. Nk3-l5 .. Bc8-b9 .. Ni12-g13 .. l9-k9+
+18. j3-j4 .. Nd11-e13+ .. Kg14-f14 .. Nn10-l9
+19. j4xk5 .. Ne13-d11 .. j13-j12 .. l6-k6
+20. h2-h4 .. e8-f8 .. Re12-e11 .. m11-l11
+21. Qg1-h2 .. f8-g8 .. k13-k12 .. l11-k11
+22. d2-d4 .. g8-h8=D .. i13-i12 .. k8-j8
+23. d4xNc5 .. Qh8-b8 .. Re11-e14 .. l7-k7
+24. f3-f4 .. b4xc5 .. h11-h10 .. k6-j6
+25. k5xj6 .. Ra4xf4 .. h10-h9 .. k7xj6
+26. Qi5xj6 .. Rf4-f2 .. i12-i11 .. Bm8xi4
+27. Qj6-j2 .. Qb8xQh2+ .. Re14-e11 .. Bi4xBg2+
+28. Kh1xQh2 .. Rf2xe2 .. Ng13-e12 .. Bg2-l7+
+29. Ne1-g2 .. Re2xNg2+ .. Ne12-c11+ .. Qm5-l6+
+30. Kh2-i1 .. b10xNc11 .. d12xc11 .. Ql6-m5
+31. Qj2-i3 .. Rg2-e2 .. e10-e9 .. Nl9-m7
+32. Nl5xNm7+ .. Ra8-h8 .. Bi14-j13 .. Rn7xNm7
+33. Rd1-h1 .. Rh8xh9 .. e9-e8 .. Bl7xg12
+34. h4-h5 .. d7xe8 .. Bj13xe8 .. Bg12-k8
+35. h5-h6 .. Nd11-f12 .. Kf14-g13 .. Bk8-m6
+36. h6-h7 .. Re2-i2+ .. Kg13xNf12 .. Rm7xh7
+37. Qi3xRi2 .. Bb9xQi2 .. c11-c10 .. Rn11-n7
+38. Ki1xBi2 .. Rh9-g9 .. Re11-e10 .. Rh7-a7+
+39. Rh1-g1 .. Ka10-b10 .. Re10xl10 .. Qm5-i5+
+40. Ki2-h1 .. Rg9-h9+ .. i11-i10 .. Rn7-b7+#
+41. Rg1-g2 .. i10xRh9 .. Qi5-k5
+42. Rg2-h2 .. Be8-j3+ .. Rb7-g7
+43. Kh1-i1 .. Bj3xk4 .. Qk5-i3+
+44. Rh2-i2 .. Rl10-l5+ .. Bm6xRl5
+45. Ri2xQi3 .. Bk4xBl5 .. Rg7-g1+
+46. Ki1-j2 .. h9-h8 .. Rg1-g5
+47. Rk1xk9 .. Bl5-k4 .. Kn5-m4
+48. Rk9-m9+ .. h8-h7=D .. Rg5-m5
+49. Rm9xRm5+ .. Qh7xRa7 .. Km4xRm5
+50. Ri3-i5+ .. Qa7-e7+ .. Km5-l6
+51. Ri5-i3 .. Qe7-j7+ .. Kl6-m5
+52. Kj2-i1 .. Qj7xj8+ .. Km5-n6
+53. Ki1-h2 .. j12xk11 .. Kn6-m7
+54. Kh2-h3 .. k11-k10 .. Km7-l7
+55. Ri3-i4 .. Bk4-l5 .. Kl7-m7
+56. Ri4xl4 .. Qj8-h8+ .. Km7-l6
+57. Rl4-h4 .. Qh8-e5 .. Kl6-m7
+58. Kh3-i4 .. Rj14-j7+ .. Km7-l8
+59. Rh4-h5 .. Rj7-j3 .. Kl8-k9
+60. Rh5xQe5 .. Bl5-i8 .. Kk9-l10
+61. Ki4xRj3 .. f11-f10 .. Kl10-k11
+62. Re5-e10 .. f10-f9 .. Kk11xk12
+63. Re10-f10+ .. Kf12-e11 .. Kk12-j11
+64. Rf10xf9 .. Ke11-d11 .. Kj11-j10
+65. Rf9-f8 .. Bi8-j9 .. Kj10-k9
+66. Rf8-d8+ .. Kd11-c11 .. Kk9-j10
+67. Kj3-i4 .. Kc11xKb10 .. Kj10-k9
+68. Rd8-c8 .. Bj9-f5 .. Kk9-l10
+69. Rc8-c7 .. Kb10xb11 .. Kl10-k9
+70. Ki4-h4 .. T .. Kk9-j8
+71. Rc7-b7 .. Kj8-i8
+72. Rb7xKb11 .. Ki8-h8
+73. Kh4-g5 .. Kh8-g8
+74. Kg5-g6 .. Kg8-f8
+75. Rb11-e11 .. Kf8-f9
+76. Kg6-g7 .. Kf9-f10
+77. Re11-e14 .. Kf10-g9
+78. Re14-f14 .. Kg9-h9
+79. Kg7-h7 .. Kh9-g9
+80. Kh7-g7 .. Kg9-h9
+81. Rf14-g14 .. Kh9-i8
+82. Rg14-g9 .. Ki8-j8
+83. Kg7-h7 .. Kj8-j7
+84. Rg9-i9 .. Kj7-j6
+85. Ri9-i7 .. Kj6-j5
+86. Ri7-i6 .. Kj5-j4
+87. Kh7-h6 .. Kj4-k5
+88. Kh6-h5 .. Kk5-l5
+89. Kh5-i5 .. Kl5-k4
+90. Ri6-j6 .. Kk4-k3
+91. Rj6-j4 .. Kk3-k2
+92. Ki5-i4 .. Kk2-k1
+93. Ki4-i3 .. Kk1-k2
+94. Rj4-j2+ .. Kk2-k3
+95. Rj2-j4 .. Kk3-k2
+96. Rj4-j3 .. Kk2-k1
+97. Ki3-i2 .. Kk1-k2
+98. Ki2-i3 .. Kk2-k1
+99. Rj3-k3+ .. Kk1-j1
+100. Ki3-h2 .. Kj1-j2
+101. Rk3-i3 .. Kj2-j1
+102. Ri3-i2 .. Kj1-k1
+103. Ri2-i3 .. Kk1-j2
+104. Kh2-h3 .. Kj2-j1
+105. Kh3-h2 .. Kj1-j2
+106. Kh2-h3 .. Kj2-j1
+107. Ri3-i2 .. Kj1-k1
+108. Kh3-i3 .. Kk1-j1
+109. Ki3-j3 .. Kj1-k1
+110. Ri2-j2 .. S

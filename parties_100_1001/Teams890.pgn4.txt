@@ -1,0 +1,28 @@
+[GameNr "890"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Yolher"]
+[RedElo "1489"]
+[Blue "Metha_Chemista"]
+[BlueElo "1489"]
+[Yellow "onitsedazz"]
+[YellowElo "1492"]
+[Green "Antruni"]
+[GreenElo "1849"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:33:10 GMT+0000 (UTC)"]
+[CurrentMove "45"]
+
+1. f2-f4 .. b7-c7 .. g13-g12 .. m8-l8
+2. g2-g3 .. Ba6-b7+ .. k13-k12 .. m7-k7
+3. Bf1-g2 .. Bb7xBg2+ .. i13-i12 .. Bn6-m7
+4. Ne1xBg2 .. Qa7-b7 .. j13-j11 .. Qn8-m8
+5. h2-h3 .. Na5-c4 .. Qh14-i13 .. Bm7xQg1
+6. Kh1xBg1 .. b5-d5 .. Qi13-h12 .. m4-k4
+7. d2-d3 .. d5-e5 .. Bi14-j13 .. Qm8-m7+
+8. Kg1-f2 .. Nc4-d6 .. i12-i11 .. k4-j4
+9. Nj1-k3 .. e5xf4 .. Bj13xRa4 .. j4-i4
+10. h3xi4 .. f4xg3 .. Qh12-i12 .. Nn10-l9
+11. Bi1xg3 .. Qb7xNg2+ .. Ba4-c6+ .. Qm7-g1+
+12. #

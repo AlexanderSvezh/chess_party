@@ -1,0 +1,49 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "905"]
+[Result "MeetRango: 46 - rubio7w7: 2 - DFreya: 44 - novato3169: 0"]
+[Variant "FFA"]
+[Red "MeetRango"]
+[RedElo "1877"]
+[Blue "rubio7w7"]
+[BlueElo "1510"]
+[Yellow "DFreya"]
+[YellowElo "1512"]
+[Green "novato3169"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:46:46 GMT+0000 (UTC)"]
+[CurrentMove "87"]
+
+1. Nj1-i3 .. Na5-c6 .. h13-h11 .. m8-k8
+2. h2-h3 .. Nc6-e7 .. h11-h10 .. k8-j8
+3. j2-j3 .. Ne7-g6 .. h10-h9 .. j8-i8
+4. Bi1-j2 .. Ng6-h8 .. Ne14-f12 .. m7-k7
+5. f2-f4 .. b5-c5 .. Qh14-h13+ .. m9-l9
+6. Qg1-f2 .. b8-c8 .. Nj14-i12 .. k7-j7
+7. f4-f5 .. Nh8xj7 .. Nf12-g10 .. Nn5-l6
+8. f5-f6 .. Nj7-h6 .. h9-h8 .. m5-l5
+9. k2-k3 .. Nh6xi8 .. h8-h7=D+ .. Kn7-m8
+10. f6-f7 .. Ni8-j6 .. Qh7-h10 .. m10-k10
+11. g2-g3 .. R .. Qh13xc8+ .. Km8-m9
+12. e2-e4 .. Qh10-j12+ .. m11-k11
+13. Qf2-f4 .. Ni12xk11 .. T
+14. Qf4xBa9 .. Qj12-j9
+15. Bf1-e2 .. g13-g11
+16. e4-e5 .. Bf14-i11
+17. Be2-g4 .. Qc8xQn8
+18. e5-e6 .. j13-j12
+19. e6-e7 .. Bi11xe7
+20. O-O .. O-O
+21. Ni3-j5 .. Be7xBj2
+22. Kj1xBj2 .. Qj9-k8
+23. Bg4xQk8 .. Qn8xBk8
+24. Ne1-g2 .. f13-f11
+25. Nj5xNl6 .. Qk8-n8
+26. Qa9xKa8 .. Qn8xQa8
+27. Nl6-n7 .. Qa8-n8
+28. Nn7xKm9 .. Qn8xNm9
+29. Rd1-f1 .. f11-f10
+30. d2-d4 .. Qm9-l8
+31. d4-d5 .. Ql8-d8+
+32. R

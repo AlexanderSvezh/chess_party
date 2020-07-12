@@ -1,0 +1,43 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "886"]
+[Result "LYM9: 35 - themysterywalnut: 29 - novato3169: 11 - Roscodamus: 27"]
+[Variant "FFA"]
+[Red "LYM9"]
+[RedElo "1657"]
+[Blue "themysterywalnut"]
+[BlueElo "1500"]
+[Yellow "novato3169"]
+[YellowElo "1500"]
+[Green "Roscodamus"]
+[GreenElo "1510"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:36:56 GMT+0000 (UTC)"]
+[CurrentMove "83"]
+
+1. g2-g4 .. Na5-c6 .. g13-g11 .. m8-k8
+2. g4-g5 .. b7-d7 .. g11-g10 .. k8-j8
+3. g5-g6 .. Na10-c9 .. g10-g9 .. j8-i8
+4. g6-g7 .. b8-d8 .. g9-g8 .. Nn5-l6
+5. h2-h3 .. b11-d11 .. Nj14-i12 .. m7-k7
+6. Bi1xBa9 .. Ka8xBa9 .. e13-e12 .. Bn6xBf14
+7. Nj1-i3 .. b5-d5 .. Kg14xBf14 .. O-O
+8. d2-d3 .. b4-d4 .. Ne14-f12 .. Bn9-l7
+9. O-O .. d5-e5 .. e12xd11 .. Qn8-k8
+10. Ri1-h1 .. Ra11xd11 .. Nf12xRd11 .. Qk8xf13+#
+11. e2-e4 .. Nc9xNd11 .. Qf13-k8
+12. f2-f3 .. Qa7-d10 .. k7-j7
+13. Bf1-e2 .. Ra4-a5 .. m9-k9
+14. h3-h4 .. Ra5-d5 .. Bl7-i4
+15. j2-j3 .. Rd5-d6 .. Bi4-k6
+16. h4-h5 .. Qd10xg7 .. i8-h8
+17. Qg1-h2 .. Qg7-k3 .. m5-l5
+18. f3-f4 .. Qk3-e9 .. j7-i7
+19. h5-h6 .. Rd6-e6 .. i7-h7
+20. Be2xQk8 .. Qe9xk9 .. h7xg8=D
+21. Bk8xm10 .. b10-c10 .. Qg8xd8
+22. h6-h7 .. Nc6xQd8 .. T
+23. Ni3-k4 .. d7-e7
+24. Nk4xNl6 .. e7-f7
+25. Nl6xKn5 .. Qk9-j9
+26. R

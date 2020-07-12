@@ -1,0 +1,20 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "874"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "Roscodamus"]
+[RedElo "1510"]
+[Blue "djsm98"]
+[BlueElo "1488"]
+[Yellow "apOreSta"]
+[YellowElo "1500"]
+[Green "Systempel"]
+[GreenElo "1472"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:24:39 GMT+0000 (UTC)"]
+[CurrentMove "10"]
+
+1. g2-g4 .. b8-d8 .. g13-g11 .. m8-k8
+2. g4-g5 .. Na10-c9 .. g11-g10 .. Nn10-l9
+3. g5-g6 .. T

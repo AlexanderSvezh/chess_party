@@ -1,0 +1,41 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "839"]
+[Result "margf: 0 - LYM9: 37 - jhadiluweghdl: 31 - Lalo2113: 25"]
+[Variant "FFA"]
+[Red "margf"]
+[RedElo "1494"]
+[Blue "LYM9"]
+[BlueElo "1647"]
+[Yellow "jhadiluweghdl"]
+[YellowElo "1664"]
+[Green "Lalo2113"]
+[GreenElo "1496"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:25:07 GMT+0000 (UTC)"]
+[CurrentMove "78"]
+
+1. g2-g4 .. Na5-c6 .. e13-e12 .. m8-k8
+2. g4-g5 .. b7-d7 .. d13-d11 .. k8-j8
+3. g5-g6 .. b11-c11 .. Bf14-e13 .. j8-i8
+4. g6-g7 .. d7-e7 .. j13-j12 .. i8-h8
+5. g7-g8=D .. e7-f7 .. i13-i11 .. Bn9xBf1
+6. Qg8-g3 .. Na10-c9 .. Bi14xm10 .. Bf1-n9
+7. h2-h4 .. b8-d8 .. Bm10xRn11 .. Bn9-m8
+8. Bi1-h2 .. Ba9xQg3 .. Nj14-i12 .. Nn10-l9
+9. T .. f7-g7 .. Bn11-m10 .. m7-l7
+10. g7xh8=D .. Bm10-j13 .. Qn8-i3
+11. Qh8xh4 .. Ne14-f12 .. Qi3xi2
+12. Qh4xBh2 .. Be13xc11 .. Qi2xKh1
+13. Qh2xQh1 .. Bc11xb10 .. m4-k4
+14. Ra11-b11 .. Bb10-e13 .. m5-k5
+15. Bg3xm9 .. g13-g12 .. k4-j4
+16. Ba6-c8 .. Ni12-g13 .. k5-j5
+17. Qh1-d5 .. Bj13xNc6+ .. j5-i5
+18. Qd5xBc6 .. Ng13-i12 .. i5-h5
+19. Qa7-g7 .. Kg14-f14 .. Nl9-j8
+20. O-O-O .. Kf14-e14 .. Nj8-i6
+21. Qg7-d10 .. Ni12-g13 .. h5-g5=D
+22. Qd10-n10+ .. h13-h11 .. Kn7-m7
+23. Qn10-n8+# .. Ng13-f11
+24. R

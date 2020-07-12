@@ -1,0 +1,24 @@
+[GameNr "869"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Boombeach1"]
+[RedElo "1488"]
+[Blue "AlbertCheChe"]
+[BlueElo "1500"]
+[Yellow "Unkwn_43"]
+[YellowElo "1556"]
+[Green "yourally"]
+[GreenElo "1484"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:27:06 GMT+0000 (UTC)"]
+[CurrentMove "29"]
+
+1. g2-g4 .. b8-d8 .. h13-h12 .. m7-k7
+2. g4-g5 .. Na5-c6 .. Bi14-g12 .. Nn10-l9
+3. g5-g6 .. b7-d7 .. Bg12xBa6 .. m8-l8
+4. g6-g7 .. Ra4xBa6 .. Ne14-f12 .. Bn9xBf1
+5. g7-g8 .. Na10-c9 .. Qh14-h13 .. Bf1-j5
+6. h2-h3 .. Ba9xBi1 .. Qh13-k10 .. Rn11-n10
+7. Kh1xBi1 .. O-O .. Nj14-i12 .. Qn8xQg1+
+8. #

@@ -103,16 +103,17 @@ def click_hint(browser):
 
 def crashlog(load_range, start, line):
     namerange = f'{load_range[0]}_{load_range[-1]}'
-    prc = load_range[0]/int(line) * 100
+    prc = round(int(line)/load_range[-1] * 100, 1)
     log_str = f'{namerange}: {line} - {(datetime.now() - start).seconds} sec, {prc}%'
     print(log_str)
     with open(f'./logs/{namerange}.log', 'w') as logfile:
         logfile.write(log_str)
 
 
-def download_games(browser, load_range):
+def download_games(browser, dirname, load_range):
+    count = 0
     check = True
-    wait = WebDriverWait(browser, 5)
+    wait = WebDriverWait(browser, 3)
     start_all = datetime.now()
     for line in load_range:
         start = datetime.now()
@@ -131,7 +132,18 @@ def download_games(browser, load_range):
         wait.until(ec.alert_is_present(), 'File name?')
         browser.switch_to.alert.accept()
         crashlog(load_range, start, line)
+        count = check_directory_size(dirname, count)
     print(f'FINISH: {(datetime.now() - start_all).seconds} sec')
+
+
+def check_directory_size(dr, count):
+    limit = 1
+    num_files = len([f for f in os.listdir(dr)])
+    if num_files > limit:
+        count += 1
+        newname = f'{dr}_{count}'
+        os.rename(dr, newname)
+    return count
 
 
 def get_user():
@@ -161,7 +173,7 @@ if __name__ == '__main__':
     try:
         session = login(chrome_instance, (nickname, passwrd))
         # session = registration(chrome_instance)
-        download_games(session, range(int(after), int(before)))
+        download_games(session, dirname, range(int(after), int(before)+1))
     except Exception as err:
         print(repr(err))
         session.save_screenshot('./logs/bugs.png')

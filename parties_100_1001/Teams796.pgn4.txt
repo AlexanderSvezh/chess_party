@@ -1,0 +1,30 @@
+[GameNr "796"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "malaybasak"]
+[RedElo "2651"]
+[Blue "Butnskala"]
+[BlueElo "2063"]
+[Yellow "gluddukat"]
+[YellowElo "2687"]
+[Green "blondegirl1"]
+[GreenElo "2059"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:10:54 GMT+0000 (UTC)"]
+[CurrentMove "56"]
+
+1. h2-h3 .. b6-d6 .. g13-g12 .. m9-l9
+2. d2-d4 .. Qa7-b6 .. k13-k11 .. m8-l8
+3. Qg1-j4 .. Qb6-c6 .. Qh14-e11 .. Qn8-m8
+4. Bi1-h2 .. Na10-c9 .. d13-d11 .. Nn5-l6
+5. k2-k4 .. b10-d10 .. Qe11-e6 .. m4-l4
+6. Qj4-j9 .. b7-d7 .. Qe6-g8 .. l8-k8
+7. Qj9-h9 .. Ba6-c8 .. Ne14-f12 .. Nn10-l11
+8. Qh9-h4 .. Ra11-a10 .. Nf12-e10 .. Qm8-k6
+9. d4-d5 .. Qc6-c7 .. Ne10xNc9+ .. Qk6-j7
+10. Bh2xd6 .. b8xNc9 .. j13-j12 .. Nl6-j5
+11. Bd6xQc7 .. Ba9xBc7 .. Qg8xNj5 .. Bn9xQj5
+12. k4xBj5 .. Na5-b7 .. Bi14xNl11 .. m10xBl11
+13. Qh4-m9 .. Ra4-a6 .. k11-k10 .. l9xk10
+14. Qm9-l9+ .. Ra6-f6 .. Rk14xk10 .. R

@@ -1,0 +1,58 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "865"]
+[Result "Armanuly: 78 - CookA_rus: 8 - SMARTandHANDSOME2018: 17 - macksikrio: 10"]
+[Variant "FFA"]
+[Red "Armanuly"]
+[RedElo "1551"]
+[Blue "CookA_rus"]
+[BlueElo "1511"]
+[Yellow "SMARTandHANDSOME2018"]
+[YellowElo "1540"]
+[Green "macksikrio"]
+[GreenElo "1472"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:40:31 GMT+0000 (UTC)"]
+[CurrentMove "104"]
+
+1. e2-e3 .. b7-d7 .. h13-h11 .. m9-k9
+2. Bf1-e2 .. d7-e7 .. Bi14xBa6 .. k9-j9
+3. Ne1-f3 .. Qa7xBa6 .. Qh14-h13 .. j9-i9
+4. Nf3-g5 .. Qa6-a7 .. i13-i12 .. i9-h9
+5. Ng5-i6 .. e7-f7 .. h11-h10 .. Nn10-l9
+6. h2-h3 .. f7-g7 .. Ne14-f12 .. m5-l5
+7. Ni6xg7 .. Qa7xNg7 .. Qh13-a6+ .. Bn6-m5
+8. Be2-f3+# .. Qa6-d9 .. Bm5xh10
+9. Qg1-j4 .. j13-j12 .. h9-g9=D
+10. Nj1-i3 .. Qd9-h13 .. m6-k6
+11. O-O-O .. Nf12-e10 .. Qg9-f9
+12. Bi1xb8 .. Qh13xBh10 .. Qf9-g8
+13. k2-k4 .. Qh10xRn4 .. Kn7-n6
+14. Qj4-f4 .. g13-g12 .. Qg8-j8
+15. Qf4-c7 .. Bf14xm7+ .. Kn6xBm7
+16. Qc7-i13 .. Qn4xm4+ .. Km7-l6
+17. Qi13-h14+# .. Kl6-m6
+18. k4xl5+ .. Km6xl5
+19. Qh14-h5+ .. Kl5-l6
+20. Ni3-k4+ .. Kl6-m6
+21. Nk4-i3 .. Km6-l7
+22. Rk1-k5 .. Nn5-m7
+23. Ni3-k4 .. Qn8-n7
+24. Nk4-m5+ .. Kl7-m6
+25. Nm5xQn7 .. Km6xNn7
+26. Bb8-h2 .. Qj8-k8
+27. Qh5-j3+ .. Qk8-m6
+28. Qj3xj12 .. Nl9-n8
+29. Qj12xi12 .. m10-l10
+30. Bf3xRn11 .. Nn8-l9
+31. Rg1-k1 .. Bn9-l11
+32. Rk1-k4 .. Bl11-d3+
+33. Kf1-e1 .. Qm6-l6
+34. Qi12-j12 .. Ql6-l7
+35. Qj12-j3 .. Ql7-k8
+36. Rk4xQm4+ .. Kn7-n6
+37. Rm4-n4+ .. Nm7-n5
+38. Qj3-k3+ .. Kn6-m6
+39. Rk5xk6+ .. Km6-l7
+40. Rk6xQk8 .. Nl9-j10
+41. Qk3-k6+#

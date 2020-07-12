@@ -1,0 +1,21 @@
+[GameNr "930"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "wilsonqian"]
+[RedElo "1330"]
+[Blue "Volkan17"]
+[BlueElo "1484"]
+[Yellow "smitlath"]
+[YellowElo "1572"]
+[Green "Vuhuuu71"]
+[GreenElo "1517"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:41:02 GMT+0000 (UTC)"]
+[CurrentMove "17"]
+
+1. h2-h3 .. b10-c10 .. i13-i12 .. m10-l10
+2. Qg1-k5 .. Ba9-b10 .. g13-g12 .. Nn5-l6
+3. Qk5-j4 .. b6-c6 .. d13-d12 .. m5-l5
+4. Qj4xb4 .. Ra4xQb4 .. k13-k12 .. Bn6xj2
+5. R

@@ -1,0 +1,62 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "801"]
+[Result "burakaysal: 14 - mcfmcf58: 92 - Dovahkriid: 26 - Javapps: 40"]
+[Variant "FFA"]
+[Red "burakaysal"]
+[RedElo "1498"]
+[Blue "mcfmcf58"]
+[BlueElo "1688"]
+[Yellow "Dovahkriid"]
+[YellowElo "1639"]
+[Green "Javapps"]
+[GreenElo "1604"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:24:22 GMT+0000 (UTC)"]
+[CurrentMove "148"]
+
+1. h2-h4 .. b7-d7 .. h13-h11 .. m5-l5
+2. Ne1-f3 .. Na5-b7 .. h11-h10 .. Bn6-m5
+3. Nj1-k3 .. Nb7-c5 .. g13-g11 .. Nn5-l6
+4. g2-g3 .. Ba6-b7 .. Nj14-i12 .. O-O
+5. Bf1-g2 .. Bb7-c6 .. h10-h9 .. m7-k7
+6. Qg1-h2 .. Na10-c9 .. Bf14xRn6 .. Bm5xBn6
+7. O-O-O .. b10-c10 .. d13-d12 .. Qn8-m7
+8. Nf3-e5 .. Bc6xBg2+ .. Ne14-f12 .. Nn10-l11
+9. Qh2xBg2+ .. b6-c6 .. h9-h8 .. m8-k8
+10. Ne5xc6 .. b5xNc6 .. h8-h7=D .. Bn9xQg2+
+11. Rg1xBg2 .. Nc9-d11 .. Nf12xNd11 .. k7-j7
+12. i2-i4 .. c10xNd11 .. Qh7xd11 .. j7-i7
+13. j2-j3 .. Ba9-b10 .. Bi14-g12 .. i7-h7
+14. Bi1-j2 .. Bb10-c9 .. e13-e11 .. h7-g7=D
+15. j3-j4 .. Nc5-e4 .. Bg12-c8 .. Qg7-h7
+16. Nk3-j5 .. Ra11-a9 .. Bc8-h13 .. Nl6xNj5
+17. i4xNj5 .. Ne4xd2+ .. Qd11xQh7 .. Qm7xQh7
+18. Kf1-e1 .. Nd2-c4 .. k13-k12 .. Nl11-k9
+19. Rk1-h1 .. Qa7-c5 .. j13-j11 .. k8-j8
+20. j5-j6 .. Qc5-d5 .. Ni12-h10 .. j8-i8
+21. Rh1-g1 .. Qd5-d2+ .. Qh14-f12 .. Bn6xBj2
+22. Ke1-f1 .. Qd2-d1+# .. Bh13-f11 .. i8-h8
+23. Nc4-b6 .. j11-j10 .. Nk9-i10
+24. Qd1xe2 .. Bf11-h9 .. Qh7-k10+
+25. Qe2-e8 .. i13-i12 .. Ni10-g9
+26. Qe8-c10 .. O-O .. Rn11-n8
+27. Nb6-c8 .. k12-k11 .. Ng9-i8
+28. Nc8-b10 .. Bh9-j11 .. Qk10-k6
+29. Nb10-d11 .. Qf12-e12 .. Ni8xNh10
+30. b11-c11 .. g11xNh10 .. h8-g8=D
+31. c11xd12 .. Qe12xQk6 .. l5xQk6
+32. Nd11-f12+ .. Ke14-d14 .. Bj2xh4
+33. Bc9xe11 .. Bj11xQg8 .. Rn8xBg8
+34. Qc10-h5+ .. Rk14-h14 .. Kn5-n4
+35. Qh5xBh4 .. h10-h9 .. Rg8-h8
+36. Qh4xRh8 .. Rh14-h12 .. R
+37. b4-d4 .. j10-j9
+38. Qh8xk11 .. j9-j8
+39. Qk11-k8 .. h9-h8
+40. Be11xh8 .. Rh12xNf12
+41. Qk8xj8 .. Kd14-d13
+42. Qj8xRf12 .. Rf14-k14
+43. Qf12xKn4 .. Rk14-e14
+44. Ra9-a10 .. Re14-k14
+45. Ra10-k10 .. R

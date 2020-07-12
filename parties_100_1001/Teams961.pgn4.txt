@@ -1,0 +1,18 @@
+[GameNr "961"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Antruni"]
+[RedElo "1860"]
+[Blue "RuijieXiao"]
+[BlueElo "1801"]
+[Yellow "ermis8992"]
+[YellowElo "2040"]
+[Green "Great-Gazoo"]
+[GreenElo "1311"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:46:55 GMT+0000 (UTC)"]
+[CurrentMove "8"]
+
+1. h2-h3 .. b6-c6 .. i13-i11 .. Nn5-l6
+2. e2-e3 .. Qa7-c5 .. Qh14-i13 .. R

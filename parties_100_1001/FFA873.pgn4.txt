@@ -1,0 +1,51 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "873"]
+[Result "MarshmallowQueen2: 1 - Jugadornormal: 15 - emad112: 13 - Merlin-Pendragon: 99"]
+[Variant "FFA"]
+[Red "MarshmallowQueen2"]
+[RedElo "1533"]
+[Blue "Jugadornormal"]
+[BlueElo "1500"]
+[Yellow "emad112"]
+[YellowElo "1550"]
+[Green "Merlin-Pendragon"]
+[GreenElo "1679"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:38:58 GMT+0000 (UTC)"]
+[CurrentMove "109"]
+
+1. g2-g4 .. Na10-c9 .. h13-h11 .. m11-k11
+2. g4-g5 .. b7-d7 .. Bi14-h13 .. k11-j11
+3. g5-g6 .. d7-e7 .. j13-j12 .. m10-k10
+4. g6-g7 .. e7-f7 .. e13-e12 .. Bn9-j13
+5. g7-g8=D .. f7xQg8 .. g13-g12 .. Bj13xRk14
+6. Qg1xg8 .. b10-c10 .. Ne14-d12 .. Bk14xh11
+7. f2-f3 .. Na5-c6 .. Qh14-e11 .. Bh11-i10
+8. Qg8-g3 .. b5-c5 .. Bf14-e13 .. Nn10-l11
+9. Bf1-h3 .. Ba9-b10 .. k13-k12 .. Nl11-k13
+10. d2-d3 .. Ba6-b5 .. O-O .. m7-l7
+11. Ne1-g2 .. Qa7-b7 .. Rf14-g14 .. Bi10-k8
+12. Nj1-i3 .. O-O-O .. Qe11-k5 .. Qn8xQk5
+13. e2-e4 .. Nc9-e10 .. Nd12xNe10 .. Bn6-l8
+14. Qg3-g6 .. Qb7xNe10 .. Be13xBb10 .. m9-l9
+15. Bh3-i4 .. b11-c11 .. Bb10xRa11 .. Nn5-l6
+16. Bi4-h3 .. Ra7xBa11 .. f13-f11 .. Bk8xf3
+17. Qg6-g5 .. Qe10-b7 .. g12-g11 .. Qk5xQg5
+18. R .. Ra11-a8 .. f11-f10 .. Bf3xNg2
+19. b8-c8 .. f10-f9 .. Bg2xKh1
+20. Ra8-a7 .. f9-f8 .. Bh1xe4
+21. c11-d11 .. Bh13-f11 .. Be4-j9+
+22. d11xe12 .. Ke14-d14 .. k10-j10
+23. e12xBf11 .. T .. Qg5xg11
+24. c10-d10 .. Qg11xKd14
+25. d10-e10 .. j10-i10
+26. f11-g11 .. Qd14xg11
+27. Bb5-c4 .. Bl8-h12
+28. Ka6-b5 .. Bj9-e4
+29. c5-d5 .. Be4-i8
+30. Qb7-i7 .. Bi8-g10
+31. Ra7-a5 .. Qg11xb6+
+32. Kb5-a4 .. Qb6xNc6+
+33. Ra5-b5 .. Qc6-a8+
+34. Qi7-a7 .. Qa8xQa7+#

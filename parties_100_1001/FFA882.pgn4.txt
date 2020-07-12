@@ -1,0 +1,57 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "882"]
+[Result "pandadude100: 66 - benhleli: 10 - enelrs: 49 - apOreSta: 14"]
+[Variant "FFA"]
+[Red "pandadude100"]
+[RedElo "1521"]
+[Blue "benhleli"]
+[BlueElo "1601"]
+[Yellow "enelrs"]
+[YellowElo "1580"]
+[Green "apOreSta"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:45:54 GMT+0000 (UTC)"]
+[CurrentMove "146"]
+
+1. h2-h3 .. b7-d7 .. Ne14-f12 .. m7-k7
+2. e2-e3 .. d7-e7 .. e13-e12 .. Nn10-l9
+3. Bi1-h2 .. e7-f7 .. Nf12-d11 .. Nl9-j10
+4. Bh2xQn8 .. b10-c10 .. Nd11-b10+ .. Bn6-m7
+5. Bn8xBm7 .. Ka8-b7 .. h13-h12+ .. k7-j7
+6. Bm7-h2 .. b8-c8 .. Nb10xc8 .. j7-i7
+7. g2-g3 .. b9xNc8 .. d13-d12 .. i7-h7
+8. Bf1-g2+ .. b6-c6 .. Bf14-e13 .. Nj10-i8
+9. Ne1-f3 .. Kb7-a8 .. Be13xm5 .. h7-g7=D
+10. k2-k3 .. c8-d8 .. Bm5xRn4 .. Qg7xf7
+11. Nf3-e5 .. Qa7-b6 .. Bn4-f12 .. Qf7-k7
+12. Ne5-g4 .. Ba9-b8 .. Bi14-f11 .. Qk7-k10+
+13. i2-i3 .. Qb6-a7+ .. Bf11-h13 .. Qk10-k7
+14. i3-i4 .. Qa7-b6 .. Nj14-i12 .. Qk7-j7
+15. Bh2-i3 .. d8-e8 .. j13-j12 .. m8-l8
+16. Nj1-h2 .. Na10-c9 .. Ni12-k11+ .. Kn7-n6
+17. j2-j4 .. Ka8-b9 .. Bh13-f11 .. Qj7-j8
+18. k3-k4 .. Qb6-c7 .. Bf12xQj8 .. Bn9xi4
+19. h3xBi4 .. Ra11-a7 .. Bf11xNi8 .. m10-l10
+20. k4-k5 .. Qc7-m7+ .. Bj8xl10 .. Nn5xQm7
+21. Ng4-i5 .. e8-f8 .. Bl10-j8 .. Rn11-n10
+22. Bg2-h3+ .. Kb9-a8 .. d12-d11 .. Rn10-j10
+23. Nh2-j3 .. c10xd11 .. Bj8-g11 .. Nm7-l5
+24. j4-j5 .. d11xe12 .. Bi8xe12+ .. Rj10-k10
+25. k5-k6 .. Ka8-b7 .. Be12-f11+ .. Nl5-m7
+26. Qg1-h2 .. Kb7-a8 .. Bf11-e12+ .. m6-l6
+27. O-O-O .. b11-d11 .. Be12-i8 .. Rk10-c10
+28. Qh2-i2 .. f8-g8 .. Bi8-d3+ .. Rc10xNc9
+29. Kf1-e1 .. Bb8xRc9 .. Rd14xd11 .. m11-l11
+30. Bh3-f5 .. g8-h8=D .. Bd3xBf5 .. m9-l9
+31. Qi2xBf5 .. Qh8-g8 .. Rd11-a11+ .. l9-k9
+32. Qf5-c8+# .. g13-g12 .. l8-k8
+33. Bi3xl6 .. Bg11xBl6 .. Kn6-m6
+34. k6-k7 .. Bl6xRg1 .. Nm7-l5
+35. Rk1-k6+ .. Qh14-d10 .. Km6-l7
+36. Qc8-e8 .. Rk14-h14 .. Nl5-j4
+37. Nj3-k5+ .. Qd10-m10#
+38. Rk6-f6 .. Qm10-d10
+39. Qe8-e14+ .. Kg14-g13
+40. Qe14xf13+#

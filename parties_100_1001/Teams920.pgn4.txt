@@ -1,0 +1,26 @@
+[GameNr "920"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "mikemanuver"]
+[RedElo "2516"]
+[Blue "Riba"]
+[BlueElo "2765"]
+[Yellow "ShiverMcTimber"]
+[YellowElo "1900"]
+[Green "maui2015"]
+[GreenElo "2555"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:41:39 GMT+0000 (UTC)"]
+[CurrentMove "37"]
+
+1. h2-h3 .. b6-d6 .. h13-h12 .. m9-l9
+2. Bi1-g3 .. b8-c8 .. Bi14-g12 .. m8-k8
+3. Qg1-j4 .. Qa7-e11 .. Ne14-f12 .. Nn5-l6
+4. k2-k4 .. Na10-c9 .. Nj14-i12 .. m5-k5
+5. Qj4-h4 .. b11-d11 .. d13-d12 .. Qn8-m8
+6. Nj1-h2 .. Qe11-e7 .. e13-e11 .. Bn6xj2
+7. Qh4xBj2 .. Qe7xQj2 .. Bg12xc8 .. Nl6-j5
+8. Rk1-i1 .. b9xBc8 .. Qh14-h13 .. Nj5-i3+
+9. Kh1-g1 .. Qj2xRi1+ .. Ni12-j10 .. Kn7-n8
+10. #

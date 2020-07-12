@@ -1,0 +1,25 @@
+[GameNr "956"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "GSSD"]
+[RedElo "2123"]
+[Blue "ADMIRALFAILUREXX"]
+[BlueElo "1399"]
+[Yellow "wilsonqian"]
+[YellowElo "1313"]
+[Green "leorastelli"]
+[GreenElo "2238"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:50:35 GMT+0000 (UTC)"]
+[CurrentMove "34"]
+
+1. h2-h3 .. b8-d8 .. f13-f12 .. m5-l5
+2. g2-g3 .. b5-d5 .. g13-g11 .. m9-l9
+3. Qg1-g2 .. b7-c7 .. h13-h12 .. m8-l8
+4. Qg2xd5+ .. Ka8-b8 .. f12-f11+ .. Qn8-m8
+5. Qd5-b7+ .. Kb8xQb7 .. Bf14-g13 .. l9-k9+
+6. Bf1-g2+ .. Kb7-c8 .. i13-i12 .. Qm8-l7
+7. h3-h4 .. b9-d9 .. Bg13xQa7 .. m6-k6
+8. Bg2-h3+ .. Kc8-b7 .. Qh14-b8+ .. Bn9-m8
+9. Bh3-g2+ .. #

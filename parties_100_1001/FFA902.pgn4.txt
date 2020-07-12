@@ -1,0 +1,44 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "902"]
+[Result "Dhdbvwhd: 0 - Felix_usa111: 46 - jpkoury: 70 - JERC1: 20"]
+[Variant "FFA"]
+[Red "Dhdbvwhd"]
+[RedElo "1466"]
+[Blue "Felix_usa111"]
+[BlueElo "1707"]
+[Yellow "jpkoury"]
+[YellowElo "1929"]
+[Green "JERC1"]
+[GreenElo "1534"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:40:03 GMT+0000 (UTC)"]
+[CurrentMove "74"]
+
+1. h2-h3 .. b10-c10 .. Ne14-f12 .. m10-l10
+2. g2-g4 .. b8-d8 .. d13-d12 .. m5-l5
+3. Qg1-h2 .. Ba9xQh2 .. e13-e12 .. Bn9-m10
+4. R .. Qa7-b8 .. d12-d11 .. Bn6xj2
+5. Qb8-g3 .. d11xc10 .. Bj2xd8
+6. b11xc10 .. Rd14xBd8+ .. m8-k8
+7. Na10-b8 .. Bf14-b10 .. Nn5-l6
+8. b7-c7 .. Rd8xNb8+ .. Qn8-l8
+9. Ka8xRb8 .. Bb10xRa11 .. Ql8xQg3
+10. Bh2xQg3 .. Ba11-b10 .. Nl6-j5
+11. Ba6-b7 .. Bb10-e13 .. Nj5-i3
+12. Bb7xKh1 .. Nf12-d13 .. Ni3xBh1
+13. Bg3xm9 .. Be13xRn4 .. Nn10-m8
+14. Bm9-h4 .. Bn4-f12+ .. Rn11-n9
+15. b9-c9 .. k13-k11 .. l10-k10
+16. Na5-b7 .. j13-j12 .. Bm10xBi14
+17. Ra4-a8 .. Qh14xBi14 .. k8-j8
+18. Kb8-a7 .. Qi14xRn9+#
+19. Ka7-a6 .. Nj14-i12
+20. Bh4-d8 .. O-O-O
+21. b6-d6 .. Nd13-c11
+22. c10-d10 .. Nc11-e10
+23. Bd8-e9 .. e12-e11
+24. b5-d5 .. e11xd10
+25. c9xd10 .. Qn9-f9
+26. Nb7-c5 .. Qf9-c6+
+27. R

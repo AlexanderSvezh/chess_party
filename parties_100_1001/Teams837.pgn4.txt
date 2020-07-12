@@ -1,0 +1,20 @@
+[GameNr "837"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Xchess69xxx"]
+[RedElo "2130"]
+[Blue "SHALA1"]
+[BlueElo "1492"]
+[Yellow "ermis8992"]
+[YellowElo "2041"]
+[Green "Ze6ypo511"]
+[GreenElo "1492"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:16:04 GMT+0000 (UTC)"]
+[CurrentMove "14"]
+
+1. h2-h3 .. b7-c7 .. g13-g12 .. m8-k8
+2. Qg1-j4 .. Na10-c9 .. Qh14xNc9 .. m7-l7
+3. Qj4-e4+ .. Ba6-b7 .. Qc9xb9+ .. Qn8-m8
+4. Qe4-e6 .. #

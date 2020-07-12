@@ -1,0 +1,63 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "969"]
+[Result "gardeneer_do: 98 - floppsy: 20 - josh9874: 19 - Brighton12345: 7"]
+[Variant "FFA"]
+[Red "gardeneer_do"]
+[RedElo "1503"]
+[Blue "floppsy"]
+[BlueElo "1745"]
+[Yellow "josh9874"]
+[YellowElo "1523"]
+[Green "Brighton12345"]
+[GreenElo "1537"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:12:10 GMT+0000 (UTC)"]
+[CurrentMove "149"]
+
+1. j2-j3 .. b10-c10 .. h13-h11 .. m8-k8
+2. Bi1-j2 .. Na10-c9 .. h11-h10 .. m10-l10
+3. e2-e3 .. Ba9-b10 .. h10-h9 .. k8-j8
+4. Bf1-e2 .. O-O .. h9-h8 .. m9-l9
+5. Nj1-i3 .. b7-d7 .. Bi14-h13 .. j8-i8
+6. O-O .. b8-c8 .. Ne14-d12 .. m7-k7
+7. g2-g4 .. d7-e7 .. e13-e12 .. Bn6-j10
+8. g4-g5 .. b6-d6 .. Bh13-g12 .. m4-l4
+9. Ni3-k4 .. e7-f7 .. j13-j12 .. m5-l5
+10. Nk4-i3 .. d6-e6 .. Bf14-e13 .. Bn9-j13
+11. Ne1-f3 .. b4-c4 .. Nj14-h13 .. Bj13xRk14
+12. Ri1-h1 .. Na5-b7 .. Qh14xBk14 .. Bj10xh8
+13. h2-h4 .. Nb7-d8 .. Nd12-f11 .. Nn10-m8
+14. h4-h5 .. Ra4-a5 .. Qk14-h11 .. Qn8-m7
+15. h5-h6 .. b5-d5 .. Qh11xBh8 .. k7-j7
+16. Kj1-k1 .. Nd8-b7 .. Qh8-i9 .. Rn4-m4
+17. Qg1-f1 .. Ba6-b5 .. Qi9xl9 .. Rn11-n8
+18. Be2xc4 .. Bb5xBc4 .. O-O .. i8-h8
+19. Qf1xBc4 .. Nb7-d6 .. Rf14-k14 .. Nn5-l6
+20. Qc4-f1 .. b11-c11 .. k13-k11 .. l10xk11
+21. Qf1-g1 .. Qa7-d7 .. Rk14xk11 .. Kn7-n6
+22. d2-d4 .. Nd6-f5 .. Ql9-k10 .. Nm8-l10
+23. Nf3-e5 .. Qd7-c7 .. i13-i11 .. R
+24. Bj2xl4 .. Qc7xNe5 .. Qk10-n7
+25. d4xQe5 .. f7-g7 .. Nf11-g9
+26. h6-h7 .. g7xh8=D .. Ng9-i10
+27. Bl4xKn6 .. Ra9-a7 .. Ni10xQh8
+28. Bn6-j2 .. Ra7-d7 .. Nh8-i6
+29. h7-h8=D .. c11-d11 .. Ni6-j4
+30. Qh8xRk11 .. Bb10xBe13 .. Ke14xBe13
+31. Qk11-k7+ .. d11xe12 .. Ke13xe12
+32. Qg1-h2 .. Rd7-e7+ .. Ke12-d12
+33. Qk7-k5+ .. Re7-e14 .. Kd12-c11
+34. Qk5xNj4+ .. Re14-e11+ .. Kc11-d12
+35. Qj4-d10+# .. Re11-d11
+36. Qd10xNc9 .. Ra5-a4
+37. Qc9-f9 .. Ra4-a7
+38. Qf9xRd11 .. c10xQd11
+39. Rd1xd5 .. b9-d9
+40. Qh2-h10+ .. Ka10-b9
+41. Qh10-d10 .. Ra7-d7
+42. Qd10xd11+ .. Kb9-c9
+43. Qd11-a11+ .. Kc9-c10
+44. Qa11-a8+ .. Kc10-c9
+45. Rd5xRd7 .. c8xRd7
+46. Qa8-c6+ .. R

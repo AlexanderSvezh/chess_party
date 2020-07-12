@@ -1,0 +1,21 @@
+[GameNr "803"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "22kevin2007"]
+[RedElo "1824"]
+[Blue "yamnik"]
+[BlueElo "1989"]
+[Yellow "8943GHWRGW34IH89H"]
+[YellowElo "1520"]
+[Green "nebukdanezar"]
+[GreenElo "1459"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:06:32 GMT+0000 (UTC)"]
+[CurrentMove "19"]
+
+1. h2-h3 .. b7-c7 .. g13-g12 .. Nn5-l6
+2. Qg1-j4 .. Qa7-b7 .. Qh14-e11 .. Nn10-l9
+3. Qj4-j9 .. Na10-c9 .. Qe11-h8 .. m8-k8
+4. Qj9-h7 .. Qb7-c8 .. Qh8xQc8 .. Qn8-m8
+5. Qh7xc7 .. Ba6xQc8 .. R

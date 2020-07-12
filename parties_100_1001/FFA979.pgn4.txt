@@ -1,0 +1,36 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "979"]
+[Result "Shlomo12345: 40 - KINGPavelDatsyuk: 12 - WilliCastro: 17 - scooda: 66"]
+[Variant "FFA"]
+[Red "Shlomo12345"]
+[RedElo "1875"]
+[Blue "KINGPavelDatsyuk"]
+[BlueElo "1584"]
+[Yellow "WilliCastro"]
+[YellowElo "1421"]
+[Green "scooda"]
+[GreenElo "1580"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:59:43 GMT+0000 (UTC)"]
+[CurrentMove "66"]
+
+1. g2-g3 .. b7-d7 .. h13-h11 .. m8-k8
+2. h2-h3 .. d7-e7 .. g13-g11 .. k8-j8
+3. Ne1-f3 .. e7-f7 .. Bi14-g12 .. j8-i8
+4. j2-j3 .. f7-g7 .. Qh14-i14 .. i8-h8
+5. Bi1-j2 .. g7-h7=D .. Bg12xBa6 .. h8-g8=D
+6. Nj1-h2 .. Qh7-k10++ .. Kg14-h14 .. m9-l9
+7. Bf1-g2 .. Qk10-d10+ .. Kh14-g14 .. Qg8xg11+
+8. Nf3-h4+ .. b6-c6 .. Bf14-g13 .. Qg11xh11
+9. d2-d3 .. Qd10-d7 .. Ba6xb5 .. m10-l10
+10. O-O .. b10-c10 .. Bb5xRa4 .. Bn9xj13
+11. Nh4-f3 .. Ba9xe13 .. Qi14xBj13 .. Qh11xQj13
+12. Bj2xRa11 .. Qd7-d9 .. Ba4xc6+ .. Qj13xRk14
+13. Ba11-b10 .. Na5xBc6 .. Kg14-h14 .. Qk14xNj14+#
+14. Bb10xBe13 .. Qd9xl9+ .. Nn10xQl9
+15. Nh2-i4 .. T .. Qj14-j8
+16. Be13xQj8 .. Qn8xBj8
+17. Nf3-d4 .. Qj8xb8
+18. Bg2xNc6 .. Qb8xKa8
+19. Bc6xQa8 .. R

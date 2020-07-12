@@ -1,0 +1,35 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "983"]
+[Result "MaxMIX5: 1 - macksikrio: 0 - idukke: 35 - axelibarramartinez: 54"]
+[Variant "FFA"]
+[Red "MaxMIX5"]
+[RedElo "1453"]
+[Blue "macksikrio"]
+[BlueElo "1456"]
+[Yellow "idukke"]
+[YellowElo "1513"]
+[Green "axelibarramartinez"]
+[GreenElo "1581"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 21:00:41 GMT+0000 (UTC)"]
+[CurrentMove "55"]
+
+1. g2-g4 .. b8-d8 .. h13-h11 .. m8-k8
+2. g4-g5 .. d8-e8 .. Bi14-h13+ .. m9-l9
+3. g5-g6 .. e8-f8 .. Ne14-f12 .. k8-j8
+4. h2-h3 .. b9-d9 .. g13-g11 .. j8-i8
+5. d2-d4 .. d9-e9 .. Bf14-g13 .. i8-h8
+6. d4-d5 .. b7-c7 .. Nf12-g10 .. h8-g8=D
+7. Bf1-g2 .. b11-d11 .. O-O .. Qg8-m8
+8. d5-d6+ .. Ka8-b9 .. Ng10xe9 .. m7-l7
+9. d6-d7 .. b6-c6 .. Bg13xQa7 .. Qm8-m7
+10. Bi1xc7 .. T .. Ba7-g13 .. Qm7xQg1+#
+11. Bg13xBn6 .. Kn7xBn6
+12. i13-i11 .. Qn8xf8
+13. Ne9-g10 .. Qf8-f9
+14. Nj14-i12 .. Qf9xKb9
+15. Ni12-j10 .. Qg1-f1
+16. i11-i10 .. Qb9xb10
+17. i10-i9 .. Qf1xe2
+18. Qh14-n8+#

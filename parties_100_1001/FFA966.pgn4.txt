@@ -1,0 +1,43 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "966"]
+[Result "drcubes: 28 - djsm98: 9 - NELSONCARACAS: 5 - Gogy89: 49"]
+[Variant "FFA"]
+[Red "drcubes"]
+[RedElo "1486"]
+[Blue "djsm98"]
+[BlueElo "1462"]
+[Yellow "NELSONCARACAS"]
+[YellowElo "1515"]
+[Green "Gogy89"]
+[GreenElo "1613"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:58:05 GMT+0000 (UTC)"]
+[CurrentMove "95"]
+
+1. g2-g4 .. b7-d7 .. f13-f11 .. m5-l5
+2. g4-g5 .. Ba6-b7+ .. Ne14-f12 .. Bn6-m5
+3. Bf1-g2 .. Na5-c6 .. f11-f10 .. Nn5-l6
+4. g5-g6 .. d7-e7 .. g13-g11 .. O-O
+5. g6-g7 .. b8-d8 .. f10-f9 .. m7-k7
+6. Bg2-f1 .. Na10-b8 .. g11-g10 .. k7-j7
+7. g7-g8=D .. Bb7-c8 .. f9xQg8 .. j7-i7
+8. Qg1xg8 .. Nb8-d7 .. Bf14-i11 .. Rn6-n7
+9. h2-h4 .. Ba9-c7 .. h13-h11 .. i7-h7
+10. Qg8-g7 .. Qa7-b8 .. g10-g9 .. Nn10-l9
+11. h4-h5 .. O-O .. Nj14-i12 .. m8-k8
+12. h5-h6 .. Qb8-a8 .. h11-h10 .. k8-j8
+13. Ne1-f3 .. Ra4-a7 .. h10-h9 .. m10-k10
+14. Bf1xBn9 .. b11-c11 .. h9-h8 .. Rn11xBn9
+15. Qg7-g8 .. b9-c9+ .. e13-e12 .. k10-j10
+16. Nj1-i3 .. c9-d9 .. Ni12xj10 .. Nl9xNj10
+17. Ni3-h5 .. d8-e8 .. Bi11xNj10 .. Qn8-m8+
+18. Qg8-h9 .. Nc6-d8 .. Bi14-h13 .. m9-l9
+19. Qh9xg9+ .. e8-f8 .. Kg14-f13 .. Qm8-m10
+20. Qg9-g8 .. e7-f7 .. Bj10-h12 .. Rn7-n8
+21. Qg8xh8 .. f8-g8 .. T .. j8-i8
+22. Qh8-h11 .. Qa8xe12 .. Rn9-n10
+23. Qh11xKf13 .. Qe12xQf13 .. Qm10xb10+#
+24. O-O-O .. i8-h8
+25. Bi1-g3 .. Rn10-g10
+26. R

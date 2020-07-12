@@ -1,0 +1,19 @@
+[GameNr "898"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "alyeasin93"]
+[RedElo "2643"]
+[Blue "AlbertCheChe"]
+[BlueElo "1519"]
+[Yellow "Dewan122157"]
+[YellowElo "968"]
+[Green "yourally"]
+[GreenElo "1503"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:30:42 GMT+0000 (UTC)"]
+[CurrentMove "10"]
+
+1. h2-h3 .. Na10-c9 .. h13-h12 .. m8-k8
+2. Qg1-h2 .. Na5-c6 .. Bi14xb7+ .. Bn9-j5
+3. Qh2xb8+ .. #

@@ -1,0 +1,41 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "815"]
+[Result "1APokerchess: 16 - just4xChess: 11 - zserbo0314: 49 - Taking_It_Easy: 56"]
+[Variant "FFA"]
+[Red "1APokerchess"]
+[RedElo "1606"]
+[Blue "just4xChess"]
+[BlueElo "1608"]
+[Yellow "zserbo0314"]
+[YellowElo "1875"]
+[Green "Taking_It_Easy"]
+[GreenElo "1730"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:19:24 GMT+0000 (UTC)"]
+[CurrentMove "83"]
+
+1. Nj1-i3 .. b8-d8 .. h13-h11 .. m8-k8
+2. Ni3-h5 .. b7-d7 .. Nj14-i12 .. k8-j8
+3. Nh5-g7 .. d8-e8 .. k13-k12 .. j8-i8
+4. Ng7-f5 .. b5-c5 .. Bi14xBa6 .. i8-h8
+5. e2-e3 .. b4-c4 .. Ba6-h13 .. h8-g8=D
+6. Nf5-g3 .. Na10-c9 .. Ne14-f12 .. Qg8-m8
+7. Bf1-e2 .. Ba9xNg3 .. g13-g11 .. m5-l5
+8. h2xBg3 .. c4-d4 .. Bf14-g13 .. Bn6-m5
+9. k2-k3 .. Qa7-c7 .. d13-d11 .. Nn5-l6
+10. Ne1-f3 .. b10-d10 .. Nf12-e10 .. O-O
+11. e3xd4 .. b11-c11 .. h11-h10 .. Qm8-j5
+12. d4xc5 .. b6xc5 .. j13-j11 .. Qn8-m8
+13. Nf3-h4 .. Ka8-a9 .. O-O .. Qj5-j9
+14. g3-g4 .. Qc7xBi1+ .. g11-g10 .. Qj9xj2
+15. Rk1xQi1 .. Ka9-b10 .. Ne10xNc9 .. Qj2xNh4+
+16. Qg1-h2 .. Ra4xg4 .. g10-g9 .. Qm8xg2+#
+17. Rg4xQh4 .. Nc9xd7 .. Qg2-g5+
+18. b9-c9 .. Bg13xm7 .. Qg5xRh4
+19. R .. Qh14xd10 .. Qh4-b4
+20. Bm7xRn6 .. Qb4xKb10
+21. Qd10xQb10 .. Bm5xBn6
+22. Rf14-g14 .. Bn9-j5
+23. g9-g8 .. Bj5xg8
+24. Rg14xBg8 .. R

@@ -1,0 +1,58 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "901"]
+[Result "xXDIGXx: 23 - Shlomo12345: 25 - muhammed112112: 96 - eddyfullwing: 13"]
+[Variant "FFA"]
+[Red "xXDIGXx"]
+[RedElo "1762"]
+[Blue "Shlomo12345"]
+[BlueElo "1874"]
+[Yellow "muhammed112112"]
+[YellowElo "1792"]
+[Green "eddyfullwing"]
+[GreenElo "1761"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:50:58 GMT+0000 (UTC)"]
+[CurrentMove "145"]
+
+1. g2-g4 .. b7-d7 .. h13-h11 .. m5-l5
+2. Ne1-f3 .. b8-c8 .. h11-h10 .. Bn6-m5
+3. k2-k3 .. d7-e7 .. h10-h9 .. m10-l10
+4. Bf1-g2 .. b6-c6 .. h9-h8 .. Nn10-l9
+5. g4-g5 .. b10-c10 .. h8-h7=D .. Nl9-k11
+6. Bg2-f1 .. e7-f7 .. k13-k12 .. Bn9-m10
+7. Nj1-i3 .. Ba9-b10 .. Qh7-h11 .. Bm10-l9+
+8. h2-h3 .. Bb10xe13 .. i13-i12 .. Nn5-l6
+9. Bi1-e5 .. Be13xRd14 .. Bi14-g12 .. m8-k8
+10. Be5-f6 .. b9-c9 .. Qh14-i13 .. O-O
+11. Bf1-g2 .. c8-d8 .. Bf14-b10 .. m11-l11
+12. Nf3-h2 .. Ba6xBg12 .. Qh11xBg12 .. l11xk12
+13. Ni3-k2 .. Na10-c11 .. Rk14-k13 .. Kn5-n4
+14. Bg2-f3 .. Nc11-b9 .. Rk13xk12 .. Nk11-j9
+15. Nk2-l4 .. Ra11-a10 .. Qg12-d12 .. Rn11xb11
+16. Nh2-j3 .. Na5-b7 .. Bb10-c11 .. Nj9-i11
+17. g5-g6 .. f7xg6 .. Rk12-k13 .. Qn8-l8
+18. Qg1xg6 .. Nb9xBc11 .. Qd12-h12 .. Rb11xNc11
+19. O-O .. Bd14-e13 .. j13-j12 .. Rc11-e11
+20. Bf6-i3 .. Be13-b10 .. Ne14-f12 .. k8-j8
+21. Bf3xBl9 .. Bb10-d12 .. j12xNi11 .. Ql8xBl9
+22. Qg6-g2 .. Bd12xRe11 .. Nj14-h13 .. Ql9xe2
+23. Ri1-e1 .. Be11xNl4 .. i11-i10 .. Qe2xb5
+24. Nj3xBl4 .. Ra4-a6 .. Qh12xm7 .. Qb5xb4
+25. Nl4xm6+ .. Ra6-a4 .. Qm7xRn6+#
+26. Nm6-l4 .. Ra4-a5 .. i10-i9
+27. Qg2xc6 .. Ra5-a6 .. i9-i8
+28. Qc6-c8+ .. Ka8-a9 .. i8-i7=D
+29. Nl4-j3 .. Qa7-a8 .. Qi7-f10
+30. Qc8-c7+ .. Qa8-b8 .. Qn6-i11
+31. Qc7-c4 .. Ra6-a7 .. Qf10xf2
+32. Re1-f1 .. Ka9-a8 .. Qf2-l8
+33. Qc4-g4 .. Ra10-a9 .. Rk13xk3
+34. j2xRk3 .. Nb7-c5 .. Qi11xBi3
+35. Rf1-g1 .. Nc5-b7 .. Ql8-i11
+36. Rg1-g2 .. Ra7-a6 .. Qi13-k13
+37. Rd1-g1 .. Ra6-a7 .. g13-g12
+38. Qg4xg12+ .. Qb8-b9 .. f13xQg12
+39. Rg2xg12+ .. c10-d10+ .. Kg14-h14
+40. Rg12xNf12 .. T .. Nh13xRf12
+41. R

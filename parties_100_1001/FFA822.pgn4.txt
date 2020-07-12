@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "822"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "Saiyok69"]
+[RedElo "1723"]
+[Blue "Fryshynder"]
+[BlueElo "1705"]
+[Yellow "invant"]
+[YellowElo "1759"]
+[Green "Volpro"]
+[GreenElo "1745"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:10:25 GMT+0000 (UTC)"]
+[CurrentMove "2"]
+
+1. g2-g4 .. T

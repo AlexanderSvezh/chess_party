@@ -1,0 +1,41 @@
+[GameNr "853"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Ze6ypo511"]
+[RedElo "1490"]
+[Blue "sergio_alonso"]
+[BlueElo "1471"]
+[Yellow "SHALA1"]
+[YellowElo "1490"]
+[Green "wilsonqian"]
+[GreenElo "1344"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:37:24 GMT+0000 (UTC)"]
+[CurrentMove "98"]
+
+1. h2-h4 .. b5-d5 .. g13-g11 .. m6-l6
+2. Qg1-i3 .. b8-d8 .. Qh14xQa7+ .. m7-k7
+3. Bi1xBa9 .. Ka8xQa7 .. Bf14-g13+ .. Bn6xBg13
+4. g2-g3 .. Ka7-a8 .. Kg14xBg13 .. Qn8-m7+
+5. Bf1-h3 .. Ka8xBa9 .. h13-h12 .. Nn10-l9
+6. h4-h5 .. b11-d11 .. Ne14-f12 .. m8-l8
+7. Qi3xd8 .. b9-c9 .. Bi14-d9 .. Bn9xBh3
+8. Qd8xb6 .. Na10-c11 .. Bd9-c10 .. Bh3-b9
+9. Qb6xBa6+ .. Ka9-b8 .. Bc10xBb9 .. Qm7-l7
+10. Qa6xRa11 .. Nc11-e10 .. Bb9xd11 .. Ql7-j9
+11. Qa11xb10+ .. Kb8-c8 .. Bd11xNe10+ .. Qj9-i9
+12. Qb10xb7+ .. Kc8-d8 .. Nf12-g10 .. Qi9-d4
+13. Qb7-a8+ .. Kd8-c7 .. Ng10-e9 .. Qd4-e4+
+14. f2-f3 .. Na5-b7 .. Be10xNb7 .. Qe4xe2
+15. Qa8-c8+ .. Kc7-d6 .. Ne9-f7+ .. Qe2xRd1
+16. Qc8-c6+ .. Kd6-e7 .. Bb7-d9 .. Qd1xNe1+
+17. Kh1-g2 .. Ra4-a11 .. Nf7-g9 .. Qe1-e2+
+18. Kg2-h3 .. Ra11-d11 .. Bd9-c10 .. Qe2xd2
+19. Qc6xc9+ .. Rd11-d8 .. Ng9-e10 .. Qd2-f2
+20. Qc9xRd8+ .. Ke7-e6 .. Ne10-f8+ .. Qf2xf3
+21. Nj1-h2 .. Ke6-f5 .. Bc10-b9+ .. Qf3xh5+
+22. Kh3-g2 .. Kf5-e5 .. Nf8-d7+ .. Qh5-j5+
+23. i2-i4 .. Ke5-d4 .. Bb9-a8 .. Qj5xj13
+24. Rk1-d1+ .. Kd4-e3 .. Nj14-h13 .. Qj13xi13
+25. Qd8-e7+ .. T

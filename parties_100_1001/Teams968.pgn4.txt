@@ -1,0 +1,27 @@
+[GameNr "968"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "ermis8992"]
+[RedElo "2044"]
+[Blue "Great-Gazoo"]
+[BlueElo "1307"]
+[Yellow "RuijieXiao"]
+[YellowElo "1801"]
+[Green "Antruni"]
+[GreenElo "1864"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:55:21 GMT+0000 (UTC)"]
+[CurrentMove "42"]
+
+1. h2-h3 .. b6-d6 .. g13-g12 .. Nn5-l6
+2. Nj1-i3 .. Qa7-b6 .. Bf14-h12 .. m5-l5
+3. d2-d4 .. Qb6-c6 .. Qh14-e11 .. m9-l9
+4. Ne1-f3 .. Na5-c4 .. Ne14-d12 .. Qn8-m9
+5. e2-e4 .. Qc6-c11 .. Qe11xQc11 .. Nl6-k4
+6. Ni3xNk4 .. b10xQc11 .. Nd12-e10 .. l5xNk4
+7. Qg1-i3 .. Ba9-b10 .. Bh12-g11 .. Bn6xj2
+8. Qi3xBb10 .. b7-c7 .. Bg11-d8 .. Bj2xBd8
+9. Qb10xRa11 .. Ba6xNe10 .. h13-h12 .. Qm9xi13
+10. Qa11xNa10+ .. Ka8-b7 .. O-O .. Bd8xRk1
+11. Qa10xBe10+ .. R

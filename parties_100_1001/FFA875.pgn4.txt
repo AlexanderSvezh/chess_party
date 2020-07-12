@@ -1,0 +1,19 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "875"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "gardeneer_do"]
+[RedElo "1507"]
+[Blue "Mubarakjaradat61"]
+[BlueElo "1655"]
+[Yellow "RESHolland"]
+[YellowElo "1547"]
+[Green "josh9874"]
+[GreenElo "1518"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:24:54 GMT+0000 (UTC)"]
+[CurrentMove "7"]
+
+1. h2-h4 .. b7-d7 .. g13-g11 .. m8-k8
+2. h4-h5 .. b10-c10 .. T

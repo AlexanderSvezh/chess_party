@@ -1,0 +1,38 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "858"]
+[Result "underwear123: 0 - Shlomo12345: 41 - erickleo: 22 - nivek0o0: 0"]
+[Variant "FFA"]
+[Red "underwear123"]
+[RedElo "1670"]
+[Blue "Shlomo12345"]
+[BlueElo "1868"]
+[Yellow "erickleo"]
+[YellowElo "1539"]
+[Green "nivek0o0"]
+[GreenElo "1534"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:29:01 GMT+0000 (UTC)"]
+[CurrentMove "69"]
+
+1. e2-e3 .. b7-d7 .. h13-h11 .. m8-l8
+2. f2-f4 .. b8-c8 .. h11-h10 .. l8-k8
+3. h2-h3 .. b10-c10 .. h10-h9 .. k8-j8
+4. Ne1-f3 .. d7-e7 .. h9-h8 .. j8-i8
+5. Qg1-f2 .. Na5-c6 .. d13-d12 .. Nn5-l4
+6. g2-g4 .. Ba9-b10 .. Ne14-f12 .. m5-l5
+7. Bf1-e2 .. b4-c4 .. e13-e11 .. Bn6-m5
+8. Bi1-g3 .. b11-d11 .. Bf14-e13 .. m7-k7
+9. Nj1-h2 .. Na10-c9 .. O-O .. Qn8-m7
+10. O-O .. O-O .. h8-h7=D .. O-O
+11. Nh2-i4 .. Ra9-a8 .. Qh7xi8 .. T
+12. Ni4-k3 .. e7-f7 .. Qi8-n8
+13. Nk3xl5 .. f7-g7 .. Qn8-l8
+14. Nl5-k3 .. g7-h7=D .. Nj14-h13
+15. Qf2-h2 .. Nc9-d7 .. Nf12-g10
+16. Qh2-k5 .. Qh7-j9 .. j13-j12
+17. Qk5xBm5 .. Qj9xj2+# .. Ql8-n8
+18. Qj2-j7 .. f13-f11
+19. Qj7xm4 .. Qn8xRn6
+20. Qm4xKn5 .. Qn6xQn5
+21. R

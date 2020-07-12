@@ -1,0 +1,19 @@
+[GameNr "864"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "pradyumchitlu"]
+[RedElo "1480"]
+[Blue "antonicimar"]
+[BlueElo "1510"]
+[Yellow "kilapride"]
+[YellowElo "1480"]
+[Green "juliendecarufel"]
+[GreenElo "1510"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:21:50 GMT+0000 (UTC)"]
+[CurrentMove "11"]
+
+1. j2-j3 .. b8-c8 .. g13-g11 .. m7-l7
+2. Bi1-k3 .. Qa7xQh14+ .. Kg14xQh14 .. Bn6xBf14
+3. Nj1-i3 .. b10-d10 .. R

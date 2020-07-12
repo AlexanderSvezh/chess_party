@@ -1,0 +1,51 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "916"]
+[Result "Mihail2018: 16 - aranazizur: 44 - mojtaba12341234: 10 - dario_delgado: 67"]
+[Variant "FFA"]
+[Red "Mihail2018"]
+[RedElo "1607"]
+[Blue "aranazizur"]
+[BlueElo "1515"]
+[Yellow "mojtaba12341234"]
+[YellowElo "1500"]
+[Green "dario_delgado"]
+[GreenElo "1670"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:48:16 GMT+0000 (UTC)"]
+[CurrentMove "103"]
+
+1. g2-g4 .. b8-d8 .. g13-g11 .. m7-k7
+2. g4-g5 .. Ba9-b8 .. Bf14-g13 .. Bn6-m7
+3. g5-g6 .. b7-d7 .. Ne14-f12 .. k7-j7
+4. Nj1-i3 .. Ba6-b7+ .. O-O .. Bm7xNi3
+5. f2-f3 .. Na10-c11 .. h13-h11 .. Bi3-m7
+6. g6-g7 .. d8-e8 .. Bg13xBm7 .. Nn5xBm7
+7. g7-g8=D .. Na5-c4 .. Nf12-g10 .. Nn10-l9
+8. j2-j3 .. Bb8xQh14 .. Rf14xBh14 .. m4-l4
+9. Bi1-j2 .. Qa7xRh14+# .. m8-k8
+10. Bj2xb10 .. O-O-O .. Bn9-k6
+11. Bb10xNc11 .. Qh14-c9 .. Qn8-m8
+12. O-O .. Qc9xBc11 .. O-O-O
+13. Bf1xBk6 .. Bb7-c6 .. Nm7xBk6
+14. Ne1-d3 .. Nc4-d6 .. Rn4-n7
+15. Nd3xb4+ .. Ka6-a5 .. j7-i7
+16. Nb4xBc6+ .. Qc11xNc6 .. i7-h7
+17. Qg8-g7 .. d7-e7 .. k8-j8
+18. h2-h4 .. Nd6-f5 .. j8-i8
+19. Qg7-g4 .. Nf5-h6 .. i8-h8
+20. Qg4-f4 .. e7-f7 .. h7-g7=D
+21. Qg1-h2 .. Ra7-a8 .. m5-l5
+22. d2-d4 .. e8-f8 .. Qg7-l7
+23. d4-d5 .. Qc6xNg10 .. Ql7-m7
+24. Qh2-f2 .. f8-g8 .. Qm7-g7
+25. d5-d6 .. b6-c6 .. Qg7-e9+
+26. Qf4-b4+ .. Ka5xQb4 .. Qe9xNh6
+27. d6-d7 .. c6xd7 .. Qm8-l8
+28. Qf2-b6 .. Ra8-a6 .. Qh6xh4+#
+29. Rd1-d4 .. Qh4xRd4
+30. Qb6xQd4 .. Ql8-i5
+31. e2-e4 .. Qi5-g7
+32. Qd4-e3 .. Qg7xg8
+33. Ri1-g1 .. Qg8xRg1+
+34. R

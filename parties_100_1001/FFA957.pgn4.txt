@@ -1,0 +1,52 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "957"]
+[Result "scooda: 5 - RESHolland: 5 - zoltanilles: 48 - Armanuly: 52"]
+[Variant "FFA"]
+[Red "scooda"]
+[RedElo "1580"]
+[Blue "RESHolland"]
+[BlueElo "1537"]
+[Yellow "zoltanilles"]
+[YellowElo "1711"]
+[Green "Armanuly"]
+[GreenElo "1563"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:59:50 GMT+0000 (UTC)"]
+[CurrentMove "100"]
+
+1. h2-h4 .. b7-d7 .. h13-h11 .. m5-l5
+2. h4-h5 .. d7-e7 .. h11-h10 .. Bn6-m5
+3. h5-h6 .. Ba6xBi14 .. Qh14xBi14 .. Nn5-l6
+4. h6-h7 .. b8-d8 .. Nj14-i12 .. O-O
+5. g2-g3 .. Qa7-c9 .. Qi14-a6+ .. Nl6-k4
+6. h7-h8=D .. Qc9-a7 .. Qa6xb5 .. Bm5xj2
+7. Bi1xBj2 .. Na5-b7 .. g13-g11 .. Nk4xBj2+
+8. Kh1-i1 .. Na10-c9 .. Qb5-h11 .. Nj2-k4
+9. Qh8-j8 .. Ra4-a5 .. Rk14-j14 .. Nn10-l9
+10. Qj8-j3 .. Ba9-b8 .. Ne14-f12 .. m7-k7
+11. Qg1-g2 .. O-O .. Bf14xRn6+ .. Qn8-g1+#
+12. Ra9-a8 .. Bn6-i11 .. m8-l8
+13. Nb7-d6 .. O-O .. Bn9-l7
+14. b4-c4 .. Qh11-h12 .. Nl9-j8
+15. Qa7-d7 .. h10-h9 .. m9-k9
+16. Ra8-a6 .. h9-h8 .. Qg1-h2
+17. Nd6-f5 .. Rf14-h14 .. m10-k10
+18. Ra5-c5 .. h8-h7=D .. Qh2-j4
+19. Nf5-d6 .. Qh7-h10 .. k10-j10
+20. Rc5-h5 .. Qh10xb10+ .. Qj4-d10#
+21. Qb10xQd10 .. j10xBi11
+22. Qh12xi11 .. Nk4-j6
+23. Qd10-m10 .. Rn11-n9
+24. d13-d11 .. m4-k4
+25. d11-d10 .. Nj8-h9
+26. Qi11xm11 .. Nh9-f8
+27. d10xNc9 .. k4xQj3
+28. c9xd8 .. j3xi2
+29. d8xe7=D .. i2-h2
+30. Qe7-j2 .. h2xg3=D
+31. Qm10xRn9+ .. Bl7xQn9
+32. Qm11-m9 .. Qg3-h3
+33. Qm9-n8+ .. Kn5-m4
+34. Qn8-n6 .. Nj6-k4
+35. Qj2-l4+#

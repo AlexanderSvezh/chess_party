@@ -1,0 +1,33 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "892"]
+[Result "luciano09876543210: 51 - Abhinav8932934: 34 - hi213456789: 6 - jvr_Dezber: 5"]
+[Variant "FFA"]
+[Red "luciano09876543210"]
+[RedElo "1483"]
+[Blue "Abhinav8932934"]
+[BlueElo "1649"]
+[Yellow "hi213456789"]
+[YellowElo "1518"]
+[Green "jvr_Dezber"]
+[GreenElo "1459"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:34:29 GMT+0000 (UTC)"]
+[CurrentMove "48"]
+
+1. g2-g4 .. b10-c10 .. h13-h11 .. m5-l5
+2. g4-g5 .. Na10-c9 .. h11-h10 .. Nn5-l6
+3. g5-g6 .. Ba9-b10 .. h10-h9 .. Nl6-j7
+4. g6-g7 .. O-O .. Qh14-h13 .. m6-k6
+5. g7-g8=D .. b7-d7 .. h9xQg8 .. Bn6-l4
+6. Qg1xg8 .. d7-e7 .. Qh13xBa6 .. m8-k8
+7. Qg8-g4 .. Qa7xQa6 .. e13-e12 .. Bl4-h8
+8. Qg4-h4 .. Qa6xBi14+# .. k8-j8
+9. Ne1-f3 .. R .. j8-i8
+10. Bf1-h3 .. Bh8-i9
+11. Qh4xe7 .. Qn8-k8
+12. Rd1-g1 .. i8-h8
+13. Qe7-e8 .. h8-g8=D
+14. Rg1xQg8 .. Qk8-l8
+15. Rg8xQl8 .. m7xRl8
+16. Bh3xb9 .. T

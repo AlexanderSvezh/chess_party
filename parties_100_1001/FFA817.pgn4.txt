@@ -1,0 +1,40 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "817"]
+[Result "divinhssit: 55 - CookA_rus: 15 - mohamedyunis: 1 - Christhian98: 72"]
+[Variant "FFA"]
+[Red "divinhssit"]
+[RedElo "1739"]
+[Blue "CookA_rus"]
+[BlueElo "1511"]
+[Yellow "mohamedyunis"]
+[YellowElo "1593"]
+[Green "Christhian98"]
+[GreenElo "1578"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:19:50 GMT+0000 (UTC)"]
+[CurrentMove "75"]
+
+1. g2-g4 .. b7-d7 .. Nj14-i12 .. m10-k10
+2. g4-g5 .. Ba6-b7+ .. j13-j12 .. m11-l11
+3. f2-f3 .. b10-c10 .. k13-k12 .. Nn10-l9
+4. g5-g6 .. Ba9-b10 .. Bi14-j13 .. l11-k11
+5. g6-g7 .. b4-d4 .. j12xk11 .. Nl9xk11
+6. g7-g8=D .. d4-e4 .. d13-d12 .. Nk11xBj13
+7. Nj1-i3 .. e4xf3 .. Ne14-f12 .. Nj13xQh14
+8. e2xf3 .. b8-c8 .. T .. Nh14xNi12
+9. Qg8-g12 .. b5-d5 .. Rn11-i11
+10. Qg12xh13 .. Bb10xNi3 .. Ri11-g11
+11. j2xBi3 .. Qa7xNf12 .. Rg11xQg1+
+12. Kh1xRg1 .. Qf12xf3 .. Ni12-j10
+13. Ne1xQf3 .. b6-d6 .. Bn9-m10
+14. Bf1-e2 .. d5-e5 .. m7-l7
+15. Qh13xKg14 .. e5-f5 .. Bm10xNf3
+16. Be2xBf3 .. Bb7xBf3 .. m9-l9
+17. Rd1-f1 .. f5-g5 .. Qn8-j12
+18. Rf1xBf3 .. g5-h5=D .. Qj12xd6
+19. Rf3-f2 .. Na10-b8 .. Nj10-k8
+20. Qg14xg13 .. Ra4-g4+ .. Nk8-j6
+21. Rf2-g2 .. Qh5-f5 .. Bn6xQg13
+22. Rg2xRg4 .. Qf5xRg4+ .. Qd6xNb8+#
+23. T

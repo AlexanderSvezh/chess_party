@@ -1,0 +1,34 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "984"]
+[Result "fulanito123: 10 - luciano09876543210: 10 - tropical_onions: 5 - 684P: 67"]
+[Variant "FFA"]
+[Red "fulanito123"]
+[RedElo "1500"]
+[Blue "luciano09876543210"]
+[BlueElo "1498"]
+[Yellow "tropical_onions"]
+[YellowElo "1500"]
+[Green "684P"]
+[GreenElo "1823"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Tue Aug 07 2018 20:59:07 GMT+0000 (UTC)"]
+[CurrentMove "54"]
+
+1. h2-h4 .. b7-d7 .. g13-g11 .. m8-k8
+2. Bi1-g3 .. d7-e7 .. Bf14-i11 .. Nn10-l9
+3. Bg3-f4 .. e7-f7 .. Ne14-f12 .. Bn9-l7
+4. Bf4-i7 .. f7-g7 .. h13-h11 .. k8-j8
+5. Bi7-e11 .. g7-h7=D .. d13-d12 .. Qn8-k8
+6. Qg1-h2 .. Qh7-b7 .. d12xBe11 .. m11-l11
+7. h4-h5 .. b8-c8 .. h11-h10 .. Qk8xf13+#
+8. f2-f3 .. Ba9xQh2 .. j8-i8
+9. Kh1xBh2 .. Qb7-c7+ .. i8-h8
+10. Kh2-h1 .. Qc7-h7 .. Rn11-n8
+11. g2-g3 .. Qh7xh5+ .. h8-g8=D
+12. Kh1-g1 .. Ka8-a9 .. Qg8-g9
+13. Bf1xBl7 .. Qa7-h7 .. Qg9xb9+#
+14. Kg1-f2 .. m6xBl7
+15. Ne1-d3 .. Qb9xb6+
+16. Kf2-e1 .. Rn8-e8
+17. Nd3-f4 .. Qb6-g1+#
