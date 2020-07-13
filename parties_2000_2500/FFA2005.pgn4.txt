@@ -1,0 +1,51 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2005"]
+[Result "DefeatTheDefeat: 9 - Noki102: 71 - GGRRibeiro: 2 - Jorge083: 47"]
+[Variant "FFA"]
+[Red "DefeatTheDefeat"]
+[RedElo "1507"]
+[Blue "Noki102"]
+[BlueElo "1657"]
+[Yellow "GGRRibeiro"]
+[YellowElo "1514"]
+[Green "Jorge083"]
+[GreenElo "1609"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 02:55:18 GMT+0000 (UTC)"]
+[CurrentMove "94"]
+
+1. g2-g4 .. Na5-c6 .. h13-h11 .. m5-l5
+2. h2-h3 .. Na10-c9 .. h11-h10 .. Bn6-m5
+3. Bi1-h2 .. b11-d11 .. h10-h9 .. Nn5-l6
+4. Bf1-g2 .. d11-e11 .. h9-h8 .. O-O
+5. Ne1-f3 .. e11-f11 .. h8-h7=D .. Bm5xj2
+6. Nf3-h4 .. f11-g11 .. g13-g12 .. Bj2xRk1
+7. Nh4-f3 .. b5-c5 .. Bf14xm7 .. Qn8-n7
+8. Bh2xNl6 .. g11-h11=D .. g12xQh11 .. Bk1-j2
+9. Bl6xe13 .. Ra11-g11+ .. Bi14-g12 .. m8-k8+
+10. Qg1-f1 .. Rg11xBg12+# .. k8-j8
+11. Be13xRd14 .. Rg12-e12 .. j8-i8
+12. Bd14-i9 .. Ba6xe2 .. i8xQh7
+13. Qf1-e1 .. Qa7-a6 .. Qn7xBm7
+14. Nf3-g1 .. Be2xRd1 .. Bj2-m5
+15. Qe1xRe12 .. b8-c8 .. Bm5xBi9
+16. g4-g5 .. b4-d4 .. h7-g7=D
+17. h3-h4 .. d4-e4 .. Qg7-j4
+18. Nj1-h2 .. e4-f4 .. Qj4xNh2+#
+19. f4xg5 .. Qh2-k5
+20. g5xh4=D .. m4-l4
+21. Ba9-i1 .. Bi9-m5
+22. Qa6-c4 .. Qm7-i7
+23. Qh4xm9 .. Bn9xBg2
+24. Bd1xm10 .. Bg2xNc6
+25. b7xBc6 .. Nn10-l9
+26. Bm10xRn11 .. Rn6xBn11
+27. Qm9xNl9 .. Rn11-n8
+28. Qc4-h9 .. Qi7-e11
+29. O-O-O .. Qk5-h8
+30. Ra7-n7+ .. Rn8xRn7
+31. Ql9xRn7+ .. Kn5-m4
+32. Qh9-n9 .. Qe11-a11+
+33. Ka6-b5 .. l5-k5
+34. Qn9-k6+#

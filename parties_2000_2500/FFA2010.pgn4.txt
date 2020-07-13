@@ -1,0 +1,61 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2010"]
+[Result "LYM9: 9 - mrfaria: 7 - MissEggplant: 39 - mattizillus: 86"]
+[Variant "FFA"]
+[Red "LYM9"]
+[RedElo "1655"]
+[Blue "mrfaria"]
+[BlueElo "1502"]
+[Yellow "MissEggplant"]
+[YellowElo "1509"]
+[Green "mattizillus"]
+[GreenElo "1763"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:05:15 GMT+0000 (UTC)"]
+[CurrentMove "146"]
+
+1. g2-g4 .. b7-d7 .. d13-d11 .. m10-k10
+2. Ne1-f3 .. d7-e7 .. d11-d10 .. k10-j10
+3. g4-g5 .. Ba6-d9 .. Nj14-i12 .. j10-i10
+4. g5-g6 .. Bd9xg6 .. h13-h12 .. m5-l5
+5. Qg1xBg6 .. e7-f7 .. g13-g11 .. Bn6-m5
+6. Qg6-g7 .. b8-c8 .. Bf14-g13 .. m9-k9
+7. Nf3-g5 .. Ba9-b8 .. Ne14-f12 .. Qn8-m9
+8. f2-f3 .. b11-c11 .. d10-d9 .. k9-j9
+9. Ng5xf7 .. Bb8-d10 .. d9xc8 .. j9-i9
+10. Qg7-g6 .. b9xc8 .. k13-k12 .. i9-h9
+11. Nf7-e5 .. Na5-c6 .. Bi14xc8 .. h9-g9=D
+12. Qg6-d6 .. Na10-c9 .. Bc8-h13 .. Qg9xQd6
+13. Ne5xNc6 .. b5xNc6 .. e13-e11 .. Qm9-l8+
+14. Nj1-i3 .. Ka8-b9 .. e11xBd10 .. Ql8-m9
+15. h2-h3 .. Qa7-b7 .. Bh13xQb7 .. Qd6-e6+
+16. Bi1-h2 .. Kb9-c10 .. d10xNc9 .. Qe6-e13
+17. O-O .. b10xc9 .. Rd14-f14 .. m7-l7
+18. Ni3-j5 .. Ra11-a7 .. Bb7xc6 .. Qe13-e6
+19. e2-e4 .. Ra4-a5 .. Bc6-g10 .. Qe6-j6
+20. Nj5-i3 .. Ra7-c7 .. Ni12-j10 .. Qj6xj2+#
+21. Ra5-a7 .. i13-i11 .. Nn5-m7
+22. Rc7-d7 .. Qh14xQm9 .. O-O
+23. Rd7-d8 .. Qm9-i13 .. m8-k8
+24. Ra7-d7 .. O-O-O .. m11-l11
+25. Rd7-c7 .. k12-k11 .. Nn10-l9
+26. Rc7-c5 .. Nj10-i12 .. Rn11-n10
+27. Rd8-d5 .. j13-j12 .. Bn9-m8
+28. Rd5-j5 .. Ki14-j13 .. Qj2xNi3
+29. Rj5-i5 .. Ni12-k13 .. Qi3-l6
+30. Ri5xi2 .. Bg10-i12 .. Rn10-n11
+31. Ri2xi10 .. Rh14-g14 .. Ql6-g6+
+32. c9-d9 .. Bg13-h14 .. Qg6xb6
+33. Rc5-c4 .. Kj13-k14 .. Rn6-n8
+34. Ri10-i4 .. Qi13-h13 .. m4-k4
+35. Ri4xe4 .. g11-g10 .. Rn8-n10
+36. Re4-j4 .. g10-g9+ .. Qb6-b8
+37. Rj4-j10 .. g9-g8 .. Rn10-n8
+38. Rj10xKj1 .. g8-g7=D .. k8-j8
+39. Rj1-j4 .. Qg7-g6 .. Rn11-n10+#
+40. Qg6xm6+ .. Kn5xQm6
+41. Bi12xNl9 .. Bm8xBl9
+42. Nk13xl11 .. Bl9xQh13
+43. Nl11xRn10 .. Bh13-i12+
+44. R

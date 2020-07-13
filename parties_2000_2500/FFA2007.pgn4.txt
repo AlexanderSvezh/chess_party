@@ -1,0 +1,36 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2007"]
+[Result "spicywatermelonz: 10 - FIV06: 19 - Ulra1: 8 - clonedscorpion: 75"]
+[Variant "FFA"]
+[Red "spicywatermelonz"]
+[RedElo "1462"]
+[Blue "FIV06"]
+[BlueElo "1748"]
+[Yellow "Ulra1"]
+[YellowElo "1443"]
+[Green "clonedscorpion"]
+[GreenElo "1490"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 02:56:46 GMT+0000 (UTC)"]
+[CurrentMove "71"]
+
+1. g2-g4 .. b10-c10 .. h13-h11 .. m8-k8
+2. i2-i4 .. Na10-c9 .. h11-h10 .. Bn9-m8+
+3. h2-h3 .. Ba9-b10 .. Bi14-h13 .. m11-l11
+4. j2-j3 .. O-O .. Bh13xBm8+ .. Qn8xBm8+
+5. f2-f3 .. Nc9-d11 .. Nj14-i12 .. k8-j8
+6. d2-d3 .. Nd11xe13+ .. Bf14xNe13 .. j8-i8
+7. e2-e4 .. Bb10xBe13 .. Qh14-h11 .. i8-h8
+8. k2-k4 .. Be13xRd14 .. Ne14-d12 .. h8-g8=D
+9. Bi1xb8 .. b11-d11 .. Qh11-g11 .. Qg8xQg11
+10. Bb8xQa7 .. Ra9xBa7 .. Kg14-h13 .. Qg11-h11+
+11. Nj1-h2 .. Bd14-e13 .. Kh13-g14 .. Qh11-d7
+12. Ne1-g2 .. Be13xNd12 .. Rk14-h14 .. Qd7-f9
+13. Bf1-e2 .. Bd12-b10 .. h10-h9 .. Qf9-f10
+14. Be2-f1 .. b7-c7 .. h9-h8 .. Qf10-d10
+15. Bf1-e2 .. Na5-c6 .. h8-h7=D .. m7-l7
+16. Be2-f1 .. Ba6-c8 .. Qh7-h10 .. Qd10xg13+#
+17. h3-h4 .. b4-d4 .. Qg13-b8
+18. h4-h5 .. T .. Qb8-a8
+19. T

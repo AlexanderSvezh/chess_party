@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2117"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "Extrujamelano"]
+[RedElo "1500"]
+[Blue "JoyCheerful"]
+[BlueElo "1535"]
+[Yellow "QUECHUCHATEIMPORTA"]
+[YellowElo "1500"]
+[Green "LYM9"]
+[GreenElo "1645"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:27:08 GMT+0000 (UTC)"]
+[CurrentMove "3"]
+
+1. i2-i4 .. b7-d7 .. R

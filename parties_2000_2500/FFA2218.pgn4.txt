@@ -1,0 +1,43 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2218"]
+[Result "cgiorgos1: 5 - 00landon: 83 - dimazhenchevsky: 27 - supermanjonah: 7"]
+[Variant "FFA"]
+[Red "cgiorgos1"]
+[RedElo "1753"]
+[Blue "00landon"]
+[BlueElo "1500"]
+[Yellow "dimazhenchevsky"]
+[YellowElo "1510"]
+[Green "supermanjonah"]
+[GreenElo "1454"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:13:03 GMT+0000 (UTC)"]
+[CurrentMove "64"]
+
+1. g2-g4 .. b7-d7 .. e13-e11 .. m8-k8
+2. g4-g5 .. Ba6-b7+ .. j13-j11 .. Bn9xBf1
+3. f2-f3 .. d7-e7 .. j11-j10 .. Bf1xe2
+4. h2-h4 .. b4-c4 .. d13-d12 .. Be2xf3+
+5. Ne1xBf3 .. Bb7xNf3+ .. Bi14-j13 .. Nn10-l9
+6. R .. Bf3xKh1 .. Bj13xb5 .. T
+7. Ra4-b4 .. Bb5-i12
+8. Bh1-c6 .. Bi12xBc6+
+9. Na5xBc6 .. j10-j9
+10. e7-f7 .. j9-j8
+11. f7-g7 .. j8-j7=D
+12. g7-h7=D .. Qj7xQh7
+13. Qa7xQh7 .. i13-i11
+14. Qh7-d7 .. Qh14xm9
+15. Qd7xRk14 .. g13-g11
+16. Qk14xNj14+ .. Kg14-g13
+17. Qj14xg11+ .. Kg13-h14
+18. Qg11xRd14 .. Qm9xm7
+19. Qd14xNe14 .. Qm7xKn7
+20. Qe14xBf14+ .. Kh14-i13
+21. Qf14xi11+ .. Ki13-h14
+22. Qi11-f14+ .. Kh14-i13
+23. Qf14xd12 .. Qn7-e7
+24. Nc6xQe7 .. e11-e10
+25. Qd12-f10+ .. h13-h12
+26. Qf10xe10 .. T

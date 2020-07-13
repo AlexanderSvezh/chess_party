@@ -1,0 +1,19 @@
+[GameNr "2034"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "dapsy001"]
+[RedElo "2258"]
+[Blue "NotaBot1076"]
+[BlueElo "1730"]
+[Yellow "Great-Gazoo"]
+[YellowElo "1430"]
+[Green "41PH4_Z3R0"]
+[GreenElo "1828"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 02:58:00 GMT+0000 (UTC)"]
+[CurrentMove "12"]
+
+1. h2-h3 .. b6-d6 .. h13-h12 .. m9-k9
+2. Qg1-h2 .. Qa7xf2 .. Bi14xb7+ .. m7-l7
+3. Qh2xQn8+ .. Ba6xBb7 .. i13-i11 .. #

@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2220"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "sylvesterssamuelraj"]
+[RedElo "1558"]
+[Blue "wulfbang"]
+[BlueElo "1544"]
+[Yellow "marcelo08"]
+[YellowElo "1490"]
+[Green "hahisuck"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:07:16 GMT+0000 (UTC)"]
+[CurrentMove "1"]
+
+1. T

@@ -1,0 +1,55 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2139"]
+[Result "DiegoElvas: 44 - scottsmack: 33 - DANY1242: 70 - TITAANNN: 0"]
+[Variant "FFA"]
+[Red "DiegoElvas"]
+[RedElo "1763"]
+[Blue "scottsmack"]
+[BlueElo "1697"]
+[Yellow "DANY1242"]
+[YellowElo "1773"]
+[Green "TITAANNN"]
+[GreenElo "1701"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:46:47 GMT+0000 (UTC)"]
+[CurrentMove "109"]
+
+1. g2-g4 .. b10-c10 .. Nj14-i12 .. m8-k8
+2. g4-g5 .. Ba9-b10 .. e13-e12 .. k8-j8
+3. g5-g6 .. b11-c11 .. Bf14-e13 .. j8-i8
+4. g6-g7 .. Na5-c6 .. h13-h12 .. i8-h8
+5. g7-g8=D .. Na10-c9 .. Bi14-h13 .. T
+6. Bf1-m8 .. Nc6-e7 .. Ni12-g11
+7. Qg8xh8 .. b6-d6 .. Ng11-i10
+8. Qh8-l8 .. O-O .. k13-k11
+9. Ql8xm7 .. b7-c7 .. i13-i12
+10. Bm8xKn7 .. Ba6-b7+ .. k11-k10
+11. Ne1-f3 .. b4-d4 .. k10-k9
+12. Bn7-l9 .. d4-e4 .. k9-k8
+13. Bl9xk8 .. e4xNf3 .. Rk14xBk8
+14. Qg1-g3 .. Ra4-g4 .. Rk8xk2
+15. e2xf3 .. Rg4xQg3 .. Rk2xRk1
+16. h2xRg3 .. Bb7xf3+ .. Rk1-k7
+17. Kh1-h2 .. Qa7xf2+ .. Rk7-l7
+18. Kh2-i3 .. Bf3xRd1 .. Rl7xQm7
+19. Bi1-h2 .. Ne7-f5 .. Rm7-i7+
+20. Ki3-j3 .. Bd1-h5+ .. Qh14-k11
+21. i2-i4 .. Bh5-d9 .. Bh13xBd9
+22. g3-g4 .. c10xBd9 .. d13-d11
+23. g4xNf5 .. Qf2xf5 .. Ne14-f12
+24. Nj1-k3 .. Qf5-g5 .. Qk11-l10
+25. Bh2-i3 .. Qg5-d8 .. Ni10-g11
+26. Bi3xQd8 .. c7xBd8 .. Be13xc11
+27. Nk3-j5 .. Nc9-e10 .. Ng11xNe10
+28. Nj5xRi7 .. d9xNe10 .. Ql10xe10
+29. Ni7-h5 .. Ka10-a11 .. Qe10xBb10+#
+30. i4-i5 .. Bc11xi5
+31. Kj3-i4 .. Qb10-i10
+32. j2-j4 .. Bi5-e1+
+33. Ki4-j3 .. Be1xd2
+34. j4-j5 .. Bd2-e1
+35. j5-j6 .. Qi10-i6
+36. j6-j7 .. Qi6xj7+
+37. Kj3-i4 .. Qj7-i6+
+38. R

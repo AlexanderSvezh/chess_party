@@ -1,0 +1,29 @@
+[GameNr "2260"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "PawnUpAll_D_Way"]
+[RedElo "2007"]
+[Blue "JCristobal23"]
+[BlueElo "1506"]
+[Yellow "Chessplayernewmember"]
+[YellowElo "1889"]
+[Green "Chessplayer1993"]
+[GreenElo "1491"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:28:19 GMT+0000 (UTC)"]
+[CurrentMove "50"]
+
+1. h2-h3 .. b7-c7 .. g13-g12 .. m8-l8
+2. Qg1-j4 .. Ba6-c8 .. Qh14-e11 .. Nn5-l6
+3. Qj4-j11+ .. Qa7-b7 .. Bf14xl8 .. Bn9-m8
+4. Qj11-j6 .. Na5-c6 .. Bl8xm9 .. Qn8-n9
+5. k2-k4 .. Bc8-f5 .. Bm9xNn10 .. Rn11xBn10
+6. k4-k5 .. Bf5-k10 .. Qe11-h11 .. Bm8-l7
+7. k5xNl6 .. Qb7-e10 .. Qh11-g11 .. m5xl6
+8. e2-e3 .. b11-d11 .. Nj14-i12 .. m4-k4
+9. Bf1xb5 .. Ra4-a5 .. f13-f11 .. Rn4-n5
+10. Bb5xNc6+ .. Ka8-a7 .. f11xQe10 .. Rn5-j5
+11. Qj6-e6 .. Ra5-e5 .. Qg11-g8 .. Bn6xj2
+12. Qe6xb9 .. Na10-c9 .. Qg8xb8+ .. Qn9-m8
+13. Qb9-a8+ .. #

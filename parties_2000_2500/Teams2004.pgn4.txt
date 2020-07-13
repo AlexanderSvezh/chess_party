@@ -1,0 +1,27 @@
+[GameNr "2004"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "hamiltonisgreen"]
+[RedElo "1500"]
+[Blue "ThaiSamurai"]
+[BlueElo "1536"]
+[Yellow "TheSidewinder"]
+[YellowElo "1539"]
+[Green "Pion_Catur"]
+[GreenElo "1504"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 02:50:06 GMT+0000 (UTC)"]
+[CurrentMove "41"]
+
+1. Nj1-i3 .. b7-d7 .. i13-i11 .. m7-l7
+2. Ni3-j5 .. d7-e7 .. Qh14-i13 .. m4-k4
+3. Nj5-h6 .. e7-f7 .. k13-k11 .. m11-l11
+4. h2-h4 .. f7-g7 .. g13-g12 .. Qn8xQg1+
+5. Kh1xQg1 .. g7xNh6 .. Bf14-h12 .. Bn6-m7+
+6. Bi1-h2 .. Qa7-e7 .. Ne14-g13 .. Bm7xBh2+
+7. Kg1xBh2 .. Qe7xh4+ .. Bh12xb6 .. Rn4-l4
+8. Kh2-i1 .. Na5-c6 .. j13-j12 .. Rl4-l5
+9. e2-e3 .. h6-i6 .. Bi14-j13 .. Rl5-h5
+10. Bf1-d3 .. Qh4-h1+ .. Bj13xNc6+ .. Kn7-m7
+11. #

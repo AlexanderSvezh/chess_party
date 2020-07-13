@@ -1,0 +1,24 @@
+[GameNr "2224"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Jakup1980"]
+[RedElo "1585"]
+[Blue "bullshhitt"]
+[BlueElo "1529"]
+[Yellow "ElPolloLocoMan"]
+[YellowElo "1563"]
+[Green "Pion_Catur"]
+[GreenElo "1519"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:11:53 GMT+0000 (UTC)"]
+[CurrentMove "30"]
+
+1. h2-h3 .. b7-d7 .. i13-i11 .. m8-k8
+2. Qg1-h2 .. d7-e7 .. Qh14-j12 .. Bn9-m8
+3. e2-e3 .. Na10-c9 .. g13-g12 .. m11-k11
+4. Bf1-e2 .. Ba6xg12 .. Qj12xBg12 .. m9-l9
+5. j2-j3 .. b8-c8 .. Bf14-g13 .. Nn5-l6
+6. Be2-f3+ .. b6-c6 .. Bg13xNc9 .. m7-l7
+7. Bf3xc6+ .. Na5xBc6 .. Bc9xQa7 .. Qn8-m9
+8. g2-g3 .. R

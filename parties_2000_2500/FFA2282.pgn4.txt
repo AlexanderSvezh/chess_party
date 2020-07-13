@@ -1,0 +1,31 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2282"]
+[Result "G-seis: 39 - vergmax: 5 - DeltaStewar: 22 - matias001: 35"]
+[Variant "FFA"]
+[Red "G-seis"]
+[RedElo "1496"]
+[Blue "vergmax"]
+[BlueElo "1490"]
+[Yellow "DeltaStewar"]
+[YellowElo "1500"]
+[Green "matias001"]
+[GreenElo "1336"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:32:55 GMT+0000 (UTC)"]
+[CurrentMove "51"]
+
+1. g2-g4 .. Na5-c6 .. h13-h11 .. m8-k8
+2. g4-g5 .. b9-d9 .. Bi14-h13+ .. Bn9-m8
+3. g5-g6 .. b10-d10 .. i13-i12 .. m9-k9
+4. j2-j3 .. d10-e10 .. j13-j12 .. k8-j8
+5. g6-g7 .. Ba9-b10 .. g13-g11 .. Bm8xBf1
+6. Qg1xBf1 .. Bb10xRk1 .. i12-i11+ .. Nn10-l9
+7. g7-g8=D .. Nc6-e7 .. h11-h10 .. m5-l5
+8. Qg8-d8 .. b6-d6 .. g11-g10 .. j8-i8
+9. Qd8xRa11 .. Ka8-b9 .. h10-h9 .. i8xh9
+10. Qa11xb11+ .. Kb9-a8 .. g10xh9 .. m11-l11
+11. Qb11xNa10+# .. Bh13-f11 .. k9-j9
+12. Qa10-b11 .. h9-h8 .. Qn8-m8
+13. Qb11xBf11 .. h8-h7=D .. Qm8xQf1+#
+14. Qh7xj9 .. R

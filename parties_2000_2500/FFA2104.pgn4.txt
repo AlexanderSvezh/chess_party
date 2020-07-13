@@ -1,0 +1,42 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2104"]
+[Result "diegobarrera07: 0 - jesram: 87 - lucianomorales: 16 - wc171e: 0"]
+[Variant "FFA"]
+[Red "diegobarrera07"]
+[RedElo "1500"]
+[Blue "jesram"]
+[BlueElo "1664"]
+[Yellow "lucianomorales"]
+[YellowElo "1686"]
+[Green "wc171e"]
+[GreenElo "1888"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:33:39 GMT+0000 (UTC)"]
+[CurrentMove "66"]
+
+1. Ne1-f3 .. b7-d7 .. g13-g12 .. m10-l10
+2. j2-j4 .. d7-e7 .. e13-e12 .. m9-k9
+3. j4-j5 .. e7-f7 .. Bf14-e13 .. Nn5-l6
+4. j5-j6 .. f7-g7 .. Ne14-f12 .. Bn9-m10
+5. h2-h4 .. g7-h7=D .. d13-d12 .. Nn10-l9
+6. Nj1-i3 .. Qh7-i6 .. Nf12-d13 .. T
+7. Rk1-j1 .. Qa7xm7 .. h13-h11
+8. Bi1xm5 .. Qm7xKn7 .. Nj14-h13
+9. h4-h5 .. Qi6-c6 .. Nh13-f12
+10. T .. Qc6-h6 .. Nf12-d11
+11. Qh6xh5 .. Qh14-e11
+12. Qh5xKh1 .. Be13-f12
+13. Na10-c9 .. Nd11xNc9+
+14. b10xNc9 .. Nd13-c11
+15. Qh1-h3 .. Nc11-d9
+16. Qh3-c8 .. Nd9-b10+
+17. Ba9xNb10 .. Qe11-f10
+18. Ra11-a10 .. Qf10xb6
+19. Ba6-b7 .. Qb6xb5
+20. Qc8-c6 .. Qb5xRa4
+21. Qc6xQa4 .. g12-g11
+22. Qa4xh11 .. Bi14xBb7+
+23. Na5xBb7 .. Bf12xc9
+24. Nb7xBc9 .. O-O
+25. Qh11xg11 .. R

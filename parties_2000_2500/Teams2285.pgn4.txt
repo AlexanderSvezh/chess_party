@@ -1,0 +1,17 @@
+[GameNr "2285"]
+[Result "Aborted"]
+[Variant "Teams"]
+[Red "MarcianitoCumbion"]
+[RedElo "2176"]
+[Blue "The-Karate-Kid"]
+[BlueElo "1575"]
+[Yellow "Byers_CJ"]
+[YellowElo "1935"]
+[Green "GDII"]
+[GreenElo "2348"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:29:15 GMT+0000 (UTC)"]
+[CurrentMove "1"]
+
+1. T

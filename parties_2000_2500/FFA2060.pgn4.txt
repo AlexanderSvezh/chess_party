@@ -1,0 +1,19 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2060"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "G-seis"]
+[RedElo "1494"]
+[Blue "Sanpeita"]
+[BlueElo "1535"]
+[Yellow "Deathlord_Zoltan"]
+[YellowElo "1397"]
+[Green "jcrf123"]
+[GreenElo "1595"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:05:57 GMT+0000 (UTC)"]
+[CurrentMove "8"]
+
+1. h2-h4 .. b7-d7 .. g13-g11 .. m5-l5
+2. h4-h5 .. d7-e7 .. Qh14-d10 .. T

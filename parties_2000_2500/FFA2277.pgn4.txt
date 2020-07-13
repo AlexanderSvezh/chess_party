@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2277"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "DeltaStewar"]
+[RedElo "1500"]
+[Blue "matias001"]
+[BlueElo "1356"]
+[Yellow "G-seis"]
+[YellowElo "1496"]
+[Green "ramon_vb"]
+[GreenElo "1699"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:26:22 GMT+0000 (UTC)"]
+[CurrentMove "2"]
+
+1. g2-g4 .. R

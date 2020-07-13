@@ -1,0 +1,50 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2092"]
+[Result "majayesh: 64 - luciano09876543210: 21 - yassinetn: 47 - Unashamed_Soldier: 11"]
+[Variant "FFA"]
+[Red "majayesh"]
+[RedElo "1500"]
+[Blue "luciano09876543210"]
+[BlueElo "1492"]
+[Yellow "yassinetn"]
+[YellowElo "1562"]
+[Green "Unashamed_Soldier"]
+[GreenElo "1490"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:39:14 GMT+0000 (UTC)"]
+[CurrentMove "118"]
+
+1. g2-g4 .. b7-d7 .. h13-h11 .. m7-k7
+2. h2-h4 .. b8-c8 .. h11-h10 .. k7-j7
+3. Bi1-h2 .. d7-e7 .. h10-h9 .. j7-i7
+4. Bh2xQn8 .. e7-f7 .. h9-h8 .. i7-h7
+5. Bn8xm9 .. f7-g7 .. j13-j12 .. Nn10-l11
+6. Bm9-i5 .. Na5-c6 .. Bi14-j13 .. Bn6-m7
+7. Bi5-j4 .. Nc6-e5 .. f13-f12 .. m6-l6
+8. f2-f3 .. Ne5-f7 .. h8xg7=D .. Nn5-l4
+9. Bj4xQg7 .. Nf7-g9 .. Nj14-i12 .. m8-k8
+10. k2-k3 .. Qa7xBg7 .. Ne14-d12 .. Bn9xBf1
+11. Qg1xBf1 .. Qg7-h6 .. g13-g11 .. O-O
+12. k3xNl4 .. Qh6xh4+ .. Bf14-h12 .. m5-l5
+13. Qf1-h3 .. Qh4-d8 .. Qh14-g13 .. Rn11-n7
+14. i2-i3 .. Qd8xk8+ .. O-O-O .. Kn5-n4
+15. Nj1-k3 .. b6-d6 .. f12-f11 .. Nl11-j10
+16. Ne1-g2 .. Qk8-d8 .. f11-f10 .. h7-g7=D
+17. Nk3xl5+ .. Ng9-i8 .. e13-e11 .. Kn4-n5
+18. Nl5xRn6 .. Ni8xQg7 .. g11-g10 .. Bm7xNn6
+19. O-O-O .. Ba6-b7 .. Ki14-j14 .. Rn7xNg7
+20. Rg1-h1 .. Bb7-d5 .. g10-g9 .. m10-k10
+21. Rk1xk10 .. Bd5-i10+ .. Ni12-g11 .. Kn5-n4
+22. Rk10-n10 .. Bi10-j9 .. f10-f9 .. Rg7-n7
+23. Rn10xRn7 .. Qd8xNd12 .. f9-f8 .. Nj10-l11
+24. Rn7xBn6+# .. Ra4-a7 .. g9-g8
+25. Rn6-n9 .. Bj9-l7 .. f8-f7=D
+26. Rn9-l9 .. Bl7xQh3 .. g8-g7=D
+27. Rh1xBh3 .. Ra7xQf7 .. Qg7xRf7
+28. Ng2-f4 .. Qd12-d8 .. e11-e10
+29. Nf4-d3 .. Qd8-k8 .. Qf7-a7+#
+30. Nd3xb4 .. Ng11-i10
+31. Rl9-i9 .. Rd14-f14
+32. Ri9xNi10 .. Qg13xg4
+33. Rh3-h4 .. Qg4-g1+#

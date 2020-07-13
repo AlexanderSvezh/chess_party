@@ -1,0 +1,58 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2014"]
+[Result "Ignotushoyos: 55 - Briberry: 53 - buhin4000: 21 - Akagami18: 6"]
+[Variant "FFA"]
+[Red "Ignotushoyos"]
+[RedElo "1646"]
+[Blue "Briberry"]
+[BlueElo "1498"]
+[Yellow "buhin4000"]
+[YellowElo "1492"]
+[Green "Akagami18"]
+[GreenElo "1729"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:01:26 GMT+0000 (UTC)"]
+[CurrentMove "96"]
+
+1. g2-g4 .. b10-c10 .. h13-h11 .. m5-l5
+2. g4-g5 .. Ba9-b10 .. Bi14-g12 .. m10-l10
+3. g5-g6 .. b5-c5 .. h11-h10 .. Bn9xj13
+4. g6-g7 .. b6-c6 .. i13-i12 .. Bj13xRk14
+5. g7-g8=D .. Ba6-b5 .. Qh14-h11 .. Bk14-j13
+6. d2-d3 .. Qa7-b6 .. Qh11xm6+#
+7. k2-k4 .. Qb6xNj14+ .. Kg14-h13
+8. k4-k5 .. Qj14xBf14 .. Qm6xm7
+9. k5-k6 .. Qf14xe13 .. Ne14-f12
+10. k6-k7 .. Qe13xRd14 .. Kh13-h12
+11. Qg8-g11+ .. Qd14-h14+#
+12. k7-k8=D .. Na10-c9
+13. Qk8-k11 .. Qh14-e14
+14. h2-h3 .. c6-d6
+15. Nj1-i3 .. Bb5-c6+
+16. f2-f3 .. b4-c4
+17. Bi1-h2 .. c4xd3
+18. Ne1xd3 .. Na5-c4
+19. Nd3xc5 .. Ra4-a7
+20. O-O .. O-O
+21. e2-e4 .. b7-d7
+22. Bf1xNc4 .. d7-e7
+23. Bh2xd6 .. e7-f7
+24. Qg1-g7 .. Bc6-e8
+25. Bd6xb8 .. Ra7-a4
+26. Bc4-b5 .. Ra4-a5
+27. Bb8xRa9 .. Ra5xBb5
+28. Qg11-e9 .. Rb5xNc5
+29. Qe9xQe14 .. Rc5-c6
+30. Ba9xBb10 .. Ka10xBb10
+31. Rd1-d8 .. b11-d11
+32. Qe14-e9 .. Be8-d9
+33. Qe9-c11+ .. Kb10-a10
+34. Ri1-d1 .. Rc6-g6
+35. Qg7-h7 .. f7-g7
+36. Rd8xBd9 .. c10xRd9
+37. Qc11xNc9 .. Rg6-h6
+38. Qh7xg7 .. Rh6-a6
+39. Qg7-d10+ .. Ka10-a9
+40. Qk11-e5+ .. Ka9-a8
+41. Qc9-b8+#

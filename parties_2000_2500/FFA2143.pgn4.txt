@@ -1,0 +1,52 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2143"]
+[Result "AWarriorOfGOD: 33 - Neknek98: 20 - ChuTank: 48 - koldmember: 54"]
+[Variant "FFA"]
+[Red "AWarriorOfGOD"]
+[RedElo "1488"]
+[Blue "Neknek98"]
+[BlueElo "1527"]
+[Yellow "ChuTank"]
+[YellowElo "1497"]
+[Green "koldmember"]
+[GreenElo "1778"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:52:02 GMT+0000 (UTC)"]
+[CurrentMove "121"]
+
+1. h2-h4 .. b7-d7 .. e13-e12 .. m8-k8
+2. f2-f3 .. d7-e7 .. g13-g11 .. k8-j8
+3. g2-g4 .. e7-f7 .. h13-h11 .. m7-l7
+4. Qg1xQn8+ .. f7-g7 .. g11-g10 .. Kn7xQn8
+5. Bf1-i4 .. Ba6xBi14 .. Qh14xBi14 .. Bn9-m8+
+6. g4-g5 .. g7-h7=D .. Nj14-h13 .. Nn5-m7
+7. Bi4-e8 .. Na5-c6 .. g10-g9 .. Nn10-l9
+8. Be8xh11 .. Qh7xh4+ .. i13-i12 .. m11-l11
+9. Bi1-h2 .. Qh4xj2 .. g9-g8 .. Nl9-j10
+10. Bh11xNc6+ .. Qa7-b7 .. g8-g7=D .. m9-k9
+11. Bc6xQb7+ .. Ka8-a7 .. Qg7xg5 .. j8-i8
+12. i2-i3 .. Ka7xBb7 .. Qi14-i13+ .. l11-k11
+13. i3-i4 .. Qj2xRk1 .. Qg5xb5 .. m10-l10
+14. Ne1-d3 .. Ra4-a7 .. Qb5-d7+ .. m4-k4
+15. i4-i5 .. Kb7-a8 .. Qi13xb6 .. m6-k6
+16. i5-i6 .. Qk1xNj1+ .. Qb6-c6+ .. k4-j4
+17. Bh2-i1 .. Ra7-b7 .. Qc6-a6+ .. j4-i4
+18. i6-i7 .. Rb7-a7 .. Qa6xRa7+# .. m5-k5
+19. e2-e4 .. Qd7-h7+ .. k5-j5
+20. Bi1-h2 .. Qh7xBh2+ .. i8-h8
+21. Kh1xQh2 .. Qa7-h7+ .. Nm7-k8
+22. Kh2-g3 .. O-O-O .. Bn6-l4
+23. i7-i8=D .. Rh14-g14+ .. h8-g8=D+
+24. Kg3-f2 .. Qh7-h2++ .. Kn8-n9
+25. Kf2-e3 .. Rg14xQg8 .. Bl4-m5
+26. Qi8xRg8 .. Qh2-h6+ .. Bm5xRd14
+27. f3-f4 .. Qh6-b6+ .. Bd14-j8
+28. Ke3-f3 .. f13-f11 .. l7-k7
+29. Qg8-g14+ .. Ki14-i13 .. k6-j6
+30. Qg14xBf14 .. Qb6-b5 .. j5-i5
+31. Qf14-h12+ .. Ki13xQh12 .. i4-h4
+32. e4-e5 .. Qb5xNd3+ .. h4-g4=D+
+33. Kf3-f2 .. Qd3-d4+ .. Rn4-h4+
+34. Kf2-e1 .. Kh12-i13 .. Rh4-h1+#
+35. T

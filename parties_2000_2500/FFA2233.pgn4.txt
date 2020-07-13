@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2233"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "Arhippa"]
+[RedElo "1500"]
+[Blue "grc-hmrz"]
+[BlueElo "1640"]
+[Yellow "modyfischer"]
+[YellowElo "1500"]
+[Green "Alfons420"]
+[GreenElo "1469"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:10:14 GMT+0000 (UTC)"]
+[CurrentMove "1"]
+
+1. R

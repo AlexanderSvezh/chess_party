@@ -1,0 +1,19 @@
+[GameNr "2239"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Pion_Catur"]
+[RedElo "1507"]
+[Blue "marvel729"]
+[BlueElo "1500"]
+[Yellow "gnojham2"]
+[YellowElo "865"]
+[Green "bullshhitt"]
+[GreenElo "1514"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:13:46 GMT+0000 (UTC)"]
+[CurrentMove "11"]
+
+1. h2-h3 .. b7-d7 .. g13-g12 .. m9-l9
+2. Qg1-j4 .. Qa7-c7 .. Bf14-h12 .. m5-k5
+3. Bi1xQc7 .. b6xBc7 .. R

@@ -1,0 +1,41 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2089"]
+[Result "vishwanthv: 30 - kiarant: 14 - Cumbiandero: 56 - KalissaG23: 5"]
+[Variant "FFA"]
+[Red "vishwanthv"]
+[RedElo "1500"]
+[Blue "kiarant"]
+[BlueElo "1508"]
+[Yellow "Cumbiandero"]
+[YellowElo "1506"]
+[Green "KalissaG23"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:29:54 GMT+0000 (UTC)"]
+[CurrentMove "76"]
+
+1. i2-i4 .. b7-d7 .. h13-h11 .. m7-k7
+2. j2-j4 .. d7-e7 .. h11-h10 .. m8-k8
+3. h2-h4 .. e7-f7 .. h10-h9 .. m6-l6
+4. Nj1-h2 .. f7-g7 .. h9-h8 .. m9-l9
+5. g2-g4 .. g7-h7=D .. Bi14xBa6 .. Nn10-m8
+6. Ne1-g2 .. Qa7xBa6 .. g13-g11 .. Nn5-m7
+7. Ng2-e3 .. b10-c10 .. g11-g10 .. Rn4-n5
+8. Bf1-g2+ .. b6-c6 .. Bf14-g13 .. m5-l5
+9. Bi1xBn6 .. Qh7xh4 .. h8-h7=D .. Rn5xBn6
+10. i4-i5 .. Qh4xRk1+ .. g10-g9 .. Nm8-k9
+11. Kh1-i2 .. Qk1-g5 .. g9-g8 .. Bn9-m8
+12. Ne3-f1 .. Qa6-a7 .. g8-g7=D .. Rn11-n9
+13. e2-e4 .. Qg5xNk9 .. Qg7xQa7+# .. m10-l10
+14. Nf1-e3 .. Ne14-f12 .. l10-k10
+15. Bg2xBm8+ .. Qh7xk10 .. T
+16. Bm8xKn7 .. Qk10xQk9
+17. Bn7xl9+ .. i13-i12
+18. Bl9-n7 .. Qa7-h7
+19. d2-d4 .. Qh7-h3+
+20. Ki2-h1 .. Qh3-f3+
+21. Kh1-i1 .. Qf3-k3+
+22. Ki1-h1 .. Qk3xk2
+23. d4-d5 .. Qk2-j1+
+24. Kh1-g2 .. Qh14-h3+#

@@ -1,0 +1,41 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2226"]
+[Result "marcelo08: 0 - hahisuck: 15 - wulfbang: 52 - enriqueyair: 34"]
+[Variant "FFA"]
+[Red "marcelo08"]
+[RedElo "1490"]
+[Blue "hahisuck"]
+[BlueElo "1500"]
+[Yellow "wulfbang"]
+[YellowElo "1544"]
+[Green "enriqueyair"]
+[GreenElo "1558"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:19:25 GMT+0000 (UTC)"]
+[CurrentMove "75"]
+
+1. g2-g4 .. b8-d8 .. h13-h11 .. m5-l5
+2. g4-g5 .. d8-e8 .. h11-h10 .. Bn6-m5
+3. g5-g6 .. Ba9-e5 .. h10-h9 .. Nn5-l6
+4. g6-g7 .. Qa7-b8 .. h9-h8 .. O-O
+5. T .. e8-f8 .. h8-h7=D .. m8-k8
+6. f8-g8 .. Qh7xh2 .. Rn6-n7
+7. Be5xg7 .. Qh2xKh1 .. m7-k7
+8. g8-h8=D .. Qh1xQh8 .. Nl6-j7
+9. Bg7xQh8 .. e13-e12 .. Nj7xBh8
+10. b7-d7 .. Bf14xb10 .. Bn9-g2+
+11. b6-c6 .. Ne14-f12 .. Nn10-l9
+12. Qb8-d10 .. Bb10xRa11 .. Nh8-i10
+13. Qd10xNi10 .. Ba11-g5 .. k8-j8
+14. Na10-b8 .. O-O .. j8-i8
+15. Qi10-g8 .. i13-i11 .. k7-j7
+16. Qg8xBg5 .. Bi14xBa6 .. Bg2-i4
+17. Nb8xBa6 .. Qh14-h8+ .. j7-i7
+18. Na6-b8 .. Qh8-h14 .. i8-h8
+19. Qg5xQg1 .. j13-j11 .. h8-g8=D
+20. Qg1xQg8 .. i11-i10 .. Qn8xQg8
+21. Na5-b7 .. k13-k11 .. i7-h7
+22. R .. Nf12-d11 .. h7-g7=D
+23. Nd11-b10 .. Qg7-i9
+24. Nb10xKa8 .. Qi9-e13+#

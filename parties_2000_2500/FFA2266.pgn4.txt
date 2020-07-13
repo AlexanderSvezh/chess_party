@@ -1,0 +1,44 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2266"]
+[Result "duogkob: 0 - GSALAMANCA: 18 - ulises19: 67 - esaavedrac: 7"]
+[Variant "FFA"]
+[Red "duogkob"]
+[RedElo "1500"]
+[Blue "GSALAMANCA"]
+[BlueElo "1517"]
+[Yellow "ulises19"]
+[YellowElo "1586"]
+[Green "esaavedrac"]
+[GreenElo "1672"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:35:10 GMT+0000 (UTC)"]
+[CurrentMove "79"]
+
+1. h2-h4 .. b10-c10 .. h13-h11 .. m5-l5
+2. Nj1-k3 .. Na10-c9 .. h11-h10 .. Bn6-m5
+3. Nk3-j5 .. Ba9-b10 .. h10-h9 .. m6-k6
+4. Nj5-i7 .. O-O .. Ne14-f12 .. Nn5-l6
+5. T .. b5-c5 .. h9-h8 .. m8-l8
+6. b6-d6 .. h8-h7=D .. O-O
+7. b7-d7 .. Qh7xh4 .. Bn9-m8+
+8. Ba6xBi14 .. Nj14-i12 .. m7-k7
+9. Bi14xj13 .. Qh4xKh1 .. Qn8-n7
+10. Bj13xNi12+ .. Nf12-h13 .. Bm8xBi12
+11. d6-e6 .. Rk14-j14 .. Nn10-l11
+12. Na5-c6 .. k13-k12 .. Nl11-j10
+13. Ra4-a5 .. Rj14xNj10 .. m9-k9
+14. e6-f6 .. Rj10xm10 .. m11-l11
+15. Qa7-a6 .. g13-g12 .. Qn7-n9
+16. d7-e7 .. Rm10-i10 .. Bi12-m8
+17. e7-f7 .. d13-d12 .. l11xk12
+18. f6-g6 .. e13-e12 .. Qn9-l11
+19. Nc6-e7 .. Bf14-e13 .. Ql11xb11+
+20. Nc9xQb11 .. Qh1-h6 .. R
+21. Bb10-c9 .. Nh13-f12
+22. c5-d5 .. Ri10-n10
+23. d5-e5 .. Rn10xRn6
+24. e5-f5 .. Rn6xKn5
+25. f5-g5 .. Qh6-c11
+26. g5-h5=D .. Rn5xRn11
+27. g6-h6=D .. Qc11xNb11+#

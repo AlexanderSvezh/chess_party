@@ -1,0 +1,25 @@
+[GameNr "2241"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Great-Gazoo"]
+[RedElo "1462"]
+[Blue "B3thel"]
+[BlueElo "1909"]
+[Yellow "mikemanuver"]
+[YellowElo "2474"]
+[Green "PawnStud"]
+[GreenElo "2083"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:18:00 GMT+0000 (UTC)"]
+[CurrentMove "34"]
+
+1. h2-h3 .. b7-c7 .. g13-g12 .. m8-l8
+2. Qg1-j4 .. Qa7-b7 .. Qh14-e11 .. Qn8-m8
+3. Bi1-h2 .. Na5-c6 .. j13-j11 .. Nn5-l6
+4. Nj1-i3 .. b5-c5 .. Bi14-j13 .. m10-l10
+5. Qj4-h6 .. Ba6-b5 .. k13-k12 .. m11-k11
+6. Ni3-k4 .. Ra4-a5 .. Bj13-h11 .. Kn7-n8
+7. Qh6-h5 .. Nc6-d4 .. Bh11xBb5 .. Nn10-l9
+8. Nk4xNl6 .. Nd4xBb5 .. Qe11-g9 .. m5xNl6
+9. Qh5-h8 .. R

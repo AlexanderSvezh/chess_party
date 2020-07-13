@@ -1,0 +1,54 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2065"]
+[Result "anatamo: 6 - Sanpeita: 47 - atterberg: 12 - G-seis: 43"]
+[Variant "FFA"]
+[Red "anatamo"]
+[RedElo "1785"]
+[Blue "Sanpeita"]
+[BlueElo "1535"]
+[Yellow "atterberg"]
+[YellowElo "1471"]
+[Green "G-seis"]
+[GreenElo "1494"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:24:58 GMT+0000 (UTC)"]
+[CurrentMove "121"]
+
+1. g2-g4 .. Na5-c6 .. Nj14-i12 .. m10-k10
+2. g4-g5 .. b7-d7 .. g13-g11 .. Nn5-l6
+3. g5-g6 .. d7-e7 .. g11-g10 .. Nl6-j7
+4. g6-g7 .. e7-f7 .. Ne14-f12 .. Nj7-h6
+5. Nj1-i3 .. b10-c10 .. h13-h11 .. Nh6xf7
+6. g7-g8=D .. Ba9-b10 .. Ni12-h10 .. Nf7-e5
+7. Qg8-g3 .. Nc6-a5 .. Nh10-f11 .. k10-j10
+8. Qg3xNe5 .. Na10-c9 .. h11-h10 .. j10-i10
+9. Ne1-f3 .. O-O .. g10-g9 .. m8-k8
+10. h2-h4 .. Ra9-a8 .. Bi14-h13+ .. Nn10-m8
+11. Bi1-h2 .. b8-d8 .. h10-h9 .. Bn9xj13
+12. Bf1-h3 .. Na5-b7 .. Rk14-j14 .. Bj13-n9
+13. Qg1-g4 .. Ra8-a9 .. h9-h8 .. m7-l7
+14. Qe5-h5 .. b5-c5 .. Bf14xBn6 .. Rn4xBn6
+15. d2-d3 .. b4-d4 .. O-O .. m6-l6
+16. j2-j3 .. b11-d11 .. Rf14-g14 .. k8-j8
+17. Bh3xl7 .. b6-c6 .. Bh13-k10 .. Rn11-n10
+18. O-O .. d8-e8 .. h8-h7=D .. Rn10xBk10
+19. Qh5xQh7 .. Qa7-a8 .. Qh14xQh7 .. j8-i8
+20. Bl7xi10+ .. c5-d5 .. g9-g8 .. i8xQh7
+21. T .. e8-f8 .. g8xh7=D+ .. Nm8-k7
+22. d11-e11 .. Qh7xRk10+ .. Nk7-m8
+23. e11xNf12 .. Rj14-j7+ .. Kn7-m6
+24. Qa8-e8 .. Qk10-j9+ .. Km6-l5
+25. Nc9-d11 .. Rg14-g5+ .. Kl5-l4
+26. Nd11xe13 .. Rj7-j4+ .. Kl4-k3
+27. Ne13xNf11+ .. R .. Kk3xk2
+28. Nb7-c5 .. Kk2xKj1
+29. Qe8xKe14 .. Bn9-j13
+30. f8-g8 .. Bj13xc6
+31. Ra4-b4 .. Rn6-n5
+32. g8-h8=D .. Bc6xd5
+33. Qe14-e5 .. Bd5-c6
+34. Qe5xBh2 .. Rn5-n7
+35. Qh8-h5 .. Rn7-c7
+36. Qh5xj3+ .. Kj1-k1
+37. Qh2xNi3+#

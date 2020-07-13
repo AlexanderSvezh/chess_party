@@ -2,8 +2,6 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as ec
 from selenium.webdriver.common.by import By
-from selenium.common.exceptions import NoSuchElementException as nsse
-from selenium.common.exceptions import ElementClickInterceptedException as ecie
 from random import randint, choice
 from collections import namedtuple
 from datetime import datetime
@@ -20,7 +18,6 @@ ALL_PARTIES_COUNT = 3913043
 
 def browser(dir_name):
     option = Options()
-    # option.add_argument("--headless")
     option.add_argument('--no-proxy-server')
     option.add_argument('--no-sandbox')
     option.add_argument("window-size=1920,1080")
@@ -49,11 +46,10 @@ def browser(dir_name):
              "profile.default_content_setting_values.automatic_downloads": 1
              }
     option.add_experimental_option('prefs', prefs)
-
-    browser = webdriver.Chrome(executable_path='./chromedriver',
-                               chrome_options=option)
-    browser.implicitly_wait(5)
-    return browser
+    instance = webdriver.Chrome(executable_path='./chromedriver',
+                                chrome_options=option)
+    instance.implicitly_wait(5)
+    return instance
 
 
 def registration(browser):
@@ -73,7 +69,7 @@ def registration(browser):
     time.sleep(10)
     browser.find_element_by_id('registration_submit').click()
     with open('users_data.txt', 'a+') as data:
-        data.write(f'\n{nickname}: {mail}/{passwrd}')
+        data.write(f"\n'{nickname}', '{mail}', '{passwrd}'")
     return browser
 
 
@@ -103,7 +99,7 @@ def click_hint(browser):
 
 def crashlog(load_range, start, line):
     namerange = f'{load_range[0]}_{load_range[-1]}'
-    prc = round(int(line)/load_range[-1] * 100, 1)
+    prc = round((int(line)-load_range[0])/(load_range[-1]-load_range[0]) * 100, 1)
     log_str = f'{namerange}: {line} - {(datetime.now() - start).seconds} sec, {prc}%'
     print(log_str)
     with open(f'./logs/{namerange}.log', 'w') as logfile:
@@ -113,22 +109,19 @@ def crashlog(load_range, start, line):
 def download_games(browser, dirname, load_range):
     count = 0
     check = True
-    wait = WebDriverWait(browser, 3)
+    wait = WebDriverWait(browser, 5)
     start_all = datetime.now()
     for line in load_range:
         start = datetime.now()
         browser.get(f'http://chess.com/4-player-chess?g={line}')
         wait.until(ec.presence_of_element_located((By.CSS_SELECTOR, '.board-container')))
-        # print('loadedGameChat:', browser.find_element_by_id('loadedGameChat').text)
-        time.sleep(3)
         if check:
             click_banners(browser)
             check = False
+        wait.until(ec.element_to_be_clickable((By.CSS_SELECTOR, '.tab .tab-title')))
         lst = browser.find_elements_by_css_selector('.tab .tab-title')
-        time.sleep(1)
         _ = [line.click() for line in lst if 'PGN4' in line.text]
-        buttons = browser.find_elements_by_css_selector('.pgn-buttons a')
-        _ = [clck.click() for clck in buttons if 'Save' in clck.text]
+        browser.find_elements_by_css_selector('.pgn-buttons a')[-1].click()
         wait.until(ec.alert_is_present(), 'File name?')
         browser.switch_to.alert.accept()
         crashlog(load_range, start, line)
@@ -137,7 +130,7 @@ def download_games(browser, dirname, load_range):
 
 
 def check_directory_size(dr, count):
-    limit = 1
+    limit = 10000
     num_files = len([f for f in os.listdir(dr)])
     if num_files > limit:
         count += 1
@@ -176,6 +169,6 @@ if __name__ == '__main__':
         download_games(session, dirname, range(int(after), int(before)+1))
     except Exception as err:
         print(repr(err))
-        session.save_screenshot('./logs/bugs.png')
+        chrome_instance.save_screenshot('./logs/bugs.png')
     finally:
-        session.quit()
+        chrome_instance.quit()

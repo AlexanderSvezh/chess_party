@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2100"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "Emuwarveteran"]
+[RedElo "1476"]
+[Blue "intlextreme"]
+[BlueElo "1636"]
+[Yellow "jesram"]
+[YellowElo "1664"]
+[Green "ivanfabiocondori"]
+[GreenElo "1777"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:22:29 GMT+0000 (UTC)"]
+[CurrentMove "1"]
+
+1. R

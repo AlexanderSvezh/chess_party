@@ -1,0 +1,21 @@
+[GameNr "2197"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "The-Karate-Kid"]
+[RedElo "1516"]
+[Blue "jlrussin"]
+[BlueElo "1541"]
+[Yellow "GDII"]
+[YellowElo "2289"]
+[Green "modyfischer"]
+[GreenElo "1512"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:00:13 GMT+0000 (UTC)"]
+[CurrentMove "18"]
+
+1. h2-h3 .. b7-c7 .. h13-h12 .. m9-l9
+2. Qg1-k5 .. Qa7-b7 .. Bi14xQb7+ .. Nn5-l6
+3. k2-k4 .. Ba6xBb7 .. g13-g12 .. m10-k10
+4. Qk5xb5 .. Bb7-c6 .. k13-k11 .. Bn9xj13
+5. Qb5-a6+ .. #

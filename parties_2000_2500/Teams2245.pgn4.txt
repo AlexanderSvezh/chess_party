@@ -1,0 +1,21 @@
+[GameNr "2245"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "JCristobal23"]
+[RedElo "1518"]
+[Blue "ElNovaton"]
+[BlueElo "1698"]
+[Yellow "Chessplayer1993"]
+[YellowElo "1503"]
+[Green "TaTengue1989"]
+[GreenElo "1520"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:17:50 GMT+0000 (UTC)"]
+[CurrentMove "17"]
+
+1. g2-g4 .. b8-c8 .. h13-h11 .. m7-l7
+2. i2-i3 .. Qa7-d10 .. Ne14-f12 .. Qn8-k5
+3. Bf1-g2 .. Qd10-h6 .. Nj14-i12 .. Qk5-k4+
+4. j2-j3 .. Qh6xh2+ .. Bi14-d9 .. Qk4xj3+
+5. #

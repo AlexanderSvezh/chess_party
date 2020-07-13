@@ -1,0 +1,17 @@
+[GameNr "2175"]
+[Result "Aborted"]
+[Variant "Teams"]
+[Red "8943GHWRGW34IH89H"]
+[RedElo "1291"]
+[Blue "GamerSam27"]
+[BlueElo "1475"]
+[Yellow "Unashamed_Soldier"]
+[YellowElo "1500"]
+[Green "redjinplayz"]
+[GreenElo "1463"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:45:34 GMT+0000 (UTC)"]
+[CurrentMove "1"]
+
+1. R

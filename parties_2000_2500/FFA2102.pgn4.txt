@@ -1,0 +1,20 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2102"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "atterberg"]
+[RedElo "1471"]
+[Blue "sylvesterssamuelraj"]
+[BlueElo "1559"]
+[Yellow "Marcosfcb"]
+[YellowElo "1698"]
+[Green "hatafaya"]
+[GreenElo "1663"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:24:20 GMT+0000 (UTC)"]
+[CurrentMove "10"]
+
+1. h2-h4 .. Na10-c9 .. e13-e12 .. m8-k8
+2. Nj1-i3 .. Na5-c6 .. Bf14-e13 .. k8-j8
+3. h4-h5 .. R

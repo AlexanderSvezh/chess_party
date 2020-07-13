@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2053"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "DefeatTheDefeat"]
+[RedElo "1505"]
+[Blue "Neknek98"]
+[BlueElo "1505"]
+[Yellow "Phonyfaker"]
+[YellowElo "1763"]
+[Green "FrantchescoAlencar"]
+[GreenElo "1476"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:02:00 GMT+0000 (UTC)"]
+[CurrentMove "4"]
+
+1. g2-g4 .. b7-d7 .. e13-e12 .. T

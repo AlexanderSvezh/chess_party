@@ -1,0 +1,36 @@
+[GameNr "2149"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Riviera13"]
+[RedElo "1597"]
+[Blue "GamerSam27"]
+[BlueElo "1488"]
+[Yellow "nebukdanezar"]
+[YellowElo "1523"]
+[Green "redjinplayz"]
+[GreenElo "1476"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:45:12 GMT+0000 (UTC)"]
+[CurrentMove "80"]
+
+1. h2-h3 .. b6-d6 .. Ne14-f12 .. m8-l8
+2. Bi1xd6 .. b7-c7 .. g13-g12 .. Bn9-l7
+3. Bd6-h2 .. b5-d5 .. h13-h11 .. Bl7-j9
+4. Ne1-d3 .. Ba6xNd3 .. Nj14-i12 .. Bj9-g6
+5. e2xBd3 .. Na5-c4 .. h11-h10 .. Bg6-d9
+6. d3xNc4 .. Ra4-a5 .. j13-j12 .. Bd9-e8
+7. c4xd5 .. Ra5xd5 .. Qh14-h13 .. Be8-g6
+8. g2-g3 .. Rd5-d3 .. Bi14xm10 .. Nn10-l9
+9. Bh2xm7 .. Rd3-d7 .. Ni12-j10 .. Bn6xBm7
+10. Qg1xBm7+ .. Rd7xQm7 .. Nj10xNl9 .. Kn7-n6
+11. Bf1-g2+ .. Qa7-b7 .. Nl9xQn8 .. Rn11xNn8
+12. Bg2xQb7+ .. Ka8xBb7 .. g12-g11+ .. Bg6-d9
+13. Nj1-k3 .. b10-c10 .. Qh13-l9 .. Nn5-l6
+14. O-O .. c7-d7 .. h10-h9 .. l8-k8
+15. Rd1-e1 .. b11-d11 .. e13-e11 .. Nl6-j7
+16. Re1-e4 .. c10-d10 .. Rd14-e14 .. k8-j8
+17. Re4xb4+ .. Kb7-a7 .. Nf12xd11 .. Nj7-h8
+18. Nk3xm4+ .. Ra11xNd11 .. Re14-d14 .. Rn4xNm4
+19. Rb4xRm4 .. d10xe11 .. Ql9-h5 .. Nh8-i10
+20. Rm4-n4+ .. Rd11-d10 .. Bm10-k8 .. #

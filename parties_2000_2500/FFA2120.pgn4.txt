@@ -1,0 +1,48 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2120"]
+[Result "LYM9: 41 - ategames: 26 - AHMETALAKUS: 22 - derrussel: 5"]
+[Variant "FFA"]
+[Red "LYM9"]
+[RedElo "1645"]
+[Blue "ategames"]
+[BlueElo "1536"]
+[Yellow "AHMETALAKUS"]
+[YellowElo "1559"]
+[Green "derrussel"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:43:29 GMT+0000 (UTC)"]
+[CurrentMove "92"]
+
+1. g2-g4 .. b7-d7 .. h13-h11 .. m11-l11
+2. Ne1-f3 .. d7-e7 .. h11-h10 .. m8-l8
+3. g4-g5 .. e7-f7 .. h10-h9 .. m4-l4
+4. Nj1-i3 .. b8-d8 .. h9-h8 .. Bn9xBf1
+5. Rd1xBf1 .. d8-e8 .. h8-h7=D .. m7-k7
+6. d2-d4 .. e8-f8 .. Qh7-e4+ .. k7-j7
+7. h2-h4 .. Na5-c6 .. Qe4xe2 .. Bn6-m7
+8. Qg1-g2 .. f7-g7 .. Qe2-e12 .. j7-i7
+9. Bi1-h2 .. g7-h7=D .. Bi14-h13+ .. Kn7-n6
+10. O-O .. Qh7xi7 .. Bh13-g12 .. Nn5-l6
+11. d4-d5 .. Nc6-d8 .. Qe12-g10 .. Nl6-m8
+12. d5-d6 .. Qi7-i6 .. Bg12-f11 .. l11-k11
+13. g5-g6 .. f8-g8 .. Bf11-g12 .. k11-j11
+14. Nf3-e5+ .. b6-c6 .. Qg10-h11 .. j11-i11
+15. h4-h5 .. Qi6-i8 .. Qh11xm6+#
+16. Bh2-g1 .. g8-h8=D .. T
+17. f2-f4 .. Qh8-i9
+18. Bg1xQa7 .. Qi9-l9
+19. Ba7-f2 .. Ql9xKg14
+20. g6-g7 .. Qg14-j11
+21. Rf1-g1 .. Qi8-j8
+22. j2-j3 .. Ba6-c8
+23. Ri1-h1 .. Ba9xd6
+24. h5-h6 .. b4-d4
+25. h6-h7 .. Bd6-g9
+26. g7-g8=D .. Qj8xQg8
+27. h7xQg8=D .. Qj11-j9
+28. Ne5xc6 .. Nd8xNc6
+29. Qg8xBg9 .. Qj9-f5
+30. Bf2-h4 .. Ka8-a9
+31. Qg9-g10 .. R

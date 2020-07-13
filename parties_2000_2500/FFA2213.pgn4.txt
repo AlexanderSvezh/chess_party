@@ -1,0 +1,48 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2213"]
+[Result "gio2588: 34 - bullshhitt: 9 - GGRRibeiro: 0 - wc171e: 58"]
+[Variant "FFA"]
+[Red "gio2588"]
+[RedElo "1567"]
+[Blue "bullshhitt"]
+[BlueElo "1518"]
+[Yellow "GGRRibeiro"]
+[YellowElo "1532"]
+[Green "wc171e"]
+[GreenElo "1839"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:11:05 GMT+0000 (UTC)"]
+[CurrentMove "77"]
+
+1. g2-g4 .. b7-c7 .. j13-j12 .. m9-k9
+2. g4-g5 .. c7-d7 .. g13-g12 .. k9-j9
+3. g5-g6 .. Ba6-b7+ .. Bi14-j13 .. j9-i9
+4. f2-f3 .. Bb7-c6 .. Bf14-i11 .. i9-h9
+5. e2-e3 .. Na5-c4 .. T .. h9-g9=D
+6. g6-g7 .. Qa7-b7 .. Qg9-g8
+7. d2-d3 .. Nc4-e5 .. Nn10-l9
+8. d3-d4 .. Ne5xf3 .. Nl9-k11
+9. Ne1xNf3 .. Bc6xNf3+ .. Nk11xBj13
+10. Bf1-g2 .. Bf3xRd1 .. Qg8xg7
+11. Bg2xQb7+ .. R .. Qg7xQg1+
+12. Kh1xQg1 .. Nj13-h12
+13. Bb7xKa8 .. Nh12xKg14
+14. Ba8-f3 .. Qn8-l10
+15. j2-j3 .. Ql10xe3+
+16. Kg1-g2 .. m8-l8+
+17. h2-h3 .. Qe3-d2+
+18. Kg2-h1 .. Qd2-e1+
+19. Kh1-h2 .. m7-k7
+20. Bf3-g2 .. Bn6-m7+
+21. i2-i3 .. Qe1-f2
+22. Bi1xm5 .. Bm7-l6
+23. Bm5-j2 .. Qf2xd4
+24. Nj1-k3 .. Qd4-f4+
+25. Kh2-h1 .. m11-k11
+26. Bj2-i1 .. Qf4-f2
+27. i3-i4 .. Qf2-g1+
+28. Kh1-i2 .. Qg1xBg2+
+29. Ki2-j1 .. Qg2xh3+
+30. Nk3-i2 .. k11xj12
+31. R

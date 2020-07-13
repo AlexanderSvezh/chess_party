@@ -1,0 +1,17 @@
+[GameNr "2131"]
+[Result "Aborted"]
+[Variant "Teams"]
+[Red "panchitobebeto"]
+[RedElo "1500"]
+[Blue "nebukdanezar"]
+[BlueElo "1513"]
+[Yellow "Extrujamelano"]
+[YellowElo "1500"]
+[Green "ElPolloLocoMan"]
+[GreenElo "1566"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:29:40 GMT+0000 (UTC)"]
+[CurrentMove "1"]
+
+1. R

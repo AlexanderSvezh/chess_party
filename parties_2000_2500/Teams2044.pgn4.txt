@@ -1,0 +1,25 @@
+[GameNr "2044"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Pion_Catur"]
+[RedElo "1519"]
+[Blue "dapsy001"]
+[BlueElo "2267"]
+[Yellow "baker102703"]
+[YellowElo "1521"]
+[Green "nebukdanezar"]
+[GreenElo "1493"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:03:40 GMT+0000 (UTC)"]
+[CurrentMove "34"]
+
+1. h2-h3 .. b7-c7 .. g13-g11 .. Nn5-l6
+2. k2-k4 .. Qa7-b7 .. h13-h12 .. m8-l8
+3. f2-f3 .. b8-c8 .. Bf14-g13 .. Nn10-l9
+4. Nj1-i3 .. Na10-c9 .. Ne14-f12 .. m5-k5
+5. Qg1-e3 .. Na5-c6 .. O-O .. m7-k7
+6. Ni3-j5 .. b10-c10 .. Nf12-e10 .. Nl6xNj5
+7. k4xNj5 .. Nc9xNe10 .. Bi14xNe10 .. Bn9xj5
+8. Qe3-g5 .. b11-d11 .. Be10xBj5 .. Rn4-n5
+9. Qg5xRa11 .. R

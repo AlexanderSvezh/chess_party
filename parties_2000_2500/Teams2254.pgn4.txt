@@ -1,0 +1,29 @@
+[GameNr "2254"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "kopashtar"]
+[RedElo "1861"]
+[Blue "ElNovaton"]
+[BlueElo "1710"]
+[Yellow "B3thel"]
+[YellowElo "1898"]
+[Green "mikemanuver"]
+[GreenElo "2487"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:29:16 GMT+0000 (UTC)"]
+[CurrentMove "51"]
+
+1. h2-h3 .. b6-d6 .. g13-g12 .. m9-l9
+2. e2-e3 .. Qa7-c5 .. k13-k11 .. m8-l8
+3. Bf1-e2 .. Na5-c6 .. Qh14-e11 .. Qn8-m8
+4. Qg1-j4 .. Na10-c9 .. Ne14-f12 .. Qm8-j5
+5. Qj4-h6 .. Qc5-f5 .. Qe11-h11 .. Nn5-l4
+6. Ne1-f3 .. Qf5-i8 .. Nj14-i12 .. l8-k8
+7. Nj1-i3 .. b8-c8 .. Bf14xm7 .. Qj5-l7
+8. k2-k3 .. b10-c10 .. Bm7xBn6 .. Rn4xBn6
+9. k3xNl4 .. Ba9xe13 .. Rd14-e14 .. m5xl4
+10. Bi1-g3 .. Be13xNf12 .. Qh11-f9 .. Nn10-m8
+11. Bg3-h4 .. Qi8xd13 .. Re14-f14 .. Ql7-m7
+12. O-O-O .. Nc6-d8 .. Qf9xBf12 .. Qm7xRf14+
+13. Bh4xNd8 .. Qd13-d14 .. #

@@ -1,0 +1,65 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2238"]
+[Result "wc171e: 7 - Spaksi: 65 - AngelinaKali: 23 - globelchamp: 31"]
+[Variant "FFA"]
+[Red "wc171e"]
+[RedElo "1844"]
+[Blue "Spaksi"]
+[BlueElo "2020"]
+[Yellow "AngelinaKali"]
+[YellowElo "1866"]
+[Green "globelchamp"]
+[GreenElo "1831"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:30:42 GMT+0000 (UTC)"]
+[CurrentMove "151"]
+
+1. f2-f4 .. b7-d7 .. e13-e12 .. m8-k8
+2. e2-e3 .. b6-d6 .. j13-j12 .. k8-j8
+3. Nj1-i3 .. Na10-c9 .. Bi14-j13 .. j8-i8
+4. Bf1-e2 .. Na5-c6 .. Bf14-e13 .. i8-h8
+5. Qg1-f1 .. b4-c4 .. Bj13-i12+ .. m9-l9
+6. Ne1-f3 .. b10-c10 .. Be13xBa9 .. h8-g8=D
+7. d2-d4 .. Ka8xBa9 .. Ne14-f12 .. Nn5-l6
+8. Rd1-d2 .. Ka9-a10 .. k13-k11 .. m11-l11
+9. Nf3-g5 .. b5-d5 .. d13-d11 .. m7-l7
+10. Ng5-h3 .. d6-e6 .. h13-h12 .. Qg8-m8
+11. Be2-h5 .. Ra4-b4 .. Nj14-h13 .. Bn6-m7
+12. j2-j3 .. Rb4-b7 .. Nh13-g11 .. m4-l4
+13. k2-k4 .. Rb7-c7 .. d11xc10 .. Nl6-m4
+14. Ni3-j5 .. b11xc10 .. j12-j11 .. Qm8-j8
+15. Bh5-i4 .. Qa7-a9 .. Rd14-e14 .. Nm4-n6
+16. Rd2-f2 .. Ba6-c8 .. k11-k10 .. l9-k9
+17. Qf1xc4 .. Nc6-e7 .. Ng11-i10 .. Qj8-j6
+18. Qc4-f1 .. Bc8-a6 .. Bi12-h13 .. m6-k6
+19. Qf1-g1 .. Ba6-d3 .. i13-i11 .. k6xNj5
+20. Bi4xj5 .. Ne7-f5 .. Qh14-j14 .. Bn9-m8
+21. Rf2-f3 .. Bd3-e4 .. j11-j10 .. k9xj10
+22. Qg1-f1 .. d7-e7 .. k10-k9 .. Bm8xBh13+
+23. Nh3-g5 .. Be4xRf3 .. Nf12xBh13 .. Qn8-m8
+24. Qf1xBf3 .. Rc7-d7 .. i11xj10 .. Qj6-e1+
+25. R .. d5-e5 .. Ni10-g11 .. Qe1xKh1
+26. e5xf4 .. j10-j9 .. m10-k10
+27. f4-g4 .. j9-j8 .. Qm8-k8
+28. g4-h4=D .. j8-j7=D .. Bm7xk9
+29. e7-f7 .. Qj7xQk8 .. l7xQk8
+30. f7-g7 .. Qj14xBj5 .. Nn10-m8
+31. g7-h7=D+ .. Qj5xm5 .. R
+32. Qh7xKn7 .. Qm5-i9
+33. Qn7-g7 .. Qi9-f9
+34. e6-f6 .. Qf9-f12
+35. Qh4xNg5 .. Qf12-e13
+36. Qg7-c11 .. Qe13-f12
+37. f6-g6 .. Rk14-j14
+38. g6-h6=D .. Rj14-i14
+39. Qh6-d10 .. Qf12-g12
+40. Qd10-d13 .. Re14-f14
+41. Qd13-e13 .. Ri14-j14
+42. Qe13xRf14+ .. Nh13xQf14
+43. Qc11xNf14+ .. Kg14-h13
+44. Qf14xRj14 .. Qg12-f12
+45. Qg5-i5 .. Kh13-g12
+46. Qi5-i14+ .. Ng11-h13
+47. Qj14-j9+ .. h12-h11
+48. Qj9xh11+#

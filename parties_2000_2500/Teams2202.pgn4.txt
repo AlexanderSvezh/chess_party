@@ -1,0 +1,17 @@
+[GameNr "2202"]
+[Result "Aborted"]
+[Variant "Teams"]
+[Red "stupac1991"]
+[RedElo "1500"]
+[Blue "StevenBJ"]
+[BlueElo "1486"]
+[Yellow "tjtuck27"]
+[YellowElo "1500"]
+[Green "Pion_Catur"]
+[GreenElo "1534"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:58:09 GMT+0000 (UTC)"]
+[CurrentMove "1"]
+
+1. R

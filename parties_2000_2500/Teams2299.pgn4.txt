@@ -1,0 +1,35 @@
+[GameNr "2299"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "B3thel"]
+[RedElo "1884"]
+[Blue "teto1234554321"]
+[BlueElo "1567"]
+[Yellow "MarcianitoCumbion"]
+[YellowElo "2166"]
+[Green "Byers_CJ"]
+[GreenElo "1925"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:44:28 GMT+0000 (UTC)"]
+[CurrentMove "74"]
+
+1. h2-h3 .. b6-d6 .. g13-g12 .. m8-l8
+2. d2-d4 .. b7-c7 .. Qh14-e11 .. Qn8-m8
+3. Qg1-k5 .. Ba6-b7 .. Bf14-g13 .. m4-l4
+4. Qk5-h2 .. b11-c11 .. Qe11-h11 .. Nn5-l6
+5. Qh2xNl6 .. Bb7xg12 .. f13xBg12 .. m5xQl6
+6. Nj1-i3 .. Qa7-b7 .. Nj14-i12 .. m10-l10
+7. d4-d5 .. b4-c4 .. Ne14-f12 .. Bn6-m5
+8. e2-e4 .. c4xd5 .. Rd14-e14 .. Bn9-m10
+9. Rd1xd5 .. Ra4xe4 .. Nf12-d11 .. Bm10-e2
+10. Rd5xBm5 .. Qb7-c8 .. Qh11xm6+ .. Kn7-n8
+11. Rm5-n5+ .. Re4-e5 .. Qm6-n6+ .. Qm8-n7
+12. Rn5xRn4 .. Re5-n5 .. Qn6xRn5 .. Qn7xQn5
+13. Rn4xQn5+ .. Qc8-g8 .. e13-e12 .. Kn8-m8
+14. Bf1xBe2 .. b10-c10 .. Nd11-e9 .. m9-l9
+15. Be2-f3+ .. Na5-c6 .. Ne9xQg8 .. Km8-m9
+16. Bf3xNc6+ .. b5xBc6 .. k13-k11 .. Km9-m10
+17. Rn5-a5+ .. Ka8-b7 .. h13-h11 .. Nn10-m8
+18. Ra5xBa9 .. c10-d10 .. g12-g11+ .. Rn11-n5
+19. Ra9xNa10 .. R

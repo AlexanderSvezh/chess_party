@@ -1,0 +1,44 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2002"]
+[Result "DANY1242: 61 - jjlopezvaldez: 53 - 287342U4BJFSFBJ: 3 - FIV06: 0"]
+[Variant "FFA"]
+[Red "DANY1242"]
+[RedElo "1767"]
+[Blue "jjlopezvaldez"]
+[BlueElo "1786"]
+[Yellow "287342U4BJFSFBJ"]
+[YellowElo "1518"]
+[Green "FIV06"]
+[GreenElo "1748"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 02:51:18 GMT+0000 (UTC)"]
+[CurrentMove "80"]
+
+1. j2-j3 .. b7-d7 .. Ne14-f12 .. m5-l5
+2. Bi1xBn6 .. d7-e7 .. e13-e12 .. R
+3. Nj1-k3 .. e7-f7 .. Nj14-k12
+4. Nk3xm4 .. f7-g7 .. Nk12-l10
+5. Nm4-l6 .. g7-h7=D .. Nl10-k12
+6. Nl6xKn7 .. b6-c6 .. Nk12-j14
+7. Nn7-m5 .. Qh7-h4 .. Nj14-i12
+8. i2-i3 .. Qh4xf2 .. Bf14-e13
+9. Qg1xQf2 .. Qa7xQf2 .. Nf12-e10
+10. Ne1-f3 .. Qf2-c5 .. h13-h11
+11. Nm5-k4 .. b8-c8 .. O-O
+12. Bn6-j2 .. b11-c11 .. h11-h10
+13. d2-d4 .. Qc5-d6 .. h10-h9
+14. Bj2-i1 .. Qd6-d10 .. h9-h8
+15. h2-h3 .. Ba9xBi1 .. h8-h7=D
+16. Rk1xBi1 .. Na10-c9 .. Ne10xNc9+
+17. e2-e3 .. Qd10xNc9 .. Qh7-j7
+18. Bf1-e2 .. Na5-c4 .. Qj7-k7
+19. Kh1-i2 .. Nc4xe3 .. Be13-f12
+20. Rd1-d3 .. b10-d10 .. Rf14-g14
+21. Rd3xNe3 .. Qc9-b8 .. Qk7-f2
+22. Ri1-e1 .. b4-c4 .. Qh14-h13
+23. Be2xc4 .. b5xBc4 .. Rg14-h14
+24. Re3xe12+ .. c8-d8 .. Bf12-e13
+25. Re12xBe13+ .. Ba6xQh13 .. Ke14-f14
+26. Re13-e14+# .. O-O
+27. R

@@ -1,0 +1,20 @@
+[GameNr "2229"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "B3thel"]
+[RedElo "1937"]
+[Blue "GDII"]
+[BlueElo "2293"]
+[Yellow "mikemanuver"]
+[YellowElo "2505"]
+[Green "The-Karate-Kid"]
+[GreenElo "1521"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:11:43 GMT+0000 (UTC)"]
+[CurrentMove "15"]
+
+1. h2-h3 .. b6-d6 .. g13-g12 .. m9-l9
+2. d2-d4 .. Qa7-b6 .. Bf14-h12 .. Qn8xi13
+3. Qg1-i3 .. Qb6xBh12 .. Qh14xQi13 .. m7-l7
+4. Qi3-n8+ .. Qh12-f14+ .. #

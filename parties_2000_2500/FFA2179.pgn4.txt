@@ -1,0 +1,61 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2179"]
+[Result "tacticsandtempi: 53 - hatafaya: 11 - intlextreme: 76 - alohasurf: 18"]
+[Variant "FFA"]
+[Red "tacticsandtempi"]
+[RedElo "1511"]
+[Blue "hatafaya"]
+[BlueElo "1667"]
+[Yellow "intlextreme"]
+[YellowElo "1632"]
+[Green "alohasurf"]
+[GreenElo "1677"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:08:07 GMT+0000 (UTC)"]
+[CurrentMove "151"]
+
+1. d2-d4 .. b4-c4 .. h13-h11 .. m5-l5
+2. h2-h3 .. b6-d6 .. h11-h10 .. Bn6-m5
+3. Nj1-h2 .. d6-e6 .. h10-h9 .. Nn5-l6
+4. Nh2-i4 .. e6-f6 .. h9-h8 .. O-O
+5. Ne1-f3 .. f6-g6 .. Ne14-f12 .. m7-k7
+6. Bi1-f4 .. Na5-c6 .. Nf12-g10 .. m8-k8
+7. Qg1-h2 .. Na10-c9 .. Nj14-i12 .. m9-k9
+8. Qh2-g3 .. Nc6-e7 .. Ng10-f8 .. Nn10-l9
+9. Nf3-e5 .. b8-d8 .. Nf8xg6 .. k8-j8
+10. Bf4-e3 .. Ne7-d5 .. Ng6xNe5 .. k7-j7
+11. d4xNe5 .. b7-d7 .. h8-h7=D .. Bn9xNi4
+12. Rd1xNd5 .. c4xRd5 .. Qh7-k10 .. Rn11-n10
+13. Be3xQa7 .. Ka8xBa7 .. Qk10xk9 .. Bi4-m8
+14. k2-k3 .. Ba9-c7 .. e13-e12 .. m10-l10
+15. Qg3-e3+ .. Bc7-b6 .. Qk9-i11 .. j8-i8
+16. Qe3-f3 .. Ra4-e4 .. Bf14xb10 .. Nl9-k11
+17. e2-e3 .. Ka7-b8 .. O-O .. Nk11xNi12
+18. O-O .. Ra11-a7 .. j13xNi12 .. Rn6-n7
+19. Bf1-e2 .. Bb6-c7 .. Bi14-j13 .. Bm8-k6
+20. Ri1-d1 .. Ba6-b7 .. g13-g12 .. i8-h8
+21. Qf3-h5 .. Re4xe5 .. Bb10xNc9+ .. h8-g8=D
+22. Qh5xRe5 .. Kb8-c8 .. Bc9xRa7 .. Qg8xg2
+23. Qe5-f5 .. Bb7-c6 .. Qh14-c9+ .. j7-i7
+24. Qf5-f11+# .. Qi11xQf11 .. Bk6xQf11
+25. Be2-g4 .. g12xBf11 .. Qg2xf2
+26. e3-e4 .. Ba7xQf2 .. i7-h7
+27. e4xd5 .. Bf2-i5 .. h7-g7=D
+28. d5xBc6 .. Bi5xQg7 .. Rn7xBg7
+29. c6xd7 .. Rk14-j14 .. Nl6-k4
+30. d7xKc8=D .. Qc9-j9 .. Qn8-h2
+31. j2-j4 .. Qj9-m9 .. Rn10-n7
+32. Qc8xd8 .. d13-d11 .. Nk4-i3+
+33. Qd8xNi3 .. Qm9xm11 .. Qh2xQi3
+34. Kj1-i1 .. Qm11xl10 .. Bm5xk3+
+35. Ki1-h1 .. Rj14-h14 .. Bk3xj4
+36. Kh1-g2 .. Rh14-h9 .. Qi3xi2+
+37. Kg2-f3 .. Rf14-h14 .. Qi2-i8
+38. Rd1-j1 .. Rh9-h8 .. Qi8-d3+
+39. Kf3-g2 .. Rh8-m8 .. Qd3-e2+
+40. Kg2-g3 .. Ql10-i10 .. Qe2-h2+
+41. Kg3-f3 .. Qi10xm6+ .. Kn5-n4
+42. Rj1xBj4 .. Qm6-m5+#
+43. Rj4xBj13 .. Qm5-h10
+44. R

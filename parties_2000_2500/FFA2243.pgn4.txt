@@ -1,0 +1,56 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2243"]
+[Result "dimazhenchevsky: 10 - willy_yaco: 48 - Hebert_Herrera: 25 - pabloMarinozi: 50"]
+[Variant "FFA"]
+[Red "dimazhenchevsky"]
+[RedElo "1517"]
+[Blue "willy_yaco"]
+[BlueElo "1792"]
+[Yellow "Hebert_Herrera"]
+[YellowElo "1566"]
+[Green "pabloMarinozi"]
+[GreenElo "1511"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:30:12 GMT+0000 (UTC)"]
+[CurrentMove "107"]
+
+1. h2-h4 .. b8-c8 .. h13-h11 .. m8-k8
+2. Bi1xBa9 .. Ka8xBa9 .. h11-h10 .. k8-j8
+3. h4-h5 .. b7-c7 .. h10-h9 .. Bn9-m8+
+4. h5-h6 .. Qa7-c9 .. Nj14-i12 .. m5-l5
+5. Nj1-i3 .. Na5-c6 .. h9-h8 .. Bn6xj2
+6. Rk1-j1 .. Qc9-h4+ .. h8-h7=D .. Bj2-k3
+7. Qg1-h2 .. Qh4xf2 .. g13-g11 .. m7-l7
+8. Qh2-g1 .. Qf2-h4+ .. g11-g10 .. Bk3-j4
+9. Qg1-h2 .. Qh4-f2 .. g10-g9 .. Bj4xNi3
+10. Qh2xBi3 .. Qf2xBf1+ .. Qh7xh6+# .. j8-i8
+11. Ba6-b7 .. g9-g8 .. m4-k4
+12. Bb7-a8 .. g8-g7=D .. k4-j4
+13. b9-d9 .. Ne14-f12 .. l7-k7
+14. Na10-b8 .. Qg7xk7+ .. Bm8-l7
+15. Qf1-f10 .. Bi14-h13 .. Nn10-l9
+16. Nb8-c10 .. Ni12-k11 .. m10-l10
+17. Nc10-e11 .. Bh13xNl9+ .. Qn8-m8
+18. Ba8xf13+ .. Kg14-h13 .. Qm8xBl9+
+19. Qf10-f11+ .. Kh13-g13 .. l10xNk11
+20. Qf11-g12+# .. Bl7xQg12
+21. Bf13xBg12 .. j4-i4
+22. Nc6-e5 .. i4-h4
+23. Ne11-f9 .. h4-g4=D
+24. Ne5xQg4 .. Rn4xNg4
+25. Bg12-e10 .. Ql9-l8
+26. c7-d7 .. i8-h8
+27. d7-e7 .. h8-g8=D
+28. Ka9-b9 .. Qg8-e6
+29. Be10-h13+ .. Kn7-m7
+30. Nf9-d10 .. Rn11-n10
+31. b11-c11 .. Rg4-c4
+32. b5xRc4 .. Qe6-c6
+33. e7-f7 .. Rn10xNd10
+34. c11xRd10 .. Qc6xc8+
+35. Kb9-a9 .. Qc8-b8+
+36. Ka9-a10 .. Ql8-c8+
+37. Ka10-b11 .. Qb8xd10
+38. Ra4-a8 .. Qc8-c10+
+39. Kb11-a10 .. Qc10xb10+#

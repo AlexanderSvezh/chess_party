@@ -1,0 +1,42 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2253"]
+[Result "hatafaya: 57 - vergmax: 1 - jjlopezvaldez: 37 - ivanrodriguez1029: 5"]
+[Variant "FFA"]
+[Red "hatafaya"]
+[RedElo "1663"]
+[Blue "vergmax"]
+[BlueElo "1500"]
+[Yellow "jjlopezvaldez"]
+[YellowElo "1779"]
+[Green "ivanrodriguez1029"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:26:18 GMT+0000 (UTC)"]
+[CurrentMove "74"]
+
+1. h2-h4 .. Na5-c4 .. h13-h11 .. m6-k6
+2. Ne1-f3 .. b5-c5 .. h11-h10 .. m8-l8
+3. Nj1-i3 .. b7-d7 .. h10-h9 .. m11-l11
+4. k2-k3 .. b8-c8 .. h9-h8 .. l11-k11
+5. g2-g3 .. Ba6-b7 .. h8-h7=D .. l8-k8
+6. Bf1-g2 .. Bb7-d5 .. e13-e12 .. k6-j6
+7. Bi1-h2 .. Bd5-i10 .. Qh7-k10+ .. Kn7-m6
+8. O-O .. Bi10xf13+ .. Kg14xBf13 .. Bn9xBg2
+9. Qg1xBg2 .. Qa7-e11 .. Bf14xb10 .. j6-i6
+10. Nf3-e5+ .. Ka8-b8 .. Bb10xRa11 .. i6-h6
+11. Ne5xNc4 .. Qe11-j6+ .. g13-g12+ .. Km6-l5
+12. k3-k4+# .. Na10-c9 .. Qh14xNc9+
+13. k4-k5 .. Kb8-c7 .. Qc9-d8+
+14. k5xQj6 .. Kc7-b8 .. Qk10-d10+
+15. g3-g4+# .. Qd8xk8
+16. Qg2-f3+ .. Ne14-f12
+17. Ni3-h5 .. Qd10xh6
+18. g4-g5 .. Qh6-k9
+19. i2-i3 .. Qk8-k2+
+20. Kj1-i2 .. Qk9-k4+
+21. Ki2-h3 .. Qk4-i4+
+22. Kh3-i2 .. Qk2-j3+
+23. Ki2-j1 .. Qi4xNh5
+24. Qf3-h3 .. Qh5-k5
+25. R

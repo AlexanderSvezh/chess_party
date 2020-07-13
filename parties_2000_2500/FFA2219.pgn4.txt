@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2219"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "mrfaria"]
+[RedElo "1485"]
+[Blue "DanielSM2002"]
+[BlueElo "1550"]
+[Yellow "AWarriorOfGOD"]
+[YellowElo "1484"]
+[Green "aasalako"]
+[GreenElo "1451"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:06:26 GMT+0000 (UTC)"]
+[CurrentMove "4"]
+
+1. g2-g4 .. b5-c5 .. g13-g12 .. R

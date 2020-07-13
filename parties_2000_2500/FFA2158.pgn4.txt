@@ -1,0 +1,47 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2158"]
+[Result "Yelbir: 75 - dgsgd: 21 - megamixx: 10 - derrussel: 40"]
+[Variant "FFA"]
+[Red "Yelbir"]
+[RedElo "1528"]
+[Blue "dgsgd"]
+[BlueElo "1500"]
+[Yellow "megamixx"]
+[YellowElo "1490"]
+[Green "derrussel"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:52:30 GMT+0000 (UTC)"]
+[CurrentMove "94"]
+
+1. g2-g4 .. b8-d8 .. g13-g11 .. m11-k11
+2. h2-h4 .. Ba9-c7 .. Qh14xQa7+ .. k11-j11
+3. Bi1xBc7 .. Ka8xQa7 .. k13-k12 .. m8-k8
+4. Bc7xd8 .. b7-c7 .. k12xj11 .. m5-k5
+5. Bd8xg11 .. Na5-c6 .. h13-h12 .. Bn6xj2
+6. Bg11xRn4 .. Ba6xBi14 .. Nj14-i12 .. Bj2xh4
+7. i2-i3 .. Bi14xj13 .. R .. Bh4xf2
+8. Qg1xBf2 .. Bj13xRk14 .. Bn9xBf1
+9. Qf2xBf1 .. Bk14xNi12 .. m7-k7
+10. Ne1-f3 .. Bi12xj11+ .. m9-l9
+11. Qf1-i4 .. Bj11-d5 .. Nn5-l6
+12. Qi4-g6 .. Bd5xNf3+ .. Nl6-j7
+13. e2xBf3 .. Na10-c9 .. Kn7-m7
+14. Qg6xKg14 .. Nc6-e7 .. Qn8xBn4
+15. Qg14-g5 .. Nc9-d7 .. Nn10-m8
+16. Qg5xNe7 .. b6-c6 .. Rn11-h11+
+17. Nj1-h2 .. Ra11-a8 .. Rh11-i11
+18. O-O-O .. b10-c10 .. Ri11xb11
+19. i3-i4 .. b9-d9 .. Rb11xb5
+20. Qe7-e3+ .. Ka7-a6 .. Rb5-i5
+21. g4-g5 .. Nd7-c5 .. m6-k6
+22. f3-f4 .. Ra8-h8 .. Qn4-l6
+23. Rk1-h1 .. c6-d6 .. Ri5-i7
+24. g5-g6 .. Nc5-d7 .. Ri7xNd7
+25. g6-g7 .. Rh8xNh2 .. Rd7xc7
+26. Rh1xRh2 .. Ka6-b5 .. m4-k4
+27. g7-g8=D .. Ra4-a6 .. Rc7-i7
+28. Qg8-b8+ .. T .. Ql6-l8
+29. Qb8xKb5 .. Ri7xi4
+30. R

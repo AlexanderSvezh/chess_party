@@ -1,0 +1,21 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2155"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "megamixx"]
+[RedElo "1500"]
+[Blue "MrTulias"]
+[BlueElo "1654"]
+[Yellow "dgsgd"]
+[YellowElo "1500"]
+[Green "JoyCheerful"]
+[GreenElo "1535"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:37:50 GMT+0000 (UTC)"]
+[CurrentMove "13"]
+
+1. h2-h4 .. b5-c5 .. g13-g11 .. m8-k8
+2. Nj1-i3 .. Ba6-b5 .. Bf14-h12 .. k8-j8
+3. Bi1-g3 .. Na5-c6 .. Ne14-f12 .. j8-i8
+4. R

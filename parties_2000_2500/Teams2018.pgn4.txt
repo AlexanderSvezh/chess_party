@@ -1,0 +1,17 @@
+[GameNr "2018"]
+[Result "Aborted"]
+[Variant "Teams"]
+[Red "OrinLee"]
+[RedElo "1500"]
+[Blue "hamiltonisgreen"]
+[BlueElo "1483"]
+[Yellow "geniouser"]
+[YellowElo "1489"]
+[Green "charles46975"]
+[GreenElo "1608"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 02:51:51 GMT+0000 (UTC)"]
+[CurrentMove "3"]
+
+1. g2-g4 .. b10-d10 .. T

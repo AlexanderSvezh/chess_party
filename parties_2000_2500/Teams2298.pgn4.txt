@@ -1,0 +1,17 @@
+[GameNr "2298"]
+[Result "Aborted"]
+[Variant "Teams"]
+[Red "kopashtar"]
+[RedElo "1857"]
+[Blue "Chessplayernewmember"]
+[BlueElo "1917"]
+[Yellow "ElNovaton"]
+[YellowElo "1715"]
+[Green "mikemanuver"]
+[GreenElo "2492"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:33:18 GMT+0000 (UTC)"]
+[CurrentMove "1"]
+
+1. T

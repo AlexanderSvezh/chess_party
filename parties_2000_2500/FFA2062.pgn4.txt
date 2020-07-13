@@ -1,0 +1,46 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2062"]
+[Result "esaavedrac: 22 - maccgacc: 88 - estebanches: 5 - ShivanshKumar: 8"]
+[Variant "FFA"]
+[Red "esaavedrac"]
+[RedElo "1670"]
+[Blue "maccgacc"]
+[BlueElo "1677"]
+[Yellow "estebanches"]
+[YellowElo "1500"]
+[Green "ShivanshKumar"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:18:37 GMT+0000 (UTC)"]
+[CurrentMove "85"]
+
+1. j2-j3 .. b7-d7 .. h13-h11 .. m7-k7
+2. Bi1-j2 .. b8-d8 .. Bi14xBa6 .. m8-k8
+3. Bj2xd8 .. Qa7xBa6 .. T .. Nn5-l6
+4. Bd8-j2 .. Qa6-h13+ .. Nn10-l9
+5. e2-e3 .. Qh13xKg14 .. Bn9-m8
+6. Bf1xb5 .. Na10-c9 .. Nl9-j10
+7. Bb5xRa4 .. Qg14xf13 .. Nj10-i8
+8. h2-h3 .. Qf13-f9 .. Ni8-h10
+9. Bj2xNc9 .. Qf9-d9 .. Bn6-m7
+10. Bc9-i3 .. Qd9-b7 .. Nl6-j5
+11. Bi3xBm7 .. Qb7-c7 .. Qn8xBm7
+12. g2-g3 .. b10-c10 .. m6-l6
+13. i2-i3 .. Ba9-b10 .. Nh10-g8
+14. k2-k4 .. O-O .. Nj5-h6
+15. d2-d4 .. Qc7-b7+ .. Bm8xh3
+16. Kh1-i1 .. b6-c6 .. m5-l5
+17. Qg1-h2 .. Na5-c4 .. Bh3-f5
+18. Ne1-f3 .. Ra9xBa4 .. l5xk4
+19. Rk1xk4 .. d7-e7 .. Qm7-l7
+20. i3-i4 .. e7-f7 .. Nh6xi4
+21. j3xNi4 .. f7xNg8 .. Bf5-g6
+22. Nj1-k3 .. Ra4-a8 .. Rn4-n5
+23. Qh2-i2 .. g8-h8=D .. k7-j7
+24. Rk4xm4+ .. Qh8xk8 .. Kn7-n6
+25. Rm4xm9 .. Qk8xQl7 .. R
+26. Rm9-n9 .. Ql7xRn9
+27. Qi2-m6 .. Qn9xKn6
+28. Qm6xQn6 .. Qb7-e7
+29. R

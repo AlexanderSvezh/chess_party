@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2015"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "hualli"]
+[RedElo "1634"]
+[Blue "NakamuraII"]
+[BlueElo "1614"]
+[Yellow "IAmCowardly"]
+[YellowElo "1564"]
+[Green "thumiduhrrc"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 02:48:48 GMT+0000 (UTC)"]
+[CurrentMove "2"]
+
+1. j2-j3 .. R

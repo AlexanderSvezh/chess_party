@@ -1,0 +1,38 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2192"]
+[Result "JV_Geoff: 2 - MichaelWang2012: 36 - AWarriorOfGOD: 6 - dimazhenchevsky: 54"]
+[Variant "FFA"]
+[Red "JV_Geoff"]
+[RedElo "1500"]
+[Blue "MichaelWang2012"]
+[BlueElo "1554"]
+[Yellow "AWarriorOfGOD"]
+[YellowElo "1487"]
+[Green "dimazhenchevsky"]
+[GreenElo "1493"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:03:17 GMT+0000 (UTC)"]
+[CurrentMove "66"]
+
+1. h2-h4 .. b7-d7 .. f13-f11 .. m5-k5
+2. Nj1-i3 .. d7-e7 .. i13-i11 .. m4-k4
+3. Ne1-f3 .. Ba6xf11 .. Qh14-j12 .. k4-j4
+4. Ni3-h5 .. e7-f7 .. e13-e12 .. Bn6-m5
+5. i2-i3 .. Bf11-e10 .. h13-h11 .. Bm5xRd14
+6. i3xj4 .. Be10xBi14 .. Nj14-k12 .. k5-j5
+7. e2-e3 .. Bi14-e10 .. Qj12-j10 .. m7-k7
+8. Bf1-e2 .. b5-c5 .. Qj10xBe10 .. Nn10-l11
+9. k2-k4 .. f7-g7 .. Ne14-d12 .. Qn8-m7
+10. k4xj5 .. g7-h7=D .. Qe10xQh7 .. m8-l8
+11. g2-g4 .. Qa7xQh7 .. i11-i10 .. Bn9-m8+
+12. Nf3-g5 .. Qh7xh11 .. T .. Bm8xKg14
+13. T .. Qh11xNh5 .. Rn4xj4
+14. Qh5xg4 .. Rj4-i4
+15. Qg4-f3 .. Ri4xBi1
+16. Qf3xKh1 .. Ri1xQh1
+17. b4-d4 .. k7-j7
+18. d4xe3 .. j7-i7
+19. e3-f3 .. i7-h7
+20. f3-g3 .. h7-g7=D
+21. R

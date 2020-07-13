@@ -1,0 +1,69 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2193"]
+[Result "buhin4000: 8 - HANUMAN-1: 61 - Daniellondono46: 14 - Yelbir: 97"]
+[Variant "FFA"]
+[Red "buhin4000"]
+[RedElo "1484"]
+[Blue "HANUMAN-1"]
+[BlueElo "1632"]
+[Yellow "Daniellondono46"]
+[YellowElo "1549"]
+[Green "Yelbir"]
+[GreenElo "1531"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:18:07 GMT+0000 (UTC)"]
+[CurrentMove "152"]
+
+1. f2-f4 .. b7-d7 .. h13-h11 .. m8-l8
+2. e2-e3 .. b8-c8 .. h11-h10 .. m5-l5
+3. Bf1-e2 .. d7-e7 .. h10-h9 .. m10-l10
+4. Be2xRn11 .. e7-f7 .. h9-h8 .. m9-l9
+5. h2-h3 .. f7-g7 .. h8-h7=D .. m7-k7
+6. k2-k3 .. Na10-c9 .. g13-g12 .. m6-l6
+7. Bi1-h2 .. Ba9-b8 .. Bf14-j10 .. Qn8-m9
+8. Bh2xl6 .. Nc9-e8 .. Ne14-d12 .. Bn6-m5
+9. Bl6-i3 .. Bb8xQh14 .. Qh7xBh14 .. Nn10-m8
+10. Nj1-h2 .. Ne8-c9 .. Qh14-h7 .. Nn5-l6
+11. Nh2-g4 .. O-O .. Qh7xg7 .. O-O
+12. Ne1-f3 .. Qa7-b8 .. O-O .. Nl6-k8
+13. O-O .. Na5-c6 .. k13-k11 .. l10-k10
+14. Qg1-h1 .. b5-c5 .. Bj10-i11 .. Rn6xNc6
+15. Rd1-e1 .. Ba6-b5 .. Qg7-g10 .. Rc6-n6
+16. f4-f5 .. Bb5xQg10 .. Bi11xl8 .. Qm9xBl8
+17. f5-f6 .. c8-d8 .. j13-j11 .. m11-l11
+18. Bi3-h2 .. b6-d6 .. j11xk10 .. l9xk10
+19. f6-f7 .. Bg10xRk14 .. Bi14xl11 .. Bn9xBl11
+20. f7-f8=D .. d8-e8 .. Nj14-h13 .. Rn6xBn11
+21. Ng4-i5 .. Bk14-f9 .. Nh13-g11 .. Bm5-n6
+22. Qf8-f6 .. Bf9-j5 .. Ng11-e10 .. Nm8-l6
+23. i2-i4 .. Bj5xNe10 .. Nd12xBe10 .. Ql8xRf14+#
+24. Qh1xl5+ .. e8-f8 .. m4xQl5
+25. Bh2xd6 .. c5xBd6 .. Qf14-m7
+26. R .. Qb8-c8 .. Nl6-k4
+27. Qc8xh3 .. Nk4-i3
+28. Qh3xKj1 .. Ni3xQj1
+29. f8-g8 .. Qm7-k5
+30. Ra9-a8 .. Qk5-h8
+31. Ra4-a7 .. Nk8-i7
+32. Ra7xNi7 .. Qh8xRi7
+33. g8-h8=D .. Qi7xQh8
+34. Ra8xQh8 .. k10-j10
+35. Nc9xNe10 .. j10-i10
+36. Ne10-g11 .. Rn11-n10
+37. Rh8-h10 .. Bl11-j9
+38. b9-d9 .. Bn6-i11
+39. Ng11-f9 .. Bi11xRh10
+40. Nf9xBh10 .. Bj9-k8
+41. b10-d10 .. k7-j7
+42. d9-e9 .. j7-i7
+43. e9-f9 .. i7-h7
+44. Nh10-i8 .. i10-h10
+45. d10-e10 .. Bk8-j9
+46. Ni8-g7 .. h10-g10=D
+47. f9xQg10 .. Rn10xg10
+48. b11-d11 .. Rg10xNg7
+49. e10-f10 .. Rg7-a7+
+50. Ka10-b9 .. h7-g7=D
+51. d11-e11 .. Qg7-e9+
+52. R

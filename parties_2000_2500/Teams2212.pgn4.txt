@@ -1,0 +1,25 @@
+[GameNr "2212"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "aadityamahajan"]
+[RedElo "1500"]
+[Blue "jlrussin"]
+[BlueElo "1539"]
+[Yellow "gnojham2"]
+[YellowElo "871"]
+[Green "modyfischer"]
+[GreenElo "1510"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:09:47 GMT+0000 (UTC)"]
+[CurrentMove "33"]
+
+1. h2-h4 .. b7-d7 .. g13-g12 .. m8-l8
+2. Qg1-k5 .. Qa7-c7 .. Bf14-h12 .. m4-l4
+3. Bi1xQc7 .. b6xBc7 .. Bh12xl8 .. l4xQk5
+4. Nj1-i3 .. b10-c10 .. Bl8-i5 .. Nn10-l9
+5. O-O .. Ba9xe13 .. Qh14-d10 .. Rn11-n10
+6. e2-e3 .. Be13xRd14 .. Qd10xd7 .. Nn5-l6
+7. Bf1-e2 .. Na10-c9 .. Qd7-d5+ .. Bn9-m8
+8. Be2xNl9 .. Na5-c6 .. f13-f12 .. Bm8xBl9
+9. T

@@ -1,0 +1,26 @@
+[GameNr "2205"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Pion_Catur"]
+[RedElo "1534"]
+[Blue "Chessplayer1993"]
+[BlueElo "1485"]
+[Yellow "StevenBJ"]
+[YellowElo "1486"]
+[Green "JCristobal23"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:06:47 GMT+0000 (UTC)"]
+[CurrentMove "39"]
+
+1. h2-h3 .. Na10-c9 .. g13-g12 .. m9-k9
+2. Qg1-j4 .. b8-c8 .. Qh14-g13 .. m8-l8
+3. Bi1xBa9 .. Ra11xBa9 .. Nj14-i12 .. Bn9-l7
+4. Qj4-j11+ .. Na5-c6 .. Qg13xk9 .. Nn10-l9
+5. Qj11-i10 .. b5-c5 .. Qk9-k10 .. Bl7xQi10
+6. Nj1-i3 .. Ba6-b5 .. Qk10xBi10 .. Qn8xi13
+7. Ni3-k4 .. Nc6-d8 .. Qi10xb10 .. m7-l7
+8. d2-d4 .. Bb5xNi12 .. j13xBi12 .. O-O-O
+9. d4xc5 .. Nc9-e10 .. Qb10xb11 .. Qi13-h14+
+10. Rd1xNd8 .. Ne10xRd8 .. #

@@ -1,0 +1,59 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2234"]
+[Result "ChrisGtz: 1 - DennisZender: 12 - modyfischer: 44 - grc-hmrz: 87"]
+[Variant "FFA"]
+[Red "ChrisGtz"]
+[RedElo "1500"]
+[Blue "DennisZender"]
+[BlueElo "1581"]
+[Yellow "modyfischer"]
+[YellowElo "1500"]
+[Green "grc-hmrz"]
+[GreenElo "1640"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:27:28 GMT+0000 (UTC)"]
+[CurrentMove "127"]
+
+1. f2-f4 .. b8-d8 .. i13-i12 .. m5-l5
+2. f4-f5 .. b6-d6 .. Ne14-f12 .. Bn6-m5
+3. f5-f6 .. b7-d7 .. Qh14-j12 .. Nn5-l6
+4. f6-f7 .. d7-e7 .. e13-e12 .. O-O
+5. Ne1-f3 .. Na5-c6 .. Bf14-e13 .. m8-k8
+6. e2-e3 .. Ba6-d9 .. d13-d11 .. m10-l10
+7. Nf3-g5 .. Nc6-e5 .. Qj12-i13 .. Bn9-m10
+8. Qg1-f2 .. Qa7-b6 .. Nf12-e10 .. k8-j8
+9. Nj1-i3 .. b9-c9 .. h13-h11 .. Bm10xRd1
+10. d2-d4 .. Ne5-d7 .. Ne10xc9+ .. Bd1-m10
+11. f7-f8=D .. Na10xNc9 .. Bi14xBd9 .. Qn8-l8
+12. Qf8-j4 .. b10-c10 .. Be13xBa9 .. Ql8xQf2
+13. Qj4xj8 .. c10xBd9 .. Ba9-e13 .. Qf2xBf1+#
+14. O-O-O .. Be13xQj8 .. Qf1xg2
+15. d8-e8 .. Bj8-g11 .. Qg2-m8
+16. Qb6xd4 .. k13-k12 .. Qm8-n9
+17. e8-f8 .. Nj14-h13 .. m11-l11
+18. e7-f7 .. k12-k11 .. l10-k10
+19. f8-g8 .. Nh13-f12 .. m9-k9
+20. g8-h8=D .. Nf12-g10 .. k9-j9
+21. Qh8-h4 .. Ng10-e9 .. j9-i9
+22. Nd7xNe9 .. Bg11xNe9 .. i9-h9
+23. Nc9-e10 .. d11xNe10 .. h9-g9=D
+24. d9xe10 .. Be9-f10 .. Qg9-d9+
+25. Ra7-b7 .. Rd14xQd9 .. Qn9xRd9
+26. d6-e6 .. O-O-O .. Qd9xe10+
+27. f7-g7 .. Ki14-j14 .. Qe10xe6+
+28. Ka6-a7 .. Bf10-g11 .. Nn10-l9
+29. Rb7-b8 .. Bg11-f12 .. Qe6-e7+
+30. Ka7-a6 .. Bf12xRb8 .. Qe7xRa11+
+31. Ka6-b7 .. Qi13-c7+# .. Nl9xk11
+32. Bb8-f12 .. k10-j10
+33. h11-h10 .. j10-i10
+34. h10-h9 .. i10xh9
+35. Rh14xh9 .. Rn11-n9
+36. Rh9-h10 .. Bm10-k8
+37. g13-g12 .. Nk11-j9
+38. Rh10-k10 .. l11xRk10
+39. Bf12-c9 .. Qa11xb11
+40. Qc7xg7 .. Qb11-k11
+41. Bc9-g13 .. Qk11xQg7
+42. R

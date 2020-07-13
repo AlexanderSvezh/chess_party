@@ -1,0 +1,37 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2081"]
+[Result "ahmedsamirs: 1 - Gerson007one: 47 - brians-quintero: 54 - DiegoBaezaL: 0"]
+[Variant "FFA"]
+[Red "ahmedsamirs"]
+[RedElo "1500"]
+[Blue "Gerson007one"]
+[BlueElo "1528"]
+[Yellow "brians-quintero"]
+[YellowElo "1762"]
+[Green "DiegoBaezaL"]
+[GreenElo "1550"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:28:06 GMT+0000 (UTC)"]
+[CurrentMove "71"]
+
+1. f2-f4 .. b7-d7 .. g13-g12 .. Nn5-l6
+2. e2-e4 .. d7-e7 .. h13-h11 .. m5-l5
+3. Bf1-e2 .. e7-f7 .. h11-h10 .. Bn6-m5
+4. Qg1-f2 .. f7-g7 .. h10-h9 .. O-O
+5. Qf2-h4 .. g7-h7=D .. h9-h8 .. m8-k8
+6. Qh4-g5 .. Na10-c9 .. d13-d12 .. m7-l7
+7. Nj1-i3 .. b4-c4 .. e13-e12 .. k8-j8
+8. Ni3-h5 .. Na5-c6 .. Bf14-e13 .. j8-i8
+9. Nh5-f6 .. Qh7-c7 .. Ne14-f12 .. Nn10-l9
+10. Qg5-g8 .. Ba6-d9 .. O-O .. Nl9-k7
+11. Qg8xh8 .. b8-c8 .. Qh14xQh8 .. m11-k11
+12. Be2-i6 .. Qc7xNk7 .. Qh8xNf6 .. T
+13. Bi6-f9 .. Qk7-e7 .. Qf6xNl6
+14. i2-i4 .. Qe7xe4 .. Ql6xm6
+15. j2-j4 .. Qe4xf4 .. Qm6xKn5
+16. k2-k4 .. Qf4xBf9 .. Qn5-m6
+17. Rk1-k3 .. Qa7-j7 .. Qm6-h6
+18. Rk3-h3 .. Qj7xRd1 .. Qh6xj4
+19. Rh3-h10 .. Qd1xNe1+ .. Qj4xh2+#
+20. Ba9xQh2 .. R

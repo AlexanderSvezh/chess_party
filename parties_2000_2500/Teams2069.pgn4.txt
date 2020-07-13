@@ -1,0 +1,17 @@
+[GameNr "2069"]
+[Result "Aborted"]
+[Variant "Teams"]
+[Red "Pion_Catur"]
+[RedElo "1547"]
+[Blue "smartyTiger"]
+[BlueElo "1449"]
+[Yellow "scotthaze"]
+[YellowElo "1500"]
+[Green "8943GHWRGW34IH89H"]
+[GreenElo "1423"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:10:38 GMT+0000 (UTC)"]
+[CurrentMove "2"]
+
+1. h2-h3 .. T

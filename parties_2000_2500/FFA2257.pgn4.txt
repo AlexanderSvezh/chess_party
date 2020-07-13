@@ -1,0 +1,58 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2257"]
+[Result "JasonBerns: 69 - kionadad: 11 - SPECTRALFAWN: 36 - Hirendra_chess: 6"]
+[Variant "FFA"]
+[Red "JasonBerns"]
+[RedElo "1748"]
+[Blue "kionadad"]
+[BlueElo "1654"]
+[Yellow "SPECTRALFAWN"]
+[YellowElo "1545"]
+[Green "Hirendra_chess"]
+[GreenElo "1535"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:38:27 GMT+0000 (UTC)"]
+[CurrentMove "117"]
+
+1. g2-g4 .. b7-d7 .. g13-g12 .. m8-k8
+2. f2-f3 .. d7-e7 .. h13-h11 .. k8-j8
+3. g4-g5 .. e7-f7 .. h11-h10 .. j8-i8
+4. j2-j3 .. f7-g7 .. Nj14-i12 .. Bn9xBf1
+5. Qg1xBf1 .. g7-h7=D .. j13-j12 .. i8xQh7
+6. Bi1-j2 .. Qa7xh7 .. Bi14xm10 .. Nn10-m8
+7. Qf1-g1 .. Qh7-d7 .. Bm10-j13 .. Nn5-l6
+8. Nj1-i3 .. b5-c5 .. f13-f11 .. m5-l5
+9. k2-k3 .. Ba6xe2 .. Bf14-g13 .. Bn6-m5
+10. Ne1-g2 .. Be2xf3 .. Ne14-d12 .. O-O
+11. O-O .. Bf3-c6 .. Qh14-h13 .. m7-l7
+12. Ng2-e3 .. b10-c10 .. Nd12-e10 .. Rn6-n7
+13. g5-g6 .. b8-c8 .. d13-d12 .. Rn7-m7
+14. g6-g7 .. b4-d4 .. Ne10-g9 .. Qn8-n6
+15. g7-g8=D .. d4xNe3 .. g12-g11 .. Rn11-n7
+16. d2xe3 .. Qd7-b7 .. f11-f10 .. T
+17. Ni3-k4 .. Qb7xl7 .. Ni12-j10
+18. Qg8-i6 .. Bc6xBj13 .. Rk14-j14
+19. Nk4xNl6 .. Bj13-b5 .. Ng9-e10
+20. Nl6xKn5 .. T .. Ne10-c9
+21. Qi6-c6 .. Nc9xKa8
+22. Qc6xNa8 .. Bg13-f12
+23. Qa8-e4 .. h10-h9
+24. Qe4-h7 .. d12-d11
+25. Qg1-g10 .. Qh13-f13
+26. Qg10xNj10 .. Rj14-h14
+27. Qh7-h8 .. Rd14-d12
+28. Bj2-b10 .. Rd12-e12
+29. Bb10-g5 .. d11-d10
+30. Ri1-g1 .. Re12-e9
+31. Bg5-d8 .. Re9-d9
+32. Qh8xf10 .. e13-e11
+33. Qf10-h8 .. i13-i11
+34. Qj10-j11+ .. Kg14-f14
+35. Rd1-f1 .. Rh14-h10
+36. Rg1xg11 .. Rh10-h14
+37. Rg11xe11 .. Bf12xRe11
+38. Rf1xQf13+ .. Kf14xRf13
+39. Qh8xBe11 .. Rd9xBd8
+40. Qj11-i10+ .. Kf13-f14
+41. Qi10-e14+#

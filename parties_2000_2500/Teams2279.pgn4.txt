@@ -1,0 +1,18 @@
+[GameNr "2279"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "redneckzombie"]
+[RedElo "1500"]
+[Blue "ultraplayer45"]
+[BlueElo "1614"]
+[Yellow "charles46975"]
+[YellowElo "1612"]
+[Green "BobbyFischerstudent"]
+[GreenElo "1492"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:28:23 GMT+0000 (UTC)"]
+[CurrentMove "5"]
+
+1. d2-d4 .. b8-d8 .. Ne14-f12 .. m8-k8
+2. T

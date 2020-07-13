@@ -1,0 +1,21 @@
+[GameNr "2105"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "whispy212"]
+[RedElo "1500"]
+[Blue "hankthepro"]
+[BlueElo "1485"]
+[Yellow "Emuwarveteran"]
+[YellowElo "1496"]
+[Green "nebukdanezar"]
+[GreenElo "1481"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:27:07 GMT+0000 (UTC)"]
+[CurrentMove "17"]
+
+1. h2-h4 .. b8-d8 .. f13-f11 .. Nn5-l6
+2. i2-i4 .. Na5-c6 .. d13-d11 .. m4-k4
+3. k2-k3 .. b7-d7 .. e13-e12 .. m8-k8
+4. j2-j3 .. d7-e7 .. Rd14-d13 .. Nn10-l9
+5. T

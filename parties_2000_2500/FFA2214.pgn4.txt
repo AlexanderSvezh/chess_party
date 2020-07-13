@@ -1,0 +1,57 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2214"]
+[Result "oscarprestidge: 0 - elderlalo: 30 - yassinetn: 23 - aidynmol: 41"]
+[Variant "FFA"]
+[Red "oscarprestidge"]
+[RedElo "1496"]
+[Blue "elderlalo"]
+[BlueElo "1486"]
+[Yellow "yassinetn"]
+[YellowElo "1568"]
+[Green "aidynmol"]
+[GreenElo "1696"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:21:21 GMT+0000 (UTC)"]
+[CurrentMove "115"]
+
+1. h2-h4 .. b8-d8 .. h13-h11 .. m8-k8
+2. h4-h5 .. d8-e8 .. h11-h10 .. k8-j8
+3. h5-h6 .. Na10-c9 .. h10-h9 .. Nn10-l9
+4. h6-h7 .. b10-c10 .. h9-h8 .. m10-l10
+5. T .. Ba9xBi1 .. Ne14-f12 .. j8-i8
+6. O-O .. e13-e12 .. i8xh7
+7. Ra9-a8 .. i13-i11 .. m7-k7
+8. Bi1xj2 .. i11-i10 .. Bn9xg2
+9. Bj2xRk1 .. Bi14-h13 .. Qn8-m8
+10. Na5-c6 .. i10-i9 .. Bg2xKh1
+11. b7-d7 .. i9-i8 .. Bh1-e4
+12. b4-c4 .. i8-i7=D .. Nn5-l6
+13. b5-d5 .. Qi7-i9 .. Be4-f3
+14. Ba6-c8 .. Bf14-e13 .. Rn11-n8
+15. Nc6-e5 .. O-O .. Bf3-h5
+16. Qa7-c7 .. Bh13-k10 .. Bh5-g6
+17. b6-d6 .. Bk10xNl9 .. Bn6xg13
+18. d6-e6 .. Qh14xBg13 .. Bg6-i4
+19. d7-e7 .. Qi9xNc9 .. Bi4-h5
+20. e7-f7 .. Bl9xQm8+ .. Rn8xBm8
+21. Bk1xQc9 .. Qg13-i11 .. Rm8xh8
+22. e6-f6 .. Qi11xm11 .. O-O
+23. Bc8xi2 .. Qm11xm9 .. k7-j7
+24. f6-g6 .. Nf12-e10 .. Bh5-i6
+25. Bc9-d10 .. Qm9xl10 .. h7xg6=D
+26. f7xQg6 .. Ne10-d12 .. Rn6-n7
+27. b11-c11 .. Nd12-e10 .. j7-i7
+28. Ka10-b11 .. k13-k11 .. Rh8-g8
+29. Ra4-a7 .. Ql10-l9 .. Bi6xQl9
+30. Ne5-f7 .. k11-k10 .. Bl9xk10
+31. Nf7-e9 .. T .. Rg8-i8
+32. d5-e5 .. Ri8-i10
+33. e5-f5 .. Nl6-j5
+34. e8-f8 .. Nj5-h4
+35. Bi2-g4 .. Nh4xg6
+36. f5xNg6 .. Bk10xg6
+37. f8-g8 .. Bg6-i4
+38. Bg4-e6 .. Bi4-j5
+39. g8-h8=D .. i7xQh8
+40. Qc7xRn7+#

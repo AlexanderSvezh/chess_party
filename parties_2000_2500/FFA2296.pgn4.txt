@@ -1,0 +1,44 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2296"]
+[Result "willy_yaco: 53 - MarcG69: 16 - cerebropc: 44 - erickfrey27: 33"]
+[Variant "FFA"]
+[Red "willy_yaco"]
+[RedElo "1788"]
+[Blue "MarcG69"]
+[BlueElo "1598"]
+[Yellow "cerebropc"]
+[YellowElo "1828"]
+[Green "erickfrey27"]
+[GreenElo "1574"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:47:03 GMT+0000 (UTC)"]
+[CurrentMove "96"]
+
+1. g2-g4 .. b7-d7 .. i13-i11 .. m8-k8
+2. f2-f3 .. d7-e7 .. i11-i10 .. k8-j8
+3. Bf1xBn9 .. e7-f7 .. d13-d12 .. Qn8xBn9
+4. h2-h3 .. f7-g7 .. e13-e12 .. m5-l5
+5. k2-k3 .. g7-h7=D .. Ne14-f12 .. m4-l4
+6. Qg1-g3 .. Qh7-k10+ .. Bf14-e13 .. m9-l9
+7. k3xl4 .. Qk10xi10 .. O-O .. Nn5xl4
+8. Qg3-k7 .. Qa7xQk7 .. h13-h11 .. Qn9-n8
+9. Rk1xQk7 .. Qi10xi2+ .. Bi14xBa6 .. j8-i8
+10. Kh1xQi2 .. b4-d4 .. Ba6xb5 .. i8-h8
+11. Ne1-d3 .. d4-e4 .. Qh14-h13 .. h8-g8=D
+12. f3xe4 .. b8-c8 .. Bb5xRa4 .. Bn6-m5
+13. Rk7-k3 .. Ba9xBi1 .. Ba4-g10 .. O-O
+14. Rd1xBi1 .. Na10-c9 .. Qh13-h12 .. Qg8-k8
+15. Rk3-i3 .. Ka8-b8 .. k13-k12 .. m11-l11
+16. Nd3-f2 .. Ra11-a7 .. Qh12xb6+ .. Qk8xc8+
+17. Nf2-d3 .. Kb8-a9 .. Qb6-h12 .. Qc8-l8
+18. Nj1-k3 .. R .. Qh12-c7 .. Ql8-a8
+19. Ri1-f1 .. k12xl11 .. m10xl11
+20. Rf1-f5 .. d12-d11 .. l5-k5
+21. Rf5xk5 .. Be13xb10 .. Qa8xKa9
+22. Ri3-i5 .. Bb10xQa9 .. m6-l6
+23. Rk5xBm5+ .. Rk14-k8 .. Kn5-n4
+24. Nk3-l5+ .. Rk8xQn8 .. Kn4xRm5
+25. Nl5xRn6+ .. Qc7xm7+ .. Km5-n4
+26. Nn6-l5+# .. Qm7-m6
+27. R

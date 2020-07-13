@@ -1,0 +1,52 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2288"]
+[Result "nix222: 39 - GerHard_MS: 5 - lucas211123: 64 - ThaiSamurai: 18"]
+[Variant "FFA"]
+[Red "nix222"]
+[RedElo "1638"]
+[Blue "GerHard_MS"]
+[BlueElo "1777"]
+[Yellow "lucas211123"]
+[YellowElo "1777"]
+[Green "ThaiSamurai"]
+[GreenElo "1737"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:41:56 GMT+0000 (UTC)"]
+[CurrentMove "116"]
+
+1. g2-g3 .. Na10-c9 .. h13-h11 .. m7-l7
+2. Ne1-g2 .. b10-c10 .. h11-h10 .. m8-l8
+3. i2-i3 .. Ba9-b10 .. i13-i12 .. Bn9-m8
+4. h2-h3 .. O-O .. Qh14-h13 .. Bn6-m7
+5. Bi1-h2 .. b5-c5 .. h10-h9 .. Nn5-l6
+6. j2-j4 .. Ba6-b5 .. h9-h8 .. Nn10-l9
+7. k2-k4 .. b7-d7 .. h8-h7=D .. O-O
+8. Ng2-h4 .. b8-c8 .. Qh7-h11 .. Nl6-k8
+9. Kh1-g2 .. Bb5-c6+ .. d13-d12 .. Bm7xj4
+10. f2-f3 .. Ra9-a8 .. g13-g12 .. Bj4-m7
+11. Nj1-k3 .. c8-d8 .. Bf14-g13 .. Nk8-l6
+12. k4-k5 .. d8-e8 .. Qh13-h12 .. Nl6-n7
+13. Nk3-i4 .. d7-e7 .. Qh12-i11 .. m6-k6
+14. Nh4-j3 .. e8-f8 .. Qh11-g11 .. Nl9-k7
+15. Bh2-i1 .. f8-g8 .. Bg13xNc9 .. Rn6-m6
+16. Qg1-h1 .. Qa7xBc9 .. Qg11xb11+ .. l8-k8
+17. g3-g4# .. Qi11-h11 .. m9-k9
+18. Ni4-j6 .. j13-j11 .. m11-l11
+19. Nj6-k4 .. Bi14-j13 .. k9-j9
+20. Nk4-l6+ .. Qh11xj9 .. Nn7xNl6
+21. k5xNl6 .. Qj9-h11 .. Bm7xl6
+22. Nj3-k5 .. Ne14-f12 .. Bl6xNk5
+23. Bi1xm5 .. O-O .. Rm6xBm5
+24. Rk1xBk5 .. Qb11-f11 .. Qn8xRk5
+25. Kg2-g3 .. Qf11-g11 .. Nk7-j9
+26. Bf1-g2 .. Qh11-h12 .. Rn11-n9
+27. Qh1-i2 .. i12-i11 .. m4-k4
+28. Qi2-j2 .. i11-i10 .. Nj9-i7
+29. Rd1-k1 .. Bj13-i12 .. Ni7-j5
+30. Bg2-h1 .. k13-k11 .. Rn9-n6
+31. Rk1xk4 .. Qh12-h10 .. Qk5-l5
+32. Rk4-n4+ .. Qh10xRm5+#
+33. Qj2-j4 .. Qm5xRn4
+34. Qj4xQn4 .. Qg11xQn4
+35. R

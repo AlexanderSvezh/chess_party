@@ -1,0 +1,17 @@
+[GameNr "2118"]
+[Result "Aborted"]
+[Variant "Teams"]
+[Red "8943GHWRGW34IH89H"]
+[RedElo "1381"]
+[Blue "smart57"]
+[BlueElo "1500"]
+[Yellow "gnojham2"]
+[YellowElo "881"]
+[Green "tacocat232"]
+[GreenElo "1420"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:27:30 GMT+0000 (UTC)"]
+[CurrentMove "1"]
+
+1. T

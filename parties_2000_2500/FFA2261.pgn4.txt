@@ -1,0 +1,60 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2261"]
+[Result "dimazhenchevsky: 8 - josprudencio: 65 - hash113db: 25 - d_e_brown: 43"]
+[Variant "FFA"]
+[Red "dimazhenchevsky"]
+[RedElo "1517"]
+[Blue "josprudencio"]
+[BlueElo "1717"]
+[Yellow "hash113db"]
+[YellowElo "1774"]
+[Green "d_e_brown"]
+[GreenElo "1706"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:41:13 GMT+0000 (UTC)"]
+[CurrentMove "148"]
+
+1. j2-j4 .. b7-d7 .. e13-e12 .. m4-l4
+2. e2-e4 .. d7-e7 .. Bf14-e13 .. Nn5-l6
+3. e4-e5 .. e7-f7 .. f13-f11 .. Nl6-j5
+4. e5-e6 .. f7-g7 .. Ne14-f12 .. m8-k8
+5. d2-d4 .. g7-h7=D .. Nf12-d11 .. m7-l7
+6. d4-d5 .. Qh7-e7 .. Nd11xb10+ .. Qn8xj4
+7. g2-g4 .. Ba9xNb10 .. Be13xBb10 .. l7-k7
+8. Bf1-g2 .. Qe7xBb10 .. d13-d12 .. Nn10-l9
+9. d5-d6+ .. b6-c6 .. j13-j12 .. Nj5-h4
+10. d6-d7 .. b8-d8 .. Bi14-j13 .. Qj4-i5
+11. i2-i3 .. Ba6-b7 .. i13-i11 .. Qi5-l5+
+12. k2-k4 .. Na10-b8 .. Nj14-i12 .. Bn9xBg2+
+13. Ne1xBg2 .. c6xd7 .. Qh14-i13 .. Ql5xb5
+14. i3xNh4 .. Bb7-c6 .. Ni12-h10 .. Qb5-k5
+15. Qg1-e1 .. d7-e7 .. Nh10-i12 .. Bn6-m7
+16. h4-h5 .. O-O .. O-O-O .. O-O
+17. h5-h6 .. Bc6-b5 .. g13-g11 .. k7-j7
+18. h6-h7 .. Na5-c6 .. g11-g10 .. k8-j8
+19. f2-f3 .. d8-e8 .. Bj13xm10 .. Bm7-l8
+20. T .. e8-f8 .. Bm10xNl9 .. Rn11-n10
+21. f8-g8 .. g10-g9 .. Qk5xh2
+22. Nb8-c10 .. d12-d11 .. Qh2xKh1
+23. Nc6-d8 .. d11xNc10 .. Qh1-h4
+24. Nd8xc10 .. Bl9xj7 .. Qh4-j6
+25. g8xh7=D .. Bj7-l9 .. Rn10-l10
+26. Qh7-g8 .. Bl9-m8 .. Rn6-n8
+27. Bb5xNi12 .. Qi13xBi12 .. Rn8xBm8
+28. Ra4-a5 .. Qi12xRm8 .. Qj6-k7
+29. Qg8xg9 .. k13-k11 .. Rl10-i10
+30. b4-c4 .. Qm8-i12 .. Qk7-m7
+31. Ra5-d5 .. Rd14-e14 .. j8-i8
+32. e7-f7 .. h13-h11 .. Ri10xi11
+33. Qg9-g12+ .. Ki14-j13 .. Ri11xQi12
+34. Qg12xRi12+ .. Kj13xQi12 .. Qm7-m8+
+35. f7-g7 .. Ki12-j13 .. Qm8-n9+
+36. Rd5-h5 .. Kj13-k13 .. i8-h8
+37. g7xh8=D .. h11-h10 .. Qn9-l7
+38. Qh8-h7 .. Re14-f14 .. Ql7-l6
+39. Qb10-d12 .. Rf14-e14 .. Bl8-j6
+40. Qd12xBj6 .. h10-h9 .. Ql6xQj6
+41. Qh7-n7+ .. h9-h8 .. Kn5-m4
+42. Qa7-g13+ .. Kk13-k12 .. m11-l11+
+43. Qn7-l7# .. T

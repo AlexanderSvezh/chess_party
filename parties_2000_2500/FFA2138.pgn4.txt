@@ -1,0 +1,41 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2138"]
+[Result "atterberg: 58 - vishwanthv: 8 - 11DCHESS: 37 - tintined: 5"]
+[Variant "FFA"]
+[Red "atterberg"]
+[RedElo "1477"]
+[Blue "vishwanthv"]
+[BlueElo "1505"]
+[Yellow "11DCHESS"]
+[YellowElo "1556"]
+[Green "tintined"]
+[GreenElo "1639"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:45:34 GMT+0000 (UTC)"]
+[CurrentMove "73"]
+
+1. h2-h4 .. b7-d7 .. j13-j11 .. m8-k8
+2. g2-g4 .. b5-d5 .. g13-g12 .. Bn9xBf1
+3. Qg1xBf1 .. d7-e7 .. Bi14-j13 .. Nn10-l9
+4. h4-h5 .. b6-c6 .. Bj13xm10 .. R
+5. Qf1-m8 .. Qa7xf2 .. e13-e12
+6. Ne1-g2 .. Qf2xe2 .. Ne14-f12
+7. Rd1-e1 .. Qe2xd2 .. Bf14-e13
+8. Qm8xKn7 .. e7-f7 .. i13-i12
+9. Qn7xm6 .. f7-g7 .. Bm10-l11
+10. Nj1-i3 .. g7-h7=D .. Bl11xQh7
+11. Bi1-f4 .. Qd2xRe1+ .. Bh7-k4
+12. Ng2xQe1 .. d5-e5 .. Bk4xQm6
+13. Bf4-h2 .. c6-d6 .. Qh14xm9
+14. O-O .. e5-f5 .. Qm9-m8
+15. g4-g5 .. Na5-c4 .. Qm8xk8
+16. g5-g6 .. Ba6-e10 .. Nf12xBe10
+17. g6-g7 .. b9-d9 .. Qk8-h11
+18. g7-g8=D .. Nc4-b6 .. Ne10-f12
+19. Bh2xd6 .. b4-d4 .. Bm6-i10
+20. Qg8-g2+ .. Ka8-a7 .. Qh11-h7+
+21. Bd6-c5 .. Ka7-a6 .. Qh7xf5
+22. Qg2-c6 .. Ra4-a5 .. Qf5-f11
+23. Qc6xNb6+# .. k13-k11
+24. R

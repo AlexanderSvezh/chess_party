@@ -1,0 +1,17 @@
+[GameNr "2133"]
+[Result "Aborted"]
+[Variant "Teams"]
+[Red "QUECHUCHATEIMPORTA"]
+[RedElo "1500"]
+[Blue "ElPolloLocoMan"]
+[BlueElo "1566"]
+[Yellow "Extrujamelano"]
+[YellowElo "1500"]
+[Green "nebukdanezar"]
+[GreenElo "1513"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:30:17 GMT+0000 (UTC)"]
+[CurrentMove "1"]
+
+1. R

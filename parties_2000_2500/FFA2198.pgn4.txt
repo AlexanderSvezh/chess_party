@@ -1,0 +1,45 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2198"]
+[Result "supermanjonah: 7 - yakuteka: 86 - Juliegonzalez1009: 6 - G-seis: 19"]
+[Variant "FFA"]
+[Red "supermanjonah"]
+[RedElo "1454"]
+[Blue "yakuteka"]
+[BlueElo "1793"]
+[Yellow "Juliegonzalez1009"]
+[YellowElo "1500"]
+[Green "G-seis"]
+[GreenElo "1495"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:07:32 GMT+0000 (UTC)"]
+[CurrentMove "81"]
+
+1. h2-h4 .. b7-d7 .. g13-g11 .. m8-k8
+2. h4-h5 .. d7-e7 .. g11-g10 .. m7-l7
+3. h5-h6 .. e7-f7 .. Ne14-f12 .. Bn6-m7
+4. Bi1-h2 .. b10-c10 .. Bf14xBm7 .. Nn5xBm7
+5. h6-h7 .. Ba9xe13 .. Rd14-e14 .. k8-j8
+6. Bh2-i3 .. Be13-c11 .. Nj14-i12 .. Nn10-m8
+7. Bi3xRa11 .. f7-g7 .. g10-g9 .. m4-k4
+8. h7-h8=D .. g7-h7=D+ .. g9xQh8 .. k4-j4
+9. Nj1-h2 .. Qh7xh8 .. T .. j8-i8
+10. g2-g4 .. Qh8xi8 .. j4-i4
+11. Nh2xi4 .. Ba6xh13 .. Nm8-k7
+12. Qg1-h2 .. Qi8xNi12+ .. m9-l9
+13. Ni4-j6 .. Bh13xKg14 .. Rn4xg4
+14. Nj6xl7 .. Qi12-c6+ .. m6xNl7
+15. Bf1-g2 .. b5-d5 .. Rg4xBg14
+16. R .. d5-e5 .. Rg14-g11
+17. Qa7xNk7 .. Rg11xBc11
+18. Na10xRc11 .. l9-k9
+19. Qc6xBg2 .. Nm7-l9
+20. Qk7xm5 .. l7-k7
+21. Qg2xKh1 .. Nl9-m7
+22. Qh1xi2+ .. Kn7-m8
+23. Qi2-i4+ .. Km8-m9
+24. Qm5xk7+ .. Km9-l10
+25. Qi4xi13+ .. Kl10-l11
+26. Qi13xQn8 .. Rn11-n10
+27. Qk7xk9 .. m10-l10
+28. Qk9xNm7 .. R

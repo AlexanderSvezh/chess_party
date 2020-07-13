@@ -1,0 +1,23 @@
+[GameNr "2290"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Chessplayer1993"]
+[RedElo "1489"]
+[Blue "ultraplayer45"]
+[BlueElo "1631"]
+[Yellow "JCristobal23"]
+[YellowElo "1504"]
+[Green "Cortez125"]
+[GreenElo "1396"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:34:04 GMT+0000 (UTC)"]
+[CurrentMove "27"]
+
+1. h2-h3 .. b8-c8 .. h13-h12 .. m8-l8
+2. Bi1xBa9 .. b7-c7 .. Bi14-e10 .. Bn9-m8+
+3. Ba9xb10 .. Qa7-d10 .. i13-i12 .. Bm8xi12+
+4. Bb10xRa11 .. Qd10xBe10 .. Nj14xBi12 .. Qn8-m8
+5. d2-d4 .. Qe10-j10 .. Rk14-j14 .. Qm8xNi12+
+6. Qg1-i3 .. Qj10xj13 .. Qh14-h13 .. Qi12xQh13+
+7. Qi3-i14 .. Qj13xQi14+ .. #

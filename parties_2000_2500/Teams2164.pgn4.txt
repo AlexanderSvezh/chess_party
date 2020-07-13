@@ -1,0 +1,17 @@
+[GameNr "2164"]
+[Result "Aborted"]
+[Variant "Teams"]
+[Red "lukeliu"]
+[RedElo "1488"]
+[Blue "charles46975"]
+[BlueElo "1622"]
+[Yellow "ThaiSamurai"]
+[YellowElo "1545"]
+[Green "8943GHWRGW34IH89H"]
+[GreenElo "1331"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:40:37 GMT+0000 (UTC)"]
+[CurrentMove "2"]
+
+1. h2-h3 .. R

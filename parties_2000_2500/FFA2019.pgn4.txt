@@ -1,0 +1,40 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2019"]
+[Result "henrychess99: 62 - jcrf123: 40 - Lekbar: 25 - joakike: 17"]
+[Variant "FFA"]
+[Red "henrychess99"]
+[RedElo "1485"]
+[Blue "jcrf123"]
+[BlueElo "1592"]
+[Yellow "Lekbar"]
+[YellowElo "1500"]
+[Green "joakike"]
+[GreenElo "1587"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:02:31 GMT+0000 (UTC)"]
+[CurrentMove "82"]
+
+1. h2-h4 .. b7-d7 .. g13-g11 .. m8-k8
+2. g2-g4 .. b10-c10 .. Ne14-f12 .. Nn5-l6
+3. Ne1-f3 .. Na10-c9 .. h13-h12 .. Nn10-l9
+4. Bf1xBn9 .. Ba9-b10 .. Qh14-h13 .. Rn11xBn9
+5. Nj1-i3 .. O-O .. Qh13xBa6 .. m5-l5
+6. Bi1xb8 .. Qa7xQa6 .. Bi14xQa6 .. Bn6-m5
+7. Bb8xRa9 .. Bb10xBa9 .. Ba6xb5 .. m7-k7
+8. d2-d3 .. b6-c6 .. Bb5xRa4 .. O-O
+9. g4-g5 .. Nc9-e8 .. h12-h11 .. k7-j7
+10. g5-g6 .. d7-e7 .. Bf14xRn6 .. Qn8xBn6
+11. g6-g7 .. e7-f7 .. k13-k11 .. k8-j8
+12. g7-g8=D .. f7-g7 .. k11-k10 .. Nl9-n10
+13. Qg8xNe8 .. g7-h7=D .. k10-k9 .. j8-i8
+14. Qg1xg11+ .. Qh7-a7 .. Kg14-h13 .. Qn6xk9
+15. Rd1-g1 .. Qa7-a6+ .. Kh13-h14 .. Qk9xRk14
+16. Qg11-g13+# .. b4-c4 .. Rn9-n8
+17. Rg1-g5 .. Ba9-f4 .. j7-i7
+18. Rg5-g9 .. Bf4xi7 .. i8-h8
+19. Rg9xm9 .. c4xd3 .. h8-g8=D
+20. Qe8xQg8 .. d3xe2 .. Rn8xQg8
+21. Rm9-n9+ .. e2xNf3 .. Bm5-n6
+22. Qg13xBn6+# .. Qa6-f1+
+23. Kh1-h2 .. Bi7-f4+#

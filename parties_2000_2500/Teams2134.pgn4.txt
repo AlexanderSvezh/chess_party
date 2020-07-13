@@ -1,0 +1,19 @@
+[GameNr "2134"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "BOSS_4_Player_Chess"]
+[RedElo "1882"]
+[Blue "GDII"]
+[BlueElo "2341"]
+[Yellow "BOSS_of_4PlayerChess"]
+[YellowElo "1873"]
+[Green "kopashtar"]
+[GreenElo "1908"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:33:15 GMT+0000 (UTC)"]
+[CurrentMove "12"]
+
+1. h2-h3 .. b6-d6 .. h13-h12 .. m9-l9
+2. d2-d4 .. Qa7-b6 .. Bi14-g12 .. m8-k8
+3. Qg1-j4 .. b8-c8 .. Qh14-h13 .. T

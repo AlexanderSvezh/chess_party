@@ -1,0 +1,20 @@
+[GameNr "2295"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "ElNovaton"]
+[RedElo "1714"]
+[Blue "krishnasunkara"]
+[BlueElo "1521"]
+[Yellow "mikemanuver"]
+[YellowElo "2492"]
+[Green "Hirendra_chess"]
+[GreenElo "1520"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:31:48 GMT+0000 (UTC)"]
+[CurrentMove "14"]
+
+1. h2-h3 .. b7-d7 .. g13-g12 .. m8-k8
+2. Qg1-j4 .. d7-e7 .. Qh14-e11 .. k8-j8
+3. Qj4-e4+ .. Ba6-b7 .. Qe11xb8+ .. j8-i8
+4. Qe4xBb7+ .. #

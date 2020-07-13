@@ -1,0 +1,19 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2217"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "raddude1080"]
+[RedElo "1510"]
+[Blue "Cix18"]
+[BlueElo "1500"]
+[Yellow "heribertoheenandez"]
+[YellowElo "1705"]
+[Green "daicaxe"]
+[GreenElo "1437"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:05:56 GMT+0000 (UTC)"]
+[CurrentMove "8"]
+
+1. g2-g4 .. b8-d8 .. e13-e12 .. m8-k8
+2. Nj1-i3 .. d8-e8 .. Bf14-e13 .. T

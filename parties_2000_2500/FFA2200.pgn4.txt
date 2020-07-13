@@ -1,0 +1,45 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2200"]
+[Result "JoyCheerful: 32 - davidbardales17: 1 - grc-hmrz: 58 - luciano09876543210: 35"]
+[Variant "FFA"]
+[Red "JoyCheerful"]
+[RedElo "1540"]
+[Blue "davidbardales17"]
+[BlueElo "1500"]
+[Yellow "grc-hmrz"]
+[YellowElo "1630"]
+[Green "luciano09876543210"]
+[GreenElo "1480"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:09:47 GMT+0000 (UTC)"]
+[CurrentMove "84"]
+
+1. g2-g4 .. b7-d7 .. e13-e12 .. m10-l10
+2. g4-g5 .. Na5-c6 .. Bf14-e13 .. Bn9-m10
+3. g5-g6 .. Na10-c9 .. Ne14-f12 .. m5-l5
+4. g6-g7 .. b8-d8 .. O-O .. Bn6-m5
+5. g7-g8=D .. Qa7-b7 .. g13-g12 .. Nn5-l6
+6. Nj1-i3 .. Nc6-e7+ .. j13-j12 .. Bm5xj2
+7. Qg8-g2 .. Ba9xh2 .. Bi14xBm10 .. Bj2xRk1
+8. Qg1xBh2 .. T .. Bm10xRn11 .. Nn10-l9
+9. Qg2xQb7 .. Bn11-m10 .. Nl9-j10
+10. Qb7xKa8 .. Bm10-j13 .. m8-k8
+11. Bi1-k3 .. k13-k11 .. m4-l4
+12. Bk3-g7 .. k11xNj10 .. l4-k4
+13. Bg7xj10 .. i13-i11 .. k4-j4
+14. Bj10-f6 .. h13-h11 .. Nl6-j7
+15. Qa8-f3 .. h11-h10 .. m7-l7
+16. Ni3-h5 .. h10-h9 .. Bk1xBf6
+17. Qf3xBf6 .. Nf12-g10 .. Rn4-k4
+18. Nh5xj4 .. h9-h8 .. Rk4xNj4
+19. Qf6-i3 .. h8-h7=D .. Rj4-j1+
+20. Kh1-g2 .. Qh7xQh2+ .. Qn8xQi3#
+21. Qh2xQi3 .. l5-k5
+22. i11-i10 .. k8-j8
+23. Nj14-i12 .. Rj1-j5
+24. Qi3-i6 .. Nj7-i5
+25. Qi6xRj5 .. Ni5-h3
+26. Qj5xj8 .. m9-k9
+27. Qj8-j11+ .. Kn7-m7
+28. Qj11xm11+ .. R

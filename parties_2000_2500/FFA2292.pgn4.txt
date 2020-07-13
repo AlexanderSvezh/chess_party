@@ -1,0 +1,42 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2292"]
+[Result "espkont: 51 - chess_king777: 7 - gmvision3: 33 - Hebert_Herrera: 7"]
+[Variant "FFA"]
+[Red "espkont"]
+[RedElo "1720"]
+[Blue "chess_king777"]
+[BlueElo "1532"]
+[Yellow "gmvision3"]
+[YellowElo "1784"]
+[Green "Hebert_Herrera"]
+[GreenElo "1554"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:40:01 GMT+0000 (UTC)"]
+[CurrentMove "78"]
+
+1. g2-g4 .. b7-d7 .. h13-h11 .. m8-k8
+2. Ne1-f3 .. Ba6xBi14 .. Qh14xBi14 .. k8-j8
+3. g4-g5 .. d7-e7 .. Nj14-i12 .. j8-i8
+4. g5-g6 .. Na5-c6 .. e13-e12 .. i8-h8
+5. g6-g7 .. e7-f7 .. Bf14-e13 .. Bn9xBf1
+6. Rd1xBf1 .. b8-c8 .. Ne14-f12 .. h8-g8=D
+7. Nj1-i3 .. f7xQg8 .. O-O .. Qn8xg8
+8. j2-j3 .. Nc6-e7 .. g13-g11 .. Qg8-e8
+9. Qg1-g2 .. Ne7-f5 .. j13-j12 .. Qe8xb5
+10. Qg2-n9+# .. Qa7xg7 .. Qi14-e10
+11. Bi1-j2 .. Qg7xm7 .. Qe10-e4+
+12. O-O .. b6-c6 .. Qe4xNf5
+13. Qn9xm10 .. Qm7xKn7 .. Ni12-g13
+14. Qm10-i6 .. Na10-c9 .. i13-i11
+15. Qi6xc6+ .. Qn7-b7 .. h11-h10
+16. Qc6-k6 .. Ra4-a5 .. Qf5-f10
+17. d2-d4 .. Qb7xQb5 .. g11-g10
+18. e2-e4 .. Ba9-d6 .. Qf10xb10
+19. Qk6xBd6 .. Ka8-b7 .. Qb10xNc9
+20. d4-d5 .. Ra11-a6 .. Qc9xb9+
+21. Qd6-b6+# .. Ng13-f11
+22. d5-d6 .. Qb9xc8
+23. e4-e5 .. g10-g9
+24. Nf3-g5 .. g9-g8
+25. R

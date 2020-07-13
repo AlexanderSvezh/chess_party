@@ -1,0 +1,18 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2086"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "NakamuraII"]
+[RedElo "1619"]
+[Blue "123proda"]
+[BlueElo "1449"]
+[Yellow "Mahmoudd1990"]
+[YellowElo "1500"]
+[Green "Unashamed_Soldier"]
+[GreenElo "1490"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:18:33 GMT+0000 (UTC)"]
+[CurrentMove "3"]
+
+1. g2-g4 .. b7-d7 .. T

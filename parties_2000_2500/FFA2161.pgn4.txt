@@ -1,0 +1,59 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2161"]
+[Result "julianaborges: 1 - DefeatTheDefeat: 37 - JoyCheerful: 57 - MrTulias: 60"]
+[Variant "FFA"]
+[Red "julianaborges"]
+[RedElo "1500"]
+[Blue "DefeatTheDefeat"]
+[BlueElo "1503"]
+[Yellow "JoyCheerful"]
+[YellowElo "1535"]
+[Green "MrTulias"]
+[GreenElo "1654"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:56:16 GMT+0000 (UTC)"]
+[CurrentMove "115"]
+
+1. g2-g4 .. b7-d7 .. h13-h11 .. m10-l10
+2. k2-k4 .. d7-e7 .. h11-h10 .. m4-l4
+3. g4-g5 .. e7-f7 .. Nj14-i12 .. Bn9-m10
+4. Rk1-k3 .. f7-g7 .. h10-h9 .. l4xRk3
+5. g5-g6 .. Na5-c6 .. k13-k12 .. Rn4xk4
+6. Nj1xk3 .. Ba6xBi14 .. Qh14xBi14 .. m7-l7
+7. Nk3-i4 .. Qa7-e7 .. Qi14-f11 .. m5-k5
+8. Ni4-g5 .. Nc6-e5 .. O-O-O .. Rk4-k1
+9. h2-h4 .. Ne5xg6 .. Ne14-f12 .. Bn6xj2
+10. Ng5-h7 .. Ng6xh4 .. e13-e12 .. Rk1xBi1+
+11. Kh1-h2 .. b8-d8+ .. g13-g12 .. Ri1xQg1
+12. T .. Ba9xKh2 .. Bf14-i11 .. Rg1-h1
+13. Bh2-g3 .. Bi11xQe7 .. m6-k6
+14. d8xBe7 .. Qf11-g10 .. Rh1xNh4
+15. Bg3xRh4 .. Qg10xb10 .. Bj2xBh4
+16. Ka8-b7 .. Qb10xRa11 .. k5-j5
+17. Ra4-a8 .. Rh14-h10 .. j5-i5
+18. Ra8-h8 .. Qa11xNa10 .. i5-h5
+19. Rh8xNh7 .. Qa10xb9+ .. h5-g5=D
+20. Kb7-c6 .. Qb9-c8+ .. Bh4-g3#
+21. Rd14-h14 .. Qn8-l6
+22. h9-h8 .. Qg5-j8
+23. g12-g11 .. Ql6-j4
+24. h8xg7=D .. Qj8xj13+
+25. Ki14-h13 .. Qj4xQg7
+26. Qc8-g12 .. Qj13xk12
+27. Kh13-g14 .. Bm10-l9
+28. Rh10-h12 .. Qk12-k8
+29. Qg12-g13 .. Bg3-l8
+30. Kg14-f14 .. Qg7-c11+
+31. Kf14-e14 .. Bl9xNi12
+32. g11-g10 .. k6-j6
+33. g10-g9 .. j6-i6
+34. g9-g8 .. i6-h6
+35. g8xRh7=D .. Bl8xRh12
+36. Rh14xBh12 .. Bi12-h11
+37. Nf12xBh11 .. Nn10-l9
+38. Qh7-j5 .. Nn5-l6
+39. Qj5-j3+ .. Kn7-n8
+40. Rh12-h14 .. Qk8-k7
+41. Qg13-n6+ .. Nl6-n7
+42. Qj3xNn7+#

@@ -1,0 +1,63 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2278"]
+[Result "cesarcardona70: 3 - j1o2s3e7: 32 - rodteixo: 90 - hatafaya: 37"]
+[Variant "FFA"]
+[Red "cesarcardona70"]
+[RedElo "1497"]
+[Blue "j1o2s3e7"]
+[BlueElo "1468"]
+[Yellow "rodteixo"]
+[YellowElo "1742"]
+[Green "hatafaya"]
+[GreenElo "1673"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:48:23 GMT+0000 (UTC)"]
+[CurrentMove "150"]
+
+1. f2-f4 .. b7-d7 .. e13-e12 .. m8-k8
+2. g2-g4 .. d7-e7 .. Bf14-e13 .. Nn5-l6
+3. Bf1-g2+ .. Ba6-b7 .. j13-j12 .. m11-l11
+4. g4-g5 .. b6-c6 .. Bi14-j13 .. m7-l7
+5. e2-e3 .. e7-f7 .. Ne14-f12 .. Nn10-l9
+6. Ne1-d3 .. Bb7-a6 .. O-O .. k8-j8
+7. f4-f5 .. f7-g7 .. Rf14-g14 .. Bn6-l8
+8. Nd3-e5 .. g7-h7=D .. g13-g11 .. O-O
+9. Ne5xc6 .. b5xNc6 .. h13-h12 .. Bn9-m8
+10. i2-i4 .. Ba6-c8 .. g11-g10 .. Qn8-n9
+11. Kh1-i2 .. Qh7xf5+ .. g10-g9 .. Bm8-n7
+12. Bg2-h3 .. Qf5xg5 .. Qh14-g13 .. Nl6-k8
+13. Qg1xQg5 .. b4-c4 .. g9-g8 .. l7-k7
+14. j2-j3 .. c4-d4 .. g8-g7=D .. m5-l5
+15. Qg5-e5 .. Qa7-b6 .. Qg7-g10 .. Bn7-m8
+16. k2-k4 .. Na5-c4 .. Qg10xc6+ .. Nk8-j6
+17. Qe5-k5 .. Ka8-a7 .. Qc6xRa4+ .. Bl8-m7
+18. Qk5-l4 .. Ka7-b7 .. Qa4xBa9 .. Bm7-l6
+19. k4-k5 .. b9-c9 .. Qa9xb10 .. Bl6-n4
+20. Nj1-k3 .. Nc4xe3 .. Qb10xRa11 .. Nj6-l7
+21. Rd1-g1 .. d4-e4 .. Qg13xRg1 .. Qn9-n8
+22. Nk3xl5 .. e4-f4 .. Qa11xb11 .. m6xNl5
+23. Rk1-k4 .. f4-g4 .. Qb11-h11 .. Qn8-m7
+24. k5-k6 .. g4xBh3=D+ .. Qh11-h7+ .. Rn6xk6
+25. Ki2-j2 .. Kb7-a8 .. Qh7-e4+ .. Rk6xQb6
+26. j3-j4 .. Ka8-b9 .. k13-k11 .. Bn4-m5
+27. j4-j5 .. Qh3-i2+ .. Qe4xNe3 .. Bm5xQl4+
+28. Kj2-k1 .. Qi2-j1+# .. Qe3xRb6 .. j8-i8
+29. Qj1xj5 .. Qg1-g11 .. Nl7-j8
+30. Qj5xl5+ .. Qg11xNj8 .. m4xQl5
+31. R .. Qj8xi8 .. k7-j7
+32. Qi8xBc8 .. j7-i7
+33. Qc8xKb9 .. i7-h7
+34. Qb6-b7 .. Bl4-h8
+35. Bj13-h11+ .. Kn5-m4
+36. Qb9-d7 .. Rn11-n7
+37. Rg14-g7 .. Bh8xRg7
+38. Qd7xBg7 .. Nl9-j8
+39. Bh11-g10 .. Bm8-k10
+40. Nj14-h13 .. m9-k9
+41. Qb7-b5 .. Qm7-l7
+42. i13-i12 .. Nj8-i6
+43. Qg7-i5 .. h7-g7=D
+44. Qi5xl5+ .. Ql7xQl5
+45. Qb5xQl5+ .. Km4-n4
+46. Ql5-m4+#

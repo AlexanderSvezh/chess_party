@@ -1,0 +1,63 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2211"]
+[Result "PawnCrushingP: 58 - M_Mehti: 0 - chess_king777: 25 - jmr66: 55"]
+[Variant "FFA"]
+[Red "PawnCrushingP"]
+[RedElo "1941"]
+[Blue "M_Mehti"]
+[BlueElo "1733"]
+[Yellow "chess_king777"]
+[YellowElo "1532"]
+[Green "jmr66"]
+[GreenElo "1657"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:15:44 GMT+0000 (UTC)"]
+[CurrentMove "111"]
+
+1. j2-j3 .. Na10-c9 .. g13-g11 .. m8-k8
+2. Bi1-j2 .. b10-c10 .. g11-g10 .. k8-j8
+3. Nj1-i3 .. Ba9-b10 .. g10-g9 .. j8-i8
+4. O-O .. O-O .. g9-g8 .. i8-h8
+5. e2-e3 .. Ra9-a8 .. e13-e12 .. Nn10-l9
+6. Bf1-e2 .. Bb10-e13 .. Bf14xBe13 .. m4-l4
+7. f2-f4 .. R .. Qh14xNc9 .. Nn5-l6
+8. g2-g4 .. Qc9xb9 .. Bn9-j5
+9. Ne1-f3 .. Qb9xKa10 .. Bj5xg8
+10. h2-h4 .. Qa10-c8 .. Bg8-i10
+11. Rd1-f1 .. h13-h12 .. h8-g8=D+
+12. g4-g5 .. R .. Qg8xKg14
+13. h4-h5 .. l4-k4
+14. j3-j4 .. Nl6-j5
+15. Ni3-g4 .. m5-l5
+16. Bj2xBn6 .. Kn7xBn6
+17. i2-i4 .. Nj5-k3+
+18. Kj1-j2 .. Nk3-m4
+19. Nf3-h4 .. Bi10-l7
+20. Ng4-i5 .. Qn8-j8
+21. h5-h6 .. Qg14-j11
+22. k2-k3 .. l5-k5
+23. Nh4-i6 .. k5-j5
+24. Ni6xQj8 .. Qj11xNj8
+25. Be2-h5 .. j5xi4
+26. Bh5xi4 .. Bl7xBi4
+27. Ri1xBi4 .. Nm4-k5
+28. Ri4-g4 .. Nk5-j3
+29. Ni5xNj3 .. k4xNj3
+30. Kj2xj3 .. Qj8-j7
+31. Rg4-i4 .. Qj7-l5+
+32. Kj3-j2 .. Ql5-k4
+33. Qg1-g4 .. Rn11-n8
+34. Rf1-i1 .. Rn8-k8
+35. Ri1-i3 .. m7-l7
+36. g5-g6 .. Nl9-m7
+37. Ri3-j3 .. Nm7-l5
+38. Ri4-i3 .. Qk4xk3+
+39. Rj3xQk3 .. Rk8xRk3
+40. Ri3xRk3 .. Rn4xj4+
+41. Qg4xRj4 .. Nl5xQj4
+42. h6-h7 .. Nj4-i6
+43. Rk3-h3 .. l7-k7
+44. h7-h8=D .. Ni6xQh8
+45. Rh3xNh8 .. m6-l6
+46. g6-g7 .. T

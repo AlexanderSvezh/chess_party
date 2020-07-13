@@ -1,0 +1,17 @@
+[GameNr "2030"]
+[Result "Aborted"]
+[Variant "Teams"]
+[Red "dapsy001"]
+[RedElo "2258"]
+[Blue "41PH4_Z3R0"]
+[BlueElo "1828"]
+[Yellow "kopashtar"]
+[YellowElo "1949"]
+[Green "NotaBot1076"]
+[GreenElo "1730"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 02:56:18 GMT+0000 (UTC)"]
+[CurrentMove "3"]
+
+1. h2-h3 .. b6-d6 .. T

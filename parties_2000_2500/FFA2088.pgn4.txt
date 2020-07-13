@@ -1,0 +1,43 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2088"]
+[Result "Jdmara: 68 - diogofuentes: 15 - DefeatTheDefeat: 34 - Ryle19: 14"]
+[Variant "FFA"]
+[Red "Jdmara"]
+[RedElo "1739"]
+[Blue "diogofuentes"]
+[BlueElo "1504"]
+[Yellow "DefeatTheDefeat"]
+[YellowElo "1505"]
+[Green "Ryle19"]
+[GreenElo "1561"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:34:52 GMT+0000 (UTC)"]
+[CurrentMove "92"]
+
+1. f2-f4 .. b7-d7 .. h13-h11 .. m8-k8
+2. f4-f5 .. d7-e7 .. h11-h10 .. Bn9xg2++
+3. Bf1xBg2+ .. b6-c6 .. h10-h9 .. k8-j8
+4. e2-e4 .. c6-d6 .. h9-h8 .. j8-i8
+5. d2-d4 .. Na5-c6 .. g13-g11 .. m9-l9
+6. j2-j3 .. Nc6xd4 .. g11-g10 .. Nn10-m8
+7. Rd1xNd4 .. b5-c5 .. g10-g9 .. m11-l11
+8. Rd4-d2 .. Ba6-c4 .. Bi14-f11 .. Nm8-n10
+9. e4-e5+ .. c5-d5 .. g9-g8 .. Nn10-m8
+10. e5xd6 .. e7-f7 .. g8-g7=D .. m7-l7
+11. Qg1xQa7+ .. Ka8xQa7 .. Bf11xi8 .. Bn6xBf14
+12. d6-d7 .. b9-c9 .. Kg14xBf14 .. Nm8-k9
+13. Bi1xm5 .. Bc4-b5 .. Bi8xf5 .. Qn8-m9
+14. Ne1-f3 .. b4-c4 .. h8-h7=D .. m6-k6
+15. Bm5xRn4 .. Ra4-a6 .. Qg7xf7 .. O-O-O
+16. Nj1-i3 .. Bb5-c6 .. Bf5xd7 .. Nn5-l4
+17. Bn4-l6 .. Bc6xBd7 .. Qf7xBd7+ .. Rn8-n7
+18. O-O .. Ka7-a8 .. Qd7-b7+ .. Nk9-j7
+19. Bg2-h3# .. Ne14-f12 .. Nl4-j5
+20. Bl6-j4 .. Qh7-j9 .. Nj5xNi3+
+21. Bj4xNi3 .. Qb7-g12 .. Qm9-l8+
+22. Bh3-f5 .. Qg12-g13 .. Ql8-m9
+23. Bf5xQj9 .. Nj14-i12 .. T
+24. Bj9xl7 .. Ni12-h10
+25. Bl7xKn9 .. i13-i11
+26. R

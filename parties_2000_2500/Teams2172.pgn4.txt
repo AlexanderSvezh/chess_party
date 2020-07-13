@@ -1,0 +1,17 @@
+[GameNr "2172"]
+[Result "Aborted"]
+[Variant "Teams"]
+[Red "Unashamed_Soldier"]
+[RedElo "1500"]
+[Blue "ElPolloLocoMan"]
+[BlueElo "1566"]
+[Yellow "8943GHWRGW34IH89H"]
+[YellowElo "1311"]
+[Green "Pion_Catur"]
+[GreenElo "1534"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:45:16 GMT+0000 (UTC)"]
+[CurrentMove "3"]
+
+1. g2-g4 .. b7-d7 .. R

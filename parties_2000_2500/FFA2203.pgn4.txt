@@ -1,0 +1,63 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2203"]
+[Result "austinkp: 20 - esaavedrac: 28 - Tuandelcito: 90 - plumatica: 27"]
+[Variant "FFA"]
+[Red "austinkp"]
+[RedElo "1521"]
+[Blue "esaavedrac"]
+[BlueElo "1670"]
+[Yellow "Tuandelcito"]
+[YellowElo "1580"]
+[Green "plumatica"]
+[GreenElo "1662"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:22:15 GMT+0000 (UTC)"]
+[CurrentMove "147"]
+
+1. h2-h3 .. b10-c10 .. h13-h11 .. m8-k8
+2. Qg1-i3 .. b9-c9 .. h11-h10 .. k8-j8
+3. k2-k4 .. Ba9-b10 .. h10-h9 .. m6-k6
+4. k4-k5 .. b7-c7 .. h9-h8 .. j8-i8
+5. Qi3-i6 .. c9-d9 .. d13-d12 .. m5-l5
+6. j2-j3 .. Bb10xRk1 .. Ne14-f12 .. m9-l9
+7. Bi1xBn6 .. Bk1-b10 .. e13-e12 .. Kn7xBn6
+8. Nj1-k3 .. Na10-c9 .. Bf14-e13 .. Nn5-l4
+9. Ne1-f3 .. O-O .. O-O .. m7-k7
+10. h3-h4 .. Ba6-c8 .. Ke14-d14 .. k7-j7
+11. Qi6-i3 .. b6-d6 .. Nf12-e14 .. Rn4-n5
+12. Nk3xm4+ .. Qa7xf2 .. h8-h7=D .. Kn6-m6
+13. Nm4-l6 .. Qf2-c5 .. Qh7-h8 .. Nl4-j5
+14. Nl6xNj5 .. Qc5-f5 .. Qh8-h11+ .. Bn9-l7
+15. Nj5-k7+ .. Na5-b7 .. Qh11xm11 .. Km6-m7
+16. Qi3-i4 .. b5-c5 .. Qm11xRn11 .. i8-h8
+17. g2-g3 .. b4-d4 .. Qn11xm10+ .. Nn10-m8
+18. Bf1-h3 .. Qf5-f8 .. i13-i11 .. Rn5-n4
+19. Nk7xl5+ .. Qf8xf13 .. Rf14xQf13 .. Km7-l8
+20. Bh3xBc8+ .. Ka10-a11 .. Qh14xh8+ .. Bl7-k8
+21. Nl5xRn4 .. Ra4-a7 .. Qh8xBc8 .. Nm8-k9
+22. Qi4-l4+ .. Ra9-a8 .. Qm10-m11 .. Nk9-l7
+23. Nn4-l5 .. c7-d7 .. j13-j11 .. Qn8xk5
+24. Ql4-k4 .. d7-e7 .. i11-i10 .. l9-k9
+25. Nl5-j4 .. d4-e4 .. Qm11-l11+ .. Kl8-m8
+26. Nf3-h2 .. c5-d5 .. Bi14-g12 .. Qk5xd5
+27. Nh2-i4 .. e4-f4+ .. k13-k11 .. Qd5xKh1#
+28. f4xg3 .. Qc8xBk8+ .. Km8-m9
+29. b8-d8 .. Qk8xNl7 .. Qh1-c6
+30. g3-h3=D .. Ql7-n9+#
+31. b11-d11 .. e12xd11
+32. Nc9xd11 .. i10-i9
+33. Nd11xBe13 .. Rf13xNe13
+34. Bb10xd12 .. Ne14xBd12
+35. Qh3-g4 .. j11-j10
+36. Qg4xBg12 .. k11-k10+
+37. Ka11-b10 .. Kd14-d13
+38. Ra8-a11 .. Rk14-k11
+39. Ra11xRk11 .. Ql11xRk11
+40. Ra7-a11 .. i9-i8
+41. Ra11-d11 .. Qk11xRd11
+42. c10xQd11 .. i8-i7=D
+43. Qg12xNd12+ .. Kd13xQd12
+44. Kb10-c10 .. Qn9-l11
+45. Nb7-c9 .. Qi7-i10+
+46. R

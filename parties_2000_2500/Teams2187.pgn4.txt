@@ -1,0 +1,24 @@
+[GameNr "2187"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "redjinplayz"]
+[RedElo "1463"]
+[Blue "StevenBJ"]
+[BlueElo "1470"]
+[Yellow "GamerSam27"]
+[YellowElo "1475"]
+[Green "Cameron10132"]
+[GreenElo "1518"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:56:51 GMT+0000 (UTC)"]
+[CurrentMove "29"]
+
+1. h2-h3 .. Na5-c6 .. d13-d11 .. m7-l7
+2. g2-g3 .. Nc6-e5 .. k13-k11 .. Bn6-m7
+3. Ne1-f3 .. b7-c7 .. Rk14-k12 .. Bm7xQg1
+4. Bf1-g2 .. b6-d6 .. Rd14-d12 .. Bg1-k5
+5. Nf3xNe5+ .. Ba6-b7 .. Rd12-e12 .. m11-l11
+6. d2-d4 .. d6xNe5 .. Re12xe5 .. l11xRk12
+7. Bg2-e4 .. b5-c5 .. Re5xc5 .. Bk5-g9
+8. T

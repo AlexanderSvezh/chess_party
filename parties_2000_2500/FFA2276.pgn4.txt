@@ -1,0 +1,50 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2276"]
+[Result "vuxx: 48 - Hebert_Herrera: 1 - syazwan_kz: 59 - SMARTandHANDSOME2018: 8"]
+[Variant "FFA"]
+[Red "vuxx"]
+[RedElo "1527"]
+[Blue "Hebert_Herrera"]
+[BlueElo "1554"]
+[Yellow "syazwan_kz"]
+[YellowElo "1510"]
+[Green "SMARTandHANDSOME2018"]
+[GreenElo "1546"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:38:27 GMT+0000 (UTC)"]
+[CurrentMove "95"]
+
+1. f2-f4 .. b7-d7 .. h13-h11 .. m7-l7
+2. g2-g4 .. d7-e7 .. g13-g11 .. m8-l8
+3. g4-g5 .. e7-f7 .. Ne14-f12 .. Bn6-m7
+4. f4-f5 .. f7-g7 .. e13-e12 .. Nn10-l9
+5. g5-g6 .. Na10-c9 .. Bf14-e13 .. Nn5-l6
+6. f5-f6 .. g7-h7=D .. O-O .. m4-l4
+7. g6xQh7 .. Qa7xh7 .. i13-i11 .. m11-l11
+8. Qg1-g7 .. Qh7-g6 .. j13-j12 .. l7-k7
+9. Qg7xQg6 .. R .. g11-g10 .. Bn9xBf1
+10. f6-f7 .. Qh14-h13 .. Qn8-m8
+11. f7-f8=D .. Qh13xBa6 .. Bf1-g2+
+12. Ne1xBg2 .. Qa6xKa8 .. O-O-O
+13. Qf8-f3 .. Qa8xb9 .. l4-k4
+14. Nj1-i3 .. Qb9-d11 .. k4-j4
+15. Ni3-h5 .. Nj14-i12 .. j4-i4
+16. Nh5-i7 .. Bi14-h13 .. i4-h4
+17. h2-h3 .. h11-h10 .. Nl6-j5
+18. Ni7xNj5 .. g10-g9 .. Qm8xNj5
+19. j2-j3 .. Qd11xQj5+ .. Kn9-n10
+20. Bi1-j2 .. Qj5xm5 .. m6-l6
+21. Ng2xh4 .. Ni12-g11 .. R
+22. Qg6xl11 .. Qm5xBj2
+23. O-O-O .. Qj2xNh4
+24. Ql11xm10 .. g9-g8
+25. Qm10xKn10 .. g8-g7=D
+26. Rk1-h1 .. Qg7-e9
+27. Qn10-m10 .. Bh13xNl9
+28. Qf3xBl9 .. Qe9xQl9
+29. Qm10xQl9 .. Qh4-f6+
+30. Kf1-e1 .. h10-h9
+31. Rg1xNg11 .. h9-h8
+32. Ql9-j9 .. Qf6-h4+
+33. T

@@ -1,0 +1,17 @@
+[GameNr "2176"]
+[Result "Aborted"]
+[Variant "Teams"]
+[Red "The-Karate-Kid"]
+[RedElo "1515"]
+[Blue "Unashamed_Soldier"]
+[BlueElo "1500"]
+[Yellow "GDII"]
+[YellowElo "2287"]
+[Green "8943GHWRGW34IH89H"]
+[GreenElo "1281"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:45:55 GMT+0000 (UTC)"]
+[CurrentMove "4"]
+
+1. h2-h3 .. b7-d7 .. h13-h12 .. R

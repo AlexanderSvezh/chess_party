@@ -1,0 +1,26 @@
+[GameNr "2210"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "ElNovaton"]
+[RedElo "1726"]
+[Blue "9099999999"]
+[BlueElo "1712"]
+[Yellow "B3thel"]
+[YellowElo "1965"]
+[Green "Great-Gazoo"]
+[GreenElo "1438"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:08:01 GMT+0000 (UTC)"]
+[CurrentMove "37"]
+
+1. h2-h3 .. b7-c7 .. h13-h12 .. m10-l10
+2. Qg1-k5 .. b6-c6 .. k13-k12 .. Nn5-l6
+3. Bi1-g3 .. b8-c8 .. Qh14-h13 .. Bn9-m10
+4. Qk5-e5 .. Na5-c4 .. Ne14-f12 .. Nl6-k4
+5. Qe5-f6 .. b11-d11 .. e13-e12 .. Bm10-l9
+6. Kh1-i1 .. Ba6-b7 .. j13-j11 .. Bl9-k8
+7. d2-d3 .. Nc4-d6 .. h12-h11 .. m5-l5
+8. k2-k3 .. Qa7-c9 .. Nf12xd11 .. m7-k7
+9. Qf6xQc9 .. Na10xQc9 .. Nd11xb10+ .. Qn8-g1+
+10. #

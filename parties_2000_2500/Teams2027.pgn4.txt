@@ -1,0 +1,26 @@
+[GameNr "2027"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "OrinLee"]
+[RedElo "1500"]
+[Blue "gnojham2"]
+[BlueElo "962"]
+[Yellow "charles46975"]
+[YellowElo "1608"]
+[Green "buhin4000"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:00:07 GMT+0000 (UTC)"]
+[CurrentMove "38"]
+
+1. g2-g4 .. b8-c8 .. Ne14-f12 .. m8-k8
+2. g4-g5 .. Qa7-d10 .. d13-d12 .. Nn10-l9
+3. Bf1-g2 .. Na5-c6 .. e13-e11 .. k8-j8
+4. j2-j3 .. Qd10-e9 .. h13-h12 .. Qn8-k8
+5. e2-e3 .. b5-d5 .. Bi14-g12 .. Qk8-k10+
+6. Ne1-f3 .. Qe9xh12 .. Qh14-h13 .. Qk10-k7
+7. i2-i4 .. Qh12-c7 .. Nj14-i12 .. Nn5-l6
+8. Nj1-i3 .. b11-d11 .. k13-k11 .. m7-l7
+9. d2-d4 .. Ba6-e2 .. Ni12-j10 .. Qk7-k8
+10. Rd1-e1 .. R

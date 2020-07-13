@@ -1,0 +1,21 @@
+[GameNr "2137"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "nebukdanezar"]
+[RedElo "1513"]
+[Blue "tacocat232"]
+[BlueElo "1420"]
+[Yellow "ThaiSamurai"]
+[YellowElo "1536"]
+[Green "8943GHWRGW34IH89H"]
+[GreenElo "1361"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:35:41 GMT+0000 (UTC)"]
+[CurrentMove "18"]
+
+1. h2-h3 .. b7-d7 .. g13-g12 .. m8-k8
+2. Nj1-i3 .. d7-e7 .. Bf14-g13 .. m9-l9
+3. Ne1-f3 .. b11-d11 .. d13-d12 .. m4-k4
+4. j2-j4 .. Ra11-c11 .. d12xRc11 .. Nn5-l6
+5. g2-g4 .. T

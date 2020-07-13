@@ -1,0 +1,29 @@
+[GameNr "2008"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "NotaBot1076"]
+[RedElo "1739"]
+[Blue "dapsy001"]
+[BlueElo "2248"]
+[Yellow "41PH4_Z3R0"]
+[YellowElo "1838"]
+[Green "Great-Gazoo"]
+[GreenElo "1421"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 02:53:03 GMT+0000 (UTC)"]
+[CurrentMove "51"]
+
+1. h2-h3 .. b7-c7 .. h13-h12 .. m9-l9
+2. Qg1-k5 .. Na5-b7 .. Bi14-h13 .. Qn8-m9
+3. Bi1-g3 .. b8-d8 .. Qh14-i14 .. Qm9-n8
+4. e2-e3 .. b4-c4 .. e13-e12 .. m7-k7
+5. Qk5xk7+ .. Nb7-d6 .. Bh13xBa6 .. Qn8-m7
+6. Qk7-i9 .. Ra4xBa6 .. Qi14xRa6 .. Qm7-k9
+7. Qi9xb9+ .. Ka8xQb9 .. Qa6xQa7 .. Qk9-k10+
+8. Bg3xNd6 .. Ba9-b8 .. Nj14-i12 .. Qk10-k8
+9. Ne1-f3 .. Bb8xQa7 .. Ne14-f12 .. Qk8-j7
+10. Bd6-i1 .. Ba7xNf12 .. g13xBf12 .. Qj7xj13
+11. j2-j3 .. b11-d11 .. Rk14-j14 .. Qj13xNi12+
+12. Bf1-e2 .. d11xe12 .. Kg14-h14 .. Qi12-g14+
+13. Bi1xm5 .. Ra11-g11 .. #

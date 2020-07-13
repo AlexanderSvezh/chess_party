@@ -1,0 +1,17 @@
+[GameNr "2177"]
+[Result "Aborted"]
+[Variant "Teams"]
+[Red "BOSS_of_4PlayerChess"]
+[RedElo "1926"]
+[Blue "Confring0"]
+[BlueElo "1725"]
+[Yellow "BOSS_4_Player_Chess"]
+[YellowElo "1935"]
+[Green "kopashtar"]
+[GreenElo "1881"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:47:32 GMT+0000 (UTC)"]
+[CurrentMove "4"]
+
+1. h2-h3 .. b7-c7 .. h13-h12 .. T

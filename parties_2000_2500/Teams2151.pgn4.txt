@@ -1,0 +1,23 @@
+[GameNr "2151"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "BOSS_of_4PlayerChess"]
+[RedElo "1903"]
+[Blue "Great-Gazoo"]
+[BlueElo "1434"]
+[Yellow "BOSS_4_Player_Chess"]
+[YellowElo "1912"]
+[Green "GDII"]
+[GreenElo "2310"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:42:31 GMT+0000 (UTC)"]
+[CurrentMove "28"]
+
+1. h2-h3 .. b6-d6 .. h13-h12 .. m9-l9
+2. d2-d4 .. b8-c8 .. Bi14-g12 .. m8-k8
+3. Qg1-j4 .. Qa7-e11 .. Qh14-h13 .. Qn8-m8
+4. Bi1-h2 .. Qe11-i7 .. Ne14-f12 .. Nn5-l6
+5. Nj1-i3 .. Qi7xNi3 .. Qh13-i12 .. m5-k5
+6. Qj4xQi3 .. Na10-c9 .. e13-e12 .. m10-k10
+7. Qi3xk5 .. Nc9-e10 .. Nf12xNe10 .. R

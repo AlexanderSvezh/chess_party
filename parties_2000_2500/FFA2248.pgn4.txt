@@ -1,0 +1,35 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2248"]
+[Result "ramon_vb: 41 - FuserHD: 2 - themostpipo: 41 - devaswin: 1"]
+[Variant "FFA"]
+[Red "ramon_vb"]
+[RedElo "1697"]
+[Blue "FuserHD"]
+[BlueElo "1597"]
+[Yellow "themostpipo"]
+[YellowElo "1615"]
+[Green "devaswin"]
+[GreenElo "1688"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:25:05 GMT+0000 (UTC)"]
+[CurrentMove "65"]
+
+1. g2-g4 .. b7-d7 .. e13-e12 .. m8-k8
+2. Ne1-f3 .. d7-e7 .. Bf14-e13 .. k8-j8
+3. Nj1-i3 .. e7-f7 .. Ne14-f12 .. j8-i8
+4. j2-j3 .. f7-g7 .. O-O .. m9-k9
+5. Bi1-j2 .. g7-h7=D .. j13-j12 .. i8xQh7
+6. O-O .. Qa7xh7 .. h13-h12 .. Nn5-l6
+7. Ri1-h1 .. Qh7-k10+ .. Bi14xBa6 .. Nn10-l9
+8. h2-h4 .. Qk10xk9 .. Ba6xb5 .. m7-l7
+9. g4-g5 .. Qk9-i7 .. Bb5xRa4 .. m4-l4
+10. h4-h5 .. Qi7-b7 .. Ba4-j13 .. Bn6-m7
+11. g5-g6 .. Na10-c9 .. Bj13-i14 .. O-O
+12. h5-h6 .. b11-c11 .. Bi14xQb7+ .. Qn8-d8
+13. g6-g7 .. T .. Bb7xKa8 .. Qd8-n8
+14. h6-h7 .. Ba8-c6 .. l7-k7
+15. h7-h8=D .. Bc6-j13 .. Bn9-m8
+16. g7-g8=D .. Bj13xm10 .. R
+17. Ni3-k4 .. Qh14-h13
+18. Qg8xg13 .. R

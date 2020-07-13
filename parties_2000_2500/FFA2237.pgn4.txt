@@ -1,0 +1,41 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2237"]
+[Result "luiEdu: 85 - Alex_OK: 1 - marcelo08: 12 - gio2588: 7"]
+[Variant "FFA"]
+[Red "luiEdu"]
+[RedElo "1461"]
+[Blue "Alex_OK"]
+[BlueElo "1500"]
+[Yellow "marcelo08"]
+[YellowElo "1490"]
+[Green "gio2588"]
+[GreenElo "1574"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:25:41 GMT+0000 (UTC)"]
+[CurrentMove "83"]
+
+1. g2-g4 .. b7-c7 .. h13-h11 .. m5-l5
+2. g4-g5 .. b8-d8 .. h11-h10 .. Bn6-m5
+3. g5-g6 .. Na5-c4 .. h10-h9 .. Nn5-l6
+4. g6-g7 .. Na10-c9 .. h9-h8 .. O-O
+5. g7-g8=D .. Qa7-b8 .. h8-h7=D .. m10-l10
+6. Nj1-i3 .. Ba6-c8 .. Ne14-f12 .. Bn9-l11
+7. Bf1-h3 .. O-O-O .. g13-g12 .. m7-k7
+8. d2-d3 .. b6-d6 .. Bf14-g13 .. Rn6-n7
+9. d3xNc4 .. c7-d7 .. Bg13-h12 .. m8-k8
+10. Qg8-g2 .. Bc8-e10 .. Qh7-h11 .. Qn8-m8+
+11. c4xb5+ .. Ka6xb5 .. Bi14-h13 .. m9-l9
+12. Qg2-g5+ .. Kb5-c6 .. i13-i12 .. k7-j7
+13. Ne1-d3 .. Qb8-b5 .. Qh11xd7+ .. Bl11xj13
+14. Qg5-c5+# .. Nj14-k12 .. Qm8-m10
+15. Bh3xQd7 .. Bh13-i14 .. Bj13xi12+
+16. Bd7xBi12+ .. Nf12-h13 .. m11-l11
+17. Bi12-g10 .. Nk12xl10 .. l11-k11
+18. Bg10xRk14 .. Nl10-j11 .. j7-i7
+19. Qc5-k5 .. Bi14xQm10 .. Rn11-m11
+20. Bk14-i12 .. Bm10xl9 .. Nn10xBl9
+21. Bi12xNj11 .. O-O .. Nl6-j7
+22. Qk5xi7 .. T .. Rm11-m7
+23. Bj11xNl9 .. Nj7-k9
+24. Qi7xNk9 .. R

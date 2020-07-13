@@ -1,0 +1,24 @@
+[GameNr "2286"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "FashionablyLatte"]
+[RedElo "1513"]
+[Blue "bodemendes"]
+[BlueElo "1487"]
+[Yellow "GuihuaLi"]
+[YellowElo "1469"]
+[Green "bullshhitt"]
+[GreenElo "1535"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:33:32 GMT+0000 (UTC)"]
+[CurrentMove "32"]
+
+1. e2-e3 .. b7-c7 .. g13-g11 .. m7-l7
+2. Bf1-e2 .. b5-c5 .. Bf14xBn6 .. Kn7xBn6
+3. j2-j3 .. Ba6xBe2 .. Qh14-g13+ .. Nn5-m7
+4. h2-h4 .. Be2xRd1 .. h13-h11 .. m4-l4
+5. Bi1-h2 .. b9-c9 .. Bi14-c8 .. Nn10-l9
+6. k2-k3 .. Na10-c11 .. Qg13-e11 .. m6-l6
+7. g2-g4 .. Nc11-b9 .. Qe11-e12 .. m10-l10
+8. Qg1-g2+ .. b6-c6 .. Qe12xNb9+ .. T

@@ -1,0 +1,20 @@
+[GameNr "2142"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "GamerSam27"]
+[RedElo "1500"]
+[Blue "charles46975"]
+[BlueElo "1633"]
+[Yellow "redjinplayz"]
+[YellowElo "1488"]
+[Green "Riviera13"]
+[GreenElo "1585"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:35:33 GMT+0000 (UTC)"]
+[CurrentMove "15"]
+
+1. k2-k4 .. b8-c8 .. g13-g11 .. m9-l9
+2. k4-k5 .. Ba9-b8 .. Bf14-h12 .. m7-l7
+3. j2-j4 .. Bb8xQh14 .. Ne14-d12 .. Bn6xBh12
+4. Bi1xm5 .. Qa7-g13+ .. #

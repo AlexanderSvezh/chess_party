@@ -1,0 +1,22 @@
+[GameNr "2075"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Pion_Catur"]
+[RedElo "1547"]
+[Blue "8943GHWRGW34IH89H"]
+[BlueElo "1423"]
+[Yellow "The-Karate-Kid"]
+[YellowElo "1500"]
+[Green "hankthepro"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:16:44 GMT+0000 (UTC)"]
+[CurrentMove "24"]
+
+1. h2-h3 .. b6-c6 .. h13-h12 .. m8-k8
+2. Bi1-g3 .. b11-d11 .. Qh14-h13+ .. Bn9-m8
+3. Qg1-k5 .. Na10-c9 .. Nj14-i12 .. k8-j8
+4. Nj1-i3 .. b4-d4 .. Kg14-h14 .. j8-i8
+5. Qk5-j6 .. b5-d5 .. j13-j12 .. i8-h8
+6. Qj6xm6+ .. d4-e4 .. Qh13-g12 .. #

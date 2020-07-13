@@ -1,0 +1,20 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2159"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "JoyCheerful"]
+[RedElo "1535"]
+[Blue "luciano09876543210"]
+[BlueElo "1484"]
+[Yellow "Lord_Miguel00"]
+[YellowElo "1500"]
+[Green "DefeatTheDefeat"]
+[GreenElo "1503"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:38:39 GMT+0000 (UTC)"]
+[CurrentMove "11"]
+
+1. g2-g4 .. b7-d7 .. g13-g11 .. m8-k8
+2. g4-g5 .. d7-e7 .. g11-g10 .. k8-j8
+3. g5-g6 .. e7-f7 .. R

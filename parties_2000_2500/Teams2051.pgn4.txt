@@ -1,0 +1,20 @@
+[GameNr "2051"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Chess_LostSyle"]
+[RedElo "2423"]
+[Blue "Great-Gazoo"]
+[BlueElo "1437"]
+[Yellow "GDII"]
+[YellowElo "2337"]
+[Green "chustgame"]
+[GreenElo "1808"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:02:34 GMT+0000 (UTC)"]
+[CurrentMove "14"]
+
+1. h2-h3 .. b6-d6 .. h13-h12 .. m7-l7
+2. Bi1-h2 .. b8-c8 .. Qh14-h13 .. Nn5-m7
+3. d2-d4 .. Qa7-e11 .. d13-d12 .. m6-l6
+4. Bh2xd6 .. R

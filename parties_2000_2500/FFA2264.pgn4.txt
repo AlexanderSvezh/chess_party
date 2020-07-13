@@ -1,0 +1,58 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2264"]
+[Result "RicardoJoma: 6 - yassinetn: 88 - Tue-long-2k3: 0 - aidynmol: 40"]
+[Variant "FFA"]
+[Red "RicardoJoma"]
+[RedElo "1770"]
+[Blue "yassinetn"]
+[BlueElo "1563"]
+[Yellow "Tue-long-2k3"]
+[YellowElo "1352"]
+[Green "aidynmol"]
+[GreenElo "1705"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:39:13 GMT+0000 (UTC)"]
+[CurrentMove "109"]
+
+1. j2-j3 .. b7-d7 .. h13-h11 .. m4-k4
+2. j3-j4 .. d7-e7 .. h11-h10 .. m7-l7
+3. Bi1-j2 .. e7-f7 .. h10-h9 .. Qn8xj4
+4. Bj2-i3 .. b8-d8 .. T .. Qj4-j8
+5. g2-g4 .. Na5-c6 .. Qj8-j11
+6. g4-g5 .. f7-g7 .. Qj11xKg14
+7. Bf1-h3 .. g7-h7=D .. Qg14-j11
+8. d2-d4 .. b10-c10 .. k4-j4
+9. Bi3-j2 .. Ba9-b10 .. j4-i4
+10. Bh3xb9+ .. Ka8xBb9 .. Qj11xBj2
+11. Kh1-g2 .. Ba6-b7 .. Qj2xg5+
+12. Kg2-f1 .. Na10-b8 .. Qg5xRk1
+13. Ne1-f3 .. d8-e8 .. Qk1xk2
+14. Nj1-i3 .. e8-f8 .. Qk2xi2+
+15. e2-e3 .. Bb7-c8 .. Qi2-j3
+16. Kf1-e2 .. Ra11-a8 .. Qj3-j4
+17. Qg1-g3 .. Kb9-a10 .. m8-l8
+18. Rd1-j1 .. f8-g8 .. Qj4-f8
+19. Rj1-k1 .. g8-h8=D .. Qf8-j4
+20. Ni3-k2 .. Qa7-a6 .. Qj4-m7
+21. Qg3-i3 .. b5-d5+ .. Qm7-m8
+22. Ke2-e1 .. Qh7-d3 .. Bn6-m7
+23. Qi3xBb10+ .. Ka10xQb10 .. m5-l5
+24. h2-h4 .. Qd3-e2+# .. l8-k8
+25. Qe2-f1 .. l7-k7
+26. Bc8-h13 .. m9-l9
+27. Nb8-d9 .. k7-j7
+28. Qh8xk8 .. Qm8xQk8
+29. Ra8xQk8 .. Bn9-l7
+30. Rk8-k7 .. Nn10-m8
+31. Rk7xj7 .. m6-k6
+32. Rj7xBl7 .. Nn5-l6
+33. Qa6-b7 .. Rn4-m4
+34. Ra4-a7 .. Kn7-n8
+35. Rl7xBm7 .. Kn8-m9
+36. Rm7xRm4 .. k6-j6
+37. Rm4xNm8+ .. Km9xRm8
+38. Qb7-m7+ .. Km8-n9
+39. Qf1xi4+ .. Nl6-m8
+40. Qi4xNm8+ .. Kn9-n10
+41. Qm8xm10+#

@@ -1,0 +1,19 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2012"]
+[Result "Aborted"]
+[Variant "FFA"]
+[Red "IAmCowardly"]
+[RedElo "1564"]
+[Blue "adrguerra"]
+[BlueElo "1468"]
+[Yellow "grc-hmrz"]
+[YellowElo "1649"]
+[Green "thumiduhrrc"]
+[GreenElo "1500"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 02:48:11 GMT+0000 (UTC)"]
+[CurrentMove "6"]
+
+1. f2-f3 .. b7-d7 .. e13-e12 .. m8-k8
+2. Qg1-e3 .. R

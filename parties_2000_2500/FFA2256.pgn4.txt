@@ -1,0 +1,59 @@
+[RuleVariants "PromoteTo=D"]
+[GameNr "2256"]
+[Result "austinkp: 11 - Elber-20: 71 - damianbaeza: 17 - babiscus: 27"]
+[Variant "FFA"]
+[Red "austinkp"]
+[RedElo "1509"]
+[Blue "Elber-20"]
+[BlueElo "1552"]
+[Yellow "damianbaeza"]
+[YellowElo "1655"]
+[Green "babiscus"]
+[GreenElo "1656"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:43:54 GMT+0000 (UTC)"]
+[CurrentMove "151"]
+
+1. h2-h3 .. b10-d10 .. h13-h11 .. Nn5-l6
+2. g2-g3 .. b5-c5 .. h11-h10 .. m7-l7
+3. d2-d3 .. Ba6-b5 .. h10-h9 .. Bn6-m7
+4. j2-j3 .. b8-c8 .. h9-h8 .. O-O
+5. Qg1-k5 .. b9-d9 .. h8-h7=D .. m5-l5
+6. Bi1xRn6 .. Qa7-b8 .. Qh7-d11+ .. Qn8xBn6
+7. k2-k3 .. Ka8-a7 .. Ne14-f12 .. Nl6-k8
+8. Rk1-k2 .. Na10-c9 .. Qd11-j11 .. Bm7xQk5
+9. k3-k4 .. Na5-c6 .. g13-g12 .. Nk8-m7
+10. k4xl5 .. Qb8-b9 .. Bf14-g13 .. m4xl5
+11. Rk2xBk5 .. Ka7-b8 .. O-O .. m8-l8
+12. Nj1-i3 .. Ra4-a8 .. d13-d12 .. Bn9-m8
+13. Ni3-j5 .. Kb8-a7 .. Qj11-k12 .. m11-l11
+14. Nj5-l6+ .. Ka7-a6 .. Qk12xl11 .. Kn5-m5
+15. Nl6-j5 .. d10-e10 .. Ql11xRn11 .. m10-k10
+16. h3-h4 .. d9-e9 .. Qn11-g11+ .. l7-k7
+17. Bf1-i4 .. e10-f10 .. Qg11-h11 .. Nm7-k6
+18. Ne1-g2 .. c8-d8 .. Nj14-i12 .. Bm8-l7
+19. Ng2-i3 .. d8-e8 .. Qh11-k11 .. Qn6-n7
+20. Kh1-h2 .. e9-f9 .. Qk11xm9 .. Nn10-l11
+21. Rd1-k1 .. f9-g9 .. Qm9-m11 .. Nl11-k9
+22. Rk1-j1 .. e8-f8 .. g12-g11 .. Qn7-m8
+23. j3-j4 .. Ra8-e8 .. Qm11xQm8 .. Bl7xQm8
+24. e2-e3 .. Ba9xd12 .. Nf12-g10 .. m6-l6
+25. Rk5-k3 .. Re8xe13+ .. Ke14-d14 .. Nk6-j8
+26. Rj1-j2 .. Bd12-b10 .. Ng10xf8 .. l6-k6
+27. Nj5-i7 .. Qb9-d11+# .. Km5-l4
+28. Rj2-k2 .. Bb10-d12 .. k6-j6
+29. Ni7-j5+ .. f10xg11 .. Kl4-m5
+30. Nj5-i7 .. g11-h11=D .. Bm8xBi4
+31. Rk2-j2 .. Qd11xd3 .. j6xNi7
+32. Rk3-k5 .. g9-h9=D .. Bi4-k6
+33. Ni3-k4+ .. Qh9xNk9 .. Km5-m4
+34. Nk4-i5 .. Qk9xl8 .. Bk6-i4
+35. Kh2-i3 .. Qh11-m11+ .. Km4-l4
+36. Ni5-j3+ .. Qd3-f1 .. Bi4xNj3
+37. Rk5-k3 .. Qf1xf2 .. Bj3-k4
+38. Rj2-k2 .. Qf2xe3 .. Nj8-i6
+39. h4-h5 .. Qe3xg3+ .. Ni6-h8
+40. Ki3-j2 .. Qg3-h4+ .. k10-j10
+41. Kj2-j1 .. Re13-e1+# .. Nh8-g6
+42. Qh4xk7 .. T

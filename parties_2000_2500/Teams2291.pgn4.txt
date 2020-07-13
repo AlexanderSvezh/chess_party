@@ -1,0 +1,19 @@
+[GameNr "2291"]
+[Result "0-1"]
+[Variant "Teams"]
+[Red "Byers_CJ"]
+[RedElo "1935"]
+[Blue "The-Karate-Kid"]
+[BlueElo "1575"]
+[Yellow "B3thel"]
+[YellowElo "1893"]
+[Green "GDII"]
+[GreenElo "2348"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:32:21 GMT+0000 (UTC)"]
+[CurrentMove "9"]
+
+1. h2-h3 .. b6-d6 .. g13-g12 .. m9-k9
+2. Qg1-j4 .. Qa7xf2 .. k13-k11 .. m7-l7
+3. R

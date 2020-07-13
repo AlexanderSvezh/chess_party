@@ -1,0 +1,37 @@
+[GameNr "2021"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "kylewarren81"]
+[RedElo "1469"]
+[Blue "randymnynja"]
+[BlueElo "1500"]
+[Yellow "ThaiSamurai"]
+[YellowElo "1550"]
+[Green "TheSidewinder"]
+[GreenElo "1524"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 03:04:12 GMT+0000 (UTC)"]
+[CurrentMove "82"]
+
+1. h2-h4 .. b8-d8 .. f13-f11 .. Nn5-l6
+2. g2-g3 .. Ba9-b8 .. Ne14-f12 .. m7-l7
+3. Bf1-g2 .. Bb8xNf12 .. e13xBf12 .. m9-k9
+4. Bg2xb7+ .. Qa7xBb7+ .. h13-h11 .. Nn10-l9
+5. Kh1-h2 .. b5-c5 .. Bi14-g12 .. m10-l10
+6. Ne1-d3 .. Ba6-c4 .. i13-i12 .. Bn9xj13
+7. Nd3xc5 .. b6xNc5 .. Nj14-h13 .. Bj13xi12
+8. d2-d3 .. Bc4-f7 .. Rk14-i14 .. Bi12-j13
+9. Qg1-g2 .. Bf7-c10+ .. Bg12-f13 .. Bj13xh11
+10. Qg2xQb7+ .. Ka8xQb7 .. Bf13xBc10 .. Nl6-k8+
+11. Kh2-h3 .. b9xBc10 .. Bf14xb10 .. Qn8-m9
+12. d3-d4 .. Kb7-c8 .. Bb10xRa11 .. Bh11-g12
+13. d4xc5 .. b4xc5 .. Ri14-i8 .. Nl9-j10
+14. Rd1xd8+ .. Kc8-b9 .. Ri8-e8 .. Qm9-k7
+15. Rd8-a8 .. Na10-c9 .. Ba11xNc9 .. Qk7-k6+
+16. i2-i4 .. Kb9xBc9 .. Nh13-g11 .. Qk6xf11
+17. Ra8-a9+ .. Kc9-d10 .. Qh14-h10+ .. Qf11-f5+
+18. g3-g4 .. Kd10-c11 .. Qh10-h6+ .. Qf5xf2
+19. Ra9-b9 .. Kc11-d11 .. Re8-d8+ .. Qf2-f1+
+20. Kh3-i3 .. c10-d10 .. Qh6xd10+ .. Qf1xBi1+
+21. Ki3-j3 .. #

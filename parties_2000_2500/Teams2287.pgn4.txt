@@ -1,0 +1,20 @@
+[GameNr "2287"]
+[Result "1-0"]
+[Variant "Teams"]
+[Red "Chessplayernewmember"]
+[RedElo "1891"]
+[Blue "ExequieLAbregu"]
+[BlueElo "1500"]
+[Yellow "charles46975"]
+[YellowElo "1599"]
+[Green "vitoria-gasteiz"]
+[GreenElo "2541"]
+[TimeControl "1+15 delay"]
+[Site "www.chess.com/4-player-chess"]
+[Date "Wed Aug 08 2018 04:30:58 GMT+0000 (UTC)"]
+[CurrentMove "14"]
+
+1. h2-h3 .. b7-d7 .. g13-g12 .. m8-l8
+2. Qg1-j4 .. b10-c10 .. Qh14-d10 .. Nn5-l6
+3. Qj4-e4+ .. Na5-b7 .. Qd10xb8+ .. Bn9xh3
+4. Qe4xNb7+ .. #
