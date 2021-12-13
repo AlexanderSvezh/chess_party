@@ -8,7 +8,7 @@ chardet==3.0.4
 Faker==4.1.1
 idna==2.9
 idna-ssl==1.1.0
-lxml==4.5.2
+lxml==4.6.5
 multidict==4.7.6
 pyee==7.0.2
 pyppeteer==0.2.2
